@@ -4,270 +4,267 @@ import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { ROADMAP_STAGES, type RoadmapTopic } from '@/lib/roadmap-data';
 
-const categoryColors: Record<string, string> = {
-  quant: 'border-blue-500/40 bg-blue-500/10 text-blue-400',
-  reasoning: 'border-purple-500/40 bg-purple-500/10 text-purple-400',
-  verbal: 'border-emerald-500/40 bg-emerald-500/10 text-emerald-400',
-};
+type ViewMode = 'stage' | 'category';
 
-const importanceColors: Record<string, string> = {
-  critical: 'bg-red-500/20 text-red-400',
-  high: 'bg-orange-500/20 text-orange-400',
-  medium: 'bg-yellow-500/20 text-yellow-400',
-  low: 'bg-slate-500/20 text-slate-400',
-};
-
-const difficultyColors: Record<string, string> = {
-  easy: 'text-green-400',
-  medium: 'text-yellow-400',
-  hard: 'text-red-400',
-};
+const STAGE_COLORS = [
+  'from-blue-500 to-blue-600',
+  'from-cyan-500 to-blue-500',
+  'from-teal-500 to-cyan-500',
+  'from-emerald-500 to-teal-500',
+  'from-green-500 to-emerald-500',
+  'from-yellow-500 to-amber-500',
+  'from-orange-500 to-yellow-500',
+  'from-red-500 to-orange-500',
+  'from-rose-500 to-red-500',
+];
 
 export default function RoadmapPage() {
-  const [completedTopics, setCompletedTopics] = useState<Set<string>>(new Set());
-  const [expandedStage, setExpandedStage] = useState<string | null>(null);
+  const [completed, setCompleted] = useState<Set<string>>(new Set());
+  const [viewMode, setViewMode] = useState<ViewMode>('stage');
+  const [hoveredTopic, setHoveredTopic] = useState<string | null>(null);
 
   useEffect(() => {
     const saved = localStorage.getItem('aptitude-completed-topics');
-    if (saved) {
-      setCompletedTopics(new Set(JSON.parse(saved)));
-    }
+    if (saved) setCompleted(new Set(JSON.parse(saved)));
   }, []);
 
-  const toggleTopic = (topicId: string) => {
-    setCompletedTopics((prev) => {
+  const toggle = (id: string) => {
+    setCompleted((prev) => {
       const next = new Set(prev);
-      if (next.has(topicId)) {
-        next.delete(topicId);
-      } else {
-        next.add(topicId);
-      }
+      if (next.has(id)) next.delete(id); else next.add(id);
       localStorage.setItem('aptitude-completed-topics', JSON.stringify(Array.from(next)));
       return next;
     });
   };
 
-  const totalTopics = ROADMAP_STAGES.reduce((sum, s) => sum + s.topics.length, 0);
-  const completedCount = completedTopics.size;
-  const progressPercent = Math.round((completedCount / totalTopics) * 100);
+  const allTopics = ROADMAP_STAGES.flatMap((s) => s.topics);
+  const done = completed.size;
+  const total = allTopics.length;
+  const pct = Math.round((done / total) * 100);
 
   return (
-    <div className="max-w-5xl mx-auto">
-      {/* Hero */}
-      <div className="text-center mb-10">
-        <h1 className="text-3xl font-bold mb-3">Placement Aptitude Roadmap</h1>
-        <p className="text-[var(--text-secondary)] mb-6 max-w-2xl mx-auto">
-          A research-backed path to master placement aptitude. Follow stages in order. 
-          Each topic unlocks the next. Click any topic to practice.
-        </p>
+    <div className="max-w-7xl mx-auto">
+      {/* Header */}
+      <div className="text-center mb-8">
+        <h1 className="text-3xl font-bold mb-2">Aptitude Roadmap</h1>
+        <p className="text-[var(--text-secondary)] text-sm">{done}/{total} topics • {pct}% complete</p>
+        <div className="max-w-lg mx-auto mt-3 h-2 rounded-full bg-[var(--surface)] border border-[var(--border)] overflow-hidden">
+          <div className="h-full rounded-full bg-gradient-to-r from-blue-500 to-emerald-500 transition-all duration-500" style={{ width: `${pct}%` }} />
+        </div>
+      </div>
 
-        {/* Progress Bar */}
-        <div className="max-w-md mx-auto">
-          <div className="flex justify-between text-sm mb-2">
-            <span className="text-[var(--text-secondary)]">Overall Progress</span>
-            <span className="font-medium">{completedCount}/{totalTopics} topics ({progressPercent}%)</span>
-          </div>
-          <div className="h-3 rounded-full bg-[var(--surface)] border border-[var(--border)] overflow-hidden">
-            <div
-              className="h-full rounded-full bg-gradient-to-r from-blue-500 to-purple-500 transition-all duration-500"
-              style={{ width: `${progressPercent}%` }}
-            />
-          </div>
+      {/* View Toggle */}
+      <div className="flex justify-center mb-8">
+        <div className="inline-flex rounded-lg bg-[var(--surface)] border border-[var(--border)] p-1">
+          <button onClick={() => setViewMode('stage')} className={`px-4 py-2 rounded-md text-sm font-medium transition-all ${viewMode === 'stage' ? 'bg-[var(--accent)] text-white' : 'text-[var(--text-secondary)] hover:text-[var(--foreground)]'}`}>By Stage</button>
+          <button onClick={() => setViewMode('category')} className={`px-4 py-2 rounded-md text-sm font-medium transition-all ${viewMode === 'category' ? 'bg-[var(--accent)] text-white' : 'text-[var(--text-secondary)] hover:text-[var(--foreground)]'}`}>By Category</button>
         </div>
       </div>
 
       {/* Legend */}
-      <div className="flex flex-wrap justify-center gap-4 mb-10 text-sm">
-        <div className="flex items-center gap-2">
-          <div className="w-3 h-3 rounded-full bg-blue-500/60" />
-          <span className="text-[var(--text-secondary)]">Quant</span>
-        </div>
-        <div className="flex items-center gap-2">
-          <div className="w-3 h-3 rounded-full bg-purple-500/60" />
-          <span className="text-[var(--text-secondary)]">Reasoning</span>
-        </div>
-        <div className="flex items-center gap-2">
-          <div className="w-3 h-3 rounded-full bg-emerald-500/60" />
-          <span className="text-[var(--text-secondary)]">Verbal</span>
-        </div>
-        <div className="flex items-center gap-2">
-          <span className="px-2 py-0.5 rounded text-xs bg-red-500/20 text-red-400">Critical</span>
-          <span className="text-[var(--text-muted)]">= Heavy in all exams</span>
-        </div>
+      <div className="flex flex-wrap justify-center gap-5 mb-8 text-xs">
+        <div className="flex items-center gap-1.5"><div className="w-3 h-3 rounded-sm bg-blue-500/60" /><span className="text-[var(--text-secondary)]">Quant</span></div>
+        <div className="flex items-center gap-1.5"><div className="w-3 h-3 rounded-sm bg-purple-500/60" /><span className="text-[var(--text-secondary)]">Reasoning</span></div>
+        <div className="flex items-center gap-1.5"><div className="w-3 h-3 rounded-sm bg-emerald-500/60" /><span className="text-[var(--text-secondary)]">Verbal</span></div>
+        <div className="flex items-center gap-1.5"><div className="w-3 h-3 rounded-sm border border-[var(--success)]" /><span className="text-[var(--text-secondary)]">Done</span></div>
+        <div className="flex items-center gap-1.5"><div className="w-3 h-3 rounded-sm border border-dashed border-[var(--warning)]" /><span className="text-[var(--text-secondary)]">Critical</span></div>
       </div>
 
-      {/* Stages */}
-      <div className="relative">
-        {/* Central line */}
-        <div className="absolute left-1/2 top-0 bottom-0 w-px bg-gradient-to-b from-blue-500/50 via-purple-500/50 to-emerald-500/50 hidden md:block" />
+      {viewMode === 'stage' ? (
+        <StageView completed={completed} onToggle={toggle} hoveredTopic={hoveredTopic} setHoveredTopic={setHoveredTopic} />
+      ) : (
+        <CategoryView completed={completed} onToggle={toggle} hoveredTopic={hoveredTopic} setHoveredTopic={setHoveredTopic} />
+      )}
 
-        {ROADMAP_STAGES.map((stage, stageIndex) => {
-          const isExpanded = expandedStage === stage.id;
-          const stageCompleted = stage.topics.filter((t) => completedTopics.has(t.id)).length;
-          const stageTotal = stage.topics.length;
-          const stageProgress = Math.round((stageCompleted / stageTotal) * 100);
-
-          return (
-            <div key={stage.id} className="relative mb-12">
-              {/* Stage Header */}
-              <div className="flex flex-col items-center mb-6">
-                {/* Stage number dot */}
-                <div className="relative z-10 w-10 h-10 rounded-full bg-[var(--surface)] border-2 border-[var(--accent)] flex items-center justify-center font-bold text-sm mb-3">
-                  {stage.order}
-                </div>
-
-                <button
-                  onClick={() => setExpandedStage(isExpanded ? null : stage.id)}
-                  className="text-center group"
-                >
-                  <h2 className="text-xl font-bold group-hover:text-[var(--accent)] transition-colors">
-                    {stage.name}
-                  </h2>
-                  <p className="text-sm text-[var(--text-secondary)] max-w-lg mt-1">
-                    {stage.description}
-                  </p>
-                  <div className="mt-2 text-xs text-[var(--text-muted)]">
-                    {stageCompleted}/{stageTotal} completed • {stage.topics.reduce((s, t) => s + t.estimatedHours, 0)} hrs estimated
-                  </div>
-                </button>
-
-                {/* Stage progress bar */}
-                <div className="w-48 h-1.5 rounded-full bg-[var(--surface)] border border-[var(--border)] mt-3 overflow-hidden">
-                  <div
-                    className="h-full rounded-full bg-[var(--accent)] transition-all duration-300"
-                    style={{ width: `${stageProgress}%` }}
-                  />
-                </div>
-              </div>
-
-              {/* Topics Grid */}
-              <div className={`grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 transition-all duration-300 ${isExpanded ? '' : ''}`}>
-                {stage.topics.map((topic) => (
-                  <TopicCard
-                    key={topic.id}
-                    topic={topic}
-                    isCompleted={completedTopics.has(topic.id)}
-                    onToggle={() => toggleTopic(topic.id)}
-                  />
-                ))}
-              </div>
-
-              {/* Down arrow between stages */}
-              {stageIndex < ROADMAP_STAGES.length - 1 && (
-                <div className="flex justify-center mt-8">
-                  <svg className="w-6 h-6 text-[var(--text-muted)] animate-bounce" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 14l-7 7m0 0l-7-7m7 7V3" />
-                  </svg>
-                </div>
-              )}
-            </div>
-          );
-        })}
-      </div>
-
-      {/* Bottom Stats */}
-      <div className="mt-16 p-6 rounded-xl bg-[var(--surface)] border border-[var(--border)] text-center">
-        <h3 className="text-lg font-semibold mb-2">Study Strategy</h3>
-        <p className="text-[var(--text-secondary)] text-sm max-w-2xl mx-auto">
-          <strong>Week 1-2:</strong> Complete Stages 1-2 (Foundation + Core Arithmetic). 
-          These unlock 80% of quant topics.<br />
-          <strong>Week 3-4:</strong> Complete Stages 3-4 (Applied Quant + Rate Problems). 
-          Most heavily tested.<br />
-          <strong>Week 5:</strong> Stage 5 (Advanced Quant) + Stage 6 (Core Reasoning).<br />
-          <strong>Week 6:</strong> Stages 7-9 (Advanced Reasoning + Verbal).<br />
-          <strong>Daily:</strong> Practice 20 questions from completed topics to maintain speed.
-        </p>
+      {/* Footer tip */}
+      <div className="mt-12 p-5 rounded-xl bg-[var(--surface)] border border-[var(--border)]">
+        <h3 className="font-semibold mb-2 text-center">How to use this roadmap</h3>
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-xs text-[var(--text-secondary)] text-center">
+          <div><span className="text-[var(--accent)] font-bold">1.</span> Go left to right through stages. Each unlocks the next.</div>
+          <div><span className="text-[var(--accent)] font-bold">2.</span> Click any topic to practice. Mark done when confident.</div>
+          <div><span className="text-[var(--accent)] font-bold">3.</span> Critical (dashed border) are asked by every company.</div>
+        </div>
       </div>
     </div>
   );
 }
 
-function TopicCard({
-  topic,
-  isCompleted,
-  onToggle,
-}: {
-  topic: RoadmapTopic;
-  isCompleted: boolean;
-  onToggle: () => void;
-}) {
+/* ───────── By Stage View ───────── */
+
+function StageView({ completed, onToggle, hoveredTopic, setHoveredTopic }: any) {
   return (
-    <div
-      className={`relative p-4 rounded-xl border transition-all duration-200 hover:scale-[1.02] ${
-        isCompleted
-          ? 'border-green-500/40 bg-green-500/5'
-          : `${categoryColors[topic.category]} hover:border-opacity-100`
-      }`}
-    >
-      {/* Completed badge */}
-      {isCompleted && (
-        <div className="absolute -top-2 -right-2 w-6 h-6 rounded-full bg-green-500 text-white flex items-center justify-center text-xs font-bold">
-          ✓
-        </div>
-      )}
+    <div className="space-y-10">
+      {ROADMAP_STAGES.map((stage, idx) => {
+        const stageDone = stage.topics.filter((t) => completed.has(t.id)).length;
+        const stagePct = Math.round((stageDone / stage.topics.length) * 100);
+        const colorClass = STAGE_COLORS[idx % STAGE_COLORS.length];
 
-      <div className="flex items-start justify-between mb-2">
-        <Link
-          href={`/topic/${topic.category}/${topic.subtopic}`}
-          className="font-medium hover:text-[var(--accent)] transition-colors flex-1 mr-2"
-        >
-          {topic.name}
-        </Link>
-        <span className={`text-xs px-1.5 py-0.5 rounded ${importanceColors[topic.importance]}`}>
-          {topic.importance}
-        </span>
-      </div>
+        return (
+          <div key={stage.id}>
+            {/* Stage Header */}
+            <div className="flex items-center gap-4 mb-4">
+              <div className={`w-8 h-8 rounded-lg bg-gradient-to-br ${colorClass} flex items-center justify-center text-white text-sm font-bold shadow-lg`}>
+                {stage.order}
+              </div>
+              <div className="flex-1 min-w-0">
+                <h2 className="font-semibold text-lg truncate">{stage.name}</h2>
+                <p className="text-xs text-[var(--text-muted)] truncate">{stage.description}</p>
+              </div>
+              <div className="text-right flex-shrink-0">
+                <span className="text-xs text-[var(--text-muted)]">{stageDone}/{stage.topics.length}</span>
+                <div className="w-24 h-1.5 rounded-full bg-[var(--background)] mt-1 overflow-hidden">
+                  <div className={`h-full rounded-full bg-gradient-to-r ${colorClass}`} style={{ width: `${stagePct}%` }} />
+                </div>
+              </div>
+            </div>
 
-      <p className="text-xs text-[var(--text-secondary)] mb-3 line-clamp-2">
-        {topic.description}
-      </p>
+            {/* Topic Grid */}
+            <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-3">
+              {stage.topics.map((topic) => (
+                <TopicTile key={topic.id} topic={topic} isDone={completed.has(topic.id)} onToggle={() => onToggle(topic.id)} isHovered={hoveredTopic === topic.id} onHover={() => setHoveredTopic(topic.id)} onLeave={() => setHoveredTopic(null)} />
+              ))}
+            </div>
+          </div>
+        );
+      })}
+    </div>
+  );
+}
 
-      <div className="flex flex-wrap gap-2 text-xs mb-3">
-        <span className={difficultyColors[topic.difficulty]}>
-          {topic.difficulty}
-        </span>
-        <span className="text-[var(--text-muted)]">|</span>
-        <span className="text-[var(--text-muted)]">{topic.estimatedHours}h</span>
-        <span className="text-[var(--text-muted)]">|</span>
-        <span className="text-[var(--text-muted)]">{topic.questionCount} Qs</span>
-      </div>
+/* ───────── By Category View ───────── */
 
-      {/* Company tags */}
-      <div className="flex flex-wrap gap-1 mb-3">
-        {topic.companyFrequency.slice(0, 3).map((c) => (
-          <span key={c} className="text-[10px] px-1.5 py-0.5 rounded bg-[var(--background)] text-[var(--text-muted)]">
-            {c}
+function allTopicsByCategory(category: string) {
+  return ROADMAP_STAGES.flatMap((s) => s.topics).filter((t) => t.category === category);
+}
+
+function CategoryView({ completed, onToggle, hoveredTopic, setHoveredTopic }: any) {
+  const categories = [
+    { id: 'quant', name: 'Quantitative', color: 'bg-blue-500', topics: allTopicsByCategory('quant') },
+    { id: 'reasoning', name: 'Reasoning', color: 'bg-purple-500', topics: allTopicsByCategory('reasoning') },
+    { id: 'verbal', name: 'Verbal', color: 'bg-emerald-500', topics: allTopicsByCategory('verbal') },
+  ];
+
+  return (
+    <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+      {categories.map((cat) => {
+        const catDone = cat.topics.filter((t) => completed.has(t.id)).length;
+        const catPct = Math.round((catDone / cat.topics.length) * 100);
+
+        return (
+          <div key={cat.id}>
+            <div className="flex items-center justify-between mb-3">
+              <h2 className="font-semibold">{cat.name}</h2>
+              <span className="text-xs text-[var(--text-muted)]">{catDone}/{cat.topics.length}</span>
+            </div>
+            <div className="h-1 rounded-full bg-[var(--background)] mb-4 overflow-hidden">
+              <div className={`h-full ${cat.color} rounded-full`} style={{ width: `${catPct}%` }} />
+            </div>
+            <div className="space-y-2">
+              {cat.topics.map((topic) => (
+                <TopicTile key={topic.id} topic={topic} isDone={completed.has(topic.id)} onToggle={() => onToggle(topic.id)} isHovered={hoveredTopic === topic.id} onHover={() => setHoveredTopic(topic.id)} onLeave={() => setHoveredTopic(null)} compact />
+              ))}
+            </div>
+          </div>
+        );
+      })}
+    </div>
+  );
+}
+
+/* ───────── Topic Tile ───────── */
+
+function TopicTile({ topic, isDone, onToggle, isHovered, onHover, onLeave, compact = false }: any) {
+  const catColor = topic.category === 'quant' ? 'blue' : topic.category === 'reasoning' ? 'purple' : 'emerald';
+
+  const borderClass = isDone
+    ? 'border-green-500/40 bg-green-500/5'
+    : topic.importance === 'critical'
+    ? `border-${catColor}-500/40 border-dashed bg-${catColor}-500/5`
+    : `border-${catColor}-500/20 bg-${catColor}-500/5`;
+
+  const hoverClass = isDone
+    ? 'hover:border-green-500/60'
+    : `hover:border-${catColor}-500/60 hover:bg-${catColor}-500/10`;
+
+  if (compact) {
+    return (
+      <div className={`relative rounded-lg border transition-all ${borderClass} ${hoverClass}`} onMouseEnter={onHover} onMouseLeave={onLeave}>
+        <div className="flex items-center gap-2 p-2.5">
+          <button
+            onClick={(e) => { e.stopPropagation(); onToggle(); }}
+            className={`w-5 h-5 rounded border flex-shrink-0 flex items-center justify-center text-[10px] transition-colors ${
+              isDone ? 'bg-green-500 border-green-500 text-white' : 'border-[var(--border)] hover:border-[var(--accent)]'
+            }`}
+          >
+            {isDone && '✓'}
+          </button>
+          <Link href={`/topic/${topic.category}/${topic.subtopic}`} className="flex-1 text-sm font-medium hover:text-[var(--accent)] transition-colors truncate" onClick={(e) => e.stopPropagation()}>
+            {topic.name}
+          </Link>
+          <span className={`text-[10px] px-1.5 py-0.5 rounded ${
+            topic.difficulty === 'easy' ? 'bg-green-500/20 text-green-400' :
+            topic.difficulty === 'medium' ? 'bg-yellow-500/20 text-yellow-400' :
+            'bg-red-500/20 text-red-400'
+          }`}>
+            {topic.difficulty[0].toUpperCase()}
           </span>
-        ))}
+        </div>
+
+        {isHovered && (
+          <div className="absolute z-50 left-0 right-0 top-full mt-2 p-3 rounded-lg bg-[var(--surface)] border border-[var(--border)] shadow-xl text-xs">
+            <p className="text-[var(--text-secondary)] mb-1">{topic.description}</p>
+            <div className="flex gap-2 text-[var(--text-muted)]">
+              <span>{topic.questionCount} Qs</span>
+              <span>•</span>
+              <span>{topic.estimatedHours}h</span>
+              <span>•</span>
+              <span>{topic.companyFrequency.slice(0, 2).join(', ')}</span>
+            </div>
+          </div>
+        )}
+      </div>
+    );
+  }
+
+  return (
+    <div className={`relative rounded-xl border transition-all ${borderClass} ${hoverClass}`} onMouseEnter={onHover} onMouseLeave={onLeave}>
+      <div className="p-3">
+        <div className="flex items-start justify-between mb-1">
+          <Link href={`/topic/${topic.category}/${topic.subtopic}`} className="text-sm font-medium hover:text-[var(--accent)] transition-colors leading-tight" onClick={(e) => e.stopPropagation()}>
+            {topic.name}
+          </Link>
+          <button
+            onClick={(e) => { e.stopPropagation(); onToggle(); }}
+            className={`ml-1.5 w-5 h-5 rounded border flex-shrink-0 flex items-center justify-center text-[10px] transition-colors ${
+              isDone ? 'bg-green-500 border-green-500 text-white' : 'border-[var(--border)] hover:border-[var(--accent)]'
+            }`}
+          >
+            {isDone && '✓'}
+          </button>
+        </div>
+
+        <div className="flex items-center gap-1.5 mt-1">
+          <span className={`text-[10px] px-1.5 py-0.5 rounded ${
+            topic.difficulty === 'easy' ? 'bg-green-500/20 text-green-400' :
+            topic.difficulty === 'medium' ? 'bg-yellow-500/20 text-yellow-400' :
+            'bg-red-500/20 text-red-400'
+          }`}>
+            {topic.difficulty}
+          </span>
+          <span className="text-[10px] text-[var(--text-muted)]">{topic.questionCount} Qs</span>
+        </div>
       </div>
 
-      {/* Requires / Unlocks */}
-      {(topic.requires.length > 0 || topic.unlocks.length > 0) && (
-        <div className="text-[10px] text-[var(--text-muted)] mb-3 space-y-1">
-          {topic.requires.length > 0 && (
-            <div>Requires: {topic.requires.map((r) => (
-              <span key={r} className="text-[var(--accent)]">{r.replace(/_/g, ' ')} </span>
-            ))}</div>
-          )}
-          {topic.unlocks.length > 0 && (
-            <div>Unlocks: {topic.unlocks.map((u) => (
-              <span key={u} className="text-green-400">{u.replace(/_/g, ' ')} </span>
-            ))}</div>
-          )}
+      {isHovered && (
+        <div className="absolute z-50 left-0 right-0 top-full mt-2 p-3 rounded-lg bg-[var(--surface)] border border-[var(--border)] shadow-xl text-xs">
+          <p className="text-[var(--text-secondary)] mb-1">{topic.description}</p>
+          <div className="flex gap-2 text-[var(--text-muted)]">
+            <span>{topic.estimatedHours}h estimated</span>
+            <span>•</span>
+            <span>{topic.companyFrequency.slice(0, 3).join(', ')}</span>
+          </div>
         </div>
       )}
-
-      {/* Mark complete button */}
-      <button
-        onClick={onToggle}
-        className={`w-full py-1.5 rounded-lg text-xs font-medium transition-colors ${
-          isCompleted
-            ? 'bg-green-500/20 text-green-400 hover:bg-green-500/30'
-            : 'bg-[var(--surface-hover)] text-[var(--text-secondary)] hover:bg-[var(--accent)] hover:text-white'
-        }`}
-      >
-        {isCompleted ? 'Completed' : 'Mark as Done'}
-      </button>
     </div>
   );
 }
