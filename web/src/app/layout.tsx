@@ -38,6 +38,9 @@ export default function RootLayout({
                 <Link href="/" className="text-[var(--text-secondary)] hover:text-[var(--accent)] transition-colors">
                   Topics
                 </Link>
+                <Link href="/roadmap" className="text-[var(--text-secondary)] hover:text-[var(--accent)] transition-colors">
+                  Roadmap
+                </Link>
                 <Link href="/bank" className="text-[var(--text-secondary)] hover:text-[var(--accent)] transition-colors">
                   Bank
                 </Link>
