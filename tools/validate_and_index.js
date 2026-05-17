@@ -6,6 +6,51 @@ const TOPIC_INDEX_PATH = path.join(DATA_DIR, 'topic-index.json');
 const COMPANIES_DIR = path.join(DATA_DIR, 'companies');
 const PATTERNS_DIR = path.join(DATA_DIR, 'patterns');
 
+const DISPLAY_NAMES = {
+  'number_system': 'Number System',
+  'hcf_lcm': 'HCF and LCM',
+  'percentages': 'Percentages',
+  'profit_loss': 'Profit and Loss',
+  'simple_interest': 'Simple Interest',
+  'compound_interest': 'Compound Interest',
+  'ratios_proportions': 'Ratios and Proportions',
+  'averages': 'Averages',
+  'ages': 'Problems on Ages',
+  'time_work': 'Time and Work',
+  'time_speed_distance': 'Time, Speed and Distance',
+  'boats_streams': 'Boats and Streams',
+  'pipes_cisterns': 'Pipes and Cisterns',
+  'mixtures_alligations': 'Mixtures and Alligations',
+  'partnership': 'Partnership',
+  'probability': 'Probability',
+  'permutations_combinations': 'Permutations and Combinations',
+  'mensuration': 'Mensuration',
+  'clocks': 'Clocks',
+  'calendars': 'Calendars',
+  'data_interpretation': 'Data Interpretation',
+  'divisibility': 'Divisibility and Simplification',
+  'series': 'Number and Letter Series',
+  'coding_decoding': 'Coding and Decoding',
+  'blood_relations': 'Blood Relations',
+  'seating_arrangement': 'Seating Arrangement',
+  'puzzles': 'Puzzles',
+  'syllogisms': 'Syllogisms',
+  'direction_sense': 'Direction Sense',
+  'statements_assumptions': 'Statements and Assumptions',
+  'logical_deductions': 'Logical Deductions',
+  'analogies': 'Analogies',
+  'cubes_and_dices': 'Cubes and Dices',
+  'reading_comprehension': 'Reading Comprehension',
+  'para_jumbles': 'Para Jumbles',
+  'error_spotting': 'Error Spotting',
+  'fill_blanks': 'Fill in the Blanks',
+  'sentence_correction': 'Sentence Correction',
+  'grammar': 'Grammar',
+  'synonyms': 'Synonyms',
+  'antonyms': 'Antonyms',
+  'one_word_substitution': 'One Word Substitution',
+};
+
 const categories = ['quant', 'reasoning', 'verbal'];
 let totalQuestions = 0;
 let totalTopics = 0;
@@ -40,7 +85,7 @@ for (const cat of categories) {
 
     updatedTopics.push({
       id: subtopic,
-      name: data.metadata?.topic || subtopic,
+      name: DISPLAY_NAMES[subtopic] || subtopic.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase()),
       category: cat,
       total_questions: count,
       difficulty_distribution: diffCounts,

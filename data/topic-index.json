@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T22:13:13.270Z",
+  "generated_at": "2026-05-17T23:44:16.763Z",
   "total_topics": 42,
   "total_questions": 508,
   "total_company_questions": 25,
@@ -29,7 +29,7 @@
     },
     {
       "id": "series",
-      "name": "Series",
+      "name": "Number and Letter Series",
       "category": "reasoning",
       "total_questions": 20,
       "difficulty_distribution": {
@@ -93,7 +93,7 @@
     },
     {
       "id": "ages",
-      "name": "Quantitative Aptitude",
+      "name": "Problems on Ages",
       "category": "quant",
       "total_questions": 15,
       "difficulty_distribution": {
@@ -107,7 +107,7 @@
     },
     {
       "id": "averages",
-      "name": "Quantitative Aptitude",
+      "name": "Averages",
       "category": "quant",
       "total_questions": 15,
       "difficulty_distribution": {
@@ -137,7 +137,7 @@
     },
     {
       "id": "mensuration",
-      "name": "Quantitative Aptitude",
+      "name": "Mensuration",
       "category": "quant",
       "total_questions": 15,
       "difficulty_distribution": {
@@ -151,7 +151,7 @@
     },
     {
       "id": "number_system",
-      "name": "Quantitative Aptitude",
+      "name": "Number System",
       "category": "quant",
       "total_questions": 15,
       "difficulty_distribution": {
@@ -165,7 +165,7 @@
     },
     {
       "id": "probability",
-      "name": "Quantitative Aptitude",
+      "name": "Probability",
       "category": "quant",
       "total_questions": 15,
       "difficulty_distribution": {
@@ -179,7 +179,7 @@
     },
     {
       "id": "ratios_proportions",
-      "name": "Quantitative Aptitude",
+      "name": "Ratios and Proportions",
       "category": "quant",
       "total_questions": 15,
       "difficulty_distribution": {
@@ -193,7 +193,7 @@
     },
     {
       "id": "analogies",
-      "name": "Logical Reasoning",
+      "name": "Analogies",
       "category": "reasoning",
       "total_questions": 15,
       "difficulty_distribution": {
@@ -207,7 +207,7 @@
     },
     {
       "id": "blood_relations",
-      "name": "Logical Reasoning",
+      "name": "Blood Relations",
       "category": "reasoning",
       "total_questions": 15,
       "difficulty_distribution": {
@@ -221,7 +221,7 @@
     },
     {
       "id": "coding_decoding",
-      "name": "Coding-Decoding",
+      "name": "Coding and Decoding",
       "category": "reasoning",
       "total_questions": 15,
       "difficulty_distribution": {
@@ -237,7 +237,7 @@
     },
     {
       "id": "direction_sense",
-      "name": "Logical Reasoning",
+      "name": "Direction Sense",
       "category": "reasoning",
       "total_questions": 15,
       "difficulty_distribution": {
@@ -251,7 +251,7 @@
     },
     {
       "id": "puzzles",
-      "name": "Logical Reasoning",
+      "name": "Puzzles",
       "category": "reasoning",
       "total_questions": 15,
       "difficulty_distribution": {
@@ -265,7 +265,7 @@
     },
     {
       "id": "error_spotting",
-      "name": "Verbal Ability",
+      "name": "Error Spotting",
       "category": "verbal",
       "total_questions": 15,
       "difficulty_distribution": {
@@ -279,7 +279,7 @@
     },
     {
       "id": "one_word_substitution",
-      "name": "Verbal Ability",
+      "name": "One Word Substitution",
       "category": "verbal",
       "total_questions": 15,
       "difficulty_distribution": {
@@ -293,7 +293,7 @@
     },
     {
       "id": "sentence_correction",
-      "name": "Verbal Ability",
+      "name": "Sentence Correction",
       "category": "verbal",
       "total_questions": 15,
       "difficulty_distribution": {
@@ -307,7 +307,7 @@
     },
     {
       "id": "permutations_combinations",
-      "name": "Quantitative Aptitude",
+      "name": "Permutations and Combinations",
       "category": "quant",
       "total_questions": 14,
       "difficulty_distribution": {
@@ -321,7 +321,7 @@
     },
     {
       "id": "syllogisms",
-      "name": "Logical Reasoning",
+      "name": "Syllogisms",
       "category": "reasoning",
       "total_questions": 14,
       "difficulty_distribution": {
@@ -335,7 +335,7 @@
     },
     {
       "id": "boats_streams",
-      "name": "Quantitative Aptitude",
+      "name": "Boats and Streams",
       "category": "quant",
       "total_questions": 10,
       "difficulty_distribution": {
@@ -349,7 +349,7 @@
     },
     {
       "id": "calendars",
-      "name": "Quantitative Aptitude",
+      "name": "Calendars",
       "category": "quant",
       "total_questions": 10,
       "difficulty_distribution": {
@@ -363,7 +363,7 @@
     },
     {
       "id": "clocks",
-      "name": "Quantitative Aptitude",
+      "name": "Clocks",
       "category": "quant",
       "total_questions": 10,
       "difficulty_distribution": {
@@ -377,7 +377,7 @@
     },
     {
       "id": "compound_interest",
-      "name": "Quantitative Aptitude",
+      "name": "Compound Interest",
       "category": "quant",
       "total_questions": 10,
       "difficulty_distribution": {
@@ -391,7 +391,7 @@
     },
     {
       "id": "divisibility",
-      "name": "Quantitative Aptitude",
+      "name": "Divisibility and Simplification",
       "category": "quant",
       "total_questions": 10,
       "difficulty_distribution": {
@@ -405,7 +405,7 @@
     },
     {
       "id": "mixtures_alligations",
-      "name": "Quantitative Aptitude",
+      "name": "Mixtures and Alligations",
       "category": "quant",
       "total_questions": 10,
       "difficulty_distribution": {
@@ -419,7 +419,7 @@
     },
     {
       "id": "partnership",
-      "name": "Quantitative Aptitude",
+      "name": "Partnership",
       "category": "quant",
       "total_questions": 10,
       "difficulty_distribution": {
@@ -433,7 +433,7 @@
     },
     {
       "id": "pipes_cisterns",
-      "name": "Quantitative Aptitude",
+      "name": "Pipes and Cisterns",
       "category": "quant",
       "total_questions": 10,
       "difficulty_distribution": {
@@ -447,7 +447,7 @@
     },
     {
       "id": "simple_interest",
-      "name": "Quantitative Aptitude",
+      "name": "Simple Interest",
       "category": "quant",
       "total_questions": 10,
       "difficulty_distribution": {
@@ -461,7 +461,7 @@
     },
     {
       "id": "logical_deductions",
-      "name": "Logical Reasoning",
+      "name": "Logical Deductions",
       "category": "reasoning",
       "total_questions": 10,
       "difficulty_distribution": {
@@ -475,7 +475,7 @@
     },
     {
       "id": "statements_assumptions",
-      "name": "Logical Reasoning",
+      "name": "Statements and Assumptions",
       "category": "reasoning",
       "total_questions": 10,
       "difficulty_distribution": {
@@ -489,7 +489,7 @@
     },
     {
       "id": "antonyms",
-      "name": "Verbal Ability",
+      "name": "Antonyms",
       "category": "verbal",
       "total_questions": 10,
       "difficulty_distribution": {
@@ -503,7 +503,7 @@
     },
     {
       "id": "grammar",
-      "name": "Verbal Ability",
+      "name": "Grammar",
       "category": "verbal",
       "total_questions": 10,
       "difficulty_distribution": {
@@ -517,7 +517,7 @@
     },
     {
       "id": "synonyms",
-      "name": "Verbal Ability",
+      "name": "Synonyms",
       "category": "verbal",
       "total_questions": 10,
       "difficulty_distribution": {
@@ -531,7 +531,7 @@
     },
     {
       "id": "data_interpretation",
-      "name": "Quantitative Aptitude",
+      "name": "Data Interpretation",
       "category": "quant",
       "total_questions": 5,
       "difficulty_distribution": {
@@ -545,7 +545,7 @@
     },
     {
       "id": "fill_blanks",
-      "name": "Verbal Ability",
+      "name": "Fill in the Blanks",
       "category": "verbal",
       "total_questions": 5,
       "difficulty_distribution": {
@@ -559,7 +559,7 @@
     },
     {
       "id": "para_jumbles",
-      "name": "Verbal Ability",
+      "name": "Para Jumbles",
       "category": "verbal",
       "total_questions": 5,
       "difficulty_distribution": {
@@ -573,7 +573,7 @@
     },
     {
       "id": "seating_arrangement",
-      "name": "Logical Reasoning",
+      "name": "Seating Arrangement",
       "category": "reasoning",
       "total_questions": 3,
       "difficulty_distribution": {
@@ -587,7 +587,7 @@
     },
     {
       "id": "reading_comprehension",
-      "name": "Verbal Ability",
+      "name": "Reading Comprehension",
       "category": "verbal",
       "total_questions": 3,
       "difficulty_distribution": {
@@ -601,7 +601,7 @@
     },
     {
       "id": "cubes_and_dices",
-      "name": "Logical Reasoning",
+      "name": "Cubes and Dices",
       "category": "reasoning",
       "total_questions": 2,
       "difficulty_distribution": {
