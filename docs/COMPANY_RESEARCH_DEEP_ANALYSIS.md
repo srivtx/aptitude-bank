@@ -499,3 +499,218 @@ Our current bank (508 questions) covers ~60% of what TCS asks and ~40% of what I
 **To build realistic Wipro/Accenture/Capgemini mocks:** Need game-based aptitude simulations (hard), more visual reasoning.
 
 **Immediate next step:** Scrape IndiaBIX for DI, RC, seating arrangement, visual reasoning. Then build mock engine.
+
+---
+
+## Multi-Site Research Round 2: Additional Sources
+
+### Sources Added
+5. **GeeksforGeeks** - Statistics tutorials (Mean/Median/Mode, Standard Deviation), Data Interpretation solved problems
+6. **IndiaBIX specific sub-pages** - Bar Charts DI, Pie Charts DI, Line Charts DI, Non-Verbal Reasoning (Paper Folding, Mirror Images, Embedded Images, Pattern Completion)
+7. **IndiaBIX student experiences** - Actual TCS placement paper questions from student reports (MG Motors drive, Baroda, July 2018)
+8. **Student psychometric test reports** - Efftronics drive mentioning 160-question psychometric test in 15 minutes
+
+---
+
+## Real Questions from TCS Drives (IndiaBIX Student Experiences)
+
+### TCS Drive - MG Motors, Baroda, July 18th (Reported by Gopal)
+**Pattern**: 10 Aptitude + 8 Logical + 4 Technical + 8 GK = 30 questions, 45 minutes
+
+**Actual Questions Asked:**
+1. **Series**: 8, 6, 9, 23, 87, ?
+2. **Series**: Pattern with stages +2,+2,+3,+3,+4,+4,+5,+5
+3. **Cube Logical**: Each face different color, find opposite color
+4. **Permutations**: How many possible spellings of ORANGE (use each character once)
+5. **Blood Relation**: Simple problem
+6. **Profit & Loss**: Simple example (same as IndiaBIX)
+7. **Time & Work**: Same as IndiaBIX
+8. **Coding-Decoding**: JUMP = 39%4, MEALS = %2*7@, find PULSE = ______
+9. **GK**: Nickname of IMF = ______ (Ans: Blue wing)
+10. **GK**: 22nd March = World Water Day
+11. **Coding-Decoding**: DISTANCE = EDCINSAT, FACEVALUE = _________
+12. **GK**: Right hand rule of Fleming
+13. **GK**: Unit of Kinematic viscosity
+14. **GK**: Full form of FM
+15. **Partnership**: Problem
+16. **Psychology question**
+17. **Mixture**: Same as IndiaBIX
+18. **AP Problem**
+19. **Monkey Climbs**: Monkey climbs 3ft in 1 min, slips 2ft. Time to reach 20ft?
+20. **Blood Relation**: Another problem
+
+**Key Insights from Real Paper:**
+- Series questions are heavily asked (2 out of 10 quant)
+- Coding-decoding uses symbol substitution (not just letter shifting)
+- Blood relations appear twice
+- Classic "monkey climbs" problem (a known TCS pattern)
+- Permutations (ORANGE = 6! = 720 spellings)
+- Mixture and work problems are directly from IndiaBIX templates
+
+### Efftronics Drive (Reported by ShivaniVarikuti)
+**Pattern**: 65 technical questions + 160 psychometric questions, 15 minutes
+- Negative marking applied
+- Psychometric test: 160 questions in 15 minutes (extreme speed)
+- Technical subjects covered based on stream
+
+---
+
+## IndiaBIX Sub-Pages Available for Scraping (Verified)
+
+### Data Interpretation (Missing from our bank)
+| Sub-Page | URL | Pages | Questions/Page | Status |
+|---|---|---|---|---|
+| Bar Charts | `/data-interpretation/bar-charts/` | 1 | 5 | Available |
+| Pie Charts | `/data-interpretation/pie-charts/` | 2 | 5 | Available |
+| Line Charts | `/data-interpretation/line-charts/` | 1 | 5 | Available |
+| **Total DI available** | | **~15 pages** | **~75 questions** | **Unscraped** |
+
+**Current bank**: Only 5 DI questions (from `/data-interpretation/table-charts/`)
+**Available to scrape**: ~75 more DI questions from Bar/Pie/Line charts
+
+### Non-Verbal Reasoning (Missing from our bank)
+| Sub-Page | URL | Pages | Questions/Page | Status |
+|---|---|---|---|---|
+| Paper Folding | `/non-verbal-reasoning/paper-folding/` | 4 | 5 | Available |
+| Mirror Images | `/non-verbal-reasoning/mirror-images/` | 5 | 5 | Available |
+| Embedded Images | `/non-verbal-reasoning/embedded-images/` | 7 | 5 | Available |
+| Pattern Completion | `/non-verbal-reasoning/pattern-completion/` | 10 | 5 | Available |
+| Cubes and Dices | `/non-verbal-reasoning/cubes-and-dice/` | 2+ | 5 | Partially scraped |
+| **Total Non-Verbal available** | | **~28 pages** | **~140 questions** | **Unscraped** |
+
+**Current bank**: Only 2 cubes_and_dices questions
+**Available to scrape**: ~140 more non-verbal questions
+
+---
+
+## GeeksforGeeks Content (Can Build Questions From)
+
+### Statistics Content Found
+1. **Mean/Median/Mode tutorial** - 5 solved questions + 5 unsolved practice questions
+2. **Standard Deviation tutorial** - Comprehensive formulas, 2 solved examples, population vs sample
+3. **Variance tutorial** - Formula derivation, examples
+
+**Gap**: These are tutorials, not placement-style MCQs. Need to convert to question format.
+
+### Data Interpretation Content Found
+GfG has a "Data Interpretation - Solved Questions" page with:
+- Table-based questions (train arrivals/departures)
+- Bar graph questions (monthly income/expenditure)
+- Pie chart questions (sales breakdown)
+- Line graph questions (vehicle manufacturing)
+- ~7 solved problems with detailed solutions
+
+**Gap**: Only 7 questions, but good quality with explanations.
+
+---
+
+## Updated Gap Analysis with Multi-Site Findings
+
+### What We Can Scrape RIGHT NOW (IndiaBIX has it)
+| Missing Topic | IndiaBIX Pages Available | Est. Questions | Priority |
+|---|---|---|---|
+| Bar Charts DI | 1 page + 18 exercises | ~90 | 🔴 Critical |
+| Pie Charts DI | 2 pages + 12 exercises | ~60 | 🔴 Critical |
+| Line Charts DI | 1 page + 10 exercises | ~50 | 🔴 Critical |
+| Paper Folding | 4 sections | ~20 | 🟡 Medium |
+| Mirror Images | 5 sections | ~25 | 🟡 Medium |
+| Embedded Images | 7 sections | ~35 | 🟡 Medium |
+| Pattern Completion | 10 sections | ~50 | 🟡 Medium |
+
+### What We Must Build Manually (Cannot Scrape)
+| Missing Topic | Source Found | Approach |
+|---|---|---|
+| Cryptarithmetic | Student reports, PrepInsta | Algorithmic generator |
+| Pseudocode | PrepInsta, GeeksforGeeks | Manual curation (20-30 Qs) |
+| Statistics MCQs | GfG tutorials | Convert tutorials to MCQ format |
+| Quadratic Equations | PrepInsta mentions it | Scrape IndiaBIX simplification or build manually |
+| Game-Based Aptitude | PrepInsta describes games | Build simplified web games |
+| Behavioral/Psychometric | Student reports (160Q/15min) | Build situation-based MCQs |
+
+---
+
+## Key Discoveries from Multi-Site Research
+
+### Discovery 1: Psychometric Tests Are Real and Brutal
+Multiple student reports confirm:
+- Efftronics: 160 questions in 15 minutes (5.6 seconds per question!)
+- TCS NQT: "You are not allowed to move your eyes down while giving the examination" (AI proctoring)
+- Capgemini: 100 behavioral questions with consistency traps
+
+### Discovery 2: TCS Asks Classic "Monkey Climbs" Problems
+The monkey climbing 3ft and slipping 2ft is a known TCS pattern. Our bank should include:
+- Monkey climbs problems
+- Athletes running around circular track
+- Pipes filling with leaks
+
+### Discovery 3: Symbol-Based Coding-Decoding
+TCS uses symbol substitution coding (JUMP=39%4), not just letter shifting. Our coding-decoding questions are mostly letter-based. Need symbol-based variants.
+
+### Discovery 4: Anagram/Rearrangement Questions
+DISTANCE = EDCINSAT pattern. This is "meaningful word creation" in TCS advanced reasoning syllabus.
+
+### Discovery 5: IndiaBIX Has WAY More Content Than We Scraped
+Our scraper only hit the basic `/aptitude/` and `/verbal-reasoning/` sections. IndiaBIX has:
+- `/data-interpretation/` (bar, pie, line, tabular) — unscraped
+- `/non-verbal-reasoning/` (paper folding, mirror, embedded, pattern completion, cubes) — mostly unscraped
+- `/logical-reasoning/` (statements, assumptions, data sufficiency) — partially scraped
+- `/verbal-ability/` (comprehension, synonyms, antonyms) — partially scraped
+
+**Estimate: IndiaBIX alone has 200+ more questions we can scrape.**
+
+---
+
+## Realistic Action Plan (Revised)
+
+### Immediate (Next 2 Hours): Scrape IndiaBIX Gaps
+1. **Data Interpretation**:
+   - `/data-interpretation/bar-charts/` (18 bar chart exercises)
+   - `/data-interpretation/pie-charts/` (12 pie chart exercises)
+   - `/data-interpretation/line-charts/` (10 line chart exercises)
+   - Target: 50-75 questions
+
+2. **Non-Verbal Reasoning**:
+   - `/non-verbal-reasoning/paper-folding/` (4 sections)
+   - `/non-verbal-reasoning/mirror-images/` (5 sections)
+   - `/non-verbal-reasoning/embedded-images/` (7 sections)
+   - `/non-verbal-reasoning/pattern-completion/` (10 sections)
+   - Target: 80-100 questions
+
+3. **More Reading Comprehension**:
+   - `/verbal-ability/comprehension/` (check if more pages exist)
+   - Target: 15+ passages
+
+### Short Term (Next 2-3 Days): Build Missing Question Types
+1. **Statistics MCQs** (15 questions): Convert GfG tutorial problems
+2. **Quadratic Equations** (15 questions): Build manually or find source
+3. **Cryptarithmetic** (20 puzzles): Build generator
+4. **Symbol Coding-Decoding** (10 questions): Add to existing coding_decoding.json
+5. **Pseudocode** (20 questions): Manual curation from GfG + PrepInsta examples
+
+### Medium Term (Next Week): Mock Test Engine
+1. TCS NQT Mock template (65Q/75min + 30Q/115min)
+2. Section-locking logic (no switching between sections)
+3. Timer with warnings
+4. Score prediction vs historical cutoffs
+
+### Long Term (Optional): Game-Based Aptitude
+Build simplified browser games:
+- Switch Challenge: Color/shape pattern matching
+- Grid Challenge: Dot memory game
+- Motion Challenge: Track moving targets
+
+---
+
+## Conclusion from Multi-Site Research
+
+**IndiaBIX alone can fill 80% of our data gaps.** We only scraped the surface:
+- Scraped: ~31 topics from `/aptitude/`, `/verbal-reasoning/`, `/verbal-ability/`
+- Unscraped: `/data-interpretation/`, `/non-verbal-reasoning/`, more `/verbal-ability/`
+- Available questions waiting: ~200-250
+
+**The remaining 20% (cryptarithmetic, pseudocode, games, behavioral) must be built manually** because:
+- These are proprietary question types specific to certain companies
+- No public database exists for them
+- They require interactive or algorithmic generation
+
+**Student experiences are goldmines.** The actual TCS drive questions (coding-decoding, series, monkey climbs, anagrams) confirm our pattern analysis was correct but also reveal gaps in question types (symbol coding, anagrams).
