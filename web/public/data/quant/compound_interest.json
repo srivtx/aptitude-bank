@@ -1,0 +1,285 @@
+{
+  "metadata": {
+    "topic": "Quantitative Aptitude",
+    "subtopic": "compound_interest",
+    "total_questions": 10,
+    "sources": [
+      "IndiaBIX"
+    ],
+    "last_updated": "2026-05-17"
+  },
+  "questions": [
+    {
+      "id": "quant_compou_001",
+      "topic": "quant",
+      "subtopic": "compound_interest",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A bank offers 5% compound interest calculated on half-yearly basis. A customer deposits Rs. 1600 each on 1st January and 1st July of a year. At the end of the year, the amount he would have gained by way of interest is:",
+      "options": [
+        "Rs. 120",
+        "Rs. 121",
+        "Rs. 122",
+        "Rs. 123"
+      ],
+      "answer": "B",
+      "explanation": "[TABLE]\n \n \n \n \n \n [TABLE]\n \n \n \n \n \n [TABLE]\n \n \n \n \n \n [TABLE]\n \n \n \n \n = Rs. 3321.\n \n\n C.I. = Rs. (3321 - 3200) = Rs. 121",
+      "shortcut": "Amount = P(1 + R/100)^T. CI = Amount - P",
+      "formula_used": "",
+      "trap_type": "Forgetting that CI > SI for same P, R, T (except first year)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_compou_002",
+      "topic": "quant",
+      "subtopic": "compound_interest",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The difference between simple and compound interests compounded annually on a certain sum of money for 2 years at 4% per annum is Re. 1. The sum (in Rs.) is:",
+      "options": [
+        "625",
+        "630",
+        "640",
+        "650"
+      ],
+      "answer": "A",
+      "explanation": "Let the sum be Rs. x. Then,\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n x = 625.",
+      "shortcut": "Amount = P(1 + R/100)^T. CI = Amount - P",
+      "formula_used": "",
+      "trap_type": "Forgetting that CI > SI for same P, R, T (except first year)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_compou_003",
+      "topic": "quant",
+      "subtopic": "compound_interest",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "There is 60% increase in an amount in 6 years at simple interest. What will be the compound interest of Rs. 12,000 after 3 years at the same rate?",
+      "options": [
+        "Rs. 2160",
+        "Rs. 3120",
+        "Rs. 3972",
+        "Rs. 6240",
+        "None of these"
+      ],
+      "answer": "C",
+      "explanation": "Let P = Rs. 100. Then, S.I. Rs. 60 and T = 6 years.\n\n[TABLE]\n\nNow, P = Rs. 12000. T = 3 years and R = 10% p.a.\n\n[TABLE]\n \n \n \n \n \n [TABLE]\n \n \n \n \n = 3972.",
+      "shortcut": "Amount = P(1 + R/100)^T. CI = Amount - P",
+      "formula_used": "",
+      "trap_type": "Forgetting that CI > SI for same P, R, T (except first year)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_compou_004",
+      "topic": "quant",
+      "subtopic": "compound_interest",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What is the difference between the compound interests on Rs. 5000 for 1 years at 4% per annum compounded yearly and half-yearly?",
+      "options": [
+        "Rs. 2.04",
+        "Rs. 3.06",
+        "Rs. 4.80",
+        "Rs. 8.30"
+      ],
+      "answer": "A",
+      "explanation": "[TABLE]\n \n \n \n \n \n [TABLE]\n \n \n \n \n = Rs. 5304.\n \n\n[TABLE]\n \n \n \n \n \n [TABLE]\n \n \n \n \n = Rs. 5306.04\n \n\n Difference = Rs. (5306.04 - 5304) = Rs. 2.04",
+      "shortcut": "Amount = P(1 + R/100)^T. CI = Amount - P",
+      "formula_used": "",
+      "trap_type": "Forgetting that CI > SI for same P, R, T (except first year)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_compou_005",
+      "topic": "quant",
+      "subtopic": "compound_interest",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The compound interest on Rs. 30,000 at 7% per annum is Rs. 4347. The period (in years) is:",
+      "options": [
+        "2",
+        "[TABLE]",
+        "3",
+        "4"
+      ],
+      "answer": "A",
+      "explanation": "Amount = Rs. (30000 + 4347) = Rs. 34347.\n\nLet the time be n years.\n\n[TABLE]\n\n[TABLE]\n\n n = 2 years.",
+      "shortcut": "Amount = P(1 + R/100)^T. CI = Amount - P",
+      "formula_used": "",
+      "trap_type": "Forgetting that CI > SI for same P, R, T (except first year)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_compou_006",
+      "topic": "quant",
+      "subtopic": "compound_interest",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What will be the compound interest on a sum of Rs. 25,000 after 3 years at the rate of 12 p.c.p.a.?",
+      "options": [
+        "Rs. 9000.30",
+        "Rs. 9720",
+        "Rs. 10123.20",
+        "Rs. 10483.20",
+        "None of these"
+      ],
+      "answer": "C",
+      "explanation": "[TABLE]\n \n \n \n \n \n [TABLE]\n \n \n \n \n = Rs. 35123.20\n \n\n C.I. = Rs. (35123.20 - 25000) = Rs. 10123.20",
+      "shortcut": "Amount = P(1 + R/100)^T. CI = Amount - P",
+      "formula_used": "",
+      "trap_type": "Forgetting that CI > SI for same P, R, T (except first year)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_compou_007",
+      "topic": "quant",
+      "subtopic": "compound_interest",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "At what rate of compound interest per annum will a sum of Rs. 1200 become Rs. 1348.32 in 2 years?",
+      "options": [
+        "6%",
+        "6.5%",
+        "7%",
+        "7.5%"
+      ],
+      "answer": "A",
+      "explanation": "Let the rate be R% p.a.\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n R = 6%",
+      "shortcut": "Amount = P(1 + R/100)^T. CI = Amount - P",
+      "formula_used": "",
+      "trap_type": "Forgetting that CI > SI for same P, R, T (except first year)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_compou_008",
+      "topic": "quant",
+      "subtopic": "compound_interest",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The least number of complete years in which a sum of money put out at 20% compound interest will be more than doubled is:",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "B",
+      "explanation": "[TABLE]\n\n[TABLE]\n\nSo, n = 4 years.",
+      "shortcut": "Amount = P(1 + R/100)^T. CI = Amount - P",
+      "formula_used": "",
+      "trap_type": "Forgetting that CI > SI for same P, R, T (except first year)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_compou_009",
+      "topic": "quant",
+      "subtopic": "compound_interest",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Albert invested an amount of Rs. 8000 in a fixed deposit scheme for 2 years at compound interest rate 5 p.c.p.a. How much amount will Albert get on maturity of the fixed deposit?",
+      "options": [
+        "Rs. 8600",
+        "Rs. 8620",
+        "Rs. 8820",
+        "None of these"
+      ],
+      "answer": "C",
+      "explanation": "[TABLE]\n \n \n \n \n \n [TABLE]\n \n \n \n \n = Rs. 8820.",
+      "shortcut": "Amount = P(1 + R/100)^T. CI = Amount - P",
+      "formula_used": "",
+      "trap_type": "Forgetting that CI > SI for same P, R, T (except first year)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_compou_010",
+      "topic": "quant",
+      "subtopic": "compound_interest",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The effective annual rate of interest corresponding to a nominal rate of 6% per annum payable half-yearly is:",
+      "options": [
+        "6.06%",
+        "6.07%",
+        "6.08%",
+        "6.09%"
+      ],
+      "answer": "D",
+      "explanation": "[TABLE]\n\n Effective rate = (106.09 - 100)% = 6.09%",
+      "shortcut": "Amount = P(1 + R/100)^T. CI = Amount - P",
+      "formula_used": "",
+      "trap_type": "Forgetting that CI > SI for same P, R, T (except first year)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    }
+  ]
+}

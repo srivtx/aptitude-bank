@@ -1,0 +1,523 @@
+{
+  "metadata": {
+    "topic": "Percentages",
+    "total_questions": 20,
+    "sources": [
+      "IndiaBIX",
+      "PrepInsta",
+      "GeeksforGeeks",
+      "FacePrep"
+    ],
+    "last_updated": "2026-05-17"
+  },
+  "questions": [
+    {
+      "id": "quant_percen_001",
+      "topic": "quant",
+      "subtopic": "percentages",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Wipro",
+        "HCL"
+      ],
+      "question": "If 20% of a number is 120, then 120% of that number is:",
+      "options": [
+        "600",
+        "720",
+        "800",
+        "960"
+      ],
+      "answer": "B",
+      "explanation": "Let the number be x. 20% of x = 120, so x = 120 × 100/20 = 600. Then 120% of 600 = 600 × 120/100 = 720.",
+      "shortcut": "If 20% = 120, then 120% = 120 × (120/20) = 120 × 6 = 720.",
+      "formula_used": "Percentage proportion",
+      "trap_type": "Finding 120% of 120 instead of the original number",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "P001"
+    },
+    {
+      "id": "quant_percen_002",
+      "topic": "quant",
+      "subtopic": "percentages",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Accenture"
+      ],
+      "question": "A student multiplied a number by 3/5 instead of 5/3. What is the percentage error in the calculation?",
+      "options": [
+        "34%",
+        "44%",
+        "54%",
+        "64%"
+      ],
+      "answer": "D",
+      "explanation": "Let the number be x. Correct value = 5x/3. Incorrect value = 3x/5. Error = 5x/3 - 3x/5 = (25x - 9x)/15 = 16x/15. Percentage error = (Error/Correct) × 100 = (16x/15) / (5x/3) × 100 = (16/15) × (3/5) × 100 = 48/75 × 100 = 64%.",
+      "shortcut": "% error = [(5/3 - 3/5) / (5/3)] × 100 = [(16/15) / (5/3)] × 100 = (16/25) × 100 = 64%.",
+      "formula_used": "Percentage error = (|Correct - Wrong| / Correct) × 100",
+      "trap_type": "Calculating error on wrong value instead of correct value",
+      "source": "PrepInsta",
+      "source_url": "",
+      "pattern_detected": "P002"
+    },
+    {
+      "id": "quant_percen_003",
+      "topic": "quant",
+      "subtopic": "percentages",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Deloitte",
+        "IBM"
+      ],
+      "question": "The population of a town increases by 10% in the first year, decreases by 10% in the second year, and increases by 10% in the third year. If the present population is 10000, what will be the population after 3 years?",
+      "options": [
+        "10890",
+        "10990",
+        "11000",
+        "10800"
+      ],
+      "answer": "A",
+      "explanation": "Year 1: 10000 × 1.10 = 11000. Year 2: 11000 × 0.90 = 9900. Year 3: 9900 × 1.10 = 10890. Note: The final answer is NOT 10000 (10% - 10% + 10% is wrong).",
+      "shortcut": "Net multiplier = 1.10 × 0.90 × 1.10 = 1.089. Population = 10000 × 1.089 = 10890.",
+      "formula_used": "Successive percentage: Final = Initial × (1±p1) × (1±p2) × (1±p3)",
+      "trap_type": "Adding/subtracting percentages directly (10 - 10 + 10 = 10%, thinking answer is 11000)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "P003"
+    },
+    {
+      "id": "quant_percen_004",
+      "topic": "quant",
+      "subtopic": "percentages",
+      "difficulty": "medium",
+      "company_tags": [
+        "Accenture",
+        "Capgemini",
+        "Cognizant"
+      ],
+      "question": "If A's salary is 20% more than B's salary, then B's salary is less than A's salary by:",
+      "options": [
+        "16 2/3%",
+        "20%",
+        "25%",
+        "33 1/3%"
+      ],
+      "answer": "A",
+      "explanation": "Let B's salary = 100. Then A's salary = 120. B's salary is less than A's by (120-100)/120 × 100 = 20/120 × 100 = 100/6 = 16 2/3%.",
+      "shortcut": "If A is x% more than B, then B is [x/(100+x)]×100% less than A. Here: 20/120 × 100 = 16.67%.",
+      "formula_used": "If A = B(1+x/100), then B = A[1 - x/(100+x)]",
+      "trap_type": "Answering 20% (same percentage, wrong base)",
+      "source": "GeeksforGeeks",
+      "source_url": "",
+      "pattern_detected": "P004"
+    },
+    {
+      "id": "quant_percen_005",
+      "topic": "quant",
+      "subtopic": "percentages",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro"
+      ],
+      "question": "In an election between two candidates, one got 55% of total valid votes. 20% of the votes were invalid. If the total number of votes was 7500, the number of valid votes the other candidate got was:",
+      "options": [
+        "2500",
+        "2700",
+        "2900",
+        "3100"
+      ],
+      "answer": "B",
+      "explanation": "Total votes = 7500. Invalid = 20% of 7500 = 1500. Valid votes = 7500 - 1500 = 6000. First candidate got 55% of valid = 3300. Other candidate got 45% of valid = 0.45 × 6000 = 2700.",
+      "shortcut": "Valid votes = 7500 × 0.80 = 6000. Other candidate = 6000 × 0.45 = 2700.",
+      "formula_used": "Valid votes = Total × (100 - invalid%). Other = Valid × (100 - winner%)",
+      "trap_type": "Calculating 45% of total votes instead of valid votes",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "P005"
+    },
+    {
+      "id": "quant_percen_006",
+      "topic": "quant",
+      "subtopic": "percentages",
+      "difficulty": "hard",
+      "company_tags": [
+        "Deloitte",
+        "IBM"
+      ],
+      "question": "A batsman scored 110 runs which included 3 boundaries and 8 sixes. What percent of his total score did he make by running between the wickets?",
+      "options": [
+        "42%",
+        "45%",
+        "45 5/11%",
+        "48%"
+      ],
+      "answer": "C",
+      "explanation": "Runs from boundaries = 3 × 4 = 12. Runs from sixes = 8 × 6 = 48. Total from boundaries and sixes = 60. Runs by running = 110 - 60 = 50. Percentage = 50/110 × 100 = 500/11 = 45 5/11%.",
+      "shortcut": "Runs by running = 110 - 3×4 - 8×6 = 50. % = 50/110 × 100 = 500/11%.",
+      "formula_used": "Percentage = (Part/Whole) × 100",
+      "trap_type": "Forgetting that boundaries are 4 runs each, not 6",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "P006"
+    },
+    {
+      "id": "quant_percen_007",
+      "topic": "quant",
+      "subtopic": "percentages",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Cognizant",
+        "Tech Mahindra"
+      ],
+      "question": "If the price of sugar rises by 25%, by what percent must a family reduce its consumption so that the expenditure remains the same?",
+      "options": [
+        "15%",
+        "20%",
+        "25%",
+        "30%"
+      ],
+      "answer": "B",
+      "explanation": "Expenditure = Price × Consumption. If price becomes 1.25 times, consumption must become 1/1.25 = 0.8 times to keep expenditure constant. Reduction = 1 - 0.8 = 0.2 = 20%.",
+      "shortcut": "Reduction % = [Rise/(100+Rise)] × 100 = 25/125 × 100 = 20%.",
+      "formula_used": "If price increases by x%, consumption reduces by [x/(100+x)]×100%",
+      "trap_type": "Answering 25% (same as price rise)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "P007"
+    },
+    {
+      "id": "quant_percen_008",
+      "topic": "quant",
+      "subtopic": "percentages",
+      "difficulty": "medium",
+      "company_tags": [
+        "Accenture",
+        "Capgemini"
+      ],
+      "question": "In a certain school, 20% of students are below 8 years of age. The number of students above 8 years of age is 2/3 of the number of students of 8 years of age which is 48. What is the total number of students in the school?",
+      "options": [
+        "72",
+        "80",
+        "100",
+        "120"
+      ],
+      "answer": "C",
+      "explanation": "Students of 8 years = 48. Students above 8 years = (2/3) × 48 = 32. Students 8 years or above = 48 + 32 = 80. This 80 is 80% of total (since 20% are below 8). So total = 80 / 0.80 = 100.",
+      "shortcut": "80 students = 80% of total. Total = 80 × 100/80 = 100.",
+      "formula_used": "If x% = value, then total = value × 100/x",
+      "trap_type": "Adding 48 + 32 + 20% and getting confused about what 20% applies to",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "P008"
+    },
+    {
+      "id": "quant_percen_009",
+      "topic": "quant",
+      "subtopic": "percentages",
+      "difficulty": "hard",
+      "company_tags": [
+        "Deloitte",
+        "TCS"
+      ],
+      "question": "Two students appeared at an examination. One of them secured 9 marks more than the other and his marks were 56% of the sum of their marks. The marks obtained by them are:",
+      "options": [
+        "39, 30",
+        "41, 32",
+        "42, 33",
+        "43, 34"
+      ],
+      "answer": "C",
+      "explanation": "Let marks be x and x+9. Sum = 2x+9. Given: x+9 = 0.56(2x+9). x+9 = 1.12x + 5.04. 9 - 5.04 = 1.12x - x. 3.96 = 0.12x. x = 33. So marks are 33 and 42.",
+      "shortcut": "Let sum = S. One student = 0.56S, other = 0.44S. Difference = 0.12S = 9. S = 75. Marks = 0.56×75=42 and 0.44×75=33.",
+      "formula_used": "One is p% of sum, other is (100-p)% of sum. Difference = (2p-100)% of sum.",
+      "trap_type": "Setting up wrong equation: x = 0.56(x + x+9) instead of x+9 = 0.56(2x+9)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "P009"
+    },
+    {
+      "id": "quant_percen_010",
+      "topic": "quant",
+      "subtopic": "percentages",
+      "difficulty": "easy",
+      "company_tags": [
+        "Wipro",
+        "HCL",
+        "Tech Mahindra"
+      ],
+      "question": "What percentage of numbers from 1 to 70 have 1 or 9 in the unit's digit?",
+      "options": [
+        "20%",
+        "25%",
+        "28%",
+        "30%"
+      ],
+      "answer": "A",
+      "explanation": "Numbers with 1 in unit's place: 1, 11, 21, 31, 41, 51, 61 = 7 numbers. Numbers with 9 in unit's place: 9, 19, 29, 39, 49, 59, 69 = 7 numbers. Total = 14. Percentage = 14/70 × 100 = 20%.",
+      "shortcut": "In every 10 numbers, 2 have 1 or 9 in unit's place. For 70 numbers: 7 × 2 = 14. 14/70 = 20%.",
+      "formula_used": "Counting principle",
+      "trap_type": "Counting 1 and 9 separately and not realizing some might be double-counted (none are in this case)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "P010"
+    },
+    {
+      "id": "quant_percen_011",
+      "topic": "quant",
+      "subtopic": "percentages",
+      "difficulty": "medium",
+      "company_tags": [
+        "Infosys",
+        "Cognizant"
+      ],
+      "question": "A fruit seller had some apples. He sells 40% of them and still has 420 apples. Originally, he had:",
+      "options": [
+        "600",
+        "700",
+        "750",
+        "840"
+      ],
+      "answer": "B",
+      "explanation": "If he sells 40%, he retains 60%. Let original = x. Then 0.60x = 420. x = 420/0.60 = 700.",
+      "shortcut": "60% = 420, so 100% = 420 × 100/60 = 700.",
+      "formula_used": "If (100-p)% remains = value, original = value × 100/(100-p)",
+      "trap_type": "Setting 40% of x = 420, giving x = 1050",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "P011"
+    },
+    {
+      "id": "quant_percen_012",
+      "topic": "quant",
+      "subtopic": "percentages",
+      "difficulty": "hard",
+      "company_tags": [
+        "IBM",
+        "Deloitte"
+      ],
+      "question": "Three candidates contested an election and received 1136, 7636 and 11628 votes respectively. What percentage of total votes did the winning candidate get?",
+      "options": [
+        "55%",
+        "56%",
+        "57%",
+        "58%"
+      ],
+      "answer": "C",
+      "explanation": "Total votes = 1136 + 7636 + 11628 = 20400. Winning candidate got 11628 votes. Percentage = 11628/20400 × 100 = 57%.",
+      "shortcut": "11628/20400 = 11628/(20000+400) ≈ 11628/20400. 11628/204 = 57 exactly.",
+      "formula_used": "Percentage = (Votes/Total) × 100",
+      "trap_type": "Taking percentage of the sum of other two candidates instead of total",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "P012"
+    },
+    {
+      "id": "quant_percen_013",
+      "topic": "quant",
+      "subtopic": "percentages",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Accenture"
+      ],
+      "question": "The price of an article is cut by 10%. To restore it to the former value, the new price must be increased by:",
+      "options": [
+        "10%",
+        "11%",
+        "11 1/9%",
+        "12%"
+      ],
+      "answer": "C",
+      "explanation": "Let original price = 100. After 10% cut = 90. To restore to 100 from 90: increase = 10/90 × 100 = 100/9 = 11 1/9%.",
+      "shortcut": "Required % = [x/(100-x)] × 100 where x is the cut%. Here: 10/90 × 100 = 11.11%.",
+      "formula_used": "To restore after x% cut: increase by [x/(100-x)]×100%",
+      "trap_type": "Answering 10% (same as the cut)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "P013"
+    },
+    {
+      "id": "quant_percen_014",
+      "topic": "quant",
+      "subtopic": "percentages",
+      "difficulty": "hard",
+      "company_tags": [
+        "Deloitte",
+        "IBM",
+        "TCS"
+      ],
+      "question": "The ratio 5:4 expressed as a percent equals:",
+      "options": [
+        "80%",
+        "100%",
+        "120%",
+        "125%"
+      ],
+      "answer": "D",
+      "explanation": "5:4 means 5/4 = 1.25 = 125%.",
+      "shortcut": "First number / Second number × 100 = 5/4 × 100 = 125%.",
+      "formula_used": "Ratio a:b as percent = (a/b) × 100",
+      "trap_type": "Calculating 4/5 × 100 = 80% (reversed ratio)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "P014"
+    },
+    {
+      "id": "quant_percen_015",
+      "topic": "quant",
+      "subtopic": "percentages",
+      "difficulty": "medium",
+      "company_tags": [
+        "Capgemini",
+        "Cognizant"
+      ],
+      "question": "In an examination, 35% of the students passed and 455 failed. The total number of students who appeared for the examination was:",
+      "options": [
+        "600",
+        "650",
+        "700",
+        "750"
+      ],
+      "answer": "C",
+      "explanation": "If 35% passed, then 65% failed. Let total = x. Then 0.65x = 455. x = 455/0.65 = 700.",
+      "shortcut": "65% = 455, so 100% = 455 × 100/65 = 700.",
+      "formula_used": "If p% failed = value, total = value × 100/p",
+      "trap_type": "Using 35% as failed percentage (getting 455/0.35 = 1300)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "P015"
+    },
+    {
+      "id": "quant_percen_016",
+      "topic": "quant",
+      "subtopic": "percentages",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Deloitte"
+      ],
+      "question": "A number is increased by 20% and then decreased by 20%. The net change is:",
+      "options": [
+        "No change",
+        "4% increase",
+        "4% decrease",
+        "2% decrease"
+      ],
+      "answer": "C",
+      "explanation": "Let number = 100. After 20% increase = 120. After 20% decrease = 120 × 0.80 = 96. Net change = 100 - 96 = 4% decrease.",
+      "shortcut": "Net % change = a + b + ab/100 = 20 + (-20) + (20×-20)/100 = -4%. Always a net loss when same % is increased then decreased.",
+      "formula_used": "Successive change: Net = a + b + ab/100",
+      "trap_type": "Thinking there is no change because +20% and -20% cancel out",
+      "source": "PrepInsta",
+      "source_url": "",
+      "pattern_detected": "P016"
+    },
+    {
+      "id": "quant_percen_017",
+      "topic": "quant",
+      "subtopic": "percentages",
+      "difficulty": "medium",
+      "company_tags": [
+        "Wipro",
+        "HCL"
+      ],
+      "question": "If 50% of (x - y) = 30% of (x + y), then what percent of x is y?",
+      "options": [
+        "20%",
+        "25%",
+        "30%",
+        "40%"
+      ],
+      "answer": "B",
+      "explanation": "0.50(x-y) = 0.30(x+y). 5(x-y) = 3(x+y). 5x - 5y = 3x + 3y. 2x = 8y. x = 4y. So y = x/4 = 25% of x.",
+      "shortcut": "50(x-y) = 30(x+y) → 5x-5y = 3x+3y → 2x=8y → y/x = 1/4 = 25%.",
+      "formula_used": "Linear equation solving",
+      "trap_type": "Incorrectly simplifying to x = y or y = 0.5x",
+      "source": "GeeksforGeeks",
+      "source_url": "",
+      "pattern_detected": "P017"
+    },
+    {
+      "id": "quant_percen_018",
+      "topic": "quant",
+      "subtopic": "percentages",
+      "difficulty": "hard",
+      "company_tags": [
+        "IBM",
+        "Accenture"
+      ],
+      "question": "The cost price of 20 articles is equal to the selling price of 16 articles. Gain percent is:",
+      "options": [
+        "20%",
+        "25%",
+        "30%",
+        "35%"
+      ],
+      "answer": "B",
+      "explanation": "Let CP of 20 = SP of 16 = 100 (say). CP per article = 5, SP per article = 6.25. Gain = 1.25. Gain% = 1.25/5 × 100 = 25%.",
+      "shortcut": "Gain% = [(20-16)/16] × 100 = 4/16 × 100 = 25%. Or: (Excess/SP quantity) × 100.",
+      "formula_used": "If CP of x = SP of y, then Gain% = [(x-y)/y] × 100",
+      "trap_type": "Using (x-y)/x × 100 = 4/20 × 100 = 20% (wrong formula)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "P018"
+    },
+    {
+      "id": "quant_percen_019",
+      "topic": "quant",
+      "subtopic": "percentages",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Cognizant"
+      ],
+      "question": "If 75% of a number is added to 75, the result is the number itself. The number is:",
+      "options": [
+        "150",
+        "200",
+        "250",
+        "300"
+      ],
+      "answer": "D",
+      "explanation": "Let number = x. 0.75x + 75 = x. 75 = x - 0.75x = 0.25x. x = 75/0.25 = 300.",
+      "shortcut": "75 is 25% of the number. So number = 75 × 4 = 300.",
+      "formula_used": "If px + a = x, then x = a/(1-p)",
+      "trap_type": "Adding 75% and 75 to get 150% and dividing",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "P019"
+    },
+    {
+      "id": "quant_percen_020",
+      "topic": "quant",
+      "subtopic": "percentages",
+      "difficulty": "hard",
+      "company_tags": [
+        "Deloitte",
+        "TCS"
+      ],
+      "question": "The sum of two numbers is 520. If the bigger number is decreased by 4% and the smaller number is increased by 12%, then the numbers obtained are equal. The smaller number is:",
+      "options": [
+        "220",
+        "240",
+        "260",
+        "280"
+      ],
+      "answer": "B",
+      "explanation": "Let bigger = B, smaller = S. B + S = 520. B decreased by 4% = 0.96B. S increased by 12% = 1.12S. Given: 0.96B = 1.12S → B = 1.12S/0.96 = 1.1667S = 7S/6. Substituting: 7S/6 + S = 520 → 13S/6 = 520 → S = 520 × 6/13 = 240.",
+      "shortcut": "0.96B = 1.12S → B/S = 1.12/0.96 = 112/96 = 7/6. S = 520 × 6/13 = 240.",
+      "formula_used": "Simultaneous equations with percentage transformations",
+      "trap_type": "Assuming B = S = 260 (equal initial values)",
+      "source": "GeeksforGeeks",
+      "source_url": "",
+      "pattern_detected": "P020"
+    }
+  ]
+}

@@ -1,0 +1,418 @@
+{
+  "metadata": {
+    "topic": "Logical Reasoning",
+    "subtopic": "analogies",
+    "total_questions": 15,
+    "sources": [
+      "IndiaBIX"
+    ],
+    "last_updated": "2026-05-17"
+  },
+  "questions": [
+    {
+      "id": "reasoning_analog_001",
+      "topic": "reasoning",
+      "subtopic": "analogies",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "CUP : LIP :: BIRD : ?",
+      "options": [
+        "BUSH",
+        "GRASS",
+        "FOREST",
+        "BEAK"
+      ],
+      "answer": "D",
+      "explanation": "Cup is used to drink something with the help of lips. Similarly birds collects grass with the help of beak to make her nest.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_analog_002",
+      "topic": "reasoning",
+      "subtopic": "analogies",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Flow : River :: Stagnant : ?",
+      "options": [
+        "Rain",
+        "Stream",
+        "Pool",
+        "Canal"
+      ],
+      "answer": "C",
+      "explanation": "As Water of a River flows similarly water of Pool is Stagnant.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_analog_003",
+      "topic": "reasoning",
+      "subtopic": "analogies",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Paw : Cat :: Hoof : ?",
+      "options": [
+        "Lamb",
+        "Elephant",
+        "Lion",
+        "Horse"
+      ],
+      "answer": "D",
+      "explanation": "As cat has Paw similarly Horse has Hoof.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_analog_004",
+      "topic": "reasoning",
+      "subtopic": "analogies",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Ornithologist : Bird :: Archaeologist : ?",
+      "options": [
+        "Islands",
+        "Mediators",
+        "Archaeology",
+        "Aquatic"
+      ],
+      "answer": "C",
+      "explanation": "As Ornithologist is a specialist of Birds similarly Archaeologist is a specialist of Archaeology.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_analog_005",
+      "topic": "reasoning",
+      "subtopic": "analogies",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Peacock : India :: Bear : ?",
+      "options": [
+        "Australia",
+        "America",
+        "Russia",
+        "England"
+      ],
+      "answer": "C",
+      "explanation": "As Peacock is the national bird of India, similarly Bear is the national animal of Russia.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_analog_006",
+      "topic": "reasoning",
+      "subtopic": "analogies",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "REASON : SFBTPO :: THINK : ?",
+      "options": [
+        "SGHMJ",
+        "UIJOL",
+        "UHNKI",
+        "UJKPM"
+      ],
+      "answer": "B",
+      "explanation": "",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_analog_007",
+      "topic": "reasoning",
+      "subtopic": "analogies",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Carbon : Diamond :: Corundum : ?",
+      "options": [
+        "Garnet",
+        "Ruby",
+        "Pukhraj",
+        "Pearl"
+      ],
+      "answer": "B",
+      "explanation": "As Diamond is made of Carbon similarly Ruby is made of Corundum.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_analog_008",
+      "topic": "reasoning",
+      "subtopic": "analogies",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "NATION : ANTINO :: HUNGRY : ?",
+      "options": [
+        "HNUGRY",
+        "UHNGYR",
+        "YRNGUH",
+        "UNHGYR"
+      ],
+      "answer": "B",
+      "explanation": "",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_analog_009",
+      "topic": "reasoning",
+      "subtopic": "analogies",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Architect : Building :: Sculptor : ?",
+      "options": [
+        "Museum",
+        "Stone",
+        "Chisel",
+        "Statue"
+      ],
+      "answer": "D",
+      "explanation": "As 'Architect' makes 'Building' similarly 'Sculptor' makes 'Statue'.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_analog_010",
+      "topic": "reasoning",
+      "subtopic": "analogies",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Eye : Myopia :: Teeth : ?",
+      "options": [
+        "Pyorrhoea",
+        "Cataract",
+        "Trachoma",
+        "Eczema"
+      ],
+      "answer": "A",
+      "explanation": "As Myopia is disease of eye similarly pyorrhoea is a disease of teeth.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_analog_011",
+      "topic": "reasoning",
+      "subtopic": "analogies",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Conference : Chairman :: Newspaper : ?",
+      "options": [
+        "Reporter",
+        "Distributor",
+        "Printer",
+        "Editor"
+      ],
+      "answer": "D",
+      "explanation": "As Chairman is the highest authority in a conference similarly Editor is in Newspaper.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_analog_012",
+      "topic": "reasoning",
+      "subtopic": "analogies",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Safe : Secure :: Protect : ?",
+      "options": [
+        "Lock",
+        "Sure",
+        "Guard",
+        "Conserve"
+      ],
+      "answer": "C",
+      "explanation": "As safe and secure have same meaning in the same way protect and guard have same meaning.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_analog_013",
+      "topic": "reasoning",
+      "subtopic": "analogies",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Master : OCUVGT :: LABOUR : ?",
+      "options": [
+        "NCDQWT",
+        "NDERWT",
+        "NBERWT",
+        "NEDRWT"
+      ],
+      "answer": "A",
+      "explanation": "",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_analog_014",
+      "topic": "reasoning",
+      "subtopic": "analogies",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Microphone : Loud :: Microscope : ?",
+      "options": [
+        "Elongate",
+        "Investigate",
+        "Magnify",
+        "Examine"
+      ],
+      "answer": "C",
+      "explanation": "As Microphone makes sound louder similarly Microscope makes the object magnified.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_analog_015",
+      "topic": "reasoning",
+      "subtopic": "analogies",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Melt : Liquid :: Freeze : ?",
+      "options": [
+        "Ice",
+        "Condense",
+        "Solid",
+        "Force"
+      ],
+      "answer": "C",
+      "explanation": "As on melting, liquid is formed similarly on freezing solid is formed.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    }
+  ]
+}

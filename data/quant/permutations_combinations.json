@@ -1,0 +1,402 @@
+{
+  "metadata": {
+    "topic": "Quantitative Aptitude",
+    "subtopic": "permutations_combinations",
+    "total_questions": 14,
+    "sources": [
+      "IndiaBIX"
+    ],
+    "last_updated": "2026-05-17"
+  },
+  "questions": [
+    {
+      "id": "quant_permut_001",
+      "topic": "quant",
+      "subtopic": "permutations_combinations",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "From a group of 7 men and 6 women, five persons are to be selected to form a committee so that at least 3 men are there on the committee. In how many ways can it be done?",
+      "options": [
+        "564",
+        "645",
+        "735",
+        "756",
+        "None of these"
+      ],
+      "answer": "D",
+      "explanation": "We may have (3 men and 2 women) or (4 men and 1 woman) or (5 men only).\n\n[TABLE]\n \n \n \n \n \n [TABLE]\n \n \n \n \n \n = (525 + 210 + 21)\n \n \n \n = 756.",
+      "shortcut": "nPr = n!/(n-r)! ; nCr = n!/(r!(n-r)!)",
+      "formula_used": "",
+      "trap_type": "Using permutation when order does not matter (combination needed)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_permut_002",
+      "topic": "quant",
+      "subtopic": "permutations_combinations",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In how many different ways can the letters of the word 'LEADING' be arranged in such a way that the vowels always come together?",
+      "options": [
+        "360",
+        "480",
+        "720",
+        "5040",
+        "None of these"
+      ],
+      "answer": "C",
+      "explanation": "The word 'LEADING' has 7 different letters.\n\nWhen the vowels EAI are always together, they can be supposed to form one letter.\n\nThen, we have to arrange the letters LNDG (EAI).\n\nNow, 5 (4 + 1 = 5) letters can be arranged in 5! = 120 ways.\n\nThe vowels (EAI) can be arranged among themselves in 3! = 6 ways.\n\n Required number of ways = (120 x 6) = 720.",
+      "shortcut": "nPr = n!/(n-r)! ; nCr = n!/(r!(n-r)!)",
+      "formula_used": "",
+      "trap_type": "Using permutation when order does not matter (combination needed)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_permut_003",
+      "topic": "quant",
+      "subtopic": "permutations_combinations",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In how many different ways can the letters of the word 'CORPORATION' be arranged so that the vowels always come together?",
+      "options": [
+        "810",
+        "1440",
+        "2880",
+        "50400",
+        "5760"
+      ],
+      "answer": "D",
+      "explanation": "In the word 'CORPORATION', we treat the vowels OOAIO as one letter.\n\nThus, we have CRPRTN (OOAIO).\n\nThis has 7 (6 + 1) letters of which R occurs 2 times and the rest are different.\n\n[TABLE]\n\nNow, 5 vowels in which O occurs 3 times and the rest are different, can be arranged\n\n[TABLE]\n \n\n Required number of ways = (2520 x 20) = 50400.",
+      "shortcut": "nPr = n!/(n-r)! ; nCr = n!/(r!(n-r)!)",
+      "formula_used": "",
+      "trap_type": "Using permutation when order does not matter (combination needed)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_permut_004",
+      "topic": "quant",
+      "subtopic": "permutations_combinations",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Out of 7 consonants and 4 vowels, how many words of 3 consonants and 2 vowels can be formed?",
+      "options": [
+        "210",
+        "1050",
+        "25200",
+        "21400",
+        "None of these"
+      ],
+      "answer": "C",
+      "explanation": "Number of ways of selecting (3 consonants out of 7) and (2 vowels out of 4)\n\n[TABLE]\n \n \n \n \n = 210.\n \n\nNumber of groups, each having 3 consonants and 2 vowels = 210.\n\nEach group contains 5 letters.\n\n[TABLE]\n\n Required number of ways = (210 x 120) = 25200.",
+      "shortcut": "nPr = n!/(n-r)! ; nCr = n!/(r!(n-r)!)",
+      "formula_used": "",
+      "trap_type": "Using permutation when order does not matter (combination needed)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_permut_005",
+      "topic": "quant",
+      "subtopic": "permutations_combinations",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In how many ways can the letters of the word 'LEADER' be arranged?",
+      "options": [
+        "72",
+        "144",
+        "360",
+        "720",
+        "None of these"
+      ],
+      "answer": "C",
+      "explanation": "The word 'LEADER' contains 6 letters, namely 1L, 2E, 1A, 1D and 1R.\n\n[TABLE]",
+      "shortcut": "nPr = n!/(n-r)! ; nCr = n!/(r!(n-r)!)",
+      "formula_used": "",
+      "trap_type": "Using permutation when order does not matter (combination needed)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_permut_006",
+      "topic": "quant",
+      "subtopic": "permutations_combinations",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In a group of 6 boys and 4 girls, four children are to be selected. In how many different ways can they be selected such that at least one boy should be there?",
+      "options": [
+        "159",
+        "194",
+        "205",
+        "209",
+        "None of these"
+      ],
+      "answer": "D",
+      "explanation": "We may have (1 boy and 3 girls) or (2 boys and 2 girls) or (3 boys and 1 girl) or (4 boys).\n\n[TABLE]\n \n \n \n \n \n = (24 + 90 + 80 + 15)\n \n \n \n = 209.",
+      "shortcut": "nPr = n!/(n-r)! ; nCr = n!/(r!(n-r)!)",
+      "formula_used": "",
+      "trap_type": "Using permutation when order does not matter (combination needed)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_permut_007",
+      "topic": "quant",
+      "subtopic": "permutations_combinations",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "How many 3-digit numbers can be formed from the digits 2, 3, 5, 6, 7 and 9, which are divisible by 5 and none of the digits is repeated?",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "answer": "D",
+      "explanation": "Since each desired number is divisible by 5, so we must have 5 at the unit place. So, there is 1 way of doing it.\n\nThe tens place can now be filled by any of the remaining 5 digits (2, 3, 6, 7, 9). So, there are 5 ways of filling the tens place.\n\nThe hundreds place can now be filled by any of the remaining 4 digits. So, there are 4 ways of filling it.\n\n Required number of numbers = (1 x 5 x 4) = 20.",
+      "shortcut": "nPr = n!/(n-r)! ; nCr = n!/(r!(n-r)!)",
+      "formula_used": "",
+      "trap_type": "Using permutation when order does not matter (combination needed)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_permut_008",
+      "topic": "quant",
+      "subtopic": "permutations_combinations",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In how many ways a committee, consisting of 5 men and 6 women can be formed from 8 men and 10 women?",
+      "options": [
+        "266",
+        "5040",
+        "11760",
+        "86400",
+        "None of these"
+      ],
+      "answer": "C",
+      "explanation": "[TABLE]\n \n \n\n \n = 11760.",
+      "shortcut": "nPr = n!/(n-r)! ; nCr = n!/(r!(n-r)!)",
+      "formula_used": "",
+      "trap_type": "Using permutation when order does not matter (combination needed)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_permut_009",
+      "topic": "quant",
+      "subtopic": "permutations_combinations",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A box contains 2 white balls, 3 black balls and 4 red balls. In how many ways can 3 balls be drawn from the box, if at least one black ball is to be included in the draw?",
+      "options": [
+        "32",
+        "48",
+        "64",
+        "96",
+        "None of these"
+      ],
+      "answer": "C",
+      "explanation": "We may have(1 black and 2 non-black) or (2 black and 1 non-black) or (3 black).\n\n[TABLE]\n \n \n \n \n = (45 + 18 + 1)\n \n \n \n = 64.",
+      "shortcut": "nPr = n!/(n-r)! ; nCr = n!/(r!(n-r)!)",
+      "formula_used": "",
+      "trap_type": "Using permutation when order does not matter (combination needed)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_permut_010",
+      "topic": "quant",
+      "subtopic": "permutations_combinations",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In how many different ways can the letters of the word 'DETAIL' be arranged in such a way that the vowels occupy only the odd positions?",
+      "options": [
+        "32",
+        "48",
+        "36",
+        "60",
+        "120"
+      ],
+      "answer": "C",
+      "explanation": "There are 6 letters in the given word, out of which there are 3 vowels and 3 consonants.\n\nLet us mark these positions as under:\n\n(1) (2) (3) (4) (5) (6)\n\nNow, 3 vowels can be placed at any of the three places, marked 1, 3, 5.\n\nNumber of ways of arranging the vowels = ^3P_3 = 3! = 6.\n\nAlso, the 3 consonants can be arranged at the remaining 3 positions.\n\nNumber of ways of these arrangements = ^3P_3 = 3! = 6.\n\nTotal number of ways = (6 x 6) = 36.",
+      "shortcut": "nPr = n!/(n-r)! ; nCr = n!/(r!(n-r)!)",
+      "formula_used": "",
+      "trap_type": "Using permutation when order does not matter (combination needed)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_permut_011",
+      "topic": "quant",
+      "subtopic": "permutations_combinations",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In how many ways can a group of 5 men and 2 women be made out of a total of 7 men and 3 women?",
+      "options": [
+        "63",
+        "90",
+        "126",
+        "45",
+        "135"
+      ],
+      "answer": "A",
+      "explanation": "[TABLE]",
+      "shortcut": "nPr = n!/(n-r)! ; nCr = n!/(r!(n-r)!)",
+      "formula_used": "",
+      "trap_type": "Using permutation when order does not matter (combination needed)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_permut_012",
+      "topic": "quant",
+      "subtopic": "permutations_combinations",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "How many 4-letter words with or without meaning, can be formed out of the letters of the word, 'LOGARITHMS', if repetition of letters is not allowed?",
+      "options": [
+        "40",
+        "400",
+        "5040",
+        "2520"
+      ],
+      "answer": "C",
+      "explanation": "'LOGARITHMS' contains 10 different letters.\n\n[TABLE]",
+      "shortcut": "nPr = n!/(n-r)! ; nCr = n!/(r!(n-r)!)",
+      "formula_used": "",
+      "trap_type": "Using permutation when order does not matter (combination needed)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_permut_013",
+      "topic": "quant",
+      "subtopic": "permutations_combinations",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In how many different ways can the letters of the word 'MATHEMATICS' be arranged so that the vowels always come together?",
+      "options": [
+        "10080",
+        "4989600",
+        "120960",
+        "None of these"
+      ],
+      "answer": "C",
+      "explanation": "In the word 'MATHEMATICS', we treat the vowels AEAI as one letter.\n\nThus, we have MTHMTCS (AEAI).\n\nNow, we have to arrange 8 letters, out of which M occurs twice, T occurs twice and the rest are different.\n\n[TABLE]\n\nNow, AEAI has 4 letters in which A occurs 2 times and the rest are different.\n\n[TABLE]\n \n\n Required number of words = (10080 x 12) = 120960.",
+      "shortcut": "nPr = n!/(n-r)! ; nCr = n!/(r!(n-r)!)",
+      "formula_used": "",
+      "trap_type": "Using permutation when order does not matter (combination needed)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_permut_014",
+      "topic": "quant",
+      "subtopic": "permutations_combinations",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In how many different ways can the letters of the word 'OPTICAL' be arranged so that the vowels always come together?",
+      "options": [
+        "120",
+        "720",
+        "4320",
+        "2160",
+        "None of these"
+      ],
+      "answer": "B",
+      "explanation": "The word 'OPTICAL' contains 7 different letters.\n\nWhen the vowels OIA are always together, they can be supposed to form one letter.\n\nThen, we have to arrange the letters PTCL (OIA).\n\nNow, 5 letters can be arranged in 5! = 120 ways.\n\nThe vowels (OIA) can be arranged among themselves in 3! = 6 ways.\n\n Required number of ways = (120 x 6) = 720.",
+      "shortcut": "nPr = n!/(n-r)! ; nCr = n!/(r!(n-r)!)",
+      "formula_used": "",
+      "trap_type": "Using permutation when order does not matter (combination needed)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "metadata": {
+    "topic": "Quantitative Aptitude",
+    "subtopic": "calendars",
+    "total_questions": 10,
+    "sources": [
+      "IndiaBIX"
+    ],
+    "last_updated": "2026-05-17"
+  },
+  "questions": [
+    {
+      "id": "quant_calend_001",
+      "topic": "quant",
+      "subtopic": "calendars",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "It was Sunday on Jan 1, 2006. What was the day of the week Jan 1, 2010?",
+      "options": [
+        "Sunday",
+        "Saturday",
+        "Friday",
+        "Wednesday"
+      ],
+      "answer": "C",
+      "explanation": "On 31st December, 2005 it was Saturday.\n\nNumber of odd days from the year 2006 to the year 2009 = (1 + 1 + 2 + 1) = 5 days.\n\n On 31st December 2009, it was Thursday.\n\nThus, on 1st Jan, 2010 it is Friday.",
+      "shortcut": "Odd days method: 1600 years = 0 odd days, 2000 years = 0 odd days",
+      "formula_used": "",
+      "trap_type": "Forgetting that century years not divisible by 400 are not leap years",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_calend_002",
+      "topic": "quant",
+      "subtopic": "calendars",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What was the day of the week on 28th May, 2006?",
+      "options": [
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "answer": "D",
+      "explanation": "28 May, 2006 = (2005 years + Period from 1.1.2006 to 28.5.2006)\n\nOdd days in 1600 years = 0\n\nOdd days in 400 years = 0\n\n5 years = (4 ordinary years + 1 leap year) = (4 x 1 + 1 x 2) 6 odd days\n\nJan. Feb. March April May \n(31 + 28 + 31 + 30 + 28 ) = 148 days\n\n 148 days = (21 weeks + 1 day) 1 odd day.\n\nTotal number of odd days = (0 + 0 + 6 + 1) = 7 0 odd day.\n\nGiven day is Sunday.",
+      "shortcut": "Odd days method: 1600 years = 0 odd days, 2000 years = 0 odd days",
+      "formula_used": "",
+      "trap_type": "Forgetting that century years not divisible by 400 are not leap years",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_calend_003",
+      "topic": "quant",
+      "subtopic": "calendars",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What was the day of the week on 17th June, 1998?",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "answer": "C",
+      "explanation": "17th June, 1998 = (1997 years + Period from 1.1.1998 to 17.6.1998)\n\nOdd days in 1600 years = 0\n\nOdd days in 300 years = (5 x 3) 1\n\n97 years has 24 leap years + 73 ordinary years.\n\nNumber of odd days in 97 years ( 24 x 2 + 73) = 121 = 2 odd days.\n\nJan. Feb. March April May June \n(31 + 28 + 31 + 30 + 31 + 17) = 168 days\n\n 168 days = 24 weeks = 0 odd day.\n\nTotal number of odd days = (0 + 1 + 2 + 0) = 3.\n\nGiven day is Wednesday.",
+      "shortcut": "Odd days method: 1600 years = 0 odd days, 2000 years = 0 odd days",
+      "formula_used": "",
+      "trap_type": "Forgetting that century years not divisible by 400 are not leap years",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_calend_004",
+      "topic": "quant",
+      "subtopic": "calendars",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What will be the day of the week 15th August, 2010?",
+      "options": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Friday"
+      ],
+      "answer": "A",
+      "explanation": "15th August, 2010 = (2009 years + Period 1.1.2010 to 15.8.2010)\n\nOdd days in 1600 years = 0\n\nOdd days in 400 years = 0\n\n9 years = (2 leap years + 7 ordinary years) = (2 x 2 + 7 x 1) = 11 odd days 4 odd days.\n\nJan. Feb. March April May June July Aug. \n(31 + 28 + 31 + 30 + 31 + 30 + 31 + 15) = 227 days\n\n 227 days = (32 weeks + 3 days) 3 odd days.\n\nTotal number of odd days = (0 + 0 + 4 + 3) = 7 0 odd days.\n\nGiven day is Sunday.",
+      "shortcut": "Odd days method: 1600 years = 0 odd days, 2000 years = 0 odd days",
+      "formula_used": "",
+      "trap_type": "Forgetting that century years not divisible by 400 are not leap years",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_calend_005",
+      "topic": "quant",
+      "subtopic": "calendars",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Today is Monday. After 61 days, it will be:",
+      "options": [
+        "Wednesday",
+        "Saturday",
+        "Tuesday",
+        "Thursday"
+      ],
+      "answer": "B",
+      "explanation": "Each day of the week is repeated after 7 days.\n\nSo, after 63 days, it will be Monday.\n\n After 61 days, it will be Saturday.",
+      "shortcut": "Odd days method: 1600 years = 0 odd days, 2000 years = 0 odd days",
+      "formula_used": "",
+      "trap_type": "Forgetting that century years not divisible by 400 are not leap years",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_calend_006",
+      "topic": "quant",
+      "subtopic": "calendars",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If 6th March, 2005 is Monday, what was the day of the week on 6th March, 2004?",
+      "options": [
+        "Sunday",
+        "Saturday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "answer": "A",
+      "explanation": "The year 2004 is a leap year. So, it has 2 odd days.\n\nBut, Feb 2004 not included because we are calculating from March 2004 to March 2005. So it has 1 odd day only.\n \n\n The day on 6th March, 2005 will be 1 day beyond the day on 6th March, 2004.\n\nGiven that, 6th March, 2005 is Monday.\n\n 6th March, 2004 is Sunday (1 day before to 6th March, 2005).",
+      "shortcut": "Odd days method: 1600 years = 0 odd days, 2000 years = 0 odd days",
+      "formula_used": "",
+      "trap_type": "Forgetting that century years not divisible by 400 are not leap years",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_calend_007",
+      "topic": "quant",
+      "subtopic": "calendars",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "On what dates of April, 2001 did Wednesday fall?",
+      "options": [
+        "1st, 8th, 15th, 22nd, 29th",
+        "2nd, 9th, 16th, 23rd, 30th",
+        "3rd, 10th, 17th, 24th",
+        "4th, 11th, 18th, 25th"
+      ],
+      "answer": "D",
+      "explanation": "We shall find the day on 1st April, 2001.\n1st April, 2001 = (2000 years + Period from 1.1.2001 to 1.4.2001)\n\nOdd days in 1600 years = 0\n\nOdd days in 400 years = 0\n\nJan. Feb. March April\n\n(31 + 28 + 31 + 1) = 91 days 0 odd days.\n\nTotal number of odd days = (0 + 0 + 0) = 0\n\nOn 1st April, 2001 it was Sunday.\n\nIn April, 2001 Wednesday falls on 4th, 11th, 18th and 25th.",
+      "shortcut": "Odd days method: 1600 years = 0 odd days, 2000 years = 0 odd days",
+      "formula_used": "",
+      "trap_type": "Forgetting that century years not divisible by 400 are not leap years",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_calend_008",
+      "topic": "quant",
+      "subtopic": "calendars",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "How many days are there in x weeks x days?",
+      "options": [
+        "7x^2",
+        "8x",
+        "14x",
+        "7"
+      ],
+      "answer": "B",
+      "explanation": "x weeks x days = (7x + x) days = 8x days.",
+      "shortcut": "Odd days method: 1600 years = 0 odd days, 2000 years = 0 odd days",
+      "formula_used": "",
+      "trap_type": "Forgetting that century years not divisible by 400 are not leap years",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_calend_009",
+      "topic": "quant",
+      "subtopic": "calendars",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The last day of a century cannot be",
+      "options": [
+        "Monday",
+        "Wednesday",
+        "Tuesday",
+        "Friday"
+      ],
+      "answer": "C",
+      "explanation": "100 years contain 5 odd days.\n\n Last day of 1st century is Friday.\n\n200 years contain (5 x 2) 3 odd days.\n\n Last day of 2nd century is Wednesday.\n\n300 years contain (5 x 3) = 15 1 odd day.\n\n Last day of 3rd century is Monday.\n\n400 years contain 0 odd day.\n\n Last day of 4th century is Sunday.\n\nThis cycle is repeated.\n\n Last day of a century cannot be Tuesday or Thursday or Saturday.",
+      "shortcut": "Odd days method: 1600 years = 0 odd days, 2000 years = 0 odd days",
+      "formula_used": "",
+      "trap_type": "Forgetting that century years not divisible by 400 are not leap years",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_calend_010",
+      "topic": "quant",
+      "subtopic": "calendars",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "On 8th Feb, 2005 it was Tuesday. What was the day of the week on 8th Feb, 2004?",
+      "options": [
+        "Tuesday",
+        "Monday",
+        "Sunday",
+        "Wednesday"
+      ],
+      "answer": "C",
+      "explanation": "The year 2004 is a leap year. It has 2 odd days.\n\n The day on 8th Feb, 2004 is 2 days before the day on 8th Feb, 2005.\n\nHence, this day is Sunday.",
+      "shortcut": "Odd days method: 1600 years = 0 odd days, 2000 years = 0 odd days",
+      "formula_used": "",
+      "trap_type": "Forgetting that century years not divisible by 400 are not leap years",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    }
+  ]
+}

@@ -1,0 +1,393 @@
+{
+  "metadata": {
+    "topic": "Coding-Decoding",
+    "total_questions": 15,
+    "sources": [
+      "IndiaBIX",
+      "PrepInsta",
+      "GeeksforGeeks"
+    ],
+    "last_updated": "2026-05-17"
+  },
+  "questions": [
+    {
+      "id": "reasoning_coding_001",
+      "topic": "reasoning",
+      "subtopic": "coding_decoding",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Wipro",
+        "HCL"
+      ],
+      "question": "If COMPUTER is coded as RFUVQNPC, then how is MEDICINE coded?",
+      "options": [
+        "EOJDJEFM",
+        "EOJDEJFM",
+        "MFEJDJOE",
+        "MFEDJJOE"
+      ],
+      "answer": "A",
+      "explanation": "Pattern: Each letter is shifted alternately +1 and -1. C(+1)=D but given R... Wait let me check: C→R (shift +15 or -11), O→F (-11), M→U (+8)... Actually this looks like reverse + shift. Let me decode COMPUTER→RFUVQNPC properly. C(3)→R(18): +15. O(15)→F(6): -9. M(13)→U(21): +8. P(16)→V(22): +6. U(21)→Q(17): -4. T(20)→N(14): -6. E(5)→P(16): +11. R(18)→C(3): -15. Hmm that's inconsistent. Let me try another approach: reverse COMPUTER = RETUPMOC. Now R→R (0), E→F (+1), T→U (+1), U→V (+1), P→Q (+1), M→N (+1), O→P (+1), C→C (0). No. Let me try reverse and then +1 each: R→S, E→F, T→U, U→V, P→Q, M→N, O→P, C→D = SFUVQNPD. Close but not RFUVQNPC. Let me try: C→R is opposite in alphabet (C=3, R=18, 3+18=21... no). Actually C(3) opposite is X(24), not R. Let me just analyze given: COMPUTER has 8 letters. RFUVQNPC has 8 letters. Maybe it's reverse plus some pattern. C O M P U T E R → R E T U P M O C (reverse). Now compare R E T U P M O C with R F U V Q N P C. Differences: R=R, E+1=F, T+1=U, U+1=V, P+1=Q, M+1=N, O+1=P, C=C. Hmm wait: R E T U P M O C vs R F U V Q N P C. R=R, E→F(+1), T→U(+1), U→V(+1), P→Q(+1), M→N(+1), O→P(+1), C→C(0). The last doesn't match. Let me recount: R E T U P M O C - positions: R=1, E=2, T=3, U=4, P=5, M=6, O=7, C=8. RFUVQNPC: R=1, F=2, U=3, V=4, Q=5, N=6, P=7, C=8. So: R→R(0), E→F(+1), T→U(+1), U→V(+1), P→Q(+1), M→N(+1), O→P(+1), C→C(0). Why first and last unchanged? Actually this might be: reverse the word, then first and last stay same, middle letters +1. RETUPMOC → R(F)(U)(V)(Q)(N)(P)C = RFUVQNPC. Yes! Reverse COMPUTER = RETUPMOC. Then first and last unchanged, rest +1: R E+1=F, T+1=U, U+1=V, P+1=Q, M+1=N, O+1=P, C=C. So RFUVQNPC. Now apply to MEDICINE: reverse = ENICIDEM. First and last unchanged, middle +1: E(N+1=O)(I+1=J)(C+1=D)(I+1=J)(D+1=E)(E+1=F)M = EOJDJEFM.",
+      "shortcut": "Reverse the word, then add 1 to each letter except first and last.",
+      "formula_used": "Reverse string, then shift middle letters by +1",
+      "trap_type": "Just reversing without shifting, or shifting all letters including first and last",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "CD001"
+    },
+    {
+      "id": "reasoning_coding_002",
+      "topic": "reasoning",
+      "subtopic": "coding_decoding",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys"
+      ],
+      "question": "In a certain code, MONKEY is coded as 13151411525. How is TIGER coded?",
+      "options": [
+        "2097518",
+        "197225",
+        "208518",
+        "207518"
+      ],
+      "answer": "A",
+      "explanation": "Pattern: Each letter is replaced by its position in the English alphabet. M=13, O=15, N=14, K=11, E=5, Y=25 → 13151411525. So TIGER: T=20, I=9, G=7, E=5, R=18 → 2097518.",
+      "shortcut": "Write alphabet positions: T=20, I=9, G=7, E=5, R=18. Concatenate: 2097518.",
+      "formula_used": "A=1, B=2, C=3, ..., Z=26",
+      "trap_type": "Using A=0, B=1 system instead of A=1",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "CD002"
+    },
+    {
+      "id": "reasoning_coding_003",
+      "topic": "reasoning",
+      "subtopic": "coding_decoding",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Accenture",
+        "Capgemini"
+      ],
+      "question": "If in a certain language, MADRAS is coded as NBESBT, how is BOMBAY coded in that code?",
+      "options": [
+        "CPNCBZ",
+        "CPOCBZ",
+        "CQOCBZ",
+        "CPNCBX"
+      ],
+      "answer": "A",
+      "explanation": "Pattern: Each letter is shifted by +1. M→N, A→B, D→E, R→S, A→B, S→T. So BOMBAY: B→C, O→P, M→N, B→C, A→B, Y→Z = CPNCBZ.",
+      "shortcut": "Simple +1 shift for each letter. BOMBAY → CPNCBZ.",
+      "formula_used": "Each letter shifted by fixed amount (+1)",
+      "trap_type": "Applying different shift to different letters, or shifting only consonants",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "CD003"
+    },
+    {
+      "id": "reasoning_coding_004",
+      "topic": "reasoning",
+      "subtopic": "coding_decoding",
+      "difficulty": "medium",
+      "company_tags": [
+        "Deloitte",
+        "IBM"
+      ],
+      "question": "If FRIEND is coded as HUMJTK, how is CANDLE written in that code?",
+      "options": [
+        "EDRIRL",
+        "DCQHQK",
+        "ESJFME",
+        "FYOBOC"
+      ],
+      "answer": "A",
+      "explanation": "Pattern: F→H (+2), R→U (+3), I→M (+4), E→J (+5), N→T (+6), D→K (+7). Shifts increase by 1 each time. So CANDLE: C→E(+2), A→D(+3), N→R(+4), D→I(+5), L→R(+6), E→L(+7) = EDRIRL.",
+      "shortcut": "Progressive shift: +2, +3, +4, +5, +6, +7. CANDLE: C+2=E, A+3=D, N+4=R, D+5=I, L+6=R, E+7=L.",
+      "formula_used": "Progressive shift: nth letter shifted by (n+1)",
+      "trap_type": "Using constant shift for all letters",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "CD004"
+    },
+    {
+      "id": "reasoning_coding_005",
+      "topic": "reasoning",
+      "subtopic": "coding_decoding",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Deloitte"
+      ],
+      "question": "If GROUND is coded as ITQWPF, how is ALWAYS coded?",
+      "options": [
+        "CNYCYU",
+        "CNCAYU",
+        "CNYBXU",
+        "CNYCXV"
+      ],
+      "answer": "A",
+      "explanation": "Pattern: Each letter shifted by +2. G→I, R→T, O→Q, U→W, N→P, D→F. So ALWAYS: A→C, L→N, W→Y, A→C, Y→A, S→U = CNYCYU.",
+      "shortcut": "Simple +2 Caesar cipher. ALWAYS +2 = CNYCYU.",
+      "formula_used": "Constant shift Caesar cipher",
+      "trap_type": "Alternating shifts or varying shift amounts",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "CD003"
+    },
+    {
+      "id": "reasoning_coding_006",
+      "topic": "reasoning",
+      "subtopic": "coding_decoding",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Wipro"
+      ],
+      "question": "In a certain code, TRIPPLE is written as SQHOOKD. How is DISPOSE written in that code?",
+      "options": [
+        "CHRONRD",
+        "CHROMRD",
+        "CHRONSD",
+        "CHRONRC"
+      ],
+      "answer": "A",
+      "explanation": "Pattern: T→S (-1), R→Q (-1), I→H (-1), P→O (-1), P→O (-1), L→K (-1), E→D (-1). Constant -1 shift. So DISPOSE: D→C, I→H, S→R, P→O, O→N, S→R, E→D = CHRONRD.",
+      "shortcut": "Each letter shifted by -1. DISPOSE -1 = CHRONRD.",
+      "formula_used": "Constant -1 Caesar cipher",
+      "trap_type": "Using +1 instead of -1 (getting EJTQPTF)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "CD003"
+    },
+    {
+      "id": "reasoning_coding_007",
+      "topic": "reasoning",
+      "subtopic": "coding_decoding",
+      "difficulty": "hard",
+      "company_tags": [
+        "Deloitte",
+        "IBM",
+        "TCS"
+      ],
+      "question": "If TEACHER is coded as TAECEHR, how is STUDENT coded?",
+      "options": [
+        "SUTDENT",
+        "SUTDETN",
+        "SUTDNET",
+        "SUTEDNT"
+      ],
+      "answer": "C",
+      "explanation": "Pattern: First letter stays, then swap adjacent pairs: TEACHER → T, then EA→AE, CH→HC, ER→RE = TAEHCER? But given is TAECEHR. Hmm. Let me check: T-E-A-C-H-E-R. T stays. E-A swapped = A-E. C-H swapped = H-C. E-R swapped = R-E. So T-A-E-H-C-R-E = TAEHCRE. Still not matching. Actually TAECEHR: T-A-E-C-E-H-R. Original: T-E-A-C-H-E-R. Maybe swap 2-3, keep 4, swap 5-6, keep 7: T-A-E-C-E-H-R. Yes! So STUDENT: S-T-U-D-E-N-T. Swap 2-3: T-U. Keep 4: D. Swap 5-6: E-N. Keep 7: T. S-U-T-D-N-E-T = SUTDNET.",
+      "shortcut": "First letter fixed, then swap pairs (2-3), keep (4), swap (5-6), keep (7).",
+      "formula_used": "Fixed first letter, then pair swapping pattern",
+      "trap_type": "Swapping all adjacent pairs including first letter",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "CD005"
+    },
+    {
+      "id": "reasoning_coding_008",
+      "topic": "reasoning",
+      "subtopic": "coding_decoding",
+      "difficulty": "medium",
+      "company_tags": [
+        "Accenture",
+        "Capgemini"
+      ],
+      "question": "If ANTE is coded as 1234 and TENT is coded as 3423, how is NEAT coded?",
+      "options": [
+        "2413",
+        "2431",
+        "2314",
+        "2143"
+      ],
+      "answer": "A",
+      "explanation": "From ANTE=1234: A=1, N=2, T=3, E=4. Verify with TENT=3423: T=3, E=4, N=2, T=3. Matches! So NEAT = N(2) E(4) A(1) T(3) = 2413.",
+      "shortcut": "Map each letter from given words, then apply to target.",
+      "formula_used": "Letter-to-digit substitution mapping",
+      "trap_type": "Assuming alphabetical order (A=1, B=2, etc.) when it's arbitrary",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "CD006"
+    },
+    {
+      "id": "reasoning_coding_009",
+      "topic": "reasoning",
+      "subtopic": "coding_decoding",
+      "difficulty": "easy",
+      "company_tags": [
+        "HCL",
+        "Tech Mahindra"
+      ],
+      "question": "If D = 4 and DOG = 26, then find the value of LION.",
+      "options": [
+        "40",
+        "42",
+        "45",
+        "50"
+      ],
+      "answer": "D",
+      "explanation": "Pattern: Sum of alphabet positions. D=4, O=15, G=7. DOG = 4+15+7 = 26. So LION = 12+9+15+14 = 50.",
+      "shortcut": "L=12, I=9, O=15, N=14. Sum = 12+9+15+14 = 50.",
+      "formula_used": "Sum of letter positions in alphabet",
+      "trap_type": "Multiplying instead of adding, or using wrong position values",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "CD007"
+    },
+    {
+      "id": "reasoning_coding_010",
+      "topic": "reasoning",
+      "subtopic": "coding_decoding",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Accenture"
+      ],
+      "question": "If LONDON is coded as MPOEPO, how is MOSCOW coded?",
+      "options": [
+        "NPTDPX",
+        "NPTDXP",
+        "NQTDPX",
+        "NPTDQX"
+      ],
+      "answer": "A",
+      "explanation": "Pattern: L→M (+1), O→P (+1), N→O (+1), D→E (+1), O→P (+1), N→O (+1). Simple +1 shift. So MOSCOW: M→N, O→P, S→T, C→D, O→P, W→X = NPTDPX.",
+      "shortcut": "Each letter +1. MOSCOW +1 = NPTDPX.",
+      "formula_used": "Constant +1 Caesar cipher",
+      "trap_type": "Applying shift only to consonants or vowels",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "CD003"
+    },
+    {
+      "id": "reasoning_coding_011",
+      "topic": "reasoning",
+      "subtopic": "coding_decoding",
+      "difficulty": "hard",
+      "company_tags": [
+        "Deloitte",
+        "IBM"
+      ],
+      "question": "If COURSE is coded as ESRUOC, how is CLASS coded?",
+      "options": [
+        "SSALC",
+        "SALSC",
+        "SSCLA",
+        "SSACL"
+      ],
+      "answer": "A",
+      "explanation": "Pattern: Reverse the word. COURSE reversed = ESRUOC. So CLASS reversed = SSALC.",
+      "shortcut": "Reverse the letters. CLASS → SSALC.",
+      "formula_used": "String reversal",
+      "trap_type": "Only reversing some letters or keeping first and last fixed",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "CD008"
+    },
+    {
+      "id": "reasoning_coding_012",
+      "topic": "reasoning",
+      "subtopic": "coding_decoding",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Cognizant"
+      ],
+      "question": "If CERTAIN is coded as XVIGZRM, how is MOUNTAIN coded?",
+      "options": [
+        "NFLFGZRM",
+        "NFLFMZRM",
+        "NFMFGZRM",
+        "NFLFGZRN"
+      ],
+      "answer": "A",
+      "explanation": "Pattern: C(3)→X(24): 3+24=27, X is opposite of C (27-3=24). E(5)→V(22): 5+22=27. R(18)→I(9): 18+9=27. T(20)→G(7): 20+7=27. A(1)→Z(26): 1+26=27. I(9)→R(18): 9+18=27. N(14)→M(13): 14+13=27. Opposite letter in alphabet (A↔Z, B↔Y, etc., sum=27). So MOUNTAIN: M(13)→N(14), O(15)→L(12), U(21)→F(6), N(14)→M(13), T(20)→G(7), A(1)→Z(26), I(9)→R(18), N(14)→M(13) = NFLFGZRM.",
+      "shortcut": "Each letter replaced by its opposite (A↔Z, B↔Y, C↔X, etc.). Sum of positions = 27.",
+      "formula_used": "Opposite letter cipher: code = 27 - position",
+      "trap_type": "Using +13 (ROT13) instead of opposite cipher",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "CD009"
+    },
+    {
+      "id": "reasoning_coding_013",
+      "topic": "reasoning",
+      "subtopic": "coding_decoding",
+      "difficulty": "hard",
+      "company_tags": [
+        "Deloitte",
+        "TCS"
+      ],
+      "question": "If SYSTEM is coded as SYSMET and NEARER is coded as AENRER, how is FRACTION coded?",
+      "options": [
+        "CARFTINO",
+        "CARFTION",
+        "CARFNOIT",
+        "CRAFNOIT"
+      ],
+      "answer": "C",
+      "explanation": "Pattern: In SYSTEM (6 letters), first half SYST and second half EM. Reverse second half: ME. But given is SYSMET. Actually SYST+EM → SYS+TEM? Hmm. Let me check NEARER: N-E-A-R-E-R. Coded: A-E-N-R-E-R. First three letters reversed: N-E-A → A-E-N. Last three stay: R-E-R. So first half reversed. For SYSTEM (even): S-Y-S-T-E-M. First three: S-Y-S reversed = S-Y-S (palindrome). Hmm. Actually let's look at NEARER more carefully: N-E-A-R-E-R → A-E-N-R-E-R. First 3 reversed, last 3 same. 6 letters → 3+3. For SYSTEM: S-Y-S-T-E-M → S-Y-S-M-E-T = SYSMET. First 3 same (SYS is palindrome), last 3 reversed: T-E-M → M-E-T. So pattern: reverse the second half of the word. FRACTION = F-R-A-C-T-I-O-N (8 letters). First 4: F-R-A-C. Last 4 reversed: N-O-I-T. Result: F-R-A-C-N-O-I-T = FRACNOIT? But option C is CARFNOIT. Hmm, maybe first half also reversed? C-A-R-F-N-O-I-T = CARFNOIT. Let's check with NEARER: N-E-A-R-E-R. If both halves reversed: A-E-N + R-E-R = AENRER. Matches! For SYSTEM: S-Y-S-T-E-M. Both halves reversed: S-Y-S + M-E-T = SYSMET. Matches! So for FRACTION: F-R-A-C-T-I-O-N. First 4 reversed: C-A-R-F. Last 4 reversed: N-O-I-T. Combined: C-A-R-F-N-O-I-T = CARFNOIT.",
+      "shortcut": "Divide word into two equal halves, reverse each half. FRACTION → FRAC + TION → CARF + NOIT = CARFNOIT.",
+      "formula_used": "Divide into halves, reverse each half",
+      "trap_type": "Reversing only one half or reversing the entire word",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "CD010"
+    },
+    {
+      "id": "reasoning_coding_014",
+      "topic": "reasoning",
+      "subtopic": "coding_decoding",
+      "difficulty": "medium",
+      "company_tags": [
+        "Accenture",
+        "Capgemini"
+      ],
+      "question": "If DECEMBER is coded as REBMECED, how is NOVEMBER coded?",
+      "options": [
+        "REBMEVON",
+        "REBMVENO",
+        "REBMEVNO",
+        "REBMEONV"
+      ],
+      "answer": "A",
+      "explanation": "Pattern: Reverse the word. DECEMBER reversed = REBMECED. So NOVEMBER reversed = REBMEVON.",
+      "shortcut": "Reverse the entire word. NOVEMBER → REBMEVON.",
+      "formula_used": "Complete string reversal",
+      "trap_type": "Only reversing first half or keeping first/last letter fixed",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "CD008"
+    },
+    {
+      "id": "reasoning_coding_015",
+      "topic": "reasoning",
+      "subtopic": "coding_decoding",
+      "difficulty": "hard",
+      "company_tags": [
+        "IBM",
+        "Deloitte",
+        "TCS"
+      ],
+      "question": "If CONDEMN is coded as CNODMEN, how is TEACHER coded?",
+      "options": [
+        "TAECHRE",
+        "TAECEHR",
+        "TACEHRE",
+        "TAECEHR"
+      ],
+      "answer": "B",
+      "explanation": "Pattern: CONDEMN = C-O-N-D-E-M-N. Coded: C-N-O-D-M-E-N. First letter stays. Then swap 2-3: O-N → N-O. Keep 4: D. Swap 5-6: E-M → M-E. Keep 7: N. So alternating swap pairs after first letter. TEACHER: T-E-A-C-H-E-R. T stays. Swap 2-3: E-A → A-E. Keep 4: C. Swap 5-6: H-E → E-H. Keep 7: R. Result: T-A-E-C-E-H-R = TAECEHR.",
+      "shortcut": "First letter fixed, then swap adjacent pairs (2-3), keep (4), swap (5-6), keep (7).",
+      "formula_used": "Alternating swap pattern after fixed first letter",
+      "trap_type": "Swapping all pairs including first letter (getting AETCHRE)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "CD005"
+    }
+  ]
+}

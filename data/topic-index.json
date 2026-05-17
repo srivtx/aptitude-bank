@@ -1,0 +1,617 @@
+{
+  "generated_at": "2026-05-17T22:13:13.270Z",
+  "total_topics": 42,
+  "total_questions": 508,
+  "total_company_questions": 25,
+  "total_patterns": 15,
+  "categories": {
+    "quant": 22,
+    "reasoning": 11,
+    "verbal": 9
+  },
+  "topics": [
+    {
+      "id": "percentages",
+      "name": "Percentages",
+      "category": "quant",
+      "total_questions": 20,
+      "difficulty_distribution": {
+        "easy": 3,
+        "medium": 10,
+        "hard": 7
+      },
+      "sources": [
+        "IndiaBIX",
+        "PrepInsta",
+        "GeeksforGeeks",
+        "FacePrep"
+      ]
+    },
+    {
+      "id": "series",
+      "name": "Series",
+      "category": "reasoning",
+      "total_questions": 20,
+      "difficulty_distribution": {
+        "easy": 5,
+        "medium": 9,
+        "hard": 6
+      },
+      "sources": [
+        "IndiaBIX",
+        "PrepInsta",
+        "GeeksforGeeks"
+      ]
+    },
+    {
+      "id": "profit_loss",
+      "name": "Profit and Loss",
+      "category": "quant",
+      "total_questions": 18,
+      "difficulty_distribution": {
+        "easy": 3,
+        "medium": 9,
+        "hard": 6
+      },
+      "sources": [
+        "IndiaBIX",
+        "PrepInsta",
+        "GeeksforGeeks"
+      ]
+    },
+    {
+      "id": "time_speed_distance",
+      "name": "Time, Speed and Distance",
+      "category": "quant",
+      "total_questions": 18,
+      "difficulty_distribution": {
+        "easy": 3,
+        "medium": 9,
+        "hard": 6
+      },
+      "sources": [
+        "IndiaBIX",
+        "PrepInsta",
+        "GeeksforGeeks"
+      ]
+    },
+    {
+      "id": "time_work",
+      "name": "Time and Work",
+      "category": "quant",
+      "total_questions": 16,
+      "difficulty_distribution": {
+        "easy": 2,
+        "medium": 8,
+        "hard": 6
+      },
+      "sources": [
+        "IndiaBIX",
+        "PrepInsta",
+        "GeeksforGeeks"
+      ]
+    },
+    {
+      "id": "ages",
+      "name": "Quantitative Aptitude",
+      "category": "quant",
+      "total_questions": 15,
+      "difficulty_distribution": {
+        "easy": 0,
+        "medium": 10,
+        "hard": 5
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "averages",
+      "name": "Quantitative Aptitude",
+      "category": "quant",
+      "total_questions": 15,
+      "difficulty_distribution": {
+        "easy": 1,
+        "medium": 12,
+        "hard": 2
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "hcf_lcm",
+      "name": "HCF and LCM",
+      "category": "quant",
+      "total_questions": 15,
+      "difficulty_distribution": {
+        "easy": 5,
+        "medium": 7,
+        "hard": 3
+      },
+      "sources": [
+        "IndiaBIX",
+        "PrepInsta",
+        "GeeksforGeeks"
+      ]
+    },
+    {
+      "id": "mensuration",
+      "name": "Quantitative Aptitude",
+      "category": "quant",
+      "total_questions": 15,
+      "difficulty_distribution": {
+        "easy": 7,
+        "medium": 6,
+        "hard": 2
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "number_system",
+      "name": "Quantitative Aptitude",
+      "category": "quant",
+      "total_questions": 15,
+      "difficulty_distribution": {
+        "easy": 8,
+        "medium": 2,
+        "hard": 5
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "probability",
+      "name": "Quantitative Aptitude",
+      "category": "quant",
+      "total_questions": 15,
+      "difficulty_distribution": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 15
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "ratios_proportions",
+      "name": "Quantitative Aptitude",
+      "category": "quant",
+      "total_questions": 15,
+      "difficulty_distribution": {
+        "easy": 2,
+        "medium": 13,
+        "hard": 0
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "analogies",
+      "name": "Logical Reasoning",
+      "category": "reasoning",
+      "total_questions": 15,
+      "difficulty_distribution": {
+        "easy": 15,
+        "medium": 0,
+        "hard": 0
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "blood_relations",
+      "name": "Logical Reasoning",
+      "category": "reasoning",
+      "total_questions": 15,
+      "difficulty_distribution": {
+        "easy": 14,
+        "medium": 1,
+        "hard": 0
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "coding_decoding",
+      "name": "Coding-Decoding",
+      "category": "reasoning",
+      "total_questions": 15,
+      "difficulty_distribution": {
+        "easy": 3,
+        "medium": 7,
+        "hard": 5
+      },
+      "sources": [
+        "IndiaBIX",
+        "PrepInsta",
+        "GeeksforGeeks"
+      ]
+    },
+    {
+      "id": "direction_sense",
+      "name": "Logical Reasoning",
+      "category": "reasoning",
+      "total_questions": 15,
+      "difficulty_distribution": {
+        "easy": 14,
+        "medium": 1,
+        "hard": 0
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "puzzles",
+      "name": "Logical Reasoning",
+      "category": "reasoning",
+      "total_questions": 15,
+      "difficulty_distribution": {
+        "easy": 15,
+        "medium": 0,
+        "hard": 0
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "error_spotting",
+      "name": "Verbal Ability",
+      "category": "verbal",
+      "total_questions": 15,
+      "difficulty_distribution": {
+        "easy": 14,
+        "medium": 1,
+        "hard": 0
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "one_word_substitution",
+      "name": "Verbal Ability",
+      "category": "verbal",
+      "total_questions": 15,
+      "difficulty_distribution": {
+        "easy": 13,
+        "medium": 2,
+        "hard": 0
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "sentence_correction",
+      "name": "Verbal Ability",
+      "category": "verbal",
+      "total_questions": 15,
+      "difficulty_distribution": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 15
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "permutations_combinations",
+      "name": "Quantitative Aptitude",
+      "category": "quant",
+      "total_questions": 14,
+      "difficulty_distribution": {
+        "easy": 1,
+        "medium": 2,
+        "hard": 11
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "syllogisms",
+      "name": "Logical Reasoning",
+      "category": "reasoning",
+      "total_questions": 14,
+      "difficulty_distribution": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 14
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "boats_streams",
+      "name": "Quantitative Aptitude",
+      "category": "quant",
+      "total_questions": 10,
+      "difficulty_distribution": {
+        "easy": 0,
+        "medium": 8,
+        "hard": 2
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "calendars",
+      "name": "Quantitative Aptitude",
+      "category": "quant",
+      "total_questions": 10,
+      "difficulty_distribution": {
+        "easy": 4,
+        "medium": 6,
+        "hard": 0
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "clocks",
+      "name": "Quantitative Aptitude",
+      "category": "quant",
+      "total_questions": 10,
+      "difficulty_distribution": {
+        "easy": 9,
+        "medium": 1,
+        "hard": 0
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "compound_interest",
+      "name": "Quantitative Aptitude",
+      "category": "quant",
+      "total_questions": 10,
+      "difficulty_distribution": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 9
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "divisibility",
+      "name": "Quantitative Aptitude",
+      "category": "quant",
+      "total_questions": 10,
+      "difficulty_distribution": {
+        "easy": 7,
+        "medium": 1,
+        "hard": 2
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "mixtures_alligations",
+      "name": "Quantitative Aptitude",
+      "category": "quant",
+      "total_questions": 10,
+      "difficulty_distribution": {
+        "easy": 1,
+        "medium": 9,
+        "hard": 0
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "partnership",
+      "name": "Quantitative Aptitude",
+      "category": "quant",
+      "total_questions": 10,
+      "difficulty_distribution": {
+        "easy": 2,
+        "medium": 8,
+        "hard": 0
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "pipes_cisterns",
+      "name": "Quantitative Aptitude",
+      "category": "quant",
+      "total_questions": 10,
+      "difficulty_distribution": {
+        "easy": 1,
+        "medium": 8,
+        "hard": 1
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "simple_interest",
+      "name": "Quantitative Aptitude",
+      "category": "quant",
+      "total_questions": 10,
+      "difficulty_distribution": {
+        "easy": 0,
+        "medium": 5,
+        "hard": 5
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "logical_deductions",
+      "name": "Logical Reasoning",
+      "category": "reasoning",
+      "total_questions": 10,
+      "difficulty_distribution": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 10
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "statements_assumptions",
+      "name": "Logical Reasoning",
+      "category": "reasoning",
+      "total_questions": 10,
+      "difficulty_distribution": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 10
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "antonyms",
+      "name": "Verbal Ability",
+      "category": "verbal",
+      "total_questions": 10,
+      "difficulty_distribution": {
+        "easy": 10,
+        "medium": 0,
+        "hard": 0
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "grammar",
+      "name": "Verbal Ability",
+      "category": "verbal",
+      "total_questions": 10,
+      "difficulty_distribution": {
+        "easy": 10,
+        "medium": 0,
+        "hard": 0
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "synonyms",
+      "name": "Verbal Ability",
+      "category": "verbal",
+      "total_questions": 10,
+      "difficulty_distribution": {
+        "easy": 9,
+        "medium": 1,
+        "hard": 0
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "data_interpretation",
+      "name": "Quantitative Aptitude",
+      "category": "quant",
+      "total_questions": 5,
+      "difficulty_distribution": {
+        "easy": 3,
+        "medium": 2,
+        "hard": 0
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "fill_blanks",
+      "name": "Verbal Ability",
+      "category": "verbal",
+      "total_questions": 5,
+      "difficulty_distribution": {
+        "easy": 5,
+        "medium": 0,
+        "hard": 0
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "para_jumbles",
+      "name": "Verbal Ability",
+      "category": "verbal",
+      "total_questions": 5,
+      "difficulty_distribution": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 5
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "seating_arrangement",
+      "name": "Logical Reasoning",
+      "category": "reasoning",
+      "total_questions": 3,
+      "difficulty_distribution": {
+        "easy": 2,
+        "medium": 1,
+        "hard": 0
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "reading_comprehension",
+      "name": "Verbal Ability",
+      "category": "verbal",
+      "total_questions": 3,
+      "difficulty_distribution": {
+        "easy": 2,
+        "medium": 1,
+        "hard": 0
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "cubes_and_dices",
+      "name": "Logical Reasoning",
+      "category": "reasoning",
+      "total_questions": 2,
+      "difficulty_distribution": {
+        "easy": 1,
+        "medium": 1,
+        "hard": 0
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    }
+  ]
+}

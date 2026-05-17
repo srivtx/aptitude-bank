@@ -1,0 +1,423 @@
+{
+  "metadata": {
+    "topic": "Quantitative Aptitude",
+    "subtopic": "ages",
+    "total_questions": 15,
+    "sources": [
+      "IndiaBIX"
+    ],
+    "last_updated": "2026-05-17"
+  },
+  "questions": [
+    {
+      "id": "quant_ages_001",
+      "topic": "quant",
+      "subtopic": "ages",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Father is aged three times more than his son Ronit. After 8 years, he would be two and a half times of Ronit's age. After further 8 years, how many times would he be of Ronit's age?",
+      "options": [
+        "2 times",
+        "[TABLE]",
+        "[TABLE]",
+        "3 times"
+      ],
+      "answer": "A",
+      "explanation": "Let Ronit's present age be x years. Then, father's present age =(x + 3x) years = 4x years.\n\n[TABLE]\n\n 8x + 16 = 5x + 40\n\n 3x = 24\n\n x = 8.\n\n[TABLE]",
+      "shortcut": "Age difference always remains constant over time",
+      "formula_used": "",
+      "trap_type": "Not accounting for time passing equally for all people",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_ages_002",
+      "topic": "quant",
+      "subtopic": "ages",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The sum of ages of 5 children born at the intervals of 3 years each is 50 years. What is the age of the youngest child?",
+      "options": [
+        "4 years",
+        "8 years",
+        "10 years",
+        "None of these"
+      ],
+      "answer": "A",
+      "explanation": "Let the ages of children be x, (x + 3), (x + 6), (x + 9) and (x + 12) years.\n\nThen, x + (x + 3) + (x + 6) + (x + 9) + (x + 12) = 50\n\n 5x = 20\n\n x = 4.\n\n Age of the youngest child = x = 4 years.",
+      "shortcut": "Age difference always remains constant over time",
+      "formula_used": "",
+      "trap_type": "Not accounting for time passing equally for all people",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_ages_003",
+      "topic": "quant",
+      "subtopic": "ages",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A father said to his son, \"I was as old as you are at the present at the time of your birth\". If the father's age is 38 years now, the son's age five years back was:",
+      "options": [
+        "14 years",
+        "19 years",
+        "33 years",
+        "38 years"
+      ],
+      "answer": "A",
+      "explanation": "Let the son's present age be x years. Then, (38 - x) = x\n\n 2x = 38.\n\n x = 19.\n\n Son's age 5 years back (19 - 5) = 14 years.",
+      "shortcut": "Age difference always remains constant over time",
+      "formula_used": "",
+      "trap_type": "Not accounting for time passing equally for all people",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_ages_004",
+      "topic": "quant",
+      "subtopic": "ages",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A is two years older than B who is twice as old as C. If the total of the ages of A, B and C be 27, then how old is B?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "answer": "D",
+      "explanation": "Let C's age be x years. Then, B's age = 2x years. A's age = (2x + 2) years.\n\n (2x + 2) + 2x + x = 27\n\n 5x = 25\n\n x = 5.\n\nHence, B's age = 2x = 10 years.",
+      "shortcut": "Age difference always remains constant over time",
+      "formula_used": "",
+      "trap_type": "Not accounting for time passing equally for all people",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_ages_005",
+      "topic": "quant",
+      "subtopic": "ages",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Present ages of Sameer and Anand are in the ratio of 5 : 4 respectively. Three years hence, the ratio of their ages will become 11 : 9 respectively. What is Anand's present age in years?",
+      "options": [
+        "24",
+        "27",
+        "40",
+        "Cannot be determined",
+        "None of these"
+      ],
+      "answer": "A",
+      "explanation": "Let the present ages of Sameer and Anand be 5x years and 4x years respectively.\n\n[TABLE]\n\n 9(5x + 3) = 11(4x + 3)\n\n 45x + 27 = 44x + 33\n\n 45x - 44x = 33 - 27\n\n x = 6.\n\n Anand's present age = 4x = 24 years.",
+      "shortcut": "Age difference always remains constant over time",
+      "formula_used": "",
+      "trap_type": "Not accounting for time passing equally for all people",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_ages_006",
+      "topic": "quant",
+      "subtopic": "ages",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A man is 24 years older than his son. In two years, his age will be twice the age of his son. The present age of his son is:",
+      "options": [
+        "14 years",
+        "18 years",
+        "20 years",
+        "22 years"
+      ],
+      "answer": "D",
+      "explanation": "Let the son's present age be x years. Then, man's present age = (x + 24) years.\n\n (x + 24) + 2 = 2(x + 2)\n\n x + 26 = 2x + 4\n\n x = 22.",
+      "shortcut": "Age difference always remains constant over time",
+      "formula_used": "",
+      "trap_type": "Not accounting for time passing equally for all people",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_ages_007",
+      "topic": "quant",
+      "subtopic": "ages",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Six years ago, the ratio of the ages of Kunal and Sagar was 6 : 5. Four years hence, the ratio of their ages will be 11 : 10. What is Sagar's age at present?",
+      "options": [
+        "16 years",
+        "18 years",
+        "20 years",
+        "Cannot be determined",
+        "None of these"
+      ],
+      "answer": "A",
+      "explanation": "Let the ages of Kunal and Sagar 6 years ago be 6x and 5x years respectively.\n\n[TABLE]\n\n 10(6x + 10) = 11(5x + 10)\n\n 5x = 10\n\n x = 2.\n\n Sagar's present age = (5x + 6) = 16 years.",
+      "shortcut": "Age difference always remains constant over time",
+      "formula_used": "",
+      "trap_type": "Not accounting for time passing equally for all people",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_ages_008",
+      "topic": "quant",
+      "subtopic": "ages",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The sum of the present ages of a father and his son is 60 years. Six years ago, father's age was five times the age of the son. After 6 years, son's age will be:",
+      "options": [
+        "12 years",
+        "14 years",
+        "18 years",
+        "20 years"
+      ],
+      "answer": "D",
+      "explanation": "Let the present ages of son and father be x and (60 -x) years respectively.\n\nThen, (60 - x) - 6 = 5(x - 6)\n\n 54 - x = 5x - 30\n\n 6x = 84\n x = 14.\n\n Son's age after 6 years = (x+ 6) = 20 years..",
+      "shortcut": "Age difference always remains constant over time",
+      "formula_used": "",
+      "trap_type": "Not accounting for time passing equally for all people",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_ages_009",
+      "topic": "quant",
+      "subtopic": "ages",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "At present, the ratio between the ages of Arun and Deepak is 4 : 3. After 6 years, Arun's age will be 26 years. What is the age of Deepak at present ?",
+      "options": [
+        "12 years",
+        "15 years",
+        "19 and half",
+        "21 years"
+      ],
+      "answer": "B",
+      "explanation": "Let the present ages of Arun and Deepak be 4x years and 3x years respectively. Then,\n\n4x + 6 = 26 4x = 20\n\nx = 5.\n\n Deepak's age = 3x = 15 years.",
+      "shortcut": "Age difference always remains constant over time",
+      "formula_used": "",
+      "trap_type": "Not accounting for time passing equally for all people",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_ages_010",
+      "topic": "quant",
+      "subtopic": "ages",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Sachin is younger than Rahul by 7 years. If their ages are in the respective ratio of 7 : 9, how old is Sachin?",
+      "options": [
+        "16 years",
+        "18 years",
+        "28 years",
+        "24.5 years",
+        "None of these"
+      ],
+      "answer": "D",
+      "explanation": "Let Rahul's age be x years.\n\nThen, Sachin's age = (x - 7) years.\n\n[TABLE]\n\n 9x - 63 = 7x\n\n 2x = 63\n\n x = 31.5\n\nHence, Sachin's age =(x - 7) = 24.5 years.",
+      "shortcut": "Age difference always remains constant over time",
+      "formula_used": "",
+      "trap_type": "Not accounting for time passing equally for all people",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_ages_011",
+      "topic": "quant",
+      "subtopic": "ages",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The present ages of three persons in proportions 4 : 7 : 9. Eight years ago, the sum of their ages was 56. Find their present ages (in years).",
+      "options": [
+        "8, 20, 28",
+        "16, 28, 36",
+        "20, 35, 45",
+        "None of these"
+      ],
+      "answer": "B",
+      "explanation": "Let their present ages be 4x, 7x and 9x years respectively.\n\nThen, (4x - 8) + (7x - 8) + (9x - 8) = 56\n\n 20x = 80\n\n x = 4.\n\n Their present ages are 4x = 16 years, 7x = 28 years and 9x = 36 years respectively.",
+      "shortcut": "Age difference always remains constant over time",
+      "formula_used": "",
+      "trap_type": "Not accounting for time passing equally for all people",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_ages_012",
+      "topic": "quant",
+      "subtopic": "ages",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Ayesha's father was 38 years of age when she was born while her mother was 36 years old when her brother four years younger to her was born. What is the difference between the ages of her parents?",
+      "options": [
+        "2 years",
+        "4 years",
+        "6 years",
+        "8 years"
+      ],
+      "answer": "C",
+      "explanation": "Mother's age when Ayesha's brother was born = 36 years.\n\nFather's age when Ayesha's brother was born = (38 + 4) years = 42 years.\n\n Required difference = (42 - 36) years = 6 years.",
+      "shortcut": "Age difference always remains constant over time",
+      "formula_used": "",
+      "trap_type": "Not accounting for time passing equally for all people",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_ages_013",
+      "topic": "quant",
+      "subtopic": "ages",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A person's present age is two-fifth of the age of his mother. After 8 years, he will be one-half of the age of his mother. How old is the mother at present?",
+      "options": [
+        "32 years",
+        "36 years",
+        "40 years",
+        "48 years"
+      ],
+      "answer": "C",
+      "explanation": "Let the mother's present age be x years.\n\n[TABLE]\n\n[TABLE]\n\n 2(2x + 40) = 5(x + 8)\n\n x = 40.",
+      "shortcut": "Age difference always remains constant over time",
+      "formula_used": "",
+      "trap_type": "Not accounting for time passing equally for all people",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_ages_014",
+      "topic": "quant",
+      "subtopic": "ages",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Q is as much younger than R as he is older than T. If the sum of the ages of R and T is 50 years, what is definitely the difference between R and Q's age?",
+      "options": [
+        "1 year",
+        "2 years",
+        "25 years",
+        "Data inadequate",
+        "None of these"
+      ],
+      "answer": "D",
+      "explanation": "Given that:\n\n1. The difference of age b/w R and Q = The difference of age b/w Q and T.\n\n2. Sum of age of R and T is 50 i.e. (R + T) = 50.\n\nQuestion: R - Q = ?.\n\nExplanation:\n\nR - Q = Q - T\n\n(R + T) = 2Q\n\nNow given that, (R + T) = 50\n\nSo, 50 = 2Q and therefore Q = 25.\n\nQuestion is (R - Q) = ?\n\nHere we know the value(age) of Q (25), but we don't know the age of R.\n\nTherefore, (R-Q) cannot be determined.",
+      "shortcut": "Age difference always remains constant over time",
+      "formula_used": "",
+      "trap_type": "Not accounting for time passing equally for all people",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_ages_015",
+      "topic": "quant",
+      "subtopic": "ages",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The age of father 10 years ago was thrice the age of his son. Ten years hence, father's age will be twice that of his son. The ratio of their present ages is:",
+      "options": [
+        "5 : 2",
+        "7 : 3",
+        "9 : 2",
+        "13 : 4"
+      ],
+      "answer": "B",
+      "explanation": "Let the ages of father and son 10 years ago be 3x and x years respectively.\n\nThen, (3x + 10) + 10 = 2[(x + 10) + 10]\n\n 3x + 20 = 2x + 40\n\n x = 20.\n\n Required ratio = (3x + 10) : (x + 10) = 70 : 30 = 7 : 3.",
+      "shortcut": "Age difference always remains constant over time",
+      "formula_used": "",
+      "trap_type": "Not accounting for time passing equally for all people",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    }
+  ]
+}

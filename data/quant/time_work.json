@@ -1,0 +1,424 @@
+{
+  "metadata": {
+    "topic": "Time and Work",
+    "total_questions": 16,
+    "sources": [
+      "IndiaBIX",
+      "PrepInsta",
+      "GeeksforGeeks"
+    ],
+    "last_updated": "2026-05-17"
+  },
+  "questions": [
+    {
+      "id": "quant_timewo_001",
+      "topic": "quant",
+      "subtopic": "time_work",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Wipro",
+        "HCL"
+      ],
+      "question": "A can do a work in 15 days and B in 20 days. If they work on it together for 4 days, then the fraction of the work that is left is:",
+      "options": [
+        "1/4",
+        "1/10",
+        "7/15",
+        "8/15"
+      ],
+      "answer": "D",
+      "explanation": "A's 1 day work = 1/15. B's 1 day work = 1/20. (A+B)'s 1 day work = 1/15 + 1/20 = 4/60 + 3/60 = 7/60. In 4 days = 4 x 7/60 = 28/60 = 7/15. Work left = 1 - 7/15 = 8/15.",
+      "shortcut": "Combined rate = (20+15)/(15x20) = 35/300 = 7/60. 4 days work = 28/60 = 7/15. Left = 8/15.",
+      "formula_used": "Combined rate = 1/a + 1/b = (a+b)/ab. Work done = rate x time.",
+      "trap_type": "Calculating work done instead of work left",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "W001"
+    },
+    {
+      "id": "quant_timewo_002",
+      "topic": "quant",
+      "subtopic": "time_work",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Accenture"
+      ],
+      "question": "A can lay railway track between two given stations in 16 days and B can do the same job in 12 days. With the help of C, they did the job in 4 days only. Then, C alone can do the job in:",
+      "options": [
+        "9 1/5 days",
+        "9 2/5 days",
+        "9 3/5 days",
+        "10 days"
+      ],
+      "answer": "C",
+      "explanation": "A's 1 day work = 1/16. B's 1 day work = 1/12. (A+B+C)'s 1 day work = 1/4. C's 1 day work = 1/4 - (1/16 + 1/12) = 1/4 - (3/48 + 4/48) = 1/4 - 7/48 = 12/48 - 7/48 = 5/48. So C can complete in 48/5 = 9 3/5 days.",
+      "shortcut": "C's rate = Combined rate - A's rate - B's rate = 1/4 - 7/48 = 5/48. Time = 48/5 = 9.6 days.",
+      "formula_used": "Individual rate = Combined rate - Sum of known rates",
+      "trap_type": "Adding A and B's times (16+12=28) and dividing by something arbitrary",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "W002"
+    },
+    {
+      "id": "quant_timewo_003",
+      "topic": "quant",
+      "subtopic": "time_work",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Deloitte",
+        "IBM"
+      ],
+      "question": "A, B and C can complete a piece of work in 24, 6 and 12 days respectively. Working together, they will complete the same work in:",
+      "options": [
+        "1/24 day",
+        "7/24 day",
+        "3 3/7 days",
+        "4 days"
+      ],
+      "answer": "C",
+      "explanation": "A's 1 day = 1/24. B's 1 day = 1/6 = 4/24. C's 1 day = 1/12 = 2/24. Combined = 1/24 + 4/24 + 2/24 = 7/24. Time = 24/7 = 3 3/7 days.",
+      "shortcut": "Combined rate = 7/24 per day. Time = 24/7 = 3.43 days = 3 3/7 days.",
+      "formula_used": "Combined time = 1 / (sum of individual rates)",
+      "trap_type": "Averaging the times: (24+6+12)/3 = 14 days (completely wrong)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "W003"
+    },
+    {
+      "id": "quant_timewo_004",
+      "topic": "quant",
+      "subtopic": "time_work",
+      "difficulty": "medium",
+      "company_tags": [
+        "Accenture",
+        "Capgemini",
+        "Cognizant"
+      ],
+      "question": "A works twice as fast as B. If B can complete a work in 12 days independently, the number of days in which A and B can together finish the work is:",
+      "options": [
+        "4 days",
+        "6 days",
+        "8 days",
+        "18 days"
+      ],
+      "answer": "A",
+      "explanation": "B's 1 day = 1/12. A is twice as fast, so A's 1 day = 2/12 = 1/6. Combined = 1/6 + 1/12 = 2/12 + 1/12 = 3/12 = 1/4. Time = 4 days.",
+      "shortcut": "A's rate = 2 x B's rate = 2/12. Combined = 3/12 = 1/4. Time = 4 days.",
+      "formula_used": "If A is n times as fast as B, A's rate = n x B's rate",
+      "trap_type": "Thinking A takes 6 days (half of 12) and then averaging (6+12)/2 = 9, not in options",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "W004"
+    },
+    {
+      "id": "quant_timewo_005",
+      "topic": "quant",
+      "subtopic": "time_work",
+      "difficulty": "hard",
+      "company_tags": [
+        "Deloitte",
+        "TCS"
+      ],
+      "question": "Twenty women can do a work in sixteen days. Sixteen men can complete the same work in fifteen days. What is the ratio between the capacity of a man and a woman?",
+      "options": [
+        "2:3",
+        "4:3",
+        "3:4",
+        "2:1"
+      ],
+      "answer": "B",
+      "explanation": "20 women x 16 days = 16 men x 15 days. 320 woman-days = 240 man-days. 1 man-day = 320/240 woman-days = 4/3 woman-days. So 1 man = 4/3 women. Ratio man:woman = 4:3.",
+      "shortcut": "20x16 women = 16x15 men → 320W = 240M → M/W = 320/240 = 4/3. Ratio = 4:3.",
+      "formula_used": "M1 x D1 = M2 x D2 for same work, capacity ratio inverse of days",
+      "trap_type": "Taking ratio of days directly (16:15 or 15:16)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "W005"
+    },
+    {
+      "id": "quant_timewo_006",
+      "topic": "quant",
+      "subtopic": "time_work",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro"
+      ],
+      "question": "A and B can do a job together in 7 days. A is 1 3/4 times as efficient as B. The same job can be done by A alone in:",
+      "options": [
+        "9 1/3 days",
+        "11 days",
+        "12 1/4 days",
+        "16 1/3 days"
+      ],
+      "answer": "B",
+      "explanation": "A is 7/4 times as efficient as B. So if B's 1 day work = x, A's = 7x/4. Combined = x + 7x/4 = 11x/4 = 1/7. So x = 4/(7x11) = 4/77. A's rate = 7/4 x 4/77 = 7/77 = 1/11. A alone takes 11 days.",
+      "shortcut": "Efficiency ratio A:B = 7:4. So days ratio A:B = 4:7. Let A=4k, B=7k. 1/4k + 1/7k = 1/7 → 11/28k = 1/7 → k=11/4. A = 4x11/4 = 11 days.",
+      "formula_used": "Efficiency is inversely proportional to time. If efficiency ratio is a:b, time ratio is b:a.",
+      "trap_type": "Taking 1 3/4 = 7/4 as the time multiplier directly (7 x 7/4 = 12.25)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "W006"
+    },
+    {
+      "id": "quant_timewo_007",
+      "topic": "quant",
+      "subtopic": "time_work",
+      "difficulty": "hard",
+      "company_tags": [
+        "Deloitte",
+        "IBM"
+      ],
+      "question": "A can finish a work in 18 days and B can do the same work in 15 days. B worked for 10 days and left the job. In how many days, A alone can finish the remaining work?",
+      "options": [
+        "5",
+        "5 1/2",
+        "6",
+        "8"
+      ],
+      "answer": "C",
+      "explanation": "B's 10 days work = 10 x (1/15) = 10/15 = 2/3. Remaining work = 1 - 2/3 = 1/3. A's 1 day = 1/18. Time for A to complete 1/3 = (1/3) / (1/18) = 18/3 = 6 days.",
+      "shortcut": "B completes 2/3 in 10 days. A needs to do 1/3. A does 1/18 per day. Days = (1/3)x18 = 6.",
+      "formula_used": "Remaining work = 1 - work done. Time = remaining work / individual rate",
+      "trap_type": "Subtracting days directly (18 - 10 = 8, option D)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "W007"
+    },
+    {
+      "id": "quant_timewo_008",
+      "topic": "quant",
+      "subtopic": "time_work",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Accenture",
+        "Capgemini"
+      ],
+      "question": "4 men and 6 women can complete a work in 8 days, while 3 men and 7 women can complete it in 10 days. In how many days will 10 women complete it?",
+      "options": [
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "answer": "B",
+      "explanation": "Let 1 man's 1 day work = x and 1 woman's 1 day work = y. 4x + 6y = 1/8. 3x + 7y = 1/10. Multiply first by 3: 12x + 18y = 3/8. Multiply second by 4: 12x + 28y = 4/10 = 2/5. Subtract: 10y = 2/5 - 3/8 = (16-15)/40 = 1/40. y = 1/400. 10 women's 1 day = 10/400 = 1/40. So 10 women complete in 40 days.",
+      "shortcut": "Solve simultaneous equations. After finding y=1/400, 10 women = 10/400 = 1/40 per day. Time = 40 days.",
+      "formula_used": "Simultaneous equations with work rates",
+      "trap_type": "Averaging the given combinations somehow",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "W008"
+    },
+    {
+      "id": "quant_timewo_009",
+      "topic": "quant",
+      "subtopic": "time_work",
+      "difficulty": "hard",
+      "company_tags": [
+        "Deloitte",
+        "TCS"
+      ],
+      "question": "A and B can together complete a piece of work in 4 days. If A alone can complete the same work in 12 days, in how many days can B alone complete that work?",
+      "options": [
+        "4 days",
+        "5 days",
+        "6 days",
+        "7 days"
+      ],
+      "answer": "C",
+      "explanation": "(A+B)'s 1 day = 1/4. A's 1 day = 1/12. B's 1 day = 1/4 - 1/12 = 3/12 - 1/12 = 2/12 = 1/6. So B alone takes 6 days.",
+      "shortcut": "B's rate = 1/4 - 1/12 = 1/6. Time = 6 days.",
+      "formula_used": "Individual rate = Combined rate - Other individual rate",
+      "trap_type": "Subtracting days: 12 - 4 = 8, or (12+4)/2 = 8",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "W002"
+    },
+    {
+      "id": "quant_timewo_010",
+      "topic": "quant",
+      "subtopic": "time_work",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Wipro",
+        "HCL"
+      ],
+      "question": "A can do a certain job in 25 days which B alone can do in 20 days. A started the work and was joined by B after 10 days. The number of days taken to complete the work is:",
+      "options": [
+        "12 1/2 days",
+        "14 days",
+        "15 days",
+        "16 2/3 days"
+      ],
+      "answer": "D",
+      "explanation": "A's 10 days work = 10 x (1/25) = 10/25 = 2/5. Remaining = 3/5. Combined rate = 1/25 + 1/20 = 4/100 + 5/100 = 9/100. Time to complete 3/5 = (3/5) / (9/100) = (3/5) x (100/9) = 300/45 = 20/3 = 6 2/3 days. Total = 10 + 6 2/3 = 16 2/3 days.",
+      "shortcut": "A does 2/5 in 10 days. Remaining 3/5 at 9/100 per day = 60/9 = 6 2/3. Total = 16 2/3.",
+      "formula_used": "Remaining work / combined rate = additional time",
+      "trap_type": "Forgetting to add the initial 10 days",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "W009"
+    },
+    {
+      "id": "quant_timewo_011",
+      "topic": "quant",
+      "subtopic": "time_work",
+      "difficulty": "hard",
+      "company_tags": [
+        "Deloitte",
+        "IBM",
+        "Accenture"
+      ],
+      "question": "A is 30% more efficient than B. How much time will they, working together, take to complete a job which A alone could have done in 23 days?",
+      "options": [
+        "11 days",
+        "13 days",
+        "14 days",
+        "17 days"
+      ],
+      "answer": "B",
+      "explanation": "A is 30% more efficient, so if A's rate = 1.3x, B's rate = x. A alone does 1/23 per day, so 1.3x = 1/23, x = 1/(23x1.3) = 1/29.9. B's rate = 1/29.9. Combined = 1/23 + 1/29.9 = 13/299 + 10/299 = 23/299 = 1/13. So together they take 13 days.",
+      "shortcut": "If A is 30% more efficient, B takes 30% more time. B's time = 23 x 1.3 = 29.9 days. Combined rate = 1/23 + 1/29.9 = (29.9+23)/(23x29.9) = 52.9/687.7 = 1/13.",
+      "formula_used": "If A is p% more efficient, B takes p% more time. Combined time = (tA x tB)/(tA + tB).",
+      "trap_type": "Simply reducing 23 by 30% (getting ~16) or averaging",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "W010"
+    },
+    {
+      "id": "quant_timewo_012",
+      "topic": "quant",
+      "subtopic": "time_work",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Cognizant"
+      ],
+      "question": "A does 80% of a work in 20 days. He then calls in B and they together finish the remaining work in 3 days. How long would B alone take to do the whole work?",
+      "options": [
+        "23 days",
+        "37 days",
+        "37 1/2 days",
+        "40 days"
+      ],
+      "answer": "C",
+      "explanation": "A does 80% in 20 days, so A does 100% in 25 days. A's 1 day = 1/25. Remaining 20% = 1/5. (A+B) do 1/5 in 3 days, so combined rate = 1/15 per day. B's rate = 1/15 - 1/25 = (5-3)/75 = 2/75. B alone takes 75/2 = 37 1/2 days.",
+      "shortcut": "A's full work time = 20/0.8 = 25 days. Combined rate = (1/5)/3 = 1/15. B = 1/15 - 1/25 = 2/75. Time = 75/2 = 37.5 days.",
+      "formula_used": "If p% done in d days, full time = d x 100/p",
+      "trap_type": "Taking 80% of 20 = 16 days for full work (wrong direction)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "W011"
+    },
+    {
+      "id": "quant_timewo_013",
+      "topic": "quant",
+      "subtopic": "time_work",
+      "difficulty": "hard",
+      "company_tags": [
+        "Deloitte",
+        "TCS"
+      ],
+      "question": "A machine P can print one lakh books in 8 hours, machine Q can print the same number of books in 10 hours while machine R can print them in 12 hours. All the machines are started at 9 A.M. while machine P is closed at 11 A.M. and the remaining two machines complete the work. Approximately at what time will the work be finished?",
+      "options": [
+        "11:30 A.M.",
+        "12 noon",
+        "12:30 P.M.",
+        "1:00 P.M."
+      ],
+      "answer": "D",
+      "explanation": "P's rate = 1/8 per hour. Q's = 1/10. R's = 1/12. From 9-11 (2 hours): all three work. Work done = 2x(1/8+1/10+1/12) = 2x(15+12+10)/120 = 2x37/120 = 74/120 = 37/60. Remaining = 23/60. Q and R together = 1/10+1/12 = 11/60 per hour. Time = (23/60)/(11/60) = 23/11 = 2.09 hours = 2 hours 5 min. Total from 9 AM = 2 + 2.09 = 4.09 hours. So finish at ~1:05 PM, approximately 1:00 PM.",
+      "shortcut": "2 hours of all three = 37/60 done. 23/60 remaining. Q+R = 11/60 per hour. Time = 23/11 = 2 hours. Finish ~1 PM.",
+      "formula_used": "Work done = rate x time, remaining work / reduced rate",
+      "trap_type": "Not accounting for P stopping and continuing with just Q and R",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "W012"
+    },
+    {
+      "id": "quant_timewo_014",
+      "topic": "quant",
+      "subtopic": "time_work",
+      "difficulty": "medium",
+      "company_tags": [
+        "Accenture",
+        "Capgemini"
+      ],
+      "question": "A and B together can complete a work in 12 days. A alone can complete it in 20 days. If B does the work only for half a day daily, then in how many days will A and B together complete the work?",
+      "options": [
+        "10 days",
+        "11 days",
+        "15 days",
+        "20 days"
+      ],
+      "answer": "C",
+      "explanation": "A's 1 day = 1/20. Combined = 1/12. B's 1 day = 1/12 - 1/20 = (5-3)/60 = 2/60 = 1/30. If B works half day, B's effective rate = 1/60. New combined = 1/20 + 1/60 = 3/60 + 1/60 = 4/60 = 1/15. Time = 15 days.",
+      "shortcut": "B's full rate = 1/30. Half rate = 1/60. New combined = 1/20 + 1/60 = 1/15. Time = 15 days.",
+      "formula_used": "Effective rate when efficiency changes",
+      "trap_type": "Doubling the time (12 x 2 = 24) or not adjusting B's rate properly",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "W013"
+    },
+    {
+      "id": "quant_timewo_015",
+      "topic": "quant",
+      "subtopic": "time_work",
+      "difficulty": "hard",
+      "company_tags": [
+        "Deloitte",
+        "IBM",
+        "TCS"
+      ],
+      "question": "A can finish a work in 24 days, B in 9 days and C in 12 days. B and C start the work but are forced to leave after 3 days. The remaining work was done by A in:",
+      "options": [
+        "5 days",
+        "6 days",
+        "10 days",
+        "12 days"
+      ],
+      "answer": "C",
+      "explanation": "B's 1 day = 1/9. C's 1 day = 1/12. Combined B+C = 1/9 + 1/12 = 4/36 + 3/36 = 7/36. In 3 days = 21/36 = 7/12. Remaining = 5/12. A's 1 day = 1/24. Time = (5/12) / (1/24) = (5/12) x 24 = 10 days.",
+      "shortcut": "B+C do 7/36 per day. 3 days = 21/36 = 7/12 done. 5/12 left. A does 1/24 per day. Days = (5/12)x24 = 10.",
+      "formula_used": "Remaining work / new worker rate",
+      "trap_type": "Calculating time for full work instead of remaining work (24 days)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "W007"
+    },
+    {
+      "id": "quant_timewo_016",
+      "topic": "quant",
+      "subtopic": "time_work",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Wipro",
+        "Tech Mahindra"
+      ],
+      "question": "X can do a piece of work in 40 days. He works at it for 8 days and then Y finished it in 16 days. How long will Y take to complete the work alone?",
+      "options": [
+        "20 days",
+        "25 days",
+        "30 days",
+        "35 days"
+      ],
+      "answer": "A",
+      "explanation": "X's 8 days work = 8/40 = 1/5. Remaining = 4/5. Y does 4/5 in 16 days, so Y's 1 day = (4/5)/16 = 4/80 = 1/20. Y alone takes 20 days.",
+      "shortcut": "4/5 work in 16 days → full work in 16 x 5/4 = 20 days.",
+      "formula_used": "If p fraction done in d days, full time = d/p",
+      "trap_type": "Calculating 16 x 4/5 = 12.8 or using wrong fraction",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "W014"
+    }
+  ]
+}

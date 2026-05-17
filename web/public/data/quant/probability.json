@@ -1,0 +1,419 @@
+{
+  "metadata": {
+    "topic": "Quantitative Aptitude",
+    "subtopic": "probability",
+    "total_questions": 15,
+    "sources": [
+      "IndiaBIX"
+    ],
+    "last_updated": "2026-05-17"
+  },
+  "questions": [
+    {
+      "id": "quant_probab_001",
+      "topic": "quant",
+      "subtopic": "probability",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Tickets numbered 1 to 20 are mixed up and then a ticket is drawn at random. What is the probability that the ticket drawn has a number which is a multiple of 3 or 5?",
+      "options": [
+        "[TABLE]",
+        "[TABLE]",
+        "[TABLE]",
+        "[TABLE]"
+      ],
+      "answer": "D",
+      "explanation": "Here, S = {1, 2, 3, 4, ...., 19, 20}.\n\nLet E = event of getting a multiple of 3 or 5 = {3, 6 , 9, 12, 15, 18, 5, 10, 20}.\n\n[TABLE]",
+      "shortcut": "Probability = (Favorable outcomes) / (Total outcomes)",
+      "formula_used": "",
+      "trap_type": "Counting outcomes without checking independence or mutual exclusivity",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_probab_002",
+      "topic": "quant",
+      "subtopic": "probability",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A bag contains 2 red, 3 green and 2 blue balls. Two balls are drawn at random. What is the probability that none of the balls drawn is blue?",
+      "options": [
+        "[TABLE]",
+        "[TABLE]",
+        "[TABLE]",
+        "[TABLE]"
+      ],
+      "answer": "A",
+      "explanation": "Total number of balls = (2 + 3 + 2) = 7.\n\nLet S be the sample space.\n\n[TABLE]\n \n \n \n\n \n = 21.\n \n\nLet E = Event of drawing 2 balls, none of which is blue.\n\n[TABLE]\n \n \n \n\n \n = 10.\n \n\n[TABLE]",
+      "shortcut": "Probability = (Favorable outcomes) / (Total outcomes)",
+      "formula_used": "",
+      "trap_type": "Counting outcomes without checking independence or mutual exclusivity",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_probab_003",
+      "topic": "quant",
+      "subtopic": "probability",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In a box, there are 8 red, 7 blue and 6 green balls. One ball is picked up randomly. What is the probability that it is neither red nor green?",
+      "options": [
+        "[TABLE]",
+        "[TABLE]",
+        "[TABLE]",
+        "[TABLE]",
+        "[TABLE]"
+      ],
+      "answer": "A",
+      "explanation": "Total number of balls = (8 + 7 + 6) = 21.\n\n[TABLE]\n\n n(E) = 7.\n\n[TABLE]",
+      "shortcut": "Probability = (Favorable outcomes) / (Total outcomes)",
+      "formula_used": "",
+      "trap_type": "Counting outcomes without checking independence or mutual exclusivity",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_probab_004",
+      "topic": "quant",
+      "subtopic": "probability",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What is the probability of getting a sum 9 from two throws of a dice?",
+      "options": [
+        "[TABLE]",
+        "[TABLE]",
+        "[TABLE]",
+        "[TABLE]"
+      ],
+      "answer": "C",
+      "explanation": "In two throws of a dice, n(S) = (6 x 6) = 36.\n\nLet E = event of getting a sum ={(3, 6), (4, 5), (5, 4), (6, 3)}.\n\n[TABLE]",
+      "shortcut": "Probability = (Favorable outcomes) / (Total outcomes)",
+      "formula_used": "",
+      "trap_type": "Counting outcomes without checking independence or mutual exclusivity",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_probab_005",
+      "topic": "quant",
+      "subtopic": "probability",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Three unbiased coins are tossed. What is the probability of getting at most two heads?",
+      "options": [
+        "[TABLE]",
+        "[TABLE]",
+        "[TABLE]",
+        "[TABLE]"
+      ],
+      "answer": "D",
+      "explanation": "Here S = {TTT, TTH, THT, HTT, THH, HTH, HHT, HHH}\n\nLet E = event of getting at most two heads.\n\nThen E = {TTT, TTH, THT, HTT, THH, HTH, HHT}.\n\n[TABLE]",
+      "shortcut": "Probability = (Favorable outcomes) / (Total outcomes)",
+      "formula_used": "",
+      "trap_type": "Counting outcomes without checking independence or mutual exclusivity",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_probab_006",
+      "topic": "quant",
+      "subtopic": "probability",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Two dice are thrown simultaneously. What is the probability of getting two numbers whose product is even?",
+      "options": [
+        "[TABLE]",
+        "[TABLE]",
+        "[TABLE]",
+        "[TABLE]"
+      ],
+      "answer": "B",
+      "explanation": "In a simultaneous throw of two dice, we have n(S) = (6 x 6) = 36.\n\n[TABLE]\n\n n(E) = 27.\n\n[TABLE]",
+      "shortcut": "Probability = (Favorable outcomes) / (Total outcomes)",
+      "formula_used": "",
+      "trap_type": "Counting outcomes without checking independence or mutual exclusivity",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_probab_007",
+      "topic": "quant",
+      "subtopic": "probability",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In a class, there are 15 boys and 10 girls. Three students are selected at random. The probability that 1 girl and 2 boys are selected, is:",
+      "options": [
+        "[TABLE]",
+        "[TABLE]",
+        "[TABLE]",
+        "[TABLE]"
+      ],
+      "answer": "A",
+      "explanation": "Let S be the sample space and E be the event of selecting 1 girl and 2 boys.\n\n[TABLE]\n \n \n \n\n \n = 2300.\n \n\n[TABLE]\n \n \n \n \n \n = 1050.\n \n\n[TABLE]",
+      "shortcut": "Probability = (Favorable outcomes) / (Total outcomes)",
+      "formula_used": "",
+      "trap_type": "Counting outcomes without checking independence or mutual exclusivity",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_probab_008",
+      "topic": "quant",
+      "subtopic": "probability",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In a lottery, there are 10 prizes and 25 blanks. A lottery is drawn at random. What is the probability of getting a prize?",
+      "options": [
+        "[TABLE]",
+        "[TABLE]",
+        "[TABLE]",
+        "[TABLE]"
+      ],
+      "answer": "C",
+      "explanation": "[TABLE]",
+      "shortcut": "Probability = (Favorable outcomes) / (Total outcomes)",
+      "formula_used": "",
+      "trap_type": "Counting outcomes without checking independence or mutual exclusivity",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_probab_009",
+      "topic": "quant",
+      "subtopic": "probability",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "From a pack of 52 cards, two cards are drawn together at random. What is the probability of both the cards being kings?",
+      "options": [
+        "[TABLE]",
+        "[TABLE]",
+        "[TABLE]",
+        "[TABLE]"
+      ],
+      "answer": "D",
+      "explanation": "Let S be the sample space.\n\n[TABLE]\n\nLet E = event of getting 2 kings out of 4.\n\n[TABLE]\n\n[TABLE]",
+      "shortcut": "Probability = (Favorable outcomes) / (Total outcomes)",
+      "formula_used": "",
+      "trap_type": "Counting outcomes without checking independence or mutual exclusivity",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_probab_010",
+      "topic": "quant",
+      "subtopic": "probability",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Two dice are tossed. The probability that the total score is a prime number is:",
+      "options": [
+        "[TABLE]",
+        "[TABLE]",
+        "[TABLE]",
+        "[TABLE]"
+      ],
+      "answer": "B",
+      "explanation": "Clearly, n(S) = (6 x 6) = 36.\n\nLet E = Event that the sum is a prime number.\n\n[TABLE]\n\n n(E) = 15.\n\n[TABLE]",
+      "shortcut": "Probability = (Favorable outcomes) / (Total outcomes)",
+      "formula_used": "",
+      "trap_type": "Counting outcomes without checking independence or mutual exclusivity",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_probab_011",
+      "topic": "quant",
+      "subtopic": "probability",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A card is drawn from a pack of 52 cards. The probability of getting a queen of club or a king of heart is:",
+      "options": [
+        "[TABLE]",
+        "[TABLE]",
+        "[TABLE]",
+        "[TABLE]"
+      ],
+      "answer": "C",
+      "explanation": "Here, n(S) = 52.\n\nLet E = event of getting a queen of club or a king of heart.\n\nThen, n(E) = 2.\n\n[TABLE]",
+      "shortcut": "Probability = (Favorable outcomes) / (Total outcomes)",
+      "formula_used": "",
+      "trap_type": "Counting outcomes without checking independence or mutual exclusivity",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_probab_012",
+      "topic": "quant",
+      "subtopic": "probability",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A bag contains 4 white, 5 red and 6 blue balls. Three balls are drawn at random from the bag. The probability that all of them are red, is:",
+      "options": [
+        "[TABLE]",
+        "[TABLE]",
+        "[TABLE]",
+        "[TABLE]"
+      ],
+      "answer": "C",
+      "explanation": "Let S be the sample space.\n\n[TABLE]\n \n \n \n\n \n = 455.\n \n\nLet E = event of getting all the 3 red balls.\n\n[TABLE]\n\n[TABLE]",
+      "shortcut": "Probability = (Favorable outcomes) / (Total outcomes)",
+      "formula_used": "",
+      "trap_type": "Counting outcomes without checking independence or mutual exclusivity",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_probab_013",
+      "topic": "quant",
+      "subtopic": "probability",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Two cards are drawn together from a pack of 52 cards. The probability that one is a spade and one is a heart, is:",
+      "options": [
+        "[TABLE]",
+        "[TABLE]",
+        "[TABLE]",
+        "[TABLE]"
+      ],
+      "answer": "D",
+      "explanation": "Let S be the sample space.\n\n[TABLE]\n\nLet E = event of getting 1 spade and 1 heart.\n\n[TABLE]\n\n[TABLE]",
+      "shortcut": "Probability = (Favorable outcomes) / (Total outcomes)",
+      "formula_used": "",
+      "trap_type": "Counting outcomes without checking independence or mutual exclusivity",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_probab_014",
+      "topic": "quant",
+      "subtopic": "probability",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "One card is drawn at random from a pack of 52 cards. What is the probability that the card drawn is a face card (Jack, Queen and King only)?",
+      "options": [
+        "[TABLE]",
+        "[TABLE]",
+        "[TABLE]",
+        "[TABLE]"
+      ],
+      "answer": "B",
+      "explanation": "Clearly, there are 52 cards, out of which there are 12 face cards.\n\n[TABLE]",
+      "shortcut": "Probability = (Favorable outcomes) / (Total outcomes)",
+      "formula_used": "",
+      "trap_type": "Counting outcomes without checking independence or mutual exclusivity",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_probab_015",
+      "topic": "quant",
+      "subtopic": "probability",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A bag contains 6 black and 8 white balls. One ball is drawn at random. What is the probability that the ball drawn is white?",
+      "options": [
+        "[TABLE]",
+        "[TABLE]",
+        "[TABLE]",
+        "[TABLE]"
+      ],
+      "answer": "B",
+      "explanation": "Let number of balls = (6 + 8) = 14.\n\nNumber of white balls = 8.\n\n[TABLE]",
+      "shortcut": "Probability = (Favorable outcomes) / (Total outcomes)",
+      "formula_used": "",
+      "trap_type": "Counting outcomes without checking independence or mutual exclusivity",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    }
+  ]
+}

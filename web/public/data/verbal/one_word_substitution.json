@@ -1,0 +1,418 @@
+{
+  "metadata": {
+    "topic": "Verbal Ability",
+    "subtopic": "one_word_substitution",
+    "total_questions": 15,
+    "sources": [
+      "IndiaBIX"
+    ],
+    "last_updated": "2026-05-17"
+  },
+  "questions": [
+    {
+      "id": "verbal_onewor_001",
+      "topic": "verbal",
+      "subtopic": "one_word_substitution",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Extreme old age when a man behaves like a fool",
+      "options": [
+        "Imbecility",
+        "Senility",
+        "Dotage",
+        "Superannuation"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_onewor_002",
+      "topic": "verbal",
+      "subtopic": "one_word_substitution",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "That which cannot be corrected",
+      "options": [
+        "Unintelligible",
+        "Indelible",
+        "Illegible",
+        "Incorrigible"
+      ],
+      "answer": "D",
+      "explanation": "Incorrigible (Adjective): (of a person or their tendencies) Not able to be corrected, improved, or reformed.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_onewor_003",
+      "topic": "verbal",
+      "subtopic": "one_word_substitution",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The study of ancient societies",
+      "options": [
+        "Anthropology",
+        "Archaeology",
+        "History",
+        "Ethnology"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_onewor_004",
+      "topic": "verbal",
+      "subtopic": "one_word_substitution",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A person of good understanding knowledge and reasoning power",
+      "options": [
+        "Expert",
+        "Intellectual",
+        "Snob",
+        "Literate"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_onewor_005",
+      "topic": "verbal",
+      "subtopic": "one_word_substitution",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A person who insists on something",
+      "options": [
+        "Disciplinarian",
+        "Stickler",
+        "Instantaneous",
+        "Boaster"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_onewor_006",
+      "topic": "verbal",
+      "subtopic": "one_word_substitution",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "State in which the few govern the many",
+      "options": [
+        "Monarchy",
+        "Oligarchy",
+        "Plutocracy",
+        "Autocracy"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_onewor_007",
+      "topic": "verbal",
+      "subtopic": "one_word_substitution",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A style in which a writer makes a display of his knowledge",
+      "options": [
+        "Pedantic",
+        "Verbose",
+        "Pompous",
+        "Ornate"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_onewor_008",
+      "topic": "verbal",
+      "subtopic": "one_word_substitution",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "List of the business or subjects to be considered at a meeting",
+      "options": [
+        "Schedule",
+        "Timetable",
+        "Agenda",
+        "Plan"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_onewor_009",
+      "topic": "verbal",
+      "subtopic": "one_word_substitution",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Leave or remove from a place considered dangerous",
+      "options": [
+        "Evade",
+        "Evacuate",
+        "Avoid",
+        "Exterminate"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_onewor_010",
+      "topic": "verbal",
+      "subtopic": "one_word_substitution",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A prima facie case is such",
+      "options": [
+        "As it seems at first sight",
+        "As it is made to seem at first sight",
+        "As it turns out to be at the end",
+        "As it seems to the court after a number of hearings"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_onewor_011",
+      "topic": "verbal",
+      "subtopic": "one_word_substitution",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A person pretending to be somebody he is not",
+      "options": [
+        "Magician",
+        "Rogue",
+        "Liar",
+        "Imposter"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_onewor_012",
+      "topic": "verbal",
+      "subtopic": "one_word_substitution",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A person who knows many foreign languages",
+      "options": [
+        "Linguist",
+        "Grammarian",
+        "Polyglot",
+        "Bilingual"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_onewor_013",
+      "topic": "verbal",
+      "subtopic": "one_word_substitution",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "One who has little faith in human sincerity and goodness",
+      "options": [
+        "Egoist",
+        "Fatalist",
+        "Stoic",
+        "Cynic"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_onewor_014",
+      "topic": "verbal",
+      "subtopic": "one_word_substitution",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "One who possesses many talents",
+      "options": [
+        "Versatile",
+        "Nubile",
+        "Exceptional",
+        "Gifted"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_onewor_015",
+      "topic": "verbal",
+      "subtopic": "one_word_substitution",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Words inscribed on tomb",
+      "options": [
+        "Epitome",
+        "Epistle",
+        "Epilogue",
+        "Epitaph"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    }
+  ]
+}

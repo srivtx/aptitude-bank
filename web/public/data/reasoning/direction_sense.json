@@ -1,0 +1,418 @@
+{
+  "metadata": {
+    "topic": "Logical Reasoning",
+    "subtopic": "direction_sense",
+    "total_questions": 15,
+    "sources": [
+      "IndiaBIX"
+    ],
+    "last_updated": "2026-05-17"
+  },
+  "questions": [
+    {
+      "id": "reasoning_direct_001",
+      "topic": "reasoning",
+      "subtopic": "direction_sense",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "One morning Udai and Vishal were talking to each other face to face at a crossing. If Vishal's shadow was exactly to the left of Udai, which direction was Udai facing?",
+      "options": [
+        "East",
+        "West",
+        "North",
+        "South"
+      ],
+      "answer": "C",
+      "explanation": "",
+      "shortcut": "Use coordinate system: N=+Y, S=-Y, E=+X, W=-X",
+      "formula_used": "",
+      "trap_type": "Getting left/right confused when facing different directions",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_direct_002",
+      "topic": "reasoning",
+      "subtopic": "direction_sense",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Y is in the East of X which is in the North of Z. If P is in the South of Z, then in which direction of Y, is P?",
+      "options": [
+        "North",
+        "South",
+        "South-East",
+        "None of these"
+      ],
+      "answer": "D",
+      "explanation": "P is in South-West of Y.",
+      "shortcut": "Use coordinate system: N=+Y, S=-Y, E=+X, W=-X",
+      "formula_used": "",
+      "trap_type": "Getting left/right confused when facing different directions",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_direct_003",
+      "topic": "reasoning",
+      "subtopic": "direction_sense",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If South-East becomes North, North-East becomes West and so on. What will West become?",
+      "options": [
+        "North-East",
+        "North-West",
+        "South-East",
+        "South-West"
+      ],
+      "answer": "C",
+      "explanation": "It is clear from the diagrams that new name of West will become South-East.",
+      "shortcut": "Use coordinate system: N=+Y, S=-Y, E=+X, W=-X",
+      "formula_used": "",
+      "trap_type": "Getting left/right confused when facing different directions",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_direct_004",
+      "topic": "reasoning",
+      "subtopic": "direction_sense",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A man walks 5 km toward south and then turns to the right. After walking 3 km he turns to the left and walks 5 km. Now in which direction is he from the starting place?",
+      "options": [
+        "West",
+        "South",
+        "North-East",
+        "South-West"
+      ],
+      "answer": "D",
+      "explanation": "Hence required direction is South-West.",
+      "shortcut": "Use coordinate system: N=+Y, S=-Y, E=+X, W=-X",
+      "formula_used": "",
+      "trap_type": "Getting left/right confused when facing different directions",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_direct_005",
+      "topic": "reasoning",
+      "subtopic": "direction_sense",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Rahul put his timepiece on the table in such a way that at 6 P.M. hour hand points to North. In which direction the minute hand will point at 9.15 P.M. ?",
+      "options": [
+        "South-East",
+        "South",
+        "North",
+        "West"
+      ],
+      "answer": "D",
+      "explanation": "At 9.15 P.M., the minute hand will point towards west.",
+      "shortcut": "Use coordinate system: N=+Y, S=-Y, E=+X, W=-X",
+      "formula_used": "",
+      "trap_type": "Getting left/right confused when facing different directions",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_direct_006",
+      "topic": "reasoning",
+      "subtopic": "direction_sense",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Rasik walked 20 m towards north. Then he turned right and walks 30 m. Then he turns right and walks 35 m. Then he turns left and walks 15 m. Finally he turns left and walks 15 m. In which direction and how many metres is he from the starting position?",
+      "options": [
+        "15 m West",
+        "30 m East",
+        "30 m West",
+        "45 m East"
+      ],
+      "answer": "D",
+      "explanation": "",
+      "shortcut": "Use coordinate system: N=+Y, S=-Y, E=+X, W=-X",
+      "formula_used": "",
+      "trap_type": "Getting left/right confused when facing different directions",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_direct_007",
+      "topic": "reasoning",
+      "subtopic": "direction_sense",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Two cars start from the opposite places of a main road, 150 km apart. First car runs for 25 km and takes a right turn and then runs 15 km. It then turns left and then runs for another 25 km and then takes the direction back to reach the main road. In the mean time, due to minor break down the other car has run only 35 km along the main road. What would be the distance between two cars at this point?",
+      "options": [
+        "65 km",
+        "75 km",
+        "80 km",
+        "85 km"
+      ],
+      "answer": "A",
+      "explanation": "",
+      "shortcut": "Use coordinate system: N=+Y, S=-Y, E=+X, W=-X",
+      "formula_used": "",
+      "trap_type": "Getting left/right confused when facing different directions",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_direct_008",
+      "topic": "reasoning",
+      "subtopic": "direction_sense",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Starting from the point X, Jayant walked 15 m towards west. He turned left and walked 20 m. He then turned left and walked 15 m. After this he turned to his right and walked 12 m. How far and in which directions is now Jayant from X?",
+      "options": [
+        "32 m, South",
+        "47 m, East",
+        "42 m, North",
+        "27 m, South"
+      ],
+      "answer": "A",
+      "explanation": "",
+      "shortcut": "Use coordinate system: N=+Y, S=-Y, E=+X, W=-X",
+      "formula_used": "",
+      "trap_type": "Getting left/right confused when facing different directions",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_direct_009",
+      "topic": "reasoning",
+      "subtopic": "direction_sense",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "One evening before sunset Rekha and Hema were talking to each other face to face. If Hema's shadow was exactly to the right of Hema, which direction was Rekha facing?",
+      "options": [
+        "North",
+        "South",
+        "East",
+        "Data is inadequate"
+      ],
+      "answer": "B",
+      "explanation": "In the evening sun sets in West. Hence then any shadow falls in the East. Since Hema's shadow was to the right of Hema. Hence Rekha was facing towards South.",
+      "shortcut": "Use coordinate system: N=+Y, S=-Y, E=+X, W=-X",
+      "formula_used": "",
+      "trap_type": "Getting left/right confused when facing different directions",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_direct_010",
+      "topic": "reasoning",
+      "subtopic": "direction_sense",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A boy rode his bicycle Northward, then turned left and rode 1 km and again turned left and rode 2 km. He found himself 1 km west of his starting point. How far did he ride northward initially?",
+      "options": [
+        "1 km",
+        "2 km",
+        "3 km",
+        "5 km"
+      ],
+      "answer": "B",
+      "explanation": "The boy rode 2 km. Northward.",
+      "shortcut": "Use coordinate system: N=+Y, S=-Y, E=+X, W=-X",
+      "formula_used": "",
+      "trap_type": "Getting left/right confused when facing different directions",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_direct_011",
+      "topic": "reasoning",
+      "subtopic": "direction_sense",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "K is 40 m South-West of L. If M is 40 m South-East of L, then M is in which direction of K?",
+      "options": [
+        "East",
+        "West",
+        "North-East",
+        "South"
+      ],
+      "answer": "A",
+      "explanation": "Hence M is in the East of K.",
+      "shortcut": "Use coordinate system: N=+Y, S=-Y, E=+X, W=-X",
+      "formula_used": "",
+      "trap_type": "Getting left/right confused when facing different directions",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_direct_012",
+      "topic": "reasoning",
+      "subtopic": "direction_sense",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A man walks 2 km towards North. Then he turns to East and walks 10 km. After this he turns to North and walks 3 km. Again he turns towards East and walks 2 km. How far is he from the starting point?",
+      "options": [
+        "10 km",
+        "13 km",
+        "15 km",
+        "None of these"
+      ],
+      "answer": "B",
+      "explanation": "",
+      "shortcut": "Use coordinate system: N=+Y, S=-Y, E=+X, W=-X",
+      "formula_used": "",
+      "trap_type": "Getting left/right confused when facing different directions",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_direct_013",
+      "topic": "reasoning",
+      "subtopic": "direction_sense",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The length and breadth of a room are 8 m and 6 m respectively. A cat runs along all the four walls and finally along a diagonal order to catch a rat. How much total distance is covered by the cat?",
+      "options": [
+        "10",
+        "14",
+        "38",
+        "48"
+      ],
+      "answer": "C",
+      "explanation": "",
+      "shortcut": "Use coordinate system: N=+Y, S=-Y, E=+X, W=-X",
+      "formula_used": "",
+      "trap_type": "Getting left/right confused when facing different directions",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_direct_014",
+      "topic": "reasoning",
+      "subtopic": "direction_sense",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "One morning sujata started to walk towards the Sun. After covering some distance she turned to right then again to the right and after covering some distance she again turns to the right. Now in which direction is she facing?",
+      "options": [
+        "North",
+        "South",
+        "North-East",
+        "South-West"
+      ],
+      "answer": "A",
+      "explanation": "Hence finally Sujata will face towards North.",
+      "shortcut": "Use coordinate system: N=+Y, S=-Y, E=+X, W=-X",
+      "formula_used": "",
+      "trap_type": "Getting left/right confused when facing different directions",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_direct_015",
+      "topic": "reasoning",
+      "subtopic": "direction_sense",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Some boys are sitting in three rows all facing North such that A is in the middle row. P is just to the right of A but in the same row. Q is just behind of P while R is in the North of A. In which direction of R is Q?",
+      "options": [
+        "South",
+        "South-West",
+        "North-East",
+        "South-East"
+      ],
+      "answer": "D",
+      "explanation": "Q is in South-East of R.",
+      "shortcut": "Use coordinate system: N=+Y, S=-Y, E=+X, W=-X",
+      "formula_used": "",
+      "trap_type": "Getting left/right confused when facing different directions",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    }
+  ]
+}

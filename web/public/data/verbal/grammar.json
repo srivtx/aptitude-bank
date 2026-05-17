@@ -1,0 +1,283 @@
+{
+  "metadata": {
+    "topic": "Verbal Ability",
+    "subtopic": "grammar",
+    "total_questions": 10,
+    "sources": [
+      "IndiaBIX"
+    ],
+    "last_updated": "2026-05-17"
+  },
+  "questions": [
+    {
+      "id": "verbal_gramma_001",
+      "topic": "verbal",
+      "subtopic": "grammar",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "After driving professor Kumar to the museum she dropped him at his hotel.",
+      "options": [
+        "After being driven to the museum, Professor Kumar was dropped at his hotel.",
+        "Professor Kumar was being driven dropped at his hotel.",
+        "After she had driven Professor Kumar to the museum she had dropped him at his hotel.",
+        "After she was driven Professor Kumar to the museum she had dropped him at his hotel."
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_gramma_002",
+      "topic": "verbal",
+      "subtopic": "grammar",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "I remember my sister taking me to the museum.",
+      "options": [
+        "I remember I was taken to the museum by my sister.",
+        "I remember being taken to the museum by my sister.",
+        "I remember myself being taken to the museum by my sister.",
+        "I remember taken to the museum by my sister."
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_gramma_003",
+      "topic": "verbal",
+      "subtopic": "grammar",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Who is creating this mess?",
+      "options": [
+        "Who has been created this mess?",
+        "By whom has this mess been created?",
+        "By whom this mess is being created?",
+        "By whom is this mess being created?"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_gramma_004",
+      "topic": "verbal",
+      "subtopic": "grammar",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "They greet me cheerfully every morning.",
+      "options": [
+        "Every morning I was greeted cheerfully.",
+        "I am greeted cheerfully by them every morning.",
+        "I am being greeted cheerfully by them every morning.",
+        "Cheerful greeting is done by them every morning to me."
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_gramma_005",
+      "topic": "verbal",
+      "subtopic": "grammar",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Darjeeling grows tea.",
+      "options": [
+        "Tea is being grown in Darjeeling.",
+        "Let the tea be grown in Darjeeling.",
+        "Tea is grown in Darjeeling.",
+        "Tea grows in Darjeeling."
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_gramma_006",
+      "topic": "verbal",
+      "subtopic": "grammar",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "They have built a perfect dam across the river.",
+      "options": [
+        "Across the river a perfect dam was built.",
+        "A perfect dam has been built by them across the river.",
+        "A perfect dam should have been built by them.",
+        "Across the river was a perfect dam."
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_gramma_007",
+      "topic": "verbal",
+      "subtopic": "grammar",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Do you imitate others?",
+      "options": [
+        "Are others being imitated by you?",
+        "Are others imitated by you?",
+        "Have others being imitated by you?",
+        "Were others being imitated by you?"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_gramma_008",
+      "topic": "verbal",
+      "subtopic": "grammar",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "You need to clean your shoes properly.",
+      "options": [
+        "Your shoes are needed to clean properly.",
+        "You are needed to clean your shoes properly.",
+        "Your shoes need to be cleaned properly.",
+        "Your shoes are needed by you to clean properly."
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_gramma_009",
+      "topic": "verbal",
+      "subtopic": "grammar",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "He is said to be very rich.",
+      "options": [
+        "He said he is very rich.",
+        "People say he is very rich.",
+        "He said it is very rich.",
+        "People say it is very rich."
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_gramma_010",
+      "topic": "verbal",
+      "subtopic": "grammar",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The invigilator was reading out the instructions.",
+      "options": [
+        "The instructions were read by the invigilator.",
+        "The instructions were being read out by the invigilator.",
+        "The instructions had been read out by the invigilator.",
+        "The instructions had been read by the invigilator."
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    }
+  ]
+}

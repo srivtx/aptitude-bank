@@ -1,0 +1,521 @@
+{
+  "metadata": {
+    "topic": "Series",
+    "total_questions": 20,
+    "sources": [
+      "IndiaBIX",
+      "PrepInsta",
+      "GeeksforGeeks"
+    ],
+    "last_updated": "2026-05-17"
+  },
+  "questions": [
+    {
+      "id": "reasoning_series_001",
+      "topic": "reasoning",
+      "subtopic": "series",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Wipro",
+        "HCL"
+      ],
+      "question": "Find the missing number: 2, 6, 12, 20, 30, 42, ?",
+      "options": [
+        "52",
+        "54",
+        "56",
+        "58"
+      ],
+      "answer": "C",
+      "explanation": "Pattern: 1x2=2, 2x3=6, 3x4=12, 4x5=20, 5x6=30, 6x7=42, 7x8=56.",
+      "shortcut": "n x (n+1) pattern. Next term = 7 x 8 = 56.",
+      "formula_used": "nth term = n(n+1)",
+      "trap_type": "Seeing difference pattern +4,+6,+8,+10,+12 and expecting +14 (giving 56, same answer but wrong reasoning for harder series)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "S001"
+    },
+    {
+      "id": "reasoning_series_002",
+      "topic": "reasoning",
+      "subtopic": "series",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Accenture"
+      ],
+      "question": "Find the wrong number in the series: 7, 28, 63, 124, 215, 342, 511",
+      "options": [
+        "28",
+        "124",
+        "215",
+        "342"
+      ],
+      "answer": "A",
+      "explanation": "Pattern should be: 2^3-1=7, 3^3-1=26, 4^3-1=63, 5^3-1=124, 6^3-1=215, 7^3-1=342, 8^3-1=511. So 28 is wrong; it should be 26.",
+      "shortcut": "Check cubes minus 1: 2^3-1=7, 3^3-1=26 (not 28), 4^3-1=63.",
+      "formula_used": "n^3 - 1 starting from n=2",
+      "trap_type": "Checking only end differences without looking for cubic pattern",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "S002"
+    },
+    {
+      "id": "reasoning_series_003",
+      "topic": "reasoning",
+      "subtopic": "series",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Deloitte",
+        "IBM"
+      ],
+      "question": "Find the next term: 3, 10, 29, 66, 127, ?",
+      "options": [
+        "210",
+        "218",
+        "220",
+        "226"
+      ],
+      "answer": "B",
+      "explanation": "Pattern: 1^3+2=3, 2^3+2=10, 3^3+2=29, 4^3+2=66, 5^3+2=127, 6^3+2=218.",
+      "shortcut": "n^3 + 2 pattern. Next = 6^3 + 2 = 216 + 2 = 218.",
+      "formula_used": "nth term = n^3 + 2",
+      "trap_type": "Seeing +7,+19,+37,+61 differences and trying to fit quadratic without checking cubes",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "S003"
+    },
+    {
+      "id": "reasoning_series_004",
+      "topic": "reasoning",
+      "subtopic": "series",
+      "difficulty": "medium",
+      "company_tags": [
+        "Accenture",
+        "Capgemini",
+        "Cognizant"
+      ],
+      "question": "Find the missing number: 2, 5, 9, 19, 37, ?",
+      "options": [
+        "73",
+        "75",
+        "77",
+        "79"
+      ],
+      "answer": "B",
+      "explanation": "Pattern: 2x2+1=5, 5x2-1=9, 9x2+1=19, 19x2-1=37, 37x2+1=75. Alternating +1 and -1 after doubling.",
+      "shortcut": "x2, then alternately +1 and -1. 37x2+1 = 75.",
+      "formula_used": "Recursive: multiply by 2, alternately add/subtract 1",
+      "trap_type": "Seeing +3,+4,+10,+18 and trying simple differences",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "S004"
+    },
+    {
+      "id": "reasoning_series_005",
+      "topic": "reasoning",
+      "subtopic": "series",
+      "difficulty": "hard",
+      "company_tags": [
+        "Deloitte",
+        "TCS"
+      ],
+      "question": "Find the next term: 1, 1, 2, 6, 24, 120, ?",
+      "options": [
+        "360",
+        "480",
+        "600",
+        "720"
+      ],
+      "answer": "D",
+      "explanation": "Pattern: 1x1=1, 1x2=2, 2x3=6, 6x4=24, 24x5=120, 120x6=720. Factorial sequence.",
+      "shortcut": "Factorials: 1!, 1!, 2!, 3!, 4!, 5!, 6! = 720.",
+      "formula_used": "nth term = (n-1)! for n>=2, or sequential multiplication",
+      "trap_type": "Not recognizing factorial/growing multiplication pattern",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "S005"
+    },
+    {
+      "id": "reasoning_series_006",
+      "topic": "reasoning",
+      "subtopic": "series",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro"
+      ],
+      "question": "Find the wrong number: 125, 106, 88, 76, 65, 58, 52",
+      "options": [
+        "106",
+        "88",
+        "76",
+        "65"
+      ],
+      "answer": "B",
+      "explanation": "Pattern of differences: 125-106=19, 106-88=18, 88-76=12, 76-65=11, 65-58=7, 58-52=6. Differences should decrease by 1: 19, 18, 17, 16, 15, 14. So after 106, next should be 106-17=89, not 88.",
+      "shortcut": "Differences should be 19, 18, 17, 16, 15, 14. 106-17=89, but given is 88.",
+      "formula_used": "Decreasing differences by 1",
+      "trap_type": "Looking at prime patterns or other unrelated patterns",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "S006"
+    },
+    {
+      "id": "reasoning_series_007",
+      "topic": "reasoning",
+      "subtopic": "series",
+      "difficulty": "easy",
+      "company_tags": [
+        "HCL",
+        "Tech Mahindra"
+      ],
+      "question": "Find the next term: 2, 3, 5, 7, 11, 13, ?",
+      "options": [
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "answer": "C",
+      "explanation": "Series of prime numbers: 2, 3, 5, 7, 11, 13, 17.",
+      "shortcut": "Prime number sequence. Next prime after 13 is 17.",
+      "formula_used": "Prime numbers",
+      "trap_type": "Thinking odd numbers (15) or adding +2,+2,+2,+4,+2,+4",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "S007"
+    },
+    {
+      "id": "reasoning_series_008",
+      "topic": "reasoning",
+      "subtopic": "series",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Accenture"
+      ],
+      "question": "Find the next term: 8, 27, 64, 125, 216, ?",
+      "options": [
+        "256",
+        "289",
+        "343",
+        "512"
+      ],
+      "answer": "C",
+      "explanation": "Pattern: 2^3=8, 3^3=27, 4^3=64, 5^3=125, 6^3=216, 7^3=343.",
+      "shortcut": "Perfect cubes starting from 2. Next = 7^3 = 343.",
+      "formula_used": "nth term = (n+1)^3",
+      "trap_type": "Confusing with squares (18^2=324 close to 343) or powers of 2",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "S008"
+    },
+    {
+      "id": "reasoning_series_009",
+      "topic": "reasoning",
+      "subtopic": "series",
+      "difficulty": "hard",
+      "company_tags": [
+        "Deloitte",
+        "IBM"
+      ],
+      "question": "Find the next term: 5, 6, 10, 19, 35, ?",
+      "options": [
+        "55",
+        "60",
+        "65",
+        "70"
+      ],
+      "answer": "B",
+      "explanation": "Pattern of differences: 6-5=1=1^2, 10-6=4=2^2, 19-10=9=3^2, 35-19=16=4^2. Next difference = 5^2=25. So next term = 35+25=60.",
+      "shortcut": "Differences are perfect squares: 1, 4, 9, 16, 25. Next = 35 + 25 = 60.",
+      "formula_used": "Differences are n^2",
+      "trap_type": "Looking at term pattern without examining differences",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "S009"
+    },
+    {
+      "id": "reasoning_series_010",
+      "topic": "reasoning",
+      "subtopic": "series",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Cognizant",
+        "Capgemini"
+      ],
+      "question": "Find the missing number: 1, 4, 27, 16, 125, 36, ?",
+      "options": [
+        "196",
+        "216",
+        "256",
+        "343"
+      ],
+      "answer": "D",
+      "explanation": "Two interleaved series: Odd positions (1st, 3rd, 5th, 7th): 1^3=1, 3^3=27, 5^3=125, 7^3=343. Even positions (2nd, 4th, 6th): 2^2=4, 4^2=16, 6^2=36.",
+      "shortcut": "Interleaved: odd positions are cubes of odd numbers, even positions are squares of even numbers. 7th position = 7^3 = 343.",
+      "formula_used": "Interleaved series: odd positions = (2n-1)^3, even positions = (2n)^2",
+      "trap_type": "Trying to find single pattern for entire series",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "S010"
+    },
+    {
+      "id": "reasoning_series_011",
+      "topic": "reasoning",
+      "subtopic": "series",
+      "difficulty": "easy",
+      "company_tags": [
+        "Wipro",
+        "HCL"
+      ],
+      "question": "Find the next term: 100, 50, 52, 26, 28, 14, ?",
+      "options": [
+        "7",
+        "8",
+        "12",
+        "16"
+      ],
+      "answer": "D",
+      "explanation": "Pattern: divide by 2, then add 2, then divide by 2, then add 2, etc. 100/2=50, 50+2=52, 52/2=26, 26+2=28, 28/2=14, 14+2=16.",
+      "shortcut": "Alternating /2 and +2. After 14, add 2 = 16.",
+      "formula_used": "Alternating operations: divide by 2, add 2",
+      "trap_type": "Only seeing /2 pattern (expecting 7)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "S011"
+    },
+    {
+      "id": "reasoning_series_012",
+      "topic": "reasoning",
+      "subtopic": "series",
+      "difficulty": "hard",
+      "company_tags": [
+        "Deloitte",
+        "TCS"
+      ],
+      "question": "Find the next term: 0, 2, 8, 14, 24, 34, ?",
+      "options": [
+        "42",
+        "46",
+        "48",
+        "50"
+      ],
+      "answer": "C",
+      "explanation": "Pattern: 1^2-1=0, 2^2-2=2, 3^2-1=8, 4^2-2=14, 5^2-1=24, 6^2-2=34, 7^2-1=48. Alternating subtract 1 and subtract 2 from squares.",
+      "shortcut": "Alternating: n^2-1 (odd n) and n^2-2 (even n). 7^2-1 = 49-1 = 48.",
+      "formula_used": "Alternating: odd n → n^2-1, even n → n^2-2",
+      "trap_type": "Checking simple differences (+2,+6,+6,+10,+10) without deeper pattern",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "S012"
+    },
+    {
+      "id": "reasoning_series_013",
+      "topic": "reasoning",
+      "subtopic": "series",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys"
+      ],
+      "question": "Find the wrong number: 1, 2, 6, 15, 31, 56, 91",
+      "options": [
+        "2",
+        "6",
+        "31",
+        "91"
+      ],
+      "answer": "D",
+      "explanation": "Differences: 2-1=1, 6-2=4, 15-6=9, 31-15=16, 56-31=25, 91-56=35. Differences should be perfect squares: 1, 4, 9, 16, 25, 36. So last difference should be 36, making last term = 56+36 = 92, not 91.",
+      "shortcut": "Differences are 1^2, 2^2, 3^2, 4^2, 5^2, should be 6^2=36. 56+36=92.",
+      "formula_used": "Differences are n^2",
+      "trap_type": "Accepting 35 as close enough to 36 without checking",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "S013"
+    },
+    {
+      "id": "reasoning_series_014",
+      "topic": "reasoning",
+      "subtopic": "series",
+      "difficulty": "medium",
+      "company_tags": [
+        "Accenture",
+        "Capgemini"
+      ],
+      "question": "Find the next term: 2, 12, 36, 80, 150, ?",
+      "options": [
+        "220",
+        "240",
+        "252",
+        "270"
+      ],
+      "answer": "C",
+      "explanation": "Pattern: 1^3+1^2=2, 2^3+2^2=12, 3^3+3^2=36, 4^3+4^2=80, 5^3+5^2=150, 6^3+6^2=216+36=252.",
+      "shortcut": "n^3 + n^2 = n^2(n+1). Next = 6^2 x 7 = 36 x 7 = 252.",
+      "formula_used": "nth term = n^3 + n^2",
+      "trap_type": "Seeing 2x6=12, 3x12=36, 2.22x36=80 and looking for inconsistent multiplication",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "S014"
+    },
+    {
+      "id": "reasoning_series_015",
+      "topic": "reasoning",
+      "subtopic": "series",
+      "difficulty": "hard",
+      "company_tags": [
+        "Deloitte",
+        "IBM",
+        "TCS"
+      ],
+      "question": "Find the next term: 4, 10, 22, 46, 94, ?",
+      "options": [
+        "180",
+        "184",
+        "190",
+        "196"
+      ],
+      "answer": "C",
+      "explanation": "Pattern: 4x2+2=10, 10x2+2=22, 22x2+2=46, 46x2+2=94, 94x2+2=190.",
+      "shortcut": "x2 + 2 pattern. Next = 94 x 2 + 2 = 190.",
+      "formula_used": "Recursive: multiply by 2, add 2",
+      "trap_type": "Seeing +6,+12,+24,+48 differences and expecting +96 (giving 190, same answer but verify with formula)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "S015"
+    },
+    {
+      "id": "reasoning_series_016",
+      "topic": "reasoning",
+      "subtopic": "series",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Wipro"
+      ],
+      "question": "Find the missing number: 15, 31, 63, 127, 255, ?",
+      "options": [
+        "510",
+        "511",
+        "512",
+        "513"
+      ],
+      "answer": "B",
+      "explanation": "Pattern: 2^4-1=15, 2^5-1=31, 2^6-1=63, 2^7-1=127, 2^8-1=255, 2^9-1=511.",
+      "shortcut": "2^(n+3) - 1 pattern. Next = 2^9 - 1 = 511.",
+      "formula_used": "nth term = 2^(n+3) - 1",
+      "trap_type": "Doubling and adding 1: 255x2+1 = 511 (coincidentally same, but verify underlying pattern)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "S016"
+    },
+    {
+      "id": "reasoning_series_017",
+      "topic": "reasoning",
+      "subtopic": "series",
+      "difficulty": "easy",
+      "company_tags": [
+        "HCL",
+        "Tech Mahindra"
+      ],
+      "question": "Find the next term: 81, 27, 9, 3, 1, ?",
+      "options": [
+        "1/2",
+        "1/3",
+        "1/9",
+        "0"
+      ],
+      "answer": "B",
+      "explanation": "Pattern: divide by 3 each time. 81/3=27, 27/3=9, 9/3=3, 3/3=1, 1/3=1/3.",
+      "shortcut": "Geometric progression with common ratio 1/3. Next = 1/3.",
+      "formula_used": "GP with r = 1/3",
+      "trap_type": "Expecting integer answer and choosing 0 or 1",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "S017"
+    },
+    {
+      "id": "reasoning_series_018",
+      "topic": "reasoning",
+      "subtopic": "series",
+      "difficulty": "hard",
+      "company_tags": [
+        "Deloitte",
+        "Accenture"
+      ],
+      "question": "Find the next term: 3, 7, 15, 31, 63, ?",
+      "options": [
+        "120",
+        "127",
+        "130",
+        "135"
+      ],
+      "answer": "B",
+      "explanation": "Pattern: 3=2^2-1, 7=2^3-1, 15=2^4-1, 31=2^5-1, 63=2^6-1, next=2^7-1=127.",
+      "shortcut": "2^(n+1) - 1 pattern. Next = 2^7 - 1 = 127.",
+      "formula_used": "nth term = 2^(n+1) - 1",
+      "trap_type": "Seeing x2+1 pattern: 3x2+1=7, 7x2+1=15, and expecting 63x2+1=127 (same answer, different reasoning)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "S018"
+    },
+    {
+      "id": "reasoning_series_019",
+      "topic": "reasoning",
+      "subtopic": "series",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Cognizant"
+      ],
+      "question": "Find the next term: 198, 194, 185, 169, ?",
+      "options": [
+        "144",
+        "145",
+        "146",
+        "148"
+      ],
+      "answer": "A",
+      "explanation": "Differences: 198-194=4=2^2, 194-185=9=3^2, 185-169=16=4^2, next difference=5^2=25. So 169-25=144.",
+      "shortcut": "Differences are squares: 2^2, 3^2, 4^2, 5^2. Next = 169 - 25 = 144.",
+      "formula_used": "Differences are n^2",
+      "trap_type": "Seeing decreasing differences without recognizing square pattern",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "S019"
+    },
+    {
+      "id": "reasoning_series_020",
+      "topic": "reasoning",
+      "subtopic": "series",
+      "difficulty": "hard",
+      "company_tags": [
+        "IBM",
+        "Deloitte"
+      ],
+      "question": "Find the next term: 0, 6, 24, 60, 120, ?",
+      "options": [
+        "180",
+        "210",
+        "240",
+        "270"
+      ],
+      "answer": "B",
+      "explanation": "Pattern: 1^3-1=0, 2^3-2=6, 3^3-3=24, 4^3-4=60, 5^3-5=120, 6^3-6=210. Or n(n-1)(n+1) = n^3-n.",
+      "shortcut": "n^3 - n pattern. Next = 6^3 - 6 = 216 - 6 = 210.",
+      "formula_used": "nth term = n^3 - n",
+      "trap_type": "Not recognizing cubic pattern; seeing +6,+18,+36,+60 differences",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "S020"
+    }
+  ]
+}

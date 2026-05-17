@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "topic": "Verbal Ability",
+    "subtopic": "reading_comprehension",
+    "total_questions": 3,
+    "sources": [
+      "IndiaBIX"
+    ],
+    "last_updated": "2026-05-17"
+  },
+  "questions": [
+    {
+      "id": "verbal_readin_001",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The word 'Command Module' used twice in the given passage indicates perhaps that it deals with",
+      "options": [
+        "an alarming journey",
+        "a commanding situation",
+        "a journey into outer space",
+        "a frightful battle."
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read question first, then scan passage for keywords",
+      "formula_used": "",
+      "trap_type": "Choosing an option that is mentioned but not the main point",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_002",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which one of the following reasons would one consider as more as possible for the warning lights to be on?",
+      "options": [
+        "There was a shower of debris.",
+        "Jack was yelling.",
+        "A catastrophe was imminent.",
+        "The moon was looming close and big."
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read question first, then scan passage for keywords",
+      "formula_used": "",
+      "trap_type": "Choosing an option that is mentioned but not the main point",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_003",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The statement that the dazzling sunshine was \"for once unfiltered by layers of air\" means",
+      "options": [
+        "that the sun was very hot",
+        "that there was no strong wind",
+        "that the air was unpolluted",
+        "none of above"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read question first, then scan passage for keywords",
+      "formula_used": "",
+      "trap_type": "Choosing an option that is mentioned but not the main point",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    }
+  ]
+}

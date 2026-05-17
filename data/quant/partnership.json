@@ -1,0 +1,283 @@
+{
+  "metadata": {
+    "topic": "Quantitative Aptitude",
+    "subtopic": "partnership",
+    "total_questions": 10,
+    "sources": [
+      "IndiaBIX"
+    ],
+    "last_updated": "2026-05-17"
+  },
+  "questions": [
+    {
+      "id": "quant_partne_001",
+      "topic": "quant",
+      "subtopic": "partnership",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A and B invest in a business in the ratio 3 : 2. If 5% of the total profit goes to charity and A's share is Rs. 855, the total profit is:",
+      "options": [
+        "Rs. 1425",
+        "Rs. 1500",
+        "Rs. 1537.50",
+        "Rs. 1576"
+      ],
+      "answer": "B",
+      "explanation": "Let the total profit be Rs. 100.\n\n[TABLE]\n\nIf A's share is Rs. 57, total profit = Rs. 100.\n\n[TABLE]",
+      "shortcut": "Profit share ratio = Investment x Time ratio",
+      "formula_used": "",
+      "trap_type": "Not considering time period for investments",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_partne_002",
+      "topic": "quant",
+      "subtopic": "partnership",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A, B and C jointly thought of engaging themselves in a business venture. It was agreed that A would invest Rs. 6500 for 6 months, B, Rs. 8400 for 5 months and C, Rs. 10,000 for 3 months. A wants to be the working member for which, he was to receive 5% of the profits. The profit earned was Rs. 7400. Calculate the share of B in the profit.",
+      "options": [
+        "Rs. 1900",
+        "Rs. 2660",
+        "Rs. 2800",
+        "Rs. 2840"
+      ],
+      "answer": "B",
+      "explanation": "For managing, A received = 5% of Rs. 7400 = Rs. 370.\n\nBalance = Rs. (7400 - 370) = Rs. 7030.\n\nRatio of their investments = (6500 x 6) : (8400 x 5) : (10000 x 3)\n\n = 39000 : 42000 : 30000\n\n = 13 : 14 : 10\n\n[TABLE]",
+      "shortcut": "Profit share ratio = Investment x Time ratio",
+      "formula_used": "",
+      "trap_type": "Not considering time period for investments",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_partne_003",
+      "topic": "quant",
+      "subtopic": "partnership",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A, B and C enter into a partnership in the ratio : : . After 4 months, A increases his share 50%. If the total profit at the end of one year be Rs. 21,600, then B's share in the profit is:",
+      "options": [
+        "Rs. 2100",
+        "Rs. 2400",
+        "Rs. 3600",
+        "Rs. 4000"
+      ],
+      "answer": "D",
+      "explanation": "[TABLE]\n\nLet the initial investments be 105x, 40x and 36x.\n\n[TABLE]\n\n = 1680x : 480x : 432x = 35 : 10 : 9.\n\n[TABLE]",
+      "shortcut": "Profit share ratio = Investment x Time ratio",
+      "formula_used": "",
+      "trap_type": "Not considering time period for investments",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_partne_004",
+      "topic": "quant",
+      "subtopic": "partnership",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A, B, C subscribe Rs. 50,000 for a business. A subscribes Rs. 4000 more than B and B Rs. 5000 more than C. Out of a total profit of Rs. 35,000, A receives:",
+      "options": [
+        "Rs. 8400",
+        "Rs. 11,900",
+        "Rs. 13,600",
+        "Rs. 14,700"
+      ],
+      "answer": "D",
+      "explanation": "Let C = x.\n\nThen, B = x + 5000 and A = x + 5000 + 4000 = x + 9000.\n\nSo, x + x + 5000 + x + 9000 = 50000\n\n 3x = 36000\n\n x = 12000\n\nA : B : C = 21000 : 17000 : 12000 = 21 : 17 : 12.\n\n[TABLE]",
+      "shortcut": "Profit share ratio = Investment x Time ratio",
+      "formula_used": "",
+      "trap_type": "Not considering time period for investments",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_partne_005",
+      "topic": "quant",
+      "subtopic": "partnership",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Three partners shared the profit in a business in the ratio 5 : 7 : 8. They had partnered for 14 months, 8 months and 7 months respectively. What was the ratio of their investments?",
+      "options": [
+        "5 : 7 : 8",
+        "20 : 49 : 64",
+        "38 : 28 : 21",
+        "None of these"
+      ],
+      "answer": "B",
+      "explanation": "Let their investments be Rs. x for 14 months, Rs. y for 8 months and Rs. z for 7 months respectively.\n\nThen, 14x : 8y : 7z = 5 : 7 : 8.\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]",
+      "shortcut": "Profit share ratio = Investment x Time ratio",
+      "formula_used": "",
+      "trap_type": "Not considering time period for investments",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_partne_006",
+      "topic": "quant",
+      "subtopic": "partnership",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A starts business with Rs. 3500 and after 5 months, B joins with A as his partner. After a year, the profit is divided in the ratio 2 : 3. What is B's contribution in the capital?",
+      "options": [
+        "Rs. 7500",
+        "Rs. 8000",
+        "Rs. 8500",
+        "Rs. 9000"
+      ],
+      "answer": "D",
+      "explanation": "Let B's capital be Rs. x.\n\n[TABLE]\n\n 14x = 126000\n\n x = 9000.",
+      "shortcut": "Profit share ratio = Investment x Time ratio",
+      "formula_used": "",
+      "trap_type": "Not considering time period for investments",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_partne_007",
+      "topic": "quant",
+      "subtopic": "partnership",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A and B entered into partnership with capitals in the ratio 4 : 5. After 3 months, A withdrew of his capital and B withdrew of his capital. The gain at the end of 10 months was Rs. 760. A's share in this profit is:",
+      "options": [
+        "Rs. 330",
+        "Rs. 360",
+        "Rs. 380",
+        "Rs. 430"
+      ],
+      "answer": "A",
+      "explanation": "[TABLE]\n\n = (12x + 21x) : (15x + 28x)\n\n = 33x :43x\n\n = 33 : 43.\n\n[TABLE]",
+      "shortcut": "Profit share ratio = Investment x Time ratio",
+      "formula_used": "",
+      "trap_type": "Not considering time period for investments",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_partne_008",
+      "topic": "quant",
+      "subtopic": "partnership",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A and B started a partnership business investing some amount in the ratio of 3 : 5. C joined then after six months with an amount equal to that of B. In what proportion should the profit at the end of one year be distributed among A, B and C?",
+      "options": [
+        "3 : 5 : 2",
+        "3 : 5 : 5",
+        "6 : 10 : 5",
+        "Data inadequate"
+      ],
+      "answer": "C",
+      "explanation": "Let the initial investments of A and B be 3x and 5x.\n\nA : B : C = (3x x 12) : (5x x 12) : (5x x 6) = 36 : 60 : 30 = 6 : 10 : 5.",
+      "shortcut": "Profit share ratio = Investment x Time ratio",
+      "formula_used": "",
+      "trap_type": "Not considering time period for investments",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_partne_009",
+      "topic": "quant",
+      "subtopic": "partnership",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A, B, C rent a pasture. A puts 10 oxen for 7 months, B puts 12 oxen for 5 months and C puts 15 oxen for 3 months for grazing. If the rent of the pasture is Rs. 175, how much must C pay as his share of rent?",
+      "options": [
+        "Rs. 45",
+        "Rs. 50",
+        "Rs. 55",
+        "Rs. 60"
+      ],
+      "answer": "A",
+      "explanation": "A : B : C = (10 x 7) : (12 x 5) : (15 x 3) = 70 : 60 : 45 = 14 : 12 : 9.\n\n[TABLE]",
+      "shortcut": "Profit share ratio = Investment x Time ratio",
+      "formula_used": "",
+      "trap_type": "Not considering time period for investments",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_partne_010",
+      "topic": "quant",
+      "subtopic": "partnership",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A and B started a business in partnership investing Rs. 20,000 and Rs. 15,000 respectively. After six months, C joined them with Rs. 20,000. What will be B's share in total profit of Rs. 25,000 earned at the end of 2 years from the starting of the business?",
+      "options": [
+        "Rs. 7500",
+        "Rs. 9000",
+        "Rs. 9500",
+        "Rs. 10,000"
+      ],
+      "answer": "A",
+      "explanation": "A : B : C = (20,000 x 24) : (15,000 x 24) : (20,000 x 18) = 4 : 3 : 3.\n\n[TABLE]",
+      "shortcut": "Profit share ratio = Investment x Time ratio",
+      "formula_used": "",
+      "trap_type": "Not considering time period for investments",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    }
+  ]
+}

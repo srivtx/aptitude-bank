@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "topic": "Profit and Loss",
+    "total_questions": 18,
+    "sources": [
+      "IndiaBIX",
+      "PrepInsta",
+      "GeeksforGeeks"
+    ],
+    "last_updated": "2026-05-17"
+  },
+  "questions": [
+    {
+      "id": "quant_profit_001",
+      "topic": "quant",
+      "subtopic": "profit_loss",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Wipro",
+        "HCL"
+      ],
+      "question": "A man buys a cycle for Rs. 1400 and sells it at a loss of 15%. What is the selling price of the cycle?",
+      "options": [
+        "Rs. 1090",
+        "Rs. 1160",
+        "Rs. 1190",
+        "Rs. 1202"
+      ],
+      "answer": "C",
+      "explanation": "Selling Price = Cost Price × (100 - Loss%)/100 = 1400 × 85/100 = 1400 × 0.85 = 1190.",
+      "shortcut": "SP = CP × 0.85 = 1400 × 0.85. 1400 × 0.80 = 1120, 1400 × 0.05 = 70, total = 1190.",
+      "formula_used": "SP = CP × (100 - Loss%)/100",
+      "trap_type": "Calculating 15% of CP and adding instead of subtracting",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "PL001"
+    },
+    {
+      "id": "quant_profit_002",
+      "topic": "quant",
+      "subtopic": "profit_loss",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys"
+      ],
+      "question": "When a commodity is sold for Rs. 34.80, there is a loss of 25%. What is the cost price of the commodity?",
+      "options": [
+        "Rs. 46.40",
+        "Rs. 26.10",
+        "Rs. 43.00",
+        "Rs. 43.20"
+      ],
+      "answer": "A",
+      "explanation": "SP = CP × (100-25)/100 = CP × 0.75. Therefore CP = 34.80 / 0.75 = 34.80 × 4/3 = 46.40.",
+      "shortcut": "CP = SP × 100/(100-Loss%) = 34.80 × 100/75 = 34.80 × 4/3 = 46.40.",
+      "formula_used": "CP = SP × 100/(100 - Loss%)",
+      "trap_type": "Calculating 25% of 34.80 and adding (getting 43.50, close to option C)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "PL001"
+    },
+    {
+      "id": "quant_profit_003",
+      "topic": "quant",
+      "subtopic": "profit_loss",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Accenture",
+        "Deloitte"
+      ],
+      "question": "A shopkeeper sold an article for Rs. 2090.42. Approximately, what will be the percentage profit if he sold that article for Rs. 2602.58?",
+      "options": [
+        "15%",
+        "20%",
+        "25%",
+        "30%"
+      ],
+      "answer": "C",
+      "explanation": "Profit = 2602.58 - 2090.42 = 512.16. Profit% = (512.16/2090.42) × 100 = 24.5% ≈ 25%.",
+      "shortcut": "512/2090 ≈ 1/4 = 25%.",
+      "formula_used": "Profit% = (Profit/CP) × 100",
+      "trap_type": "Using 2602.58 as CP instead of 2090.42",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "PL002"
+    },
+    {
+      "id": "quant_profit_004",
+      "topic": "quant",
+      "subtopic": "profit_loss",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Cognizant",
+        "Capgemini"
+      ],
+      "question": "Alfred buys an old scooter for Rs. 4700 and spends Rs. 800 on its repairs. If he sells the scooter for Rs. 5800, his gain percent is:",
+      "options": [
+        "4 4/7%",
+        "5 5/11%",
+        "10%",
+        "12%"
+      ],
+      "answer": "B",
+      "explanation": "Total CP = 4700 + 800 = 5500. SP = 5800. Profit = 300. Profit% = 300/5500 × 100 = 30000/5500 = 60/11 = 5 5/11%.",
+      "shortcut": "Profit% = (300/5500) × 100 = 60/11 = 5.45%.",
+      "formula_used": "Profit% = (Profit/Total CP) × 100",
+      "trap_type": "Forgetting to add repair cost to CP (using 4700 as CP, getting 300/4700×100 = 6.38%)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "PL003"
+    },
+    {
+      "id": "quant_profit_005",
+      "topic": "quant",
+      "subtopic": "profit_loss",
+      "difficulty": "medium",
+      "company_tags": [
+        "Infosys",
+        "Wipro"
+      ],
+      "question": "The cost price of 20 articles is the same as the selling price of x articles. If the profit is 25%, then the value of x is:",
+      "options": [
+        "15",
+        "16",
+        "18",
+        "25"
+      ],
+      "answer": "B",
+      "explanation": "Let CP of each = 1. CP of 20 = 20. SP of x = 20. SP of each = 20/x. Profit% = [(20/x - 1)/1] × 100 = 25. So (20/x - 1) = 0.25. 20/x = 1.25. x = 20/1.25 = 16.",
+      "shortcut": "CP of 20 = SP of x. Profit 25% means SP/CP = 5/4. So x/20 = 4/5, x = 16.",
+      "formula_used": "If CP of x = SP of y and profit is p%, then x/y = (100+p)/100",
+      "trap_type": "Setting SP of 20 = CP of x (reversing the relationship)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "PL004"
+    },
+    {
+      "id": "quant_profit_006",
+      "topic": "quant",
+      "subtopic": "profit_loss",
+      "difficulty": "hard",
+      "company_tags": [
+        "Deloitte",
+        "IBM"
+      ],
+      "question": "If selling price is doubled, the profit triples. Find the profit percent.",
+      "options": [
+        "66 2/3%",
+        "100%",
+        "105%",
+        "120%"
+      ],
+      "answer": "B",
+      "explanation": "Let CP = C, original SP = S, original profit = P = S - C. New SP = 2S, new profit = 3P. So 2S - C = 3(S - C) = 3S - 3C. Therefore 2S - C = 3S - 3C, which gives S = 2C. Original profit P = S - C = 2C - C = C. Profit% = C/C × 100 = 100%.",
+      "shortcut": "Let CP=100, SP=x, profit=x-100. New: 2x-100 = 3(x-100) → 2x-100 = 3x-300 → x=200. Profit = 100/100 × 100 = 100%.",
+      "formula_used": "Profit = SP - CP, algebraic manipulation",
+      "trap_type": "Thinking profit triples means 3 × original profit%, or confusing with SP doubling",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "PL005"
+    },
+    {
+      "id": "quant_profit_007",
+      "topic": "quant",
+      "subtopic": "profit_loss",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Accenture"
+      ],
+      "question": "In a certain store, the profit is 320% of the cost. If the cost increases by 25% but the selling price remains constant, approximately what percentage of the selling price is the profit?",
+      "options": [
+        "30%",
+        "70%",
+        "100%",
+        "250%"
+      ],
+      "answer": "B",
+      "explanation": "Let CP = 100. Profit = 320. SP = 420. New CP = 125. New profit = 420 - 125 = 295. Profit as % of SP = 295/420 × 100 = 70.2% ≈ 70%.",
+      "shortcut": "Assume CP=100. SP=420. New CP=125. Profit=295. 295/420 ≈ 70%.",
+      "formula_used": "Profit% of SP = [(SP - NewCP)/SP] × 100",
+      "trap_type": "Calculating profit% on new CP instead of SP (295/125 × 100 = 236%)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "PL006"
+    },
+    {
+      "id": "quant_profit_008",
+      "topic": "quant",
+      "subtopic": "profit_loss",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Deloitte"
+      ],
+      "question": "A vendor bought toffees at 6 for a rupee. How many for a rupee must he sell to gain 20%?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "C",
+      "explanation": "CP of 6 toffees = Re. 1. CP per toffee = 1/6. For 20% gain, SP per toffee = (1/6) × 1.20 = 1.20/6 = 0.20 = 1/5. So 5 toffees for Re. 1.",
+      "shortcut": "To gain 20%, sell at 6/1.20 = 5 for a rupee.",
+      "formula_used": "If CP = x for Re. 1, to gain p%, sell (x × 100)/(100+p) for Re. 1",
+      "trap_type": "Selling 6 for Rs. 1.20 instead of finding how many for Re. 1",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "PL007"
+    },
+    {
+      "id": "quant_profit_009",
+      "topic": "quant",
+      "subtopic": "profit_loss",
+      "difficulty": "medium",
+      "company_tags": [
+        "Infosys",
+        "Capgemini"
+      ],
+      "question": "The percentage profit earned by selling an article for Rs. 1920 is equal to the percentage loss incurred by selling the same article for Rs. 1280. At what price should the article be sold to make 25% profit?",
+      "options": [
+        "Rs. 2000",
+        "Rs. 2200",
+        "Rs. 2400",
+        "Rs. 2600"
+      ],
+      "answer": "A",
+      "explanation": "Let CP = x. Profit% at Rs. 1920 = (1920-x)/x × 100. Loss% at Rs. 1280 = (x-1280)/x × 100. Setting equal: 1920 - x = x - 1280. 2x = 3200. x = 1600. For 25% profit, SP = 1600 × 1.25 = 2000.",
+      "shortcut": "CP = (1920 + 1280)/2 = 1600. SP for 25% profit = 1600 × 1.25 = 2000.",
+      "formula_used": "When profit% = loss% for two SPs, CP = (SP1 + SP2)/2",
+      "trap_type": "Averaging the SPs and adding 25% (getting 1600 + 25% = 2000, coincidentally same here but wrong method)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "PL008"
+    },
+    {
+      "id": "quant_profit_010",
+      "topic": "quant",
+      "subtopic": "profit_loss",
+      "difficulty": "hard",
+      "company_tags": [
+        "Deloitte",
+        "IBM",
+        "TCS"
+      ],
+      "question": "A trader mixes 26 kg of rice at Rs. 20 per kg with 30 kg of rice at Rs. 36 per kg and sells the mixture at Rs. 30 per kg. His profit percent is:",
+      "options": [
+        "No profit, no loss",
+        "5%",
+        "8%",
+        "10%"
+      ],
+      "answer": "B",
+      "explanation": "Total CP = 26×20 + 30×36 = 520 + 1080 = 1600. Total quantity = 56 kg. SP = 56 × 30 = 1680. Profit = 80. Profit% = 80/1600 × 100 = 5%.",
+      "shortcut": "CP per kg = 1600/56 = 28.57. SP per kg = 30. Profit% = (30-28.57)/28.57 × 100 ≈ 5%.",
+      "formula_used": "Profit% = [(Total SP - Total CP)/Total CP] × 100",
+      "trap_type": "Averaging CPs directly: (20+36)/2 = 28, then (30-28)/28 = 7.14% (wrong because quantities differ)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "PL009"
+    },
+    {
+      "id": "quant_profit_011",
+      "topic": "quant",
+      "subtopic": "profit_loss",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Wipro",
+        "Cognizant"
+      ],
+      "question": "A man gains 20% by selling an article for a certain price. If he sells it at double the price, the percentage of profit will be:",
+      "options": [
+        "40%",
+        "100%",
+        "140%",
+        "120%"
+      ],
+      "answer": "C",
+      "explanation": "Let CP = 100. Original SP (20% profit) = 120. Double SP = 240. New profit = 240 - 100 = 140. Profit% = 140/100 × 100 = 140%.",
+      "shortcut": "CP=100, original SP=120, double SP=240. Profit=140. Profit%=140%.",
+      "formula_used": "New Profit% = [(2×Original_SP - CP)/CP] × 100",
+      "trap_type": "Doubling the profit% (20% × 2 = 40%) instead of doubling the SP",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "PL010"
+    },
+    {
+      "id": "quant_profit_012",
+      "topic": "quant",
+      "subtopic": "profit_loss",
+      "difficulty": "hard",
+      "company_tags": [
+        "Deloitte",
+        "Accenture"
+      ],
+      "question": "A person incurs a loss of 5% by selling a watch for Rs. 1140. At what price should the watch be sold to earn 5% profit?",
+      "options": [
+        "Rs. 1200",
+        "Rs. 1230",
+        "Rs. 1260",
+        "Rs. 1290"
+      ],
+      "answer": "C",
+      "explanation": "SP at 5% loss = 95% of CP = 1140. CP = 1140/0.95 = 1200. For 5% profit, SP = 1200 × 1.05 = 1260.",
+      "shortcut": "CP = 1140/0.95 = 1200. New SP = 1200 × 1.05 = 1260.",
+      "formula_used": "CP = SP/(1-loss%), New SP = CP × (1+profit%)",
+      "trap_type": "Adding 10% to 1140 (5% loss + 5% profit = 10%) getting 1254, close to wrong option",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "PL011"
+    },
+    {
+      "id": "quant_profit_013",
+      "topic": "quant",
+      "subtopic": "profit_loss",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys"
+      ],
+      "question": "An article was sold at a profit of 15%. Had it been sold for Rs. 81 less, there would have been a loss of 10%. The cost price of the article is:",
+      "options": [
+        "Rs. 270",
+        "Rs. 300",
+        "Rs. 324",
+        "Rs. 360"
+      ],
+      "answer": "C",
+      "explanation": "Let CP = x. SP at 15% profit = 1.15x. SP at 10% loss = 0.90x. Difference = 1.15x - 0.90x = 0.25x = 81. x = 81/0.25 = 324.",
+      "shortcut": "Difference in percentages = 15% - (-10%) = 25% of CP. So 0.25 × CP = 81. CP = 324.",
+      "formula_used": "CP = Difference in amount / (Profit% + Loss%)",
+      "trap_type": "Taking difference as 5% (15-10) instead of 25% (15-(-10))",
+      "source": "GeeksforGeeks",
+      "source_url": "",
+      "pattern_detected": "PL012"
+    },
+    {
+      "id": "quant_profit_014",
+      "topic": "quant",
+      "subtopic": "profit_loss",
+      "difficulty": "hard",
+      "company_tags": [
+        "IBM",
+        "Deloitte"
+      ],
+      "question": "A dealer sold an article at a loss of 2.5%. Had he sold it for Rs. 100 more, he would have gained 7.5%. To gain 12.5% he should sell it for:",
+      "options": [
+        "Rs. 1120",
+        "Rs. 1150",
+        "Rs. 1200",
+        "Rs. 1225"
+      ],
+      "answer": "A",
+      "explanation": "Let CP = x. At 2.5% loss: SP = 0.975x. At 7.5% gain: SP = 1.075x. Difference = 0.10x = 100. So x = 1000. For 12.5% gain: SP = 1000 × 1.125 = 1125.",
+      "shortcut": "CP = 100/(7.5+2.5) × 100 = 1000. Target SP = 1000 × 1.125 = 1125.",
+      "formula_used": "CP = Extra amount / (Target gain% + Original loss%)",
+      "trap_type": "Using wrong percentage difference",
+      "source": "PrepInsta",
+      "source_url": "",
+      "pattern_detected": "PL012"
+    },
+    {
+      "id": "quant_profit_015",
+      "topic": "quant",
+      "subtopic": "profit_loss",
+      "difficulty": "easy",
+      "company_tags": [
+        "Wipro",
+        "HCL",
+        "Tech Mahindra"
+      ],
+      "question": "By selling 45 lemons for Rs. 20, a woman loses 20%. How many should she sell for Rs. 24 to gain 20%?",
+      "options": [
+        "36",
+        "40",
+        "42",
+        "48"
+      ],
+      "answer": "A",
+      "explanation": "SP of 45 lemons = Rs. 20. This is 80% of CP. So CP = 20/0.80 = 25. For 20% gain on Rs. 25, SP should be 25 × 1.20 = 30. If Rs. 30 is for 45 lemons, then Rs. 24 is for 45 × 24/30 = 36 lemons.",
+      "shortcut": "CP = 20/0.8 = 25. Target SP = 25×1.2 = 30. For Rs. 24: 45 × 24/30 = 36.",
+      "formula_used": "Inverse proportion for quantity when SP changes",
+      "trap_type": "Directly increasing quantity by 20% (45 × 1.20 = 54) or using wrong base",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "PL013"
+    },
+    {
+      "id": "quant_profit_016",
+      "topic": "quant",
+      "subtopic": "profit_loss",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Accenture",
+        "Capgemini"
+      ],
+      "question": "A man sold two flats for Rs. 4 lakhs each. On one he gains 2% and on the other he loses 2%. His overall gain or loss percent in the transaction is:",
+      "options": [
+        "No profit, no loss",
+        "0.25% loss",
+        "0.04% profit",
+        "0.04% loss"
+      ],
+      "answer": "D",
+      "explanation": "When SP is same and profit% = loss%, there is always an overall loss. Loss% = (Common%)²/100 = 4/100 = 0.04%.",
+      "shortcut": "For equal SP with p% gain and p% loss: Loss% = p²/100 = 4/100 = 0.04%.",
+      "formula_used": "Loss% = (Common percentage)² / 100",
+      "trap_type": "Thinking no profit no loss because +2% and -2% cancel out",
+      "source": "GeeksforGeeks",
+      "source_url": "",
+      "pattern_detected": "PL014"
+    },
+    {
+      "id": "quant_profit_017",
+      "topic": "quant",
+      "subtopic": "profit_loss",
+      "difficulty": "hard",
+      "company_tags": [
+        "Deloitte",
+        "IBM"
+      ],
+      "question": "A merchant marks his goods up by 40% and then offers a discount of 15% on the marked price. His profit percentage is:",
+      "options": [
+        "15%",
+        "19%",
+        "25%",
+        "30%"
+      ],
+      "answer": "B",
+      "explanation": "Let CP = 100. MP = 140. After 15% discount: SP = 140 × 0.85 = 119. Profit = 19. Profit% = 19%.",
+      "shortcut": "Net multiplier = 1.40 × 0.85 = 1.19. Profit = 19%.",
+      "formula_used": "For markup p% and discount q%: Profit% = [(1+p/100)(1-q/100) - 1] × 100",
+      "trap_type": "Subtracting percentages: 40% - 15% = 25% (completely wrong)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "PL015"
+    },
+    {
+      "id": "quant_profit_018",
+      "topic": "quant",
+      "subtopic": "profit_loss",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Cognizant"
+      ],
+      "question": "A retailer buys 40 pens at the marked price of 36 pens from a wholesaler. If he sells these pens giving a discount of 1%, what is the profit percent?",
+      "options": [
+        "9%",
+        "10%",
+        "10 1/9%",
+        "11%"
+      ],
+      "answer": "B",
+      "explanation": "Let MP of each pen = Re. 1. CP of 40 pens = MP of 36 pens = Rs. 36. So CP per pen = 36/40 = 0.9. SP per pen at 1% discount = 0.99. Profit per pen = 0.99 - 0.90 = 0.09. Profit% = 0.09/0.90 × 100 = 10%.",
+      "shortcut": "CP = 36/40 = 0.9. SP = 0.99. Profit% = (0.09/0.9) × 100 = 10%.",
+      "formula_used": "Profit% = [(SP - CP)/CP] × 100",
+      "trap_type": "Using marked price as CP, or forgetting the discount",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "PL016"
+    }
+  ]
+}

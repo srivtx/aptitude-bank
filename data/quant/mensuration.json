@@ -1,0 +1,420 @@
+{
+  "metadata": {
+    "topic": "Quantitative Aptitude",
+    "subtopic": "mensuration",
+    "total_questions": 15,
+    "sources": [
+      "IndiaBIX"
+    ],
+    "last_updated": "2026-05-17"
+  },
+  "questions": [
+    {
+      "id": "quant_mensur_001",
+      "topic": "quant",
+      "subtopic": "mensuration",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The ratio between the length and the breadth of a rectangular park is 3 : 2. If a man cycling along the boundary of the park at the speed of 12 km/hr completes one round in 8 minutes, then the area of the park (in sq. m) is:",
+      "options": [
+        "15360",
+        "153600",
+        "30720",
+        "307200"
+      ],
+      "answer": "B",
+      "explanation": "[TABLE]\n\nLet length = 3x metres and breadth = 2x metres.\n\nThen, 2(3x + 2x) = 1600 or x = 160.\n\n Length = 480 m and Breadth = 320 m.\n\n Area = (480 x 320) m^2 = 153600 m^2.",
+      "shortcut": "Memorize formulas: Circle area = pi*r^2, Sphere vol = 4/3*pi*r^3",
+      "formula_used": "",
+      "trap_type": "Using diameter instead of radius in formulas, or forgetting to square units",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_mensur_002",
+      "topic": "quant",
+      "subtopic": "mensuration",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "An error 2% in excess is made while measuring the side of a square. The percentage of error in the calculated area of the square is:",
+      "options": [
+        "2%",
+        "2.02%",
+        "4%",
+        "4.04%"
+      ],
+      "answer": "D",
+      "explanation": "100 cm is read as 102 cm.\n\n A_1 = (100 x 100) cm^2 and A_2 (102 x 102) cm^2.\n\n(A_2 - A_1) = [(102)^2 - (100)^2]\n\n= (102 + 100) x (102 - 100)\n\n= 404 cm^2.\n\n[TABLE]",
+      "shortcut": "Memorize formulas: Circle area = pi*r^2, Sphere vol = 4/3*pi*r^3",
+      "formula_used": "",
+      "trap_type": "Using diameter instead of radius in formulas, or forgetting to square units",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_mensur_003",
+      "topic": "quant",
+      "subtopic": "mensuration",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The ratio between the perimeter and the breadth of a rectangle is 5 : 1. If the area of the rectangle is 216 sq. cm, what is the length of the rectangle?",
+      "options": [
+        "16 cm",
+        "18 cm",
+        "24 cm",
+        "Data inadequate",
+        "None of these"
+      ],
+      "answer": "B",
+      "explanation": "[TABLE]\n\n 2l + 2b = 5b\n\n 3b = 2l\n\n[TABLE]\n\nThen, Area = 216 cm^2\n\n l x b = 216\n\n[TABLE]\n \n\n l^2 = 324\n\n l = 18 cm.",
+      "shortcut": "Memorize formulas: Circle area = pi*r^2, Sphere vol = 4/3*pi*r^3",
+      "formula_used": "",
+      "trap_type": "Using diameter instead of radius in formulas, or forgetting to square units",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_mensur_004",
+      "topic": "quant",
+      "subtopic": "mensuration",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The percentage increase in the area of a rectangle, if each of its sides is increased by 20% is:",
+      "options": [
+        "40%",
+        "42%",
+        "44%",
+        "46%"
+      ],
+      "answer": "C",
+      "explanation": "Let original length = x metres and original breadth = y metres.\n\nOriginal area = (xy) m^2.\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\nThe difference between the original area = xy and new-area 36/25 xy is\n\n= (36/25)xy - xy\n\n \n= xy(36/25 - 1) \n\n= xy(11/25) or (11/25)xy\n\n[TABLE]",
+      "shortcut": "Memorize formulas: Circle area = pi*r^2, Sphere vol = 4/3*pi*r^3",
+      "formula_used": "",
+      "trap_type": "Using diameter instead of radius in formulas, or forgetting to square units",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_mensur_005",
+      "topic": "quant",
+      "subtopic": "mensuration",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A rectangular park 60 m long and 40 m wide has two concrete crossroads running in the middle of the park and rest of the park has been used as a lawn. If the area of the lawn is 2109 sq. m, then what is the width of the road?",
+      "options": [
+        "2.91 m",
+        "3 m",
+        "5.82 m",
+        "None of these"
+      ],
+      "answer": "B",
+      "explanation": "Area of the park = (60 x 40) m^2 = 2400 m^2.\n\nArea of the lawn = 2109 m^2.\n\n Area of the crossroads = (2400 - 2109) m^2 = 291 m^2.\n\nLet the width of the road be x metres. Then,\n\n60x + 40x - x^2 = 291\n\n x^2 - 100x + 291 = 0\n\n (x - 97)(x - 3) = 0\n\n x = 3.",
+      "shortcut": "Memorize formulas: Circle area = pi*r^2, Sphere vol = 4/3*pi*r^3",
+      "formula_used": "",
+      "trap_type": "Using diameter instead of radius in formulas, or forgetting to square units",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_mensur_006",
+      "topic": "quant",
+      "subtopic": "mensuration",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The diagonal of the floor of a rectangular closet is 7 feet. The shorter side of the closet is 4 feet. What is the area of the closet in square feet?",
+      "options": [
+        "[TABLE]",
+        "[TABLE]",
+        "27",
+        "37"
+      ],
+      "answer": "C",
+      "explanation": "[TABLE]\n \n ft\n \n \n \n =\n \n [TABLE]\n \n \n ft \n \n \n \n =\n \n [TABLE]\n \n \n ft \n \n \n \n =\n 6 ft.\n \n\n Area of closet = (6 x 4.5) sq. ft = 27 sq. ft.",
+      "shortcut": "Memorize formulas: Circle area = pi*r^2, Sphere vol = 4/3*pi*r^3",
+      "formula_used": "",
+      "trap_type": "Using diameter instead of radius in formulas, or forgetting to square units",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_mensur_007",
+      "topic": "quant",
+      "subtopic": "mensuration",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A towel, when bleached, was found to have lost 20% of its length and 10% of its breadth. The percentage of decrease in area is:",
+      "options": [
+        "10%",
+        "10.08%",
+        "20%",
+        "28%"
+      ],
+      "answer": "D",
+      "explanation": "Let original length = x and original breadth = y.\n\n[TABLE]\n \n \n \n \n \n [TABLE]\n \n \n \n \n \n [TABLE]\n \n \n \n\n[TABLE]",
+      "shortcut": "Memorize formulas: Circle area = pi*r^2, Sphere vol = 4/3*pi*r^3",
+      "formula_used": "",
+      "trap_type": "Using diameter instead of radius in formulas, or forgetting to square units",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_mensur_008",
+      "topic": "quant",
+      "subtopic": "mensuration",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A man walked diagonally across a square lot. Approximately, what was the percent saved by not walking along the edges?",
+      "options": [
+        "20",
+        "24",
+        "30",
+        "33"
+      ],
+      "answer": "C",
+      "explanation": "Let the side of the square(ABCD) be x metres.\n\nThen, AB + BC = 2x metres.\n\nAC = 2x = (1.41x) m.\n\nSaving on 2x metres = (0.59x) m.\n\n[TABLE]",
+      "shortcut": "Memorize formulas: Circle area = pi*r^2, Sphere vol = 4/3*pi*r^3",
+      "formula_used": "",
+      "trap_type": "Using diameter instead of radius in formulas, or forgetting to square units",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_mensur_009",
+      "topic": "quant",
+      "subtopic": "mensuration",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The diagonal of a rectangle is 41 cm and its area is 20 sq. cm. The perimeter of the rectangle must be:",
+      "options": [
+        "9 cm",
+        "18 cm",
+        "20 cm",
+        "41 cm"
+      ],
+      "answer": "B",
+      "explanation": "l^2 + b^2 = 41.\n\nAlso, lb = 20.\n\n(l + b)^2 = (l^2 + b^2) + 2lb = 41 + 40 = 81\n\n (l + b) = 9.\n\n Perimeter = 2(l + b) = 18 cm.",
+      "shortcut": "Memorize formulas: Circle area = pi*r^2, Sphere vol = 4/3*pi*r^3",
+      "formula_used": "",
+      "trap_type": "Using diameter instead of radius in formulas, or forgetting to square units",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_mensur_010",
+      "topic": "quant",
+      "subtopic": "mensuration",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What is the least number of squares tiles required to pave the floor of a room 15 m 17 cm long and 9 m 2 cm broad?",
+      "options": [
+        "814",
+        "820",
+        "840",
+        "844"
+      ],
+      "answer": "A",
+      "explanation": "Length of largest tile = H.C.F. of 1517 cm and 902 cm = 41 cm.\n\nArea of each tile = (41 x 41) cm^2.\n\n[TABLE]",
+      "shortcut": "Memorize formulas: Circle area = pi*r^2, Sphere vol = 4/3*pi*r^3",
+      "formula_used": "",
+      "trap_type": "Using diameter instead of radius in formulas, or forgetting to square units",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_mensur_011",
+      "topic": "quant",
+      "subtopic": "mensuration",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The difference between the length and breadth of a rectangle is 23 m. If its perimeter is 206 m, then its area is:",
+      "options": [
+        "1520 m^2",
+        "2420 m^2",
+        "2480 m^2",
+        "2520 m^2"
+      ],
+      "answer": "D",
+      "explanation": "We have: (l - b) = 23 and 2(l + b) = 206 or (l + b) = 103.\n\nSolving the two equations, we get: l = 63 and b = 40.\n\n Area = (l x b) = (63 x 40) m^2 = 2520 m^2.",
+      "shortcut": "Memorize formulas: Circle area = pi*r^2, Sphere vol = 4/3*pi*r^3",
+      "formula_used": "",
+      "trap_type": "Using diameter instead of radius in formulas, or forgetting to square units",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_mensur_012",
+      "topic": "quant",
+      "subtopic": "mensuration",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The length of a rectangle is halved, while its breadth is tripled. What is the percentage change in area?",
+      "options": [
+        "25% increase",
+        "50% increase",
+        "50% decrease",
+        "75% decrease"
+      ],
+      "answer": "B",
+      "explanation": "Let original length = x and original breadth = y.\n\nOriginal area = xy.\n\n[TABLE]\n\nNew breadth = 3y.\n\n[TABLE]\n\n[TABLE]",
+      "shortcut": "Memorize formulas: Circle area = pi*r^2, Sphere vol = 4/3*pi*r^3",
+      "formula_used": "",
+      "trap_type": "Using diameter instead of radius in formulas, or forgetting to square units",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_mensur_013",
+      "topic": "quant",
+      "subtopic": "mensuration",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The length of a rectangular plot is 20 metres more than its breadth. If the cost of fencing the plot @ 26.50 per metre is Rs. 5300, what is the length of the plot in metres?",
+      "options": [
+        "40",
+        "50",
+        "120",
+        "Data inadequate",
+        "None of these"
+      ],
+      "answer": "E",
+      "explanation": "Let breadth = x metres.\n\nThen, length = (x + 20) metres.\n\n[TABLE]\n\n 2[(x + 20) + x] = 200\n\n 2x + 20 = 100\n\n 2x = 80\n\n x = 40.\n\nHence, length = x + 20 = 60 m.",
+      "shortcut": "Memorize formulas: Circle area = pi*r^2, Sphere vol = 4/3*pi*r^3",
+      "formula_used": "",
+      "trap_type": "Using diameter instead of radius in formulas, or forgetting to square units",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_mensur_014",
+      "topic": "quant",
+      "subtopic": "mensuration",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A rectangular field is to be fenced on three sides leaving a side of 20 feet uncovered. If the area of the field is 680 sq. feet, how many feet of fencing will be required?",
+      "options": [
+        "34",
+        "40",
+        "68",
+        "88"
+      ],
+      "answer": "D",
+      "explanation": "We have: l = 20 ft and lb = 680 sq. ft.\n\nSo, b = 34 ft.\n\n Length of fencing = (l + 2b) = (20 + 68) ft = 88 ft.",
+      "shortcut": "Memorize formulas: Circle area = pi*r^2, Sphere vol = 4/3*pi*r^3",
+      "formula_used": "",
+      "trap_type": "Using diameter instead of radius in formulas, or forgetting to square units",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_mensur_015",
+      "topic": "quant",
+      "subtopic": "mensuration",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A tank is 25 m long, 12 m wide and 6 m deep. The cost of plastering its walls and bottom at 75 paise per sq. m, is:",
+      "options": [
+        "Rs. 456",
+        "Rs. 458",
+        "Rs. 558",
+        "Rs. 568"
+      ],
+      "answer": "C",
+      "explanation": "[TABLE]\n\n[TABLE]",
+      "shortcut": "Memorize formulas: Circle area = pi*r^2, Sphere vol = 4/3*pi*r^3",
+      "formula_used": "",
+      "trap_type": "Using diameter instead of radius in formulas, or forgetting to square units",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    }
+  ]
+}

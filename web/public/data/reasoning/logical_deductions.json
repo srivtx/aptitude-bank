@@ -1,0 +1,293 @@
+{
+  "metadata": {
+    "topic": "Logical Reasoning",
+    "subtopic": "logical_deductions",
+    "total_questions": 10,
+    "sources": [
+      "IndiaBIX"
+    ],
+    "last_updated": "2026-05-17"
+  },
+  "questions": [
+    {
+      "id": "reasoning_logica_001",
+      "topic": "reasoning",
+      "subtopic": "logical_deductions",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Statements: No women teacher can play. Some women teachers are athletes.\n \nConclusions:\n\n \n Male athletes can play. \n Some athletes can play.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either I or II follows",
+        "Neither I nor II follows",
+        "Both I and II follow"
+      ],
+      "answer": "D",
+      "explanation": "Since one premise is negative, the conclusion must be negative. So, neither conclusion follows.\n\nRead: Important Rules and Formulas for Logical Deduction.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_logica_002",
+      "topic": "reasoning",
+      "subtopic": "logical_deductions",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Statements: All bags are cakes. All lamps are cakes.\n \nConclusions:\n\n \n Some lamps are bags. \n No lamp is bag.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either I or II follows",
+        "Neither I nor II follows",
+        "Both I and II follow"
+      ],
+      "answer": "C",
+      "explanation": "Since the middle term 'cakes' is not distributed even once in the premises, no definite conclusion follows. However, I and II involve only the extreme terms and form a complementary pair. So, either I or II follows.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_logica_003",
+      "topic": "reasoning",
+      "subtopic": "logical_deductions",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Statements: All mangoes are golden in colour. No golden-coloured things are cheap.\n \nConclusions:\n\n \n All mangoes are cheap. \n Golden-coloured mangoes are not cheap.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either I or II follows",
+        "Neither I nor II follows",
+        "Both I and II follow"
+      ],
+      "answer": "B",
+      "explanation": "Clearly, the conclusion must be universal negative and should not contain the middle term. So, it follows that 'No mango is cheap'. Since all mangoes are golden in colour, we may substitute 'mangoes' with 'golden-coloured mangoes'. Thus, II follows.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_logica_004",
+      "topic": "reasoning",
+      "subtopic": "logical_deductions",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Statements: Some kings are queens. All queens are beautiful.\n \nConclusions:\n\n \n All kings are beautiful. \n All queens are kings.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either I or II follows",
+        "Neither I nor II follows",
+        "Both I and II follow"
+      ],
+      "answer": "D",
+      "explanation": "Since one premise is particular, the conclusion must be particular. So, neither I nor II follows.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_logica_005",
+      "topic": "reasoning",
+      "subtopic": "logical_deductions",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Statements: Some doctors are fools. Some fools are rich.\n \nConclusions:\n\n \n Some doctors are rich \n Some rich are doctors.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either I or II follows",
+        "Neither I nor II follows",
+        "Both I and II follow"
+      ],
+      "answer": "D",
+      "explanation": "Since both the premises are particular, no definite conclusion follows.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_logica_006",
+      "topic": "reasoning",
+      "subtopic": "logical_deductions",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Statements: All roads are waters. Some waters are boats.\n \nConclusions:\n\n \n Some boats are roads. \n All waters are boats.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either I or II follows",
+        "Neither I nor II follows",
+        "Both I and II follow"
+      ],
+      "answer": "D",
+      "explanation": "The first premise is A type and distributes the subject. So, the middle term 'waters' which forms its predicate, is not distributed. The second premise is I type and does not distribute either subject or predicate. So, the middle term 'waters' forming its subject is not distributed. Since the middle term is not distributed even once in the premises, no definite conclusion follows.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_logica_007",
+      "topic": "reasoning",
+      "subtopic": "logical_deductions",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Statements: No bat is ball. No ball is wicket.\n \nConclusions:\n\n \n No bat is wicket. \n All wickets are bats.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either I or II follows",
+        "Neither I nor II follows",
+        "Both I and II follow"
+      ],
+      "answer": "D",
+      "explanation": "Since both the premises are negative, no definite conclusion follows.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_logica_008",
+      "topic": "reasoning",
+      "subtopic": "logical_deductions",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Statements: All flowers are trees. No fruit is tree.\n \nConclusions:\n\n \n No fruit is flower. \n Some trees are flowers.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either I or II follows",
+        "Neither I nor II follows",
+        "Both I and II follow"
+      ],
+      "answer": "E",
+      "explanation": "As discussed above, the conclusion must be universal negative and should not contain the middle term. So, it follows that 'No flower is fruit'. I is the converse of this conclusion and thus it follows. II is the converse of the first premise and so it also holds.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_logica_009",
+      "topic": "reasoning",
+      "subtopic": "logical_deductions",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Statements: Every minister is a student. Every student is inexperienced.\n \nConclusions:\n\n \n Every minister is inexperienced. \n Some inexperienced are students.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either I or II follows",
+        "Neither I nor II follows",
+        "Both I and II follow"
+      ],
+      "answer": "E",
+      "explanation": "'Every' is equivalent to 'All'. Thus, since both the premises are universal and affirmative, the conclusion must be universal affirmative and should not contain the middle term. So, I follows. II is the converse of the second premise and thus it also holds.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_logica_010",
+      "topic": "reasoning",
+      "subtopic": "logical_deductions",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Statements: All roads are poles. No pole is a house.\n \nConclusions:\n\n \n Some roads are houses. \n Some houses are poles.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either I or II follows",
+        "Neither I nor II follows",
+        "Both I and II follow"
+      ],
+      "answer": "D",
+      "explanation": "Since both the premises are universal and one premise is negative, the conclusion must be universal negative. So, neither I nor II follows.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    }
+  ]
+}

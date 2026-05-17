@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "topic": "Verbal Ability",
+    "subtopic": "para_jumbles",
+    "total_questions": 5,
+    "sources": [
+      "IndiaBIX"
+    ],
+    "last_updated": "2026-05-17"
+  },
+  "questions": [
+    {
+      "id": "verbal_paraju_001",
+      "topic": "verbal",
+      "subtopic": "para_jumbles",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which sentence should come third in the paragraph?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Look for pronoun references, chronology words, and connector words",
+      "formula_used": "",
+      "trap_type": "Forcing a logical flow that ignores connector words",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_paraju_002",
+      "topic": "verbal",
+      "subtopic": "para_jumbles",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which sentence should come last in the paragraph?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Look for pronoun references, chronology words, and connector words",
+      "formula_used": "",
+      "trap_type": "Forcing a logical flow that ignores connector words",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_paraju_003",
+      "topic": "verbal",
+      "subtopic": "para_jumbles",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which sentence should come fourth in the paragraph?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Look for pronoun references, chronology words, and connector words",
+      "formula_used": "",
+      "trap_type": "Forcing a logical flow that ignores connector words",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_paraju_004",
+      "topic": "verbal",
+      "subtopic": "para_jumbles",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which sentence should come second in the paragraph?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "E",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Look for pronoun references, chronology words, and connector words",
+      "formula_used": "",
+      "trap_type": "Forcing a logical flow that ignores connector words",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_paraju_005",
+      "topic": "verbal",
+      "subtopic": "para_jumbles",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which sentence should come first in the paragraph?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Look for pronoun references, chronology words, and connector words",
+      "formula_used": "",
+      "trap_type": "Forcing a logical flow that ignores connector words",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    }
+  ]
+}

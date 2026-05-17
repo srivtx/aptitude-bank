@@ -1,0 +1,283 @@
+{
+  "metadata": {
+    "topic": "Quantitative Aptitude",
+    "subtopic": "mixtures_alligations",
+    "total_questions": 10,
+    "sources": [
+      "IndiaBIX"
+    ],
+    "last_updated": "2026-05-17"
+  },
+  "questions": [
+    {
+      "id": "quant_mixtur_001",
+      "topic": "quant",
+      "subtopic": "mixtures_alligations",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A vessel is filled with liquid, 3 parts of which are water and 5 parts syrup. How much of the mixture must be drawn off and replaced with water so that the mixture may be half water and half syrup?",
+      "options": [
+        "[TABLE]",
+        "[TABLE]",
+        "[TABLE]",
+        "[TABLE]"
+      ],
+      "answer": "C",
+      "explanation": "Suppose the vessel initially contains 8 litres of liquid.\n\nLet x litres of this liquid be replaced with water.\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n 5x + 24 = 40 - 5x\n\n 10x = 16\n\n[TABLE]\n\n[TABLE]",
+      "shortcut": "Alligation: (Cheaper qty)/(Dearer qty) = (Dearer - Mean)/(Mean - Cheaper)",
+      "formula_used": "",
+      "trap_type": "Using wrong values in alligation formula or forgetting to invert ratio",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_mixtur_002",
+      "topic": "quant",
+      "subtopic": "mixtures_alligations",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Tea worth Rs. 126 per kg and Rs. 135 per kg are mixed with a third variety in the ratio 1 : 1 : 2. If the mixture is worth Rs. 153 per kg, the price of the third variety per kg will be:",
+      "options": [
+        "Rs. 169.50",
+        "Rs. 170",
+        "Rs. 175.50",
+        "Rs. 180"
+      ],
+      "answer": "C",
+      "explanation": "Since first and second varieties are mixed in equal proportions.\n\n[TABLE]\n\nSo, the mixture is formed by mixing two varieties, one at Rs. 130.50 per kg and the other at say, Rs. x per kg in the ratio 2 : 2, i.e., 1 : 1. We have to find x.\n\nBy the rule of alligation, we have:\n\n[TABLE]\n\n[TABLE]\n\n x - 153 = 22.50\n\n x = 175.50",
+      "shortcut": "Alligation: (Cheaper qty)/(Dearer qty) = (Dearer - Mean)/(Mean - Cheaper)",
+      "formula_used": "",
+      "trap_type": "Using wrong values in alligation formula or forgetting to invert ratio",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_mixtur_003",
+      "topic": "quant",
+      "subtopic": "mixtures_alligations",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A can contains a mixture of two liquids A and B is the ratio 7 : 5. When 9 litres of mixture are drawn off and the can is filled with B, the ratio of A and B becomes 7 : 9. How many litres of liquid A was contained by the can initially?",
+      "options": [
+        "10",
+        "20",
+        "21",
+        "25"
+      ],
+      "answer": "C",
+      "explanation": "Suppose the can initially contains 7x and 5x of mixtures A and B respectively.\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n \n =\n 7\n \n \n \n [TABLE]\n \n 9\n \n\n[TABLE]\n\n 252x - 189 = 140x + 147\n\n 112x = 336\n\n x = 3.\n\nSo, the can contained 21 litres of A.",
+      "shortcut": "Alligation: (Cheaper qty)/(Dearer qty) = (Dearer - Mean)/(Mean - Cheaper)",
+      "formula_used": "",
+      "trap_type": "Using wrong values in alligation formula or forgetting to invert ratio",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_mixtur_004",
+      "topic": "quant",
+      "subtopic": "mixtures_alligations",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A milk vendor has 2 cans of milk. The first contains 25% water and the rest milk. The second contains 50% water. How much milk should he mix from each of the containers so as to get 12 litres of milk such that the ratio of water to milk is 3 : 5?",
+      "options": [
+        "4 litres, 8 litres",
+        "6 litres, 6 litres",
+        "5 litres, 7 litres",
+        "7 litres, 5 litres"
+      ],
+      "answer": "B",
+      "explanation": "Let the cost of 1 litre milk be Re. 1\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\nBy the rule of alligation, we have:\n\n[TABLE]\n\nMean Price\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]",
+      "shortcut": "Alligation: (Cheaper qty)/(Dearer qty) = (Dearer - Mean)/(Mean - Cheaper)",
+      "formula_used": "",
+      "trap_type": "Using wrong values in alligation formula or forgetting to invert ratio",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_mixtur_005",
+      "topic": "quant",
+      "subtopic": "mixtures_alligations",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In what ratio must a grocer mix two varieties of pulses costing Rs. 15 and Rs. 20 per kg respectively so as to get a mixture worth Rs. 16.50 kg?",
+      "options": [
+        "3 : 7",
+        "5 : 7",
+        "7 : 3",
+        "7 : 5"
+      ],
+      "answer": "C",
+      "explanation": "By the rule of alligation:\n\n[TABLE]\n\n Required rate = 3.50 : 1.50 = 7 : 3.",
+      "shortcut": "Alligation: (Cheaper qty)/(Dearer qty) = (Dearer - Mean)/(Mean - Cheaper)",
+      "formula_used": "",
+      "trap_type": "Using wrong values in alligation formula or forgetting to invert ratio",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_mixtur_006",
+      "topic": "quant",
+      "subtopic": "mixtures_alligations",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A dishonest milkman professes to sell his milk at cost price but he mixes it with water and thereby gains 25%. The percentage of water in the mixture is:",
+      "options": [
+        "4%",
+        "6%",
+        "20%",
+        "25%"
+      ],
+      "answer": "C",
+      "explanation": "Let C.P. of 1 litre milk be Re. 1\n\nThen, S.P. of 1 litre of mixture = Re. 1, Gain = 25%.\n\n[TABLE]\n\nBy the rule of alligation, we have:\n\n[TABLE]\n0\n\n[TABLE]\n[TABLE]\n\n[TABLE]\n\n[TABLE]",
+      "shortcut": "Alligation: (Cheaper qty)/(Dearer qty) = (Dearer - Mean)/(Mean - Cheaper)",
+      "formula_used": "",
+      "trap_type": "Using wrong values in alligation formula or forgetting to invert ratio",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_mixtur_007",
+      "topic": "quant",
+      "subtopic": "mixtures_alligations",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "How many kilogram of sugar costing Rs. 9 per kg must be mixed with 27 kg of sugar costing Rs. 7 per kg so that there may be a gain of 10% by selling the mixture at Rs. 9.24 per kg?",
+      "options": [
+        "36 kg",
+        "42 kg",
+        "54 kg",
+        "63 kg"
+      ],
+      "answer": "D",
+      "explanation": "S.P. of 1 kg of mixture = Rs. 9.24, Gain 10%.\n\n[TABLE]\n\nBy the rule of allilation, we have:\n\n[TABLE]\n\n Ratio of quantities of 1st and 2nd kind = 14 : 6 = 7 : 3.\n\nLet x kg of sugar of 1st be mixed with 27 kg of 2nd kind.\n\nThen, 7 : 3 = x : 27\n\n[TABLE]",
+      "shortcut": "Alligation: (Cheaper qty)/(Dearer qty) = (Dearer - Mean)/(Mean - Cheaper)",
+      "formula_used": "",
+      "trap_type": "Using wrong values in alligation formula or forgetting to invert ratio",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_mixtur_008",
+      "topic": "quant",
+      "subtopic": "mixtures_alligations",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A container contains 40 litres of milk. From this container 4 litres of milk was taken out and replaced by water. This process was repeated further two times. How much milk is now contained by the container?",
+      "options": [
+        "26.34 litres",
+        "27.36 litres",
+        "28 litres",
+        "29.16 litres"
+      ],
+      "answer": "D",
+      "explanation": "[TABLE]\n\n[TABLE]",
+      "shortcut": "Alligation: (Cheaper qty)/(Dearer qty) = (Dearer - Mean)/(Mean - Cheaper)",
+      "formula_used": "",
+      "trap_type": "Using wrong values in alligation formula or forgetting to invert ratio",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_mixtur_009",
+      "topic": "quant",
+      "subtopic": "mixtures_alligations",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A jar full of whisky contains 40% alcohol. A part of this whisky is replaced by another containing 19% alcohol and now the percentage of alcohol was found to be 26%. The quantity of whisky replaced is:",
+      "options": [
+        "[TABLE]",
+        "[TABLE]",
+        "[TABLE]",
+        "[TABLE]"
+      ],
+      "answer": "B",
+      "explanation": "By the rule of alligation, we have:\n\n[TABLE]\n\nSo, ratio of 1st and 2nd quantities = 7 : 14 = 1 : 2\n\n[TABLE]",
+      "shortcut": "Alligation: (Cheaper qty)/(Dearer qty) = (Dearer - Mean)/(Mean - Cheaper)",
+      "formula_used": "",
+      "trap_type": "Using wrong values in alligation formula or forgetting to invert ratio",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_mixtur_010",
+      "topic": "quant",
+      "subtopic": "mixtures_alligations",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In what ratio must water be mixed with milk to gain 16% on selling the mixture at cost price?",
+      "options": [
+        "1 : 6",
+        "6 : 1",
+        "2 : 3",
+        "4 : 3"
+      ],
+      "answer": "A",
+      "explanation": "Let C.P. of 1 litre milk be Re. 1.\n\n[TABLE]\n\n[TABLE]\n\nBy the rule of alligation, we have:\n\n[TABLE]\nRe. 1\n\n[TABLE]\n[TABLE]\n\n[TABLE]",
+      "shortcut": "Alligation: (Cheaper qty)/(Dearer qty) = (Dearer - Mean)/(Mean - Cheaper)",
+      "formula_used": "",
+      "trap_type": "Using wrong values in alligation formula or forgetting to invert ratio",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    }
+  ]
+}

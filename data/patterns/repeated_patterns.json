@@ -1,0 +1,190 @@
+{
+  "metadata": {
+    "topic": "Repeated Patterns",
+    "description": "Automatically detected recurring question templates and structures",
+    "last_updated": "2024-01-15",
+    "total_patterns": 15
+  },
+  "patterns": [
+    {
+      "pattern_id": "T001",
+      "name": "Unit Conversion Speed",
+      "template": "Distance in meters, time in minutes, find speed in km/hr",
+      "subtopic": "time_speed_distance",
+      "difficulty": "easy",
+      "formula": "Speed (km/hr) = (meters/minutes) x 3/25",
+      "shortcut": "Multiply distance in meters by 3/25 and divide by time in minutes",
+      "example_ids": ["quant_tsd_001", "tcs_003"],
+      "frequency": "very_high",
+      "companies": ["TCS", "Wipro", "HCL"]
+    },
+    {
+      "pattern_id": "T005",
+      "name": "Bus Stoppage Time",
+      "template": "Given speed with and without stoppages, find stoppage time per hour",
+      "subtopic": "time_speed_distance",
+      "difficulty": "medium",
+      "formula": "Stoppage time = [(S1 - S2)/S1] x 60 minutes",
+      "shortcut": "Time lost = time to cover (S1-S2) km at S1 km/hr",
+      "example_ids": ["quant_tsd_005", "quant_tsd_014", "tcs_003"],
+      "frequency": "high",
+      "companies": ["TCS", "Accenture"]
+    },
+    {
+      "pattern_id": "T007",
+      "name": "Average Speed Equal Distances",
+      "template": "Two equal distances covered at different speeds, find average speed",
+      "subtopic": "time_speed_distance",
+      "difficulty": "medium",
+      "formula": "Average speed = 2ab/(a+b)",
+      "shortcut": "Harmonic mean of two speeds for equal distances",
+      "example_ids": ["quant_tsd_007", "quant_tsd_009", "tcs_023"],
+      "frequency": "very_high",
+      "companies": ["TCS", "Infosys", "Accenture"]
+    },
+    {
+      "pattern_id": "T009",
+      "name": "Train Crossing Platform",
+      "template": "Train length given, time to cross pole, find time to cross platform",
+      "subtopic": "time_speed_distance",
+      "difficulty": "medium",
+      "formula": "Time = (Train length + Platform length) / Speed",
+      "shortcut": "Speed from pole crossing, then apply to total distance",
+      "example_ids": ["quant_tsd_010", "quant_tsd_017", "tcs_015"],
+      "frequency": "high",
+      "companies": ["TCS", "Deloitte", "IBM"]
+    },
+    {
+      "pattern_id": "W001",
+      "name": "Time-Work Two Workers",
+      "template": "A can complete in X days, B in Y days, together in ?",
+      "subtopic": "time_work",
+      "difficulty": "easy",
+      "formula": "XY/(X+Y)",
+      "shortcut": "Product/Sum",
+      "example_ids": ["quant_tw_001", "tcs_008"],
+      "frequency": "very_high",
+      "companies": ["TCS", "Wipro", "HCL"]
+    },
+    {
+      "pattern_id": "W002",
+      "name": "Find Third Worker Rate",
+      "template": "A and B take known time, with C they take less time, find C alone",
+      "subtopic": "time_work",
+      "difficulty": "easy",
+      "formula": "1/C = 1/Combined - 1/A - 1/B",
+      "shortcut": "C's rate = Combined rate - A's rate - B's rate",
+      "example_ids": ["quant_tw_002", "quant_tw_009"],
+      "frequency": "high",
+      "companies": ["TCS", "Infosys"]
+    },
+    {
+      "pattern_id": "W004",
+      "name": "Efficiency Ratio Workers",
+      "template": "A is N times as fast as B, find combined time",
+      "subtopic": "time_work",
+      "difficulty": "medium",
+      "formula": "If A is n times as fast, A's rate = n x B's rate",
+      "shortcut": "A's time = B's time / n, then use combined formula",
+      "example_ids": ["quant_tw_004", "tcs_018"],
+      "frequency": "medium",
+      "companies": ["Accenture", "Capgemini", "Cognizant"]
+    },
+    {
+      "pattern_id": "H001",
+      "name": "HCF by Euclidean Algorithm",
+      "template": "Find HCF of two numbers using division method",
+      "subtopic": "hcf_lcm",
+      "difficulty": "easy",
+      "formula": "Euclidean Algorithm",
+      "shortcut": "Divide larger by smaller, repeat with remainder",
+      "example_ids": ["quant_hcf_001", "quant_hcf_013", "tcs_006"],
+      "frequency": "very_high",
+      "companies": ["TCS", "Wipro", "HCL"]
+    },
+    {
+      "pattern_id": "H003",
+      "name": "HCF-LCM Product Rule",
+      "template": "Given HCF, LCM, one number, find other number",
+      "subtopic": "hcf_lcm",
+      "difficulty": "medium",
+      "formula": "Product = HCF x LCM",
+      "shortcut": "Other number = (HCF x LCM) / Given number",
+      "example_ids": ["quant_hcf_003", "quant_hcf_014", "tcs_014"],
+      "frequency": "very_high",
+      "companies": ["TCS", "Accenture", "Infosys"]
+    },
+    {
+      "pattern_id": "P003",
+      "name": "Successive Percentage Change",
+      "template": "Population/Price changes by x%, then y%, then z%, find net effect",
+      "subtopic": "percentages",
+      "difficulty": "medium",
+      "formula": "Net multiplier = (1±p1) x (1±p2) x (1±p3)",
+      "shortcut": "Multiply all multipliers, never add/subtract percentages directly",
+      "example_ids": ["quant_pct_003", "tcs_017"],
+      "frequency": "high",
+      "companies": ["TCS", "Deloitte", "IBM"]
+    },
+    {
+      "pattern_id": "P004",
+      "name": "Percentage Base Error",
+      "template": "A is x% more than B, B is what % less than A?",
+      "subtopic": "percentages",
+      "difficulty": "medium",
+      "formula": "If A = B(1+x/100), then B is [x/(100+x)]x100% less than A",
+      "shortcut": "Answer is always LESS than x%",
+      "example_ids": ["quant_pct_004", "tcs_011"],
+      "frequency": "very_high",
+      "companies": ["TCS", "Accenture", "Capgemini"]
+    },
+    {
+      "pattern_id": "PL005",
+      "name": "Profit Triples When SP Doubled",
+      "template": "If selling price doubled, profit triples, find profit%",
+      "subtopic": "profit_loss",
+      "difficulty": "hard",
+      "formula": "Algebraic: 2S - C = 3(S - C)",
+      "shortcut": "Always results in 100% profit",
+      "example_ids": ["quant_pl_006", "tcs_013"],
+      "frequency": "medium",
+      "companies": ["Deloitte", "IBM", "TCS"]
+    },
+    {
+      "pattern_id": "PL014",
+      "name": "Equal SP Equal Percentage Gain/Loss",
+      "template": "Two items sold at same price, one at p% gain, one at p% loss",
+      "subtopic": "profit_loss",
+      "difficulty": "medium",
+      "formula": "Overall Loss% = p^2/100",
+      "shortcut": "Always a loss. Loss% = (common%)^2 / 100",
+      "example_ids": ["quant_pl_016", "tcs_007"],
+      "frequency": "high",
+      "companies": ["TCS", "Cognizant"]
+    },
+    {
+      "pattern_id": "CD003",
+      "name": "Constant Shift Cipher",
+      "template": "Each letter shifted by fixed amount (+1 or -1)",
+      "subtopic": "coding_decoding",
+      "difficulty": "easy",
+      "formula": "Code letter = Original + shift (mod 26)",
+      "shortcut": "Compare first 2-3 letters to determine shift amount",
+      "example_ids": ["reas_cd_003", "reas_cd_006", "tcs_004", "tcs_016"],
+      "frequency": "very_high",
+      "companies": ["TCS", "Wipro", "HCL"]
+    },
+    {
+      "pattern_id": "S001",
+      "name": "Product Series n(n+1)",
+      "template": "2, 6, 12, 20, 30... find next term",
+      "subtopic": "series",
+      "difficulty": "easy",
+      "formula": "nth term = n(n+1)",
+      "shortcut": "Consecutive integer products",
+      "example_ids": ["reas_ser_001", "tcs_009"],
+      "frequency": "medium",
+      "companies": ["TCS", "Wipro"]
+    }
+  ]
+}

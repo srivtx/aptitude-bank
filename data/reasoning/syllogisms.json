@@ -1,0 +1,405 @@
+{
+  "metadata": {
+    "topic": "Logical Reasoning",
+    "subtopic": "syllogisms",
+    "total_questions": 14,
+    "sources": [
+      "IndiaBIX"
+    ],
+    "last_updated": "2026-05-17"
+  },
+  "questions": [
+    {
+      "id": "reasoning_syllog_001",
+      "topic": "reasoning",
+      "subtopic": "syllogisms",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Statements: Some actors are singers. All the singers are dancers.\n\n \n \nConclusions: \n\n \nSome actors are dancers. \nNo singer is actor.",
+      "options": [
+        "Only (1) conclusion follows",
+        "Only (2) conclusion follows",
+        "Either (1) or (2) follows",
+        "Neither (1) nor (2) follows",
+        "Both (1) and (2) follow"
+      ],
+      "answer": "A",
+      "explanation": "",
+      "shortcut": "Draw Venn diagrams; check all valid conclusions; watch for \"some not\" cases",
+      "formula_used": "",
+      "trap_type": "Assuming converse of a valid statement is also valid",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_syllog_002",
+      "topic": "reasoning",
+      "subtopic": "syllogisms",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Statements: All the harmoniums are instruments. All the instruments are flutes.\n\n \n \nConclusions: \n\n \nAll the flutes are instruments. \nAll the harmoniums are flutes.",
+      "options": [
+        "Only (1) conclusion follows",
+        "Only (2) conclusion follows",
+        "Either (1) or (2) follows",
+        "Neither (1) nor (2) follows",
+        "Both (1) and (2) follow"
+      ],
+      "answer": "B",
+      "explanation": "",
+      "shortcut": "Draw Venn diagrams; check all valid conclusions; watch for \"some not\" cases",
+      "formula_used": "",
+      "trap_type": "Assuming converse of a valid statement is also valid",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_syllog_003",
+      "topic": "reasoning",
+      "subtopic": "syllogisms",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Statements: Some mangoes are yellow. Some tixo are mangoes.\n\n \n \nConclusions: \n\n \nSome mangoes are green. \nTixo is a yellow.",
+      "options": [
+        "Only (1) conclusion follows",
+        "Only (2) conclusion follows",
+        "Either (1) or (2) follows",
+        "Neither (1) nor (2) follows",
+        "Both (1) and (2) follow"
+      ],
+      "answer": "D",
+      "explanation": "",
+      "shortcut": "Draw Venn diagrams; check all valid conclusions; watch for \"some not\" cases",
+      "formula_used": "",
+      "trap_type": "Assuming converse of a valid statement is also valid",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_syllog_004",
+      "topic": "reasoning",
+      "subtopic": "syllogisms",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Statements: Some ants are parrots. All the parrots are apples.\n\n \n \nConclusions: \n\n \nAll the apples are parrots. \nSome ants are apples.",
+      "options": [
+        "Only (1) conclusion follows",
+        "Only (2) conclusion follows",
+        "Either (1) or (2) follows",
+        "Neither (1) nor (2) follows",
+        "Both (1) and (2) follow"
+      ],
+      "answer": "B",
+      "explanation": "",
+      "shortcut": "Draw Venn diagrams; check all valid conclusions; watch for \"some not\" cases",
+      "formula_used": "",
+      "trap_type": "Assuming converse of a valid statement is also valid",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_syllog_005",
+      "topic": "reasoning",
+      "subtopic": "syllogisms",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Statements: Some papers are pens. All the pencils are pens.\n\n \n \nConclusions: \n\n \nSome pens are pencils. \nSome pens are papers.",
+      "options": [
+        "Only (1) conclusion follows",
+        "Only (2) conclusion follows",
+        "Either (1) or (2) follows",
+        "Neither (1) nor (2) follows",
+        "Both (1) and (2) follow"
+      ],
+      "answer": "E",
+      "explanation": "",
+      "shortcut": "Draw Venn diagrams; check all valid conclusions; watch for \"some not\" cases",
+      "formula_used": "",
+      "trap_type": "Assuming converse of a valid statement is also valid",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_syllog_006",
+      "topic": "reasoning",
+      "subtopic": "syllogisms",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Statements: All the actors are girls. All the girls are beautiful.\n\n \n \nConclusions: \n\n \nAll the actors are beautiful. \nSome girls are actors.",
+      "options": [
+        "Only (1) conclusion follows",
+        "Only (2) conclusion follows",
+        "Either (1) or (2) follows",
+        "Neither (1) nor (2) follows",
+        "Both (1) and (2) follow"
+      ],
+      "answer": "E",
+      "explanation": "",
+      "shortcut": "Draw Venn diagrams; check all valid conclusions; watch for \"some not\" cases",
+      "formula_used": "",
+      "trap_type": "Assuming converse of a valid statement is also valid",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_syllog_007",
+      "topic": "reasoning",
+      "subtopic": "syllogisms",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Statements: All the windows are doors. No door is a wall.\n\n \n \nConclusions: \n\n \nSome windows are walls. \nNo wall is a door.",
+      "options": [
+        "Only (1) conclusion follows",
+        "Only (2) conclusion follows",
+        "Either (1) or (2) follows",
+        "Neither (1) nor (2) follows",
+        "Both (1) and (2) follow"
+      ],
+      "answer": "B",
+      "explanation": "",
+      "shortcut": "Draw Venn diagrams; check all valid conclusions; watch for \"some not\" cases",
+      "formula_used": "",
+      "trap_type": "Assuming converse of a valid statement is also valid",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_syllog_008",
+      "topic": "reasoning",
+      "subtopic": "syllogisms",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Statements: All cups are books. All books are shirts.\n\n \n \nConclusions: \n\n \nSome cups are not shirts. \nSome shirts are cups.",
+      "options": [
+        "Only (1) conclusion follows",
+        "Only (2) conclusion follows",
+        "Either (1) or (2) follows",
+        "Neither (1) nor (2) follows",
+        "Both (1) and (2) follow"
+      ],
+      "answer": "B",
+      "explanation": "",
+      "shortcut": "Draw Venn diagrams; check all valid conclusions; watch for \"some not\" cases",
+      "formula_used": "",
+      "trap_type": "Assuming converse of a valid statement is also valid",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_syllog_009",
+      "topic": "reasoning",
+      "subtopic": "syllogisms",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Statements: Some cows are crows. Some crows are elephants.\n\n \n \nConclusions: \n\n \nSome cows are elephants. \nAll crows are elephants.",
+      "options": [
+        "Only (1) conclusion follows",
+        "Only (2) conclusion follows",
+        "Either (1) or (2) follows",
+        "Neither (1) nor (2) follows",
+        "Both (1) and (2) follow"
+      ],
+      "answer": "D",
+      "explanation": "",
+      "shortcut": "Draw Venn diagrams; check all valid conclusions; watch for \"some not\" cases",
+      "formula_used": "",
+      "trap_type": "Assuming converse of a valid statement is also valid",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_syllog_010",
+      "topic": "reasoning",
+      "subtopic": "syllogisms",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Statements: All the pencils are pens. All the pens are inks.\n\n \n \nConclusions: \n\n \nAll the pencils are inks. \nSome inks are pencils.",
+      "options": [
+        "Only (1) conclusion follows",
+        "Only (2) conclusion follows",
+        "Either (1) or (2) follows",
+        "Neither (1) nor (2) follows",
+        "Both (1) and (2) follow"
+      ],
+      "answer": "E",
+      "explanation": "",
+      "shortcut": "Draw Venn diagrams; check all valid conclusions; watch for \"some not\" cases",
+      "formula_used": "",
+      "trap_type": "Assuming converse of a valid statement is also valid",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_syllog_011",
+      "topic": "reasoning",
+      "subtopic": "syllogisms",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Statements: Some dogs are bats. Some bats are cats.\n\n \n \nConclusions: \n\n \nSome dogs are cats. \nSome cats are dogs.",
+      "options": [
+        "Only (1) conclusion follows",
+        "Only (2) conclusion follows",
+        "Either (1) or (2) follows",
+        "Neither (1) nor (2) follows",
+        "Both (1) and (2) follow"
+      ],
+      "answer": "D",
+      "explanation": "",
+      "shortcut": "Draw Venn diagrams; check all valid conclusions; watch for \"some not\" cases",
+      "formula_used": "",
+      "trap_type": "Assuming converse of a valid statement is also valid",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_syllog_012",
+      "topic": "reasoning",
+      "subtopic": "syllogisms",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Statements: All the trucks are flies. Some scooters are flies.\n\n \n \nConclusions: \n\n \nAll the trucks are scooters. \nSome scooters are trucks.",
+      "options": [
+        "Only (1) conclusion follows",
+        "Only (2) conclusion follows",
+        "Either (1) or (2) follows",
+        "Neither (1) nor (2) follows",
+        "Both (1) and (2) follow"
+      ],
+      "answer": "D",
+      "explanation": "Neither (1) nor (2) follows.",
+      "shortcut": "Draw Venn diagrams; check all valid conclusions; watch for \"some not\" cases",
+      "formula_used": "",
+      "trap_type": "Assuming converse of a valid statement is also valid",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_syllog_013",
+      "topic": "reasoning",
+      "subtopic": "syllogisms",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Statements: All buildings are chalks. No chalk is toffee.\n\n \n \nConclusions: \n\n \nNo building is toffee \nAll chalks are buildings.",
+      "options": [
+        "Only (1) conclusion follows",
+        "Only (2) conclusion follows",
+        "Either (1) or (2) follows",
+        "Neither (1) nor (2) follows",
+        "Both (1) and (2) follow"
+      ],
+      "answer": "A",
+      "explanation": "",
+      "shortcut": "Draw Venn diagrams; check all valid conclusions; watch for \"some not\" cases",
+      "formula_used": "",
+      "trap_type": "Assuming converse of a valid statement is also valid",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_syllog_014",
+      "topic": "reasoning",
+      "subtopic": "syllogisms",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Statements: All cars are cats. All fans are cats.\n\n \n \nConclusions: \n\n \nAll cars are fans. \nSome fans are cars.",
+      "options": [
+        "Only (1) conclusion follows",
+        "Only (2) conclusion follows",
+        "Either (1) or (2) follows",
+        "Neither (1) nor (2) follows",
+        "Both (1) and (2) follow"
+      ],
+      "answer": "D",
+      "explanation": "",
+      "shortcut": "Draw Venn diagrams; check all valid conclusions; watch for \"some not\" cases",
+      "formula_used": "",
+      "trap_type": "Assuming converse of a valid statement is also valid",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    }
+  ]
+}

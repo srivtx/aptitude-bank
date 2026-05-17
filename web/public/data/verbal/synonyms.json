@@ -1,0 +1,283 @@
+{
+  "metadata": {
+    "topic": "Verbal Ability",
+    "subtopic": "synonyms",
+    "total_questions": 10,
+    "sources": [
+      "IndiaBIX"
+    ],
+    "last_updated": "2026-05-17"
+  },
+  "questions": [
+    {
+      "id": "verbal_synony_001",
+      "topic": "verbal",
+      "subtopic": "synonyms",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "CORPULENT",
+      "options": [
+        "Lean",
+        "Gaunt",
+        "Emaciated",
+        "Obese"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Eliminate obviously wrong options first; pick the closest meaning",
+      "formula_used": "",
+      "trap_type": "Picking a related word instead of the exact synonym",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_synony_002",
+      "topic": "verbal",
+      "subtopic": "synonyms",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "BRIEF",
+      "options": [
+        "Limited",
+        "Small",
+        "Little",
+        "Short"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Eliminate obviously wrong options first; pick the closest meaning",
+      "formula_used": "",
+      "trap_type": "Picking a related word instead of the exact synonym",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_synony_003",
+      "topic": "verbal",
+      "subtopic": "synonyms",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "EMBEZZLE",
+      "options": [
+        "Misappropriate",
+        "Balance",
+        "Remunerate",
+        "Clear"
+      ],
+      "answer": "A",
+      "explanation": "Main Entry: embezzle\n\nPart of Speech: verb\n\nDefinition: steal money, often from employer\n\nSynonyms: abstract, defalcate, filch, forge, loot, misapply, misappropriate, misuse, peculate, pilfer, purloin, put hand in cookie jar, put hand in till, skim, thieve\n\nAntonyms: compensate, give, pay, reimburse, return",
+      "shortcut": "Eliminate obviously wrong options first; pick the closest meaning",
+      "formula_used": "",
+      "trap_type": "Picking a related word instead of the exact synonym",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_synony_004",
+      "topic": "verbal",
+      "subtopic": "synonyms",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "VENT",
+      "options": [
+        "Opening",
+        "Stodge",
+        "End",
+        "Past tense of go"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Eliminate obviously wrong options first; pick the closest meaning",
+      "formula_used": "",
+      "trap_type": "Picking a related word instead of the exact synonym",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_synony_005",
+      "topic": "verbal",
+      "subtopic": "synonyms",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "AUGUST",
+      "options": [
+        "Common",
+        "Ridiculous",
+        "Dignified",
+        "Petty"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Eliminate obviously wrong options first; pick the closest meaning",
+      "formula_used": "",
+      "trap_type": "Picking a related word instead of the exact synonym",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_synony_006",
+      "topic": "verbal",
+      "subtopic": "synonyms",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "CANNY",
+      "options": [
+        "Obstinate",
+        "Handsome",
+        "Clever",
+        "Stout"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Eliminate obviously wrong options first; pick the closest meaning",
+      "formula_used": "",
+      "trap_type": "Picking a related word instead of the exact synonym",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_synony_007",
+      "topic": "verbal",
+      "subtopic": "synonyms",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "ALERT",
+      "options": [
+        "Energetic",
+        "Observant",
+        "Intelligent",
+        "Watchful"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Eliminate obviously wrong options first; pick the closest meaning",
+      "formula_used": "",
+      "trap_type": "Picking a related word instead of the exact synonym",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_synony_008",
+      "topic": "verbal",
+      "subtopic": "synonyms",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "WARRIOR",
+      "options": [
+        "Soldier",
+        "Sailor",
+        "Pirate",
+        "Spy"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Eliminate obviously wrong options first; pick the closest meaning",
+      "formula_used": "",
+      "trap_type": "Picking a related word instead of the exact synonym",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_synony_009",
+      "topic": "verbal",
+      "subtopic": "synonyms",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "DISTANT",
+      "options": [
+        "Far",
+        "Removed",
+        "Reserved",
+        "Separate"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Eliminate obviously wrong options first; pick the closest meaning",
+      "formula_used": "",
+      "trap_type": "Picking a related word instead of the exact synonym",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_synony_010",
+      "topic": "verbal",
+      "subtopic": "synonyms",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "ADVERSITY",
+      "options": [
+        "Failure",
+        "Helplessness",
+        "Misfortune",
+        "Crisis"
+      ],
+      "answer": "C",
+      "explanation": "Adversity is a very difficult or unfavourable situation.",
+      "shortcut": "Eliminate obviously wrong options first; pick the closest meaning",
+      "formula_used": "",
+      "trap_type": "Picking a related word instead of the exact synonym",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    }
+  ]
+}

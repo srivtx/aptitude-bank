@@ -1,0 +1,391 @@
+{
+  "metadata": {
+    "topic": "HCF and LCM",
+    "total_questions": 15,
+    "sources": [
+      "IndiaBIX",
+      "PrepInsta",
+      "GeeksforGeeks"
+    ],
+    "last_updated": "2026-05-17"
+  },
+  "questions": [
+    {
+      "id": "quant_hcflcm_001",
+      "topic": "quant",
+      "subtopic": "hcf_lcm",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Wipro",
+        "HCL"
+      ],
+      "question": "Find the HCF of 54 and 24.",
+      "options": [
+        "6",
+        "8",
+        "12",
+        "18"
+      ],
+      "answer": "A",
+      "explanation": "Using the Euclidean algorithm: 54 = 24 × 2 + 6; 24 = 6 × 4 + 0. The last non-zero remainder is 6. Therefore, HCF = 6.",
+      "shortcut": "Euclidean algorithm: Divide larger by smaller, then smaller by remainder, repeat until remainder is 0.",
+      "formula_used": "Euclidean Algorithm",
+      "trap_type": "Choosing LCM (72) instead of HCF",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "H001"
+    },
+    {
+      "id": "quant_hcflcm_002",
+      "topic": "quant",
+      "subtopic": "hcf_lcm",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys"
+      ],
+      "question": "Find the LCM of 12, 18 and 24.",
+      "options": [
+        "36",
+        "48",
+        "72",
+        "96"
+      ],
+      "answer": "C",
+      "explanation": "Prime factorization: 12 = 2² × 3, 18 = 2 × 3², 24 = 2³ × 3. LCM = 2³ × 3² = 8 × 9 = 72.",
+      "shortcut": "Take highest power of each prime: 2³ and 3².",
+      "formula_used": "LCM via Prime Factorization",
+      "trap_type": "Taking product instead of LCM (12×18×24 = 5184)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "H002"
+    },
+    {
+      "id": "quant_hcflcm_003",
+      "topic": "quant",
+      "subtopic": "hcf_lcm",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Accenture"
+      ],
+      "question": "The HCF of two numbers is 12 and their LCM is 240. If one number is 48, find the other number.",
+      "options": [
+        "60",
+        "72",
+        "80",
+        "96"
+      ],
+      "answer": "A",
+      "explanation": "We know: Product of two numbers = HCF × LCM. So, 48 × other = 12 × 240 = 2880. Other number = 2880 / 48 = 60.",
+      "shortcut": "Direct formula: Other number = (HCF × LCM) / Given number = (12 × 240) / 48 = 60.",
+      "formula_used": "Product = HCF × LCM",
+      "trap_type": "Dividing LCM by HCF instead (240/12 = 20)",
+      "source": "PrepInsta",
+      "source_url": "",
+      "pattern_detected": "H003"
+    },
+    {
+      "id": "quant_hcflcm_004",
+      "topic": "quant",
+      "subtopic": "hcf_lcm",
+      "difficulty": "medium",
+      "company_tags": [
+        "Infosys",
+        "Capgemini"
+      ],
+      "question": "The HCF and LCM of two numbers are 13 and 455 respectively. If one of the numbers lies between 75 and 125, then that number is:",
+      "options": [
+        "78",
+        "91",
+        "104",
+        "117"
+      ],
+      "answer": "B",
+      "explanation": "Product = 13 × 455 = 5915. Let numbers be 13a and 13b where a and b are co-prime. Then 13a × 13b = 5915, so ab = 35. Factors of 35: (1,35) and (5,7). Numbers: (13, 455) or (65, 91). The number between 75 and 125 is 91.",
+      "shortcut": "Factorize LCM/HCF = 455/13 = 35. Find co-prime pairs of 35.",
+      "formula_used": "HCF × LCM = Product, Co-prime factorization",
+      "trap_type": "Forgetting that a and b must be co-prime",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "H003"
+    },
+    {
+      "id": "quant_hcflcm_005",
+      "topic": "quant",
+      "subtopic": "hcf_lcm",
+      "difficulty": "easy",
+      "company_tags": [
+        "Wipro",
+        "HCL"
+      ],
+      "question": "What is the greatest number that will divide 43, 91 and 183 so as to leave the same remainder in each case?",
+      "options": [
+        "4",
+        "7",
+        "9",
+        "13"
+      ],
+      "answer": "A",
+      "explanation": "Required number = HCF of (91-43), (183-91), (183-43) = HCF of 48, 92, 140. HCF(48,92) = 4, HCF(4,140) = 4.",
+      "shortcut": "Find differences between pairs, then HCF of differences.",
+      "formula_used": "HCF of differences",
+      "trap_type": "Finding HCF of original numbers instead of differences",
+      "source": "GeeksforGeeks",
+      "source_url": "",
+      "pattern_detected": "H004"
+    },
+    {
+      "id": "quant_hcflcm_006",
+      "topic": "quant",
+      "subtopic": "hcf_lcm",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Cognizant"
+      ],
+      "question": "Six bells toll at intervals of 2, 4, 6, 8, 10 and 12 seconds respectively. In 30 minutes, how many times do they toll together?",
+      "options": [
+        "4",
+        "10",
+        "15",
+        "16"
+      ],
+      "answer": "D",
+      "explanation": "They toll together at LCM of intervals. LCM(2,4,6,8,10,12) = 120 seconds = 2 minutes. In 30 minutes, they toll together at 0, 2, 4, ..., 30 min = 30/2 + 1 = 16 times (including the start).",
+      "shortcut": "LCM of intervals gives frequency. Include t=0.",
+      "formula_used": "LCM application",
+      "trap_type": "Forgetting to include the toll at time 0 (getting 15)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "H005"
+    },
+    {
+      "id": "quant_hcflcm_007",
+      "topic": "quant",
+      "subtopic": "hcf_lcm",
+      "difficulty": "medium",
+      "company_tags": [
+        "Accenture",
+        "Deloitte"
+      ],
+      "question": "Find the largest four-digit number which when divided by 4, 7 or 13 leaves a remainder of 3 in each case.",
+      "options": [
+        "9831",
+        "9993",
+        "9996",
+        "9987"
+      ],
+      "answer": "A",
+      "explanation": "Number = LCM(4,7,13) × k + 3. LCM(4,7,13) = 364. We need 364k + 3 ≤ 9999. For k=27: 364×27 + 3 = 9828 + 3 = 9831. For k=28: 364×28 + 3 = 10195 (exceeds 4 digits). So answer is 9831.",
+      "shortcut": "LCM × k + remainder ≤ maximum. Find largest k.",
+      "formula_used": "N = LCM × k + r",
+      "trap_type": "Using HCF instead of LCM, or forgetting to add remainder",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "H006"
+    },
+    {
+      "id": "quant_hcflcm_008",
+      "topic": "quant",
+      "subtopic": "hcf_lcm",
+      "difficulty": "hard",
+      "company_tags": [
+        "Deloitte",
+        "IBM"
+      ],
+      "question": "The product of two numbers is 2028 and their HCF is 13. The number of such pairs is:",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "B",
+      "explanation": "Let numbers be 13a and 13b where HCF(a,b)=1. Then 13a × 13b = 2028, so ab = 12. Co-prime pairs with product 12: (1,12) and (3,4). [Note: (2,6) not co-prime as HCF(2,6)=2]. So pairs: (13,156) and (39,52). Total = 2 pairs.",
+      "shortcut": "Divide product by HCF² to get ab, then find co-prime factor pairs.",
+      "formula_used": "Product = HCF² × a × b where a,b are co-prime",
+      "trap_type": "Counting all factor pairs instead of only co-prime pairs",
+      "source": "GeeksforGeeks",
+      "source_url": "",
+      "pattern_detected": "H007"
+    },
+    {
+      "id": "quant_hcflcm_009",
+      "topic": "quant",
+      "subtopic": "hcf_lcm",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro"
+      ],
+      "question": "Three numbers are in the ratio 3:4:5 and their LCM is 2400. Their HCF is:",
+      "options": [
+        "40",
+        "80",
+        "120",
+        "200"
+      ],
+      "answer": "A",
+      "explanation": "Let numbers be 3x, 4x, 5x. LCM(3x, 4x, 5x) = x × LCM(3,4,5) = 60x. Given 60x = 2400, so x = 40. The HCF of 3x, 4x, 5x = x × HCF(3,4,5) = x × 1 = x = 40.",
+      "shortcut": "For numbers in ratio a:b:c with HCF x: LCM = x × LCM(a,b,c), HCF = x.",
+      "formula_used": "LCM of multiples = x × LCM of co-efficients",
+      "trap_type": "Calculating LCM(3,4,5)=60 and choosing 60 as answer",
+      "source": "PrepInsta",
+      "source_url": "",
+      "pattern_detected": "H008"
+    },
+    {
+      "id": "quant_hcflcm_010",
+      "topic": "quant",
+      "subtopic": "hcf_lcm",
+      "difficulty": "easy",
+      "company_tags": [
+        "HCL",
+        "Tech Mahindra"
+      ],
+      "question": "Find the HCF of 2³ × 3² × 5 × 7² and 2² × 3³ × 5² × 7.",
+      "options": [
+        "2² × 3² × 5 × 7",
+        "2³ × 3³ × 5² × 7²",
+        "2² × 3³ × 5 × 7²",
+        "2³ × 3² × 5² × 7"
+      ],
+      "answer": "A",
+      "explanation": "HCF takes minimum power of each common prime: 2² (min of 3,2), 3² (min of 2,3), 5¹ (min of 1,2), 7¹ (min of 2,1). So HCF = 2² × 3² × 5 × 7.",
+      "shortcut": "For HCF: take minimum power of each common prime. For LCM: take maximum power.",
+      "formula_used": "HCF via prime factorization (min powers)",
+      "trap_type": "Taking maximum powers (which gives LCM) instead of minimum",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "H001"
+    },
+    {
+      "id": "quant_hcflcm_011",
+      "topic": "quant",
+      "subtopic": "hcf_lcm",
+      "difficulty": "medium",
+      "company_tags": [
+        "Capgemini",
+        "Cognizant"
+      ],
+      "question": "The least number which when divided by 5, 6, 7 and 8 leaves a remainder 3, but when divided by 9 leaves no remainder, is:",
+      "options": [
+        "1677",
+        "1683",
+        "1692",
+        "1697"
+      ],
+      "answer": "B",
+      "explanation": "LCM(5,6,7,8) = 840. Number = 840k + 3. We need this divisible by 9. Check: k=1: 843/9 = 93.67; k=2: 1683/9 = 187 (exact). So 1683.",
+      "shortcut": "Find N = LCM × k + r, then test values of k for divisibility by 9.",
+      "formula_used": "N = LCM × k + remainder",
+      "trap_type": "Finding LCM(5,6,7,8,9)=2520 and adding 3, getting 2523",
+      "source": "GeeksforGeeks",
+      "source_url": "",
+      "pattern_detected": "H006"
+    },
+    {
+      "id": "quant_hcflcm_012",
+      "topic": "quant",
+      "subtopic": "hcf_lcm",
+      "difficulty": "hard",
+      "company_tags": [
+        "IBM",
+        "Deloitte"
+      ],
+      "question": "If the sum of two numbers is 55 and the HCF and LCM of these numbers are 5 and 120 respectively, then the sum of the reciprocals of the numbers is equal to:",
+      "options": [
+        "55/120",
+        "11/120",
+        "4/11",
+        "11/600"
+      ],
+      "answer": "B",
+      "explanation": "Let numbers be a and b. a + b = 55, HCF = 5, LCM = 120. We know ab = HCF × LCM = 5 × 120 = 600. Sum of reciprocals = 1/a + 1/b = (a+b)/ab = 55/600 = 11/120.",
+      "shortcut": "1/a + 1/b = (a+b)/(HCF×LCM). No need to find individual numbers.",
+      "formula_used": "Sum of reciprocals = (a+b)/(ab) = (a+b)/(HCF×LCM)",
+      "trap_type": "Trying to find individual numbers first (5 and 120 don't sum to 55, so need to find actual numbers: 15 and 40)",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "H003"
+    },
+    {
+      "id": "quant_hcflcm_013",
+      "topic": "quant",
+      "subtopic": "hcf_lcm",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Wipro"
+      ],
+      "question": "The HCF of 2923 and 3239 is:",
+      "options": [
+        "37",
+        "47",
+        "57",
+        "67"
+      ],
+      "answer": "B",
+      "explanation": "Using Euclidean algorithm: 3239 = 2923 × 1 + 316. 2923 = 316 × 9 + 79. 316 = 79 × 4 + 0. HCF = 79. Verification: 2923 = 37 × 79 and 3239 = 41 × 79.",
+      "shortcut": "Euclidean algorithm step-by-step.",
+      "formula_used": "Euclidean Algorithm",
+      "trap_type": "Calculation error in long division steps",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "H001"
+    },
+    {
+      "id": "quant_hcflcm_014",
+      "topic": "quant",
+      "subtopic": "hcf_lcm",
+      "difficulty": "medium",
+      "company_tags": [
+        "Accenture",
+        "Capgemini"
+      ],
+      "question": "The LCM of two numbers is 495 and their HCF is 5. If the sum of the numbers is 100, then their difference is:",
+      "options": [
+        "10",
+        "20",
+        "30",
+        "40"
+      ],
+      "answer": "A",
+      "explanation": "Let numbers be a and b. ab = HCF × LCM = 5 × 495 = 2475. a + b = 100. (a-b)² = (a+b)² - 4ab = 10000 - 9900 = 100. So a - b = 10.",
+      "shortcut": "(a-b)² = (a+b)² - 4ab = (a+b)² - 4×HCF×LCM",
+      "formula_used": "(a-b)² = (a+b)² - 4ab",
+      "trap_type": "Finding a-b directly without squaring, or using wrong formula",
+      "source": "PrepInsta",
+      "source_url": "",
+      "pattern_detected": "H003"
+    },
+    {
+      "id": "quant_hcflcm_015",
+      "topic": "quant",
+      "subtopic": "hcf_lcm",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Deloitte"
+      ],
+      "question": "A number when divided by 893 leaves a remainder 193. What will be the remainder when it is divided by 47?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": "B",
+      "explanation": "Let the number be N = 893k + 193. Since 893 = 47 × 19, N = 47×(19k) + 193. Now 193 = 47 × 4 + 5. Therefore, when N is divided by 47, the remainder is 5.",
+      "shortcut": "If divisor D divides the original divisor, remainder = original_remainder mod D.",
+      "formula_used": "Remainder theorem: If N = ak + r and D|a, then N mod D = r mod D",
+      "trap_type": "Dividing 193 by 47 and rounding incorrectly",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": "H009"
+    }
+  ]
+}

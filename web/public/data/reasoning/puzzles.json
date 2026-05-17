@@ -1,0 +1,418 @@
+{
+  "metadata": {
+    "topic": "Logical Reasoning",
+    "subtopic": "puzzles",
+    "total_questions": 15,
+    "sources": [
+      "IndiaBIX"
+    ],
+    "last_updated": "2026-05-17"
+  },
+  "questions": [
+    {
+      "id": "reasoning_puzzle_001",
+      "topic": "reasoning",
+      "subtopic": "puzzles",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which one will replace the question mark ?",
+      "options": [
+        "L_10",
+        "K_15",
+        "I_15",
+        "K_8"
+      ],
+      "answer": "D",
+      "explanation": "How the number is obtained?\n\n2 + 4 = 6\n\n5 + 9 = 14\n\nSimilarly,\n\n3 + 5 = 8\n\nTherefore, the answer is K_8.",
+      "shortcut": "List all constraints and eliminate impossible options systematically",
+      "formula_used": "",
+      "trap_type": "Filling in assumed values without verifying all constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_puzzle_002",
+      "topic": "reasoning",
+      "subtopic": "puzzles",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which one will replace the question mark ?",
+      "options": [
+        "1",
+        "4",
+        "3",
+        "6"
+      ],
+      "answer": "D",
+      "explanation": "(5 + 4 + 7)/2 = 8\n\n(6 + 9 + 5)/2 = 10\n\n(3 + 7 + 2)/2 = 6.",
+      "shortcut": "List all constraints and eliminate impossible options systematically",
+      "formula_used": "",
+      "trap_type": "Filling in assumed values without verifying all constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_puzzle_003",
+      "topic": "reasoning",
+      "subtopic": "puzzles",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which one will replace the question mark ?",
+      "options": [
+        "18",
+        "12",
+        "9",
+        "6"
+      ],
+      "answer": "C",
+      "explanation": "(12 + 18 + 30)/10 = 6\n\n(16 + 24 + 40)/10 = 8\n\nSimilarly, (45 + 18 + 27)/10 = 9.",
+      "shortcut": "List all constraints and eliminate impossible options systematically",
+      "formula_used": "",
+      "trap_type": "Filling in assumed values without verifying all constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_puzzle_004",
+      "topic": "reasoning",
+      "subtopic": "puzzles",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which one will replace the question mark ?",
+      "options": [
+        "25",
+        "37",
+        "41",
+        "47"
+      ],
+      "answer": "C",
+      "explanation": "(5 x 3) + 4 = 19\n\nand (6 x 4) + 5 = 29\n\nTherefore, (7 x 5) + 6 = 41",
+      "shortcut": "List all constraints and eliminate impossible options systematically",
+      "formula_used": "",
+      "trap_type": "Filling in assumed values without verifying all constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_puzzle_005",
+      "topic": "reasoning",
+      "subtopic": "puzzles",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which one will replace the question mark ?",
+      "options": [
+        "45",
+        "41",
+        "32",
+        "40"
+      ],
+      "answer": "A",
+      "explanation": "(15 x 2 - 3) = 27,\n\n(31 x 2 - 6) = 56\n\nand (45 x 2 - 9) = 81",
+      "shortcut": "List all constraints and eliminate impossible options systematically",
+      "formula_used": "",
+      "trap_type": "Filling in assumed values without verifying all constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_puzzle_006",
+      "topic": "reasoning",
+      "subtopic": "puzzles",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which one will replace the question mark ?",
+      "options": [
+        "115",
+        "130",
+        "135",
+        "140"
+      ],
+      "answer": "B",
+      "explanation": "(5 x 6 x 8) + (7 x 4 x 9) = 492\n\nand (7 x 5 x 4) + (6 x 8 x 9) = 572\n\nTherefore (4 x 3 x 5) + (7 x 2 x 5) = 130.",
+      "shortcut": "List all constraints and eliminate impossible options systematically",
+      "formula_used": "",
+      "trap_type": "Filling in assumed values without verifying all constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_puzzle_007",
+      "topic": "reasoning",
+      "subtopic": "puzzles",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which one will replace the question mark ?",
+      "options": [
+        "92",
+        "72",
+        "62",
+        "99"
+      ],
+      "answer": "D",
+      "explanation": "21 + 31 = 52\n\nand 39 + 46 = 85\n\nTherefore, 16 + 83 = 99.",
+      "shortcut": "List all constraints and eliminate impossible options systematically",
+      "formula_used": "",
+      "trap_type": "Filling in assumed values without verifying all constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_puzzle_008",
+      "topic": "reasoning",
+      "subtopic": "puzzles",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which one will replace the question mark ?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "B",
+      "explanation": "(18 x 12)/3 = 72\n\nand (32 x 16)/4 = 128\n\nTherefore, (24 x 14)/? = 112\n\n(336/?) = 112\n\n? = (336/112)\n\n? = 3.",
+      "shortcut": "List all constraints and eliminate impossible options systematically",
+      "formula_used": "",
+      "trap_type": "Filling in assumed values without verifying all constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_puzzle_009",
+      "topic": "reasoning",
+      "subtopic": "puzzles",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which one will replace the question mark ?",
+      "options": [
+        "36",
+        "48",
+        "38",
+        "30"
+      ],
+      "answer": "C",
+      "explanation": "(0 + 2 + 6 + 4) - 2 = 10\n\nand (6 + 2 + 10 + 8) - 2 = 24\n\nTherefore, (4 + 14 + 12 + 10) - 2 = 38.",
+      "shortcut": "List all constraints and eliminate impossible options systematically",
+      "formula_used": "",
+      "trap_type": "Filling in assumed values without verifying all constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_puzzle_010",
+      "topic": "reasoning",
+      "subtopic": "puzzles",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which one will replace the question mark ?",
+      "options": [
+        "41",
+        "64",
+        "35",
+        "61"
+      ],
+      "answer": "B",
+      "explanation": "(1)^3 = 1, (2)^3 = 8, (3)^3 = 27\n\nTherefore, (4)^3 = 64.",
+      "shortcut": "List all constraints and eliminate impossible options systematically",
+      "formula_used": "",
+      "trap_type": "Filling in assumed values without verifying all constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_puzzle_011",
+      "topic": "reasoning",
+      "subtopic": "puzzles",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which one will replace the question mark ?",
+      "options": [
+        "13",
+        "14",
+        "12",
+        "15"
+      ],
+      "answer": "D",
+      "explanation": "Sum of numbers in lower half of the circle = 11 + 9 + 3 + 7 = 30\n\nSum of numbers in upper half of the circle = ? + 4 + 5 + 6 = ? + 15\n\nUpper half = Lower half\n\n30 = ? + 15 \n\n? = 30 - 15\n\n? = 15.\n\nThrefore, 15 is the answer.",
+      "shortcut": "List all constraints and eliminate impossible options systematically",
+      "formula_used": "",
+      "trap_type": "Filling in assumed values without verifying all constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_puzzle_012",
+      "topic": "reasoning",
+      "subtopic": "puzzles",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which one will replace the question mark ?",
+      "options": [
+        "262",
+        "622",
+        "631",
+        "824"
+      ],
+      "answer": "B",
+      "explanation": "915 - 364 = 551\n\nand 789 - 543 = 246\n\nSimilarly, 863 - 241 = 622.",
+      "shortcut": "List all constraints and eliminate impossible options systematically",
+      "formula_used": "",
+      "trap_type": "Filling in assumed values without verifying all constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_puzzle_013",
+      "topic": "reasoning",
+      "subtopic": "puzzles",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which one will replace the question mark ?",
+      "options": [
+        "45",
+        "29",
+        "39",
+        "37"
+      ],
+      "answer": "C",
+      "explanation": "",
+      "shortcut": "List all constraints and eliminate impossible options systematically",
+      "formula_used": "",
+      "trap_type": "Filling in assumed values without verifying all constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_puzzle_014",
+      "topic": "reasoning",
+      "subtopic": "puzzles",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which one will replace the question mark ?",
+      "options": [
+        "184",
+        "210",
+        "241",
+        "425"
+      ],
+      "answer": "A",
+      "explanation": "(12)^2 - (8)^2 = 80\n\nand (16)^2 - (7)^2 = 207\n\nTherefore (25)^2 - (21)^2 = 184.",
+      "shortcut": "List all constraints and eliminate impossible options systematically",
+      "formula_used": "",
+      "trap_type": "Filling in assumed values without verifying all constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_puzzle_015",
+      "topic": "reasoning",
+      "subtopic": "puzzles",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which one will replace the question mark ?",
+      "options": [
+        "25",
+        "59",
+        "48",
+        "73"
+      ],
+      "answer": "D",
+      "explanation": "(2)^3 + (1)^3 + (3)^3 = 36\n\nand (0)^3 + (4)^3 + (3)^3 = 91\n\nTherefore, (4)^3 + (2)^3 + (1)^3 = 73.",
+      "shortcut": "List all constraints and eliminate impossible options systematically",
+      "formula_used": "",
+      "trap_type": "Filling in assumed values without verifying all constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    }
+  ]
+}

@@ -1,0 +1,433 @@
+{
+  "metadata": {
+    "topic": "Verbal Ability",
+    "subtopic": "sentence_correction",
+    "total_questions": 15,
+    "sources": [
+      "IndiaBIX"
+    ],
+    "last_updated": "2026-05-17"
+  },
+  "questions": [
+    {
+      "id": "verbal_senten_001",
+      "topic": "verbal",
+      "subtopic": "sentence_correction",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The small child does whatever his father was done.",
+      "options": [
+        "has done",
+        "did",
+        "does",
+        "had done",
+        "No correction required"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Identify the error type first: SV agreement, tense, modifier, parallelism",
+      "formula_used": "",
+      "trap_type": "Changing what is correct and leaving the actual error untouched",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_senten_002",
+      "topic": "verbal",
+      "subtopic": "sentence_correction",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "You need not come unless you want to.",
+      "options": [
+        "You don't need to come unless you want to",
+        "You come only when you want to",
+        "You come unless you don't want to",
+        "You needn't come until you don't want to",
+        "No correction required"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Identify the error type first: SV agreement, tense, modifier, parallelism",
+      "formula_used": "",
+      "trap_type": "Changing what is correct and leaving the actual error untouched",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_senten_003",
+      "topic": "verbal",
+      "subtopic": "sentence_correction",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "There are not many men who are so famous that they are frequently referred to by their short names only",
+      "options": [
+        "initials",
+        "signatures",
+        "pictures",
+        "middle names",
+        "No correction required"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Identify the error type first: SV agreement, tense, modifier, parallelism",
+      "formula_used": "",
+      "trap_type": "Changing what is correct and leaving the actual error untouched",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_senten_004",
+      "topic": "verbal",
+      "subtopic": "sentence_correction",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The man to who I sold my house was a cheat.",
+      "options": [
+        "to whom I sell",
+        "to who I sell",
+        "who was sold to",
+        "to whom I sold",
+        "No correction required"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Identify the error type first: SV agreement, tense, modifier, parallelism",
+      "formula_used": "",
+      "trap_type": "Changing what is correct and leaving the actual error untouched",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_senten_005",
+      "topic": "verbal",
+      "subtopic": "sentence_correction",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "They were all shocked at his failure in the competition.",
+      "options": [
+        "were shocked at all",
+        "had all shocked at",
+        "had all shocked by",
+        "had been all shocked on",
+        "No correction required"
+      ],
+      "answer": "E",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Identify the error type first: SV agreement, tense, modifier, parallelism",
+      "formula_used": "",
+      "trap_type": "Changing what is correct and leaving the actual error untouched",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_senten_006",
+      "topic": "verbal",
+      "subtopic": "sentence_correction",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "I need not offer any explanation regarding this incident - my behaviour is speaking itself.",
+      "options": [
+        "will speak to itself",
+        "speaks for itself",
+        "has been speaking",
+        "speaks about itself",
+        "No correction required"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Identify the error type first: SV agreement, tense, modifier, parallelism",
+      "formula_used": "",
+      "trap_type": "Changing what is correct and leaving the actual error untouched",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_senten_007",
+      "topic": "verbal",
+      "subtopic": "sentence_correction",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "He is too important for tolerating any delay.",
+      "options": [
+        "to tolerate",
+        "to tolerating",
+        "at tolerating",
+        "with tolerating",
+        "No correction required"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Identify the error type first: SV agreement, tense, modifier, parallelism",
+      "formula_used": "",
+      "trap_type": "Changing what is correct and leaving the actual error untouched",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_senten_008",
+      "topic": "verbal",
+      "subtopic": "sentence_correction",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The population of Tokyo is greater than that of any other town in the world.",
+      "options": [
+        "greatest among any other",
+        "greater than all other",
+        "greater than those of any other",
+        "greater than any other",
+        "No correction required"
+      ],
+      "answer": "E",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Identify the error type first: SV agreement, tense, modifier, parallelism",
+      "formula_used": "",
+      "trap_type": "Changing what is correct and leaving the actual error untouched",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_senten_009",
+      "topic": "verbal",
+      "subtopic": "sentence_correction",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The performance of our players was rather worst than I had expected.",
+      "options": [
+        "bad as I had expected",
+        "worse than I had expected",
+        "worse than expectation",
+        "worst than was expected",
+        "No correction required"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Identify the error type first: SV agreement, tense, modifier, parallelism",
+      "formula_used": "",
+      "trap_type": "Changing what is correct and leaving the actual error untouched",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_senten_010",
+      "topic": "verbal",
+      "subtopic": "sentence_correction",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Why did you not threw the bag away?",
+      "options": [
+        "did you not throw",
+        "had you not threw",
+        "did you not thrown",
+        "you did not thrown",
+        "No correction required"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Identify the error type first: SV agreement, tense, modifier, parallelism",
+      "formula_used": "",
+      "trap_type": "Changing what is correct and leaving the actual error untouched",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_senten_011",
+      "topic": "verbal",
+      "subtopic": "sentence_correction",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Shapes of gods and goddess are worshipped by people.",
+      "options": [
+        "Images",
+        "Reflections",
+        "Clay shapes",
+        "Clay toys",
+        "No correction required"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Identify the error type first: SV agreement, tense, modifier, parallelism",
+      "formula_used": "",
+      "trap_type": "Changing what is correct and leaving the actual error untouched",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_senten_012",
+      "topic": "verbal",
+      "subtopic": "sentence_correction",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In addition to enhanced their reputations through strategic use of philanthropy, companies are sponsoring social initiatives to open new markets.",
+      "options": [
+        "of enhancing their reputation",
+        "to having enhance their reputation",
+        "to enhancing their reputation",
+        "to have their reputation enhancing",
+        "No correction required"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Identify the error type first: SV agreement, tense, modifier, parallelism",
+      "formula_used": "",
+      "trap_type": "Changing what is correct and leaving the actual error untouched",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_senten_013",
+      "topic": "verbal",
+      "subtopic": "sentence_correction",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The intruder stood quietly for few moments",
+      "options": [
+        "for few time",
+        "for the few moments",
+        "for moments",
+        "for a few moments",
+        "No correction required"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Identify the error type first: SV agreement, tense, modifier, parallelism",
+      "formula_used": "",
+      "trap_type": "Changing what is correct and leaving the actual error untouched",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_senten_014",
+      "topic": "verbal",
+      "subtopic": "sentence_correction",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The police has so far succeeded in recovering only a part of the stolen property.",
+      "options": [
+        "thus far succeeded for recovery",
+        "so far succeeded in recovery of",
+        "as for as succeeded in recovery of",
+        "so far succeeded to recover",
+        "No correction required"
+      ],
+      "answer": "E",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Identify the error type first: SV agreement, tense, modifier, parallelism",
+      "formula_used": "",
+      "trap_type": "Changing what is correct and leaving the actual error untouched",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_senten_015",
+      "topic": "verbal",
+      "subtopic": "sentence_correction",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "He confidentially asked the crowd if they thought he was right and the crowd shouted that they did.",
+      "options": [
+        "that he did",
+        "that they had",
+        "that he is",
+        "that he didn't",
+        "No correction required"
+      ],
+      "answer": "E",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Identify the error type first: SV agreement, tense, modifier, parallelism",
+      "formula_used": "",
+      "trap_type": "Changing what is correct and leaving the actual error untouched",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    }
+  ]
+}

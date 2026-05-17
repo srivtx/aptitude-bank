@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "topic": "Verbal Ability",
+    "subtopic": "fill_blanks",
+    "total_questions": 5,
+    "sources": [
+      "IndiaBIX"
+    ],
+    "last_updated": "2026-05-17"
+  },
+  "questions": [
+    {
+      "id": "verbal_fillbl_001",
+      "topic": "verbal",
+      "subtopic": "fill_blanks",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "(solve as per the direction given above)",
+      "options": [
+        "it",
+        "he",
+        "they",
+        "we"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read full sentence; check grammar consistency; eliminate wrong options",
+      "formula_used": "",
+      "trap_type": "Choosing a word that fits meaning but not grammar structure",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_fillbl_002",
+      "topic": "verbal",
+      "subtopic": "fill_blanks",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "(solve as per the direction given above)",
+      "options": [
+        "with",
+        "by",
+        "after",
+        "from"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read full sentence; check grammar consistency; eliminate wrong options",
+      "formula_used": "",
+      "trap_type": "Choosing a word that fits meaning but not grammar structure",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_fillbl_003",
+      "topic": "verbal",
+      "subtopic": "fill_blanks",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "(solve as per the direction given above)",
+      "options": [
+        "buy",
+        "take",
+        "pick",
+        "want"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read full sentence; check grammar consistency; eliminate wrong options",
+      "formula_used": "",
+      "trap_type": "Choosing a word that fits meaning but not grammar structure",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_fillbl_004",
+      "topic": "verbal",
+      "subtopic": "fill_blanks",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "(solve as per the direction given above)",
+      "options": [
+        "hardly",
+        "easily",
+        "frequently",
+        "conveniently"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read full sentence; check grammar consistency; eliminate wrong options",
+      "formula_used": "",
+      "trap_type": "Choosing a word that fits meaning but not grammar structure",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_fillbl_005",
+      "topic": "verbal",
+      "subtopic": "fill_blanks",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "(solve as per the direction given above)",
+      "options": [
+        "costs",
+        "returns",
+        "dividend",
+        "prices"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read full sentence; check grammar consistency; eliminate wrong options",
+      "formula_used": "",
+      "trap_type": "Choosing a word that fits meaning but not grammar structure",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    }
+  ]
+}

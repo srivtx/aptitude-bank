@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "topic": "Logical Reasoning",
+    "subtopic": "cubes_and_dices",
+    "total_questions": 2,
+    "sources": [
+      "IndiaBIX"
+    ],
+    "last_updated": "2026-05-17"
+  },
+  "questions": [
+    {
+      "id": "reasoning_cubesa_001",
+      "topic": "reasoning",
+      "subtopic": "cubes_and_dices",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the box that is similar to the box formed from the given sheet of paper (X).",
+      "options": [
+        "1 and 2 only",
+        "2 and 4 only",
+        "2 and 3 only",
+        "1 and 4 only"
+      ],
+      "answer": "C",
+      "explanation": "The fig. (X) is similar to the Form VI. So, when a cube is formed by folding the sheet shown in fig. (X), then is one of the faces of the cube. However, the cube in fig. (1) has two such faces and fig. (4) has a face which is completely shaded. So, these two cubes cannot be formed. Hence, only the cubes in figures (2) and (3) can be formed.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_cubesa_003",
+      "topic": "reasoning",
+      "subtopic": "cubes_and_dices",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "How many dots lie opposite to the face having three dots, when the given figure is folded to form a cube?",
+      "options": [
+        "2",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "D",
+      "explanation": "The given figure is similar to Form V. Therefore, when this figure is folded to form a cube then the face bearing six dots will lie opposite the face bearing three dots.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Placement Aptitude Research Bank</title>
+  <link rel="stylesheet" href="src/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1>Placement Aptitude Research Bank</h1>
+      <p class="subtitle">Research-first question collection for Indian placement exams</p>
+      <div class="header-stats">
+        <span id="total-questions">Loading...</span>
+        <span id="total-topics">Loading...</span>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <!-- Navigation / Mode Switcher -->
+    <nav class="nav-tabs">
+      <button class="nav-tab active" data-view="topics">Topics</button>
+      <button class="nav-tab" data-view="practice">Practice</button>
+      <button class="nav-tab" data-view="bank">Question Bank</button>
+      <button class="nav-tab" data-view="patterns">Patterns</button>
+    </nav>
+
+    <!-- Topics View -->
+    <section id="view-topics" class="view active">
+      <div class="filter-bar">
+        <select id="category-filter">
+          <option value="all">All Categories</option>
+          <option value="quant">Quantitative Aptitude</option>
+          <option value="reasoning">Logical Reasoning</option>
+          <option value="verbal">Verbal Ability</option>
+        </select>
+        <select id="difficulty-filter">
+          <option value="all">All Difficulties</option>
+          <option value="easy">Easy</option>
+          <option value="medium">Medium</option>
+          <option value="hard">Hard</option>
+        </select>
+        <input type="text" id="search-topics" placeholder="Search topics...">
+      </div>
+      <div id="topics-grid" class="topics-grid">
+        <!-- Populated by JS -->
+      </div>
+    </section>
+
+    <!-- Practice View -->
+    <section id="view-practice" class="view">
+      <div class="practice-header">
+        <h2 id="practice-title">Select a topic to start practice</h2>
+        <div class="practice-meta">
+          <span id="practice-progress">0 / 0</span>
+          <span id="practice-difficulty">All Levels</span>
+        </div>
+      </div>
+
+      <div id="practice-setup" class="practice-setup">
+        <p>Select a topic from the Topics tab or choose one below to start practicing.</p>
+        <div id="quick-topics" class="quick-topics">
+          <!-- Populated by JS -->
+        </div>
+      </div>
+
+      <div id="practice-area" class="practice-area hidden">
+        <div class="question-card">
+          <div class="question-header">
+            <span class="question-id" id="q-id"></span>
+            <span class="question-difficulty" id="q-difficulty"></span>
+            <span class="question-companies" id="q-companies"></span>
+          </div>
+          <div class="question-text" id="q-text"></div>
+          <div class="options-list" id="q-options"></div>
+          <div class="question-actions">
+            <button id="btn-check" class="btn-primary">Check Answer</button>
+            <button id="btn-skip" class="btn-secondary">Skip</button>
+            <button id="btn-next" class="btn-primary hidden">Next Question</button>
+          </div>
+        </div>
+
+        <div id="solution-panel" class="solution-panel hidden">
+          <div class="result-badge" id="result-badge"></div>
+          <div class="solution-section">
+            <h4>Explanation</h4>
+            <p id="sol-explanation"></p>
+          </div>
+          <div class="solution-section" id="sol-shortcut-wrap">
+            <h4>Shortcut</h4>
+            <p id="sol-shortcut"></p>
+          </div>
+          <div class="solution-section" id="sol-formula-wrap">
+            <h4>Formula Used</h4>
+            <p id="sol-formula"></p>
+          </div>
+          <div class="solution-section" id="sol-trap-wrap">
+            <h4>Common Trap</h4>
+            <p id="sol-trap"></p>
+          </div>
+          <div class="solution-section">
+            <h4>Source</h4>
+            <p id="sol-source"></p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Question Bank View -->
+    <section id="view-bank" class="view">
+      <div class="filter-bar">
+        <select id="bank-category-filter">
+          <option value="all">All Categories</option>
+          <option value="quant">Quantitative Aptitude</option>
+          <option value="reasoning">Logical Reasoning</option>
+          <option value="verbal">Verbal Ability</option>
+        </select>
+        <select id="bank-difficulty-filter">
+          <option value="all">All Difficulties</option>
+          <option value="easy">Easy</option>
+          <option value="medium">Medium</option>
+          <option value="hard">Hard</option>
+        </select>
+        <input type="text" id="bank-search" placeholder="Search questions...">
+      </div>
+      <div id="bank-list" class="bank-list">
+        <!-- Populated by JS -->
+      </div>
+    </section>
+
+    <!-- Patterns View -->
+    <section id="view-patterns" class="view">
+      <h2>Detected Patterns</h2>
+      <div id="patterns-list" class="patterns-list">
+        <!-- Populated by JS -->
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>Built for research-first placement preparation. Data sourced from IndiaBIX, PrepInsta, GeeksforGeeks, and verified student reports.</p>
+    </div>
+  </footer>
+
+  <script src="src/js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,283 @@
+{
+  "metadata": {
+    "topic": "Verbal Ability",
+    "subtopic": "antonyms",
+    "total_questions": 10,
+    "sources": [
+      "IndiaBIX"
+    ],
+    "last_updated": "2026-05-17"
+  },
+  "questions": [
+    {
+      "id": "verbal_antony_001",
+      "topic": "verbal",
+      "subtopic": "antonyms",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "ENORMOUS",
+      "options": [
+        "Soft",
+        "Average",
+        "Tiny",
+        "Weak"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Think of the word meaning, then find the direct opposite",
+      "formula_used": "",
+      "trap_type": "Choosing a loosely opposite word rather than the precise antonym",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_antony_002",
+      "topic": "verbal",
+      "subtopic": "antonyms",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "COMMISSIONED",
+      "options": [
+        "Started",
+        "Closed",
+        "Finished",
+        "Terminated"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Think of the word meaning, then find the direct opposite",
+      "formula_used": "",
+      "trap_type": "Choosing a loosely opposite word rather than the precise antonym",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_antony_003",
+      "topic": "verbal",
+      "subtopic": "antonyms",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "ARTIFICIAL",
+      "options": [
+        "Red",
+        "Natural",
+        "Truthful",
+        "Solid"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Think of the word meaning, then find the direct opposite",
+      "formula_used": "",
+      "trap_type": "Choosing a loosely opposite word rather than the precise antonym",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_antony_004",
+      "topic": "verbal",
+      "subtopic": "antonyms",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "EXODUS",
+      "options": [
+        "Influx",
+        "Home-coming",
+        "Return",
+        "Restoration"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Think of the word meaning, then find the direct opposite",
+      "formula_used": "",
+      "trap_type": "Choosing a loosely opposite word rather than the precise antonym",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_antony_005",
+      "topic": "verbal",
+      "subtopic": "antonyms",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "RELINQUISH",
+      "options": [
+        "Abdicate",
+        "Renounce",
+        "Possess",
+        "Deny"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Think of the word meaning, then find the direct opposite",
+      "formula_used": "",
+      "trap_type": "Choosing a loosely opposite word rather than the precise antonym",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_antony_006",
+      "topic": "verbal",
+      "subtopic": "antonyms",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "EXPAND",
+      "options": [
+        "Convert",
+        "Condense",
+        "Congest",
+        "Conclude"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Think of the word meaning, then find the direct opposite",
+      "formula_used": "",
+      "trap_type": "Choosing a loosely opposite word rather than the precise antonym",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_antony_007",
+      "topic": "verbal",
+      "subtopic": "antonyms",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "MORTAL",
+      "options": [
+        "Divine",
+        "Immortal",
+        "Spiritual",
+        "Eternal"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Think of the word meaning, then find the direct opposite",
+      "formula_used": "",
+      "trap_type": "Choosing a loosely opposite word rather than the precise antonym",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_antony_008",
+      "topic": "verbal",
+      "subtopic": "antonyms",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "QUIESCENT",
+      "options": [
+        "ACTIVE",
+        "Dormant",
+        "Weak",
+        "Unconcerned"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Think of the word meaning, then find the direct opposite",
+      "formula_used": "",
+      "trap_type": "Choosing a loosely opposite word rather than the precise antonym",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_antony_009",
+      "topic": "verbal",
+      "subtopic": "antonyms",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "OBEYING",
+      "options": [
+        "Ordering",
+        "Following",
+        "Refusing",
+        "Contradicting"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Think of the word meaning, then find the direct opposite",
+      "formula_used": "",
+      "trap_type": "Choosing a loosely opposite word rather than the precise antonym",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_antony_010",
+      "topic": "verbal",
+      "subtopic": "antonyms",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "FRAUDULENT",
+      "options": [
+        "Candid",
+        "Direct",
+        "Forthright",
+        "Genuine"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Think of the word meaning, then find the direct opposite",
+      "formula_used": "",
+      "trap_type": "Choosing a loosely opposite word rather than the precise antonym",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    }
+  ]
+}

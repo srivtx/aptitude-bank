@@ -1,0 +1,293 @@
+{
+  "metadata": {
+    "topic": "Logical Reasoning",
+    "subtopic": "statements_assumptions",
+    "total_questions": 10,
+    "sources": [
+      "IndiaBIX"
+    ],
+    "last_updated": "2026-05-17"
+  },
+  "questions": [
+    {
+      "id": "reasoning_statem_001",
+      "topic": "reasoning",
+      "subtopic": "statements_assumptions",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Statement: \"You are hereby appointed as a programmer with a probation period of one year and your performance will be reviewed at the end of the period for confirmation.\" - A line in an appointment letter.\n \nAssumptions:\n\n \nThe performance of an individual generally is not known at the time of appointment offer. \nGenerally an individual tries to prove his worth in the probation period.",
+      "options": [
+        "Only assumption I is implicit",
+        "Only assumption II is implicit",
+        "Either I or II is implicit",
+        "Neither I nor II is implicit",
+        "Both I and II are implicit"
+      ],
+      "answer": "E",
+      "explanation": "The performance of the individual has to be tested over a span of time as the statement mentions. So, I is implicit. The statement mentions that the individual's worth shall be reviewed (during probation period) before confirmation. So, II is also implicit.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_statem_002",
+      "topic": "reasoning",
+      "subtopic": "statements_assumptions",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Statement: It is desirable to put the child in school at the age of 5 or so.\n \nAssumptions:\n\n \nAt that age the child reaches appropriate level of development and is ready to learn. \nThe schools do not admit children after six years of age.",
+      "options": [
+        "Only assumption I is implicit",
+        "Only assumption II is implicit",
+        "Either I or II is implicit",
+        "Neither I nor II is implicit",
+        "Both I and II are implicit"
+      ],
+      "answer": "A",
+      "explanation": "Since the statement talks of putting the child in school at the age of 5, it means that the child is mentally prepared for the same at this age. So, I is implicit. But nothing about admission after 6 years of age is mentioned in the statement. So, II is not implicit.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_statem_003",
+      "topic": "reasoning",
+      "subtopic": "statements_assumptions",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Statement: \"In order to bring punctuality in our office, we must provide conveyance allowance to our employees.\" - In charge of a company tells Personnel Manager.\n \nAssumptions:\n\n \nConveyance allowance will not help in bringing punctuality. \nDiscipline and reward should always go hand in hand.",
+      "options": [
+        "Only assumption I is implicit",
+        "Only assumption II is implicit",
+        "Either I or II is implicit",
+        "Neither I nor II is implicit",
+        "Both I and II are implicit"
+      ],
+      "answer": "B",
+      "explanation": "Assumption I goes against the statement. So, it is not implicit. The allowance will serve as a reward to the employees and shall provoke them to come on time. So, II is implicit.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_statem_004",
+      "topic": "reasoning",
+      "subtopic": "statements_assumptions",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Statement: Unemployment allowance should be given to all unemployed Indian youth above 18 years of age.\n \nAssumptions:\n\n \nThere are unemployed youth in India who needs monetary support. \nThe government has sufficient funds to provide allowance to all unemployed youth.",
+      "options": [
+        "Only assumption I is implicit",
+        "Only assumption II is implicit",
+        "Either I or II is implicit",
+        "Neither I nor II is implicit",
+        "Both I and II are implicit"
+      ],
+      "answer": "A",
+      "explanation": "I directly follows from the statement and so is implicit. Also, the statement is a suggestion and does not tell about a government policy or its position of funds. So, II is not implicit.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_statem_005",
+      "topic": "reasoning",
+      "subtopic": "statements_assumptions",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Statement: \"If you trouble me, I will slap you.\" - A mother warns her child.\n \nAssumptions:\n\n \nWith the warning, the child may stop troubling her. \nAll children are basically naughty.",
+      "options": [
+        "Only assumption I is implicit",
+        "Only assumption II is implicit",
+        "Either I or II is implicit",
+        "Neither I nor II is implicit",
+        "Both I and II are implicit"
+      ],
+      "answer": "A",
+      "explanation": "The mother warns her child with the expectation that he would stop troubling her. So, I is implicit. The general nature of children cannot be derived from the statement. So, II is not implicit.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_statem_006",
+      "topic": "reasoning",
+      "subtopic": "statements_assumptions",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Statement: The State government has decided to appoint four thousand primary school teachers during the next financial year.\n \nAssumptions:\n\n \nThere are enough schools in the state to accommodate four thousand additional primary school teachers. \nThe eligible candidates may not be interested to apply as the government may not finally appoint such a large number of primary school teachers.",
+      "options": [
+        "Only assumption I is implicit",
+        "Only assumption II is implicit",
+        "Either I or II is implicit",
+        "Neither I nor II is implicit",
+        "Both I and II are implicit"
+      ],
+      "answer": "A",
+      "explanation": "Such decisions as given in the statement are taken only after taking the existing vacancies into consideration. So, I implicit while II isn't.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_statem_007",
+      "topic": "reasoning",
+      "subtopic": "statements_assumptions",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Statement: A warning in a train compartment - \"To stop train, pull chain. Penalty for improper use Rs. 500.\"\n \nAssumptions:\n\n \nSome people misuse the alarm chain. \nOn certain occasions, people may want to stop a running train.",
+      "options": [
+        "Only assumption I is implicit",
+        "Only assumption II is implicit",
+        "Either I or II is implicit",
+        "Neither I nor II is implicit",
+        "Both I and II are implicit"
+      ],
+      "answer": "E",
+      "explanation": "Clearly, the penalty is imposed to prevent people from misusing the alarm chain. This means that some people misuse it. So, I is implicit. The alarm chain is provided to stop the running train in times of urgency. So, II is also implicit.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_statem_008",
+      "topic": "reasoning",
+      "subtopic": "statements_assumptions",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Statement: If it is easy to become an engineer, I don't want to be an engineer.\n \nAssumptions:\n\n \nAn individual aspires to be professional. \nOne desires to achieve a thing which is hard earned.",
+      "options": [
+        "Only assumption I is implicit",
+        "Only assumption II is implicit",
+        "Either I or II is implicit",
+        "Neither I nor II is implicit",
+        "Both I and II are implicit"
+      ],
+      "answer": "B",
+      "explanation": "Clearly, nothing is mentioned about the professional nature of the job. So, I is not implicit. The statement hints that one rejects a thing that is easy to achieve. So, II is implicit.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_statem_009",
+      "topic": "reasoning",
+      "subtopic": "statements_assumptions",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Statement: The concession in rail fares for the journey to hill stations has been cancelled because it is not needed for people who can spend their holidays there.\n \nAssumptions:\n\n \nRailways should give concession only to needy persons. \nRailways should not encourage people to spend their holidays at hill stations.",
+      "options": [
+        "Only assumption I is implicit",
+        "Only assumption II is implicit",
+        "Either I or II is implicit",
+        "Neither I nor II is implicit",
+        "Both I and II are implicit"
+      ],
+      "answer": "A",
+      "explanation": "The statement mentions that concessions should not be given to people who can afford to spend holidays in hill stations. This means they should be given only to needy persons. So, I is implicit. But, II does not follow from the statement and is not implicit.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_statem_010",
+      "topic": "reasoning",
+      "subtopic": "statements_assumptions",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Statement: \"The bridge was built at the cost of Rs. 128 crores and even civil bus service is not utilizing it, what a pity to see it grossly underutilized.\" - A citizen's view on a new flyover linking east and west sides of a suburb.\n \nAssumptions:\n\n \nThe building of such bridges does not serve any public objective. \nThere has to be some accountability and utility of money spent on public projects.",
+      "options": [
+        "Only assumption I is implicit",
+        "Only assumption II is implicit",
+        "Either I or II is implicit",
+        "Neither I nor II is implicit",
+        "Both I and II are implicit"
+      ],
+      "answer": "B",
+      "explanation": "Clearly, the statement expresses grave concern over a newly-built flyover not being utilized by public. This implies that such projects need to be taken up only after working out their utility and that the huge expenditure incurred on building such structures is worthwhile only if they prove useful for the public. Thus, only II is implicit.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    }
+  ]
+}

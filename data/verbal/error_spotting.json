@@ -1,0 +1,418 @@
+{
+  "metadata": {
+    "topic": "Verbal Ability",
+    "subtopic": "error_spotting",
+    "total_questions": 15,
+    "sources": [
+      "IndiaBIX"
+    ],
+    "last_updated": "2026-05-17"
+  },
+  "questions": [
+    {
+      "id": "verbal_errors_001",
+      "topic": "verbal",
+      "subtopic": "error_spotting",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "(solve as per the direction given above)",
+      "options": [
+        "We discussed about the problem so thoroughly",
+        "on the eve of the examination",
+        "that I found it very easy to work it out",
+        "No error."
+      ],
+      "answer": "A",
+      "explanation": "We discussed the problem so thoroughly",
+      "shortcut": "Check subject-verb agreement first, then tenses, then prepositions",
+      "formula_used": "",
+      "trap_type": "Finding one error and stopping without checking the whole sentence",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_errors_002",
+      "topic": "verbal",
+      "subtopic": "error_spotting",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "(solve as per the direction given above)",
+      "options": [
+        "An Indian ship",
+        "laden with merchandise",
+        "got drowned in the Pacific Ocean.",
+        "No error."
+      ],
+      "answer": "C",
+      "explanation": "sank in the Pacific Ocean",
+      "shortcut": "Check subject-verb agreement first, then tenses, then prepositions",
+      "formula_used": "",
+      "trap_type": "Finding one error and stopping without checking the whole sentence",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_errors_003",
+      "topic": "verbal",
+      "subtopic": "error_spotting",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "(solve as per the direction given above)",
+      "options": [
+        "I could not put up in a hotel",
+        "because the boarding and lodging charges",
+        "were exorbitant.",
+        "No error."
+      ],
+      "answer": "A",
+      "explanation": "'I could not put up at a hotel'",
+      "shortcut": "Check subject-verb agreement first, then tenses, then prepositions",
+      "formula_used": "",
+      "trap_type": "Finding one error and stopping without checking the whole sentence",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_errors_004",
+      "topic": "verbal",
+      "subtopic": "error_spotting",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "(solve as per the direction given above)",
+      "options": [
+        "The Indian radio",
+        "which was previously controlled by the British rulers",
+        "is free now from the narrow vested interests.",
+        "No error."
+      ],
+      "answer": "C",
+      "explanation": "is now free from the narrow vested interests.",
+      "shortcut": "Check subject-verb agreement first, then tenses, then prepositions",
+      "formula_used": "",
+      "trap_type": "Finding one error and stopping without checking the whole sentence",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_errors_005",
+      "topic": "verbal",
+      "subtopic": "error_spotting",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "(solve as per the direction given above)",
+      "options": [
+        "If I had known",
+        "this yesterday",
+        "I will have helped him.",
+        "No error."
+      ],
+      "answer": "C",
+      "explanation": "I would have helped him",
+      "shortcut": "Check subject-verb agreement first, then tenses, then prepositions",
+      "formula_used": "",
+      "trap_type": "Finding one error and stopping without checking the whole sentence",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_errors_006",
+      "topic": "verbal",
+      "subtopic": "error_spotting",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "(solve as per the direction given above)",
+      "options": [
+        "A lot of travel delay is caused",
+        "due to the inefficiency and lack of good management",
+        "on behalf of the railways.",
+        "No error."
+      ],
+      "answer": "C",
+      "explanation": "on the part of the railways",
+      "shortcut": "Check subject-verb agreement first, then tenses, then prepositions",
+      "formula_used": "",
+      "trap_type": "Finding one error and stopping without checking the whole sentence",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_errors_007",
+      "topic": "verbal",
+      "subtopic": "error_spotting",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "(solve as per the direction given above)",
+      "options": [
+        "One of the members",
+        "expressed doubt if",
+        "the Minister was an atheist.",
+        "No error."
+      ],
+      "answer": "B",
+      "explanation": "expressed doubt that",
+      "shortcut": "Check subject-verb agreement first, then tenses, then prepositions",
+      "formula_used": "",
+      "trap_type": "Finding one error and stopping without checking the whole sentence",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_errors_008",
+      "topic": "verbal",
+      "subtopic": "error_spotting",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "(solve as per the direction given above)",
+      "options": [
+        "I have got",
+        "my M.Sc. degree",
+        "in 1988.",
+        "No error."
+      ],
+      "answer": "A",
+      "explanation": "I got",
+      "shortcut": "Check subject-verb agreement first, then tenses, then prepositions",
+      "formula_used": "",
+      "trap_type": "Finding one error and stopping without checking the whole sentence",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_errors_009",
+      "topic": "verbal",
+      "subtopic": "error_spotting",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "(solve as per the direction given above)",
+      "options": [
+        "Having received your letter",
+        "this morning, we are writing",
+        "to thank you for the same.",
+        "No error."
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Check subject-verb agreement first, then tenses, then prepositions",
+      "formula_used": "",
+      "trap_type": "Finding one error and stopping without checking the whole sentence",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_errors_010",
+      "topic": "verbal",
+      "subtopic": "error_spotting",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "(solve as per the direction given above)",
+      "options": [
+        "If you lend him a book",
+        "he will lend it to some one else",
+        "and never you will get it back.",
+        "No error."
+      ],
+      "answer": "C",
+      "explanation": "and you will never get it back",
+      "shortcut": "Check subject-verb agreement first, then tenses, then prepositions",
+      "formula_used": "",
+      "trap_type": "Finding one error and stopping without checking the whole sentence",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_errors_011",
+      "topic": "verbal",
+      "subtopic": "error_spotting",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "(solve as per the direction given above)",
+      "options": [
+        "According to the Bible",
+        "it is meek and humble",
+        "who shall inherit the earth.",
+        "No error."
+      ],
+      "answer": "B",
+      "explanation": "it is the meek and the humble",
+      "shortcut": "Check subject-verb agreement first, then tenses, then prepositions",
+      "formula_used": "",
+      "trap_type": "Finding one error and stopping without checking the whole sentence",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_errors_012",
+      "topic": "verbal",
+      "subtopic": "error_spotting",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "(solve as per the direction given above)",
+      "options": [
+        "Do the roses in your garden smell",
+        "more sweetly",
+        "than those in ours?",
+        "No error."
+      ],
+      "answer": "B",
+      "explanation": "sweeter",
+      "shortcut": "Check subject-verb agreement first, then tenses, then prepositions",
+      "formula_used": "",
+      "trap_type": "Finding one error and stopping without checking the whole sentence",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_errors_013",
+      "topic": "verbal",
+      "subtopic": "error_spotting",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "(solve as per the direction given above)",
+      "options": [
+        "Block of Residential flats",
+        "are coming up",
+        "near our house.",
+        "No error"
+      ],
+      "answer": "A",
+      "explanation": "Blocks of Residential flats",
+      "shortcut": "Check subject-verb agreement first, then tenses, then prepositions",
+      "formula_used": "",
+      "trap_type": "Finding one error and stopping without checking the whole sentence",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_errors_014",
+      "topic": "verbal",
+      "subtopic": "error_spotting",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "(solve as per the direction given above)",
+      "options": [
+        "You can get",
+        "all the information that you want",
+        "in this book.",
+        "No error."
+      ],
+      "answer": "B",
+      "explanation": "all the information you want",
+      "shortcut": "Check subject-verb agreement first, then tenses, then prepositions",
+      "formula_used": "",
+      "trap_type": "Finding one error and stopping without checking the whole sentence",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_errors_015",
+      "topic": "verbal",
+      "subtopic": "error_spotting",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "(solve as per the direction given above)",
+      "options": [
+        "The students were",
+        "awaiting for",
+        "the arrival of the chief guest.",
+        "No error."
+      ],
+      "answer": "B",
+      "explanation": "awaiting",
+      "shortcut": "Check subject-verb agreement first, then tenses, then prepositions",
+      "formula_used": "",
+      "trap_type": "Finding one error and stopping without checking the whole sentence",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "metadata": {
+    "topic": "Quantitative Aptitude",
+    "subtopic": "clocks",
+    "total_questions": 10,
+    "sources": [
+      "IndiaBIX"
+    ],
+    "last_updated": "2026-05-17"
+  },
+  "questions": [
+    {
+      "id": "quant_clocks_001",
+      "topic": "quant",
+      "subtopic": "clocks",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "An accurate clock shows 8 o'clock in the morning. Through how may degrees will the hour hand rotate when the clock shows 2 o'clock in the afternoon?",
+      "options": [
+        "144°",
+        "150°",
+        "168°",
+        "180°"
+      ],
+      "answer": "D",
+      "explanation": "[TABLE]",
+      "shortcut": "Angle between hands = |30H - 5.5M| degrees",
+      "formula_used": "",
+      "trap_type": "Using 360/12 = 30 degrees per hour but forgetting minute hand movement",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_clocks_002",
+      "topic": "quant",
+      "subtopic": "clocks",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The reflex angle between the hands of a clock at 10.25 is:",
+      "options": [
+        "180°",
+        "[TABLE]",
+        "195°",
+        "[TABLE]"
+      ],
+      "answer": "D",
+      "explanation": "[TABLE]\n\n[TABLE]\n\n[TABLE]",
+      "shortcut": "Angle between hands = |30H - 5.5M| degrees",
+      "formula_used": "",
+      "trap_type": "Using 360/12 = 30 degrees per hour but forgetting minute hand movement",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_clocks_003",
+      "topic": "quant",
+      "subtopic": "clocks",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A clock is started at noon. By 10 minutes past 5, the hour hand has turned through:",
+      "options": [
+        "145°",
+        "150°",
+        "155°",
+        "160°"
+      ],
+      "answer": "C",
+      "explanation": "Angle traced by hour hand in 12 hrs = 360°.\n\n[TABLE]",
+      "shortcut": "Angle between hands = |30H - 5.5M| degrees",
+      "formula_used": "",
+      "trap_type": "Using 360/12 = 30 degrees per hour but forgetting minute hand movement",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_clocks_004",
+      "topic": "quant",
+      "subtopic": "clocks",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A watch which gains 5 seconds in 3 minutes was set right at 7 a.m. In the afternoon of the same day, when the watch indicated quarter past 4 o'clock, the true time is:",
+      "options": [
+        "[TABLE]",
+        "4 p.m.",
+        "[TABLE]",
+        "[TABLE]"
+      ],
+      "answer": "B",
+      "explanation": "[TABLE]\n\n3 min. 5 sec. of this clock = 3 min. of the correct clock.\n\n[TABLE]\n\n[TABLE]\n\n = 9 hrs of the correct clock.\n\n The correct time is 9 hrs after 7 a.m. i.e., 4 p.m.",
+      "shortcut": "Angle between hands = |30H - 5.5M| degrees",
+      "formula_used": "",
+      "trap_type": "Using 360/12 = 30 degrees per hour but forgetting minute hand movement",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_clocks_005",
+      "topic": "quant",
+      "subtopic": "clocks",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "How much does a watch lose per day, if its hands coincide every 64 minutes?",
+      "options": [
+        "[TABLE]",
+        "[TABLE]",
+        "90 min.",
+        "96 min."
+      ],
+      "answer": "A",
+      "explanation": "55 min. spaces are covered in 60 min.\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]",
+      "shortcut": "Angle between hands = |30H - 5.5M| degrees",
+      "formula_used": "",
+      "trap_type": "Using 360/12 = 30 degrees per hour but forgetting minute hand movement",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_clocks_006",
+      "topic": "quant",
+      "subtopic": "clocks",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "At what time between 7 and 8 o'clock will the hands of a clock be in the same straight line but, not together?",
+      "options": [
+        "5 min. past 7",
+        "[TABLE]",
+        "[TABLE]",
+        "[TABLE]"
+      ],
+      "answer": "D",
+      "explanation": "When the hands of the clock are in the same straight line but not together, they are 30 minute spaces apart.\n\nAt 7 o'clock, they are 25 min. spaces apart.\n\n Minute hand will have to gain only 5 min. spaces.\n\n55 min. spaces are gained in 60 min.\n\n[TABLE]\n\n[TABLE]",
+      "shortcut": "Angle between hands = |30H - 5.5M| degrees",
+      "formula_used": "",
+      "trap_type": "Using 360/12 = 30 degrees per hour but forgetting minute hand movement",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_clocks_007",
+      "topic": "quant",
+      "subtopic": "clocks",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "At what time between 5.30 and 6 will the hands of a clock be at right angles?",
+      "options": [
+        "[TABLE]",
+        "[TABLE]",
+        "40 min. past 5",
+        "45 min. past 5"
+      ],
+      "answer": "B",
+      "explanation": "At 5 o'clock, the hands are 25 min. spaces apart.\n\nTo be at right angles and that too between 5.30 and 6, the minute hand has to gain (25 + 15) = 40 min. spaces.\n\n55 min. spaces are gained in 60 min.\n\n[TABLE]\n\n[TABLE]",
+      "shortcut": "Angle between hands = |30H - 5.5M| degrees",
+      "formula_used": "",
+      "trap_type": "Using 360/12 = 30 degrees per hour but forgetting minute hand movement",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_clocks_008",
+      "topic": "quant",
+      "subtopic": "clocks",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The angle between the minute hand and the hour hand of a clock when the time is 4.20, is:",
+      "options": [
+        "0°",
+        "10°",
+        "5°",
+        "20°"
+      ],
+      "answer": "B",
+      "explanation": "[TABLE]\n\n[TABLE]\n\n Required angle = (130 - 120)° = 10°.",
+      "shortcut": "Angle between hands = |30H - 5.5M| degrees",
+      "formula_used": "",
+      "trap_type": "Using 360/12 = 30 degrees per hour but forgetting minute hand movement",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_clocks_009",
+      "topic": "quant",
+      "subtopic": "clocks",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "At what angle the hands of a clock are inclined at 15 minutes past 5?",
+      "options": [
+        "[TABLE]",
+        "64°",
+        "[TABLE]",
+        "[TABLE]"
+      ],
+      "answer": "C",
+      "explanation": "[TABLE]\n\n[TABLE]\n\n[TABLE]",
+      "shortcut": "Angle between hands = |30H - 5.5M| degrees",
+      "formula_used": "",
+      "trap_type": "Using 360/12 = 30 degrees per hour but forgetting minute hand movement",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_clocks_010",
+      "topic": "quant",
+      "subtopic": "clocks",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "At 3:40, the hour hand and the minute hand of a clock form an angle of:",
+      "options": [
+        "120°",
+        "125°",
+        "130°",
+        "135°"
+      ],
+      "answer": "C",
+      "explanation": "Angle traced by hour hand in 12 hrs. = 360°.\n\n[TABLE]\n\nAngle traced by minute hand in 60 min. = 360°.\n\n[TABLE]\n\n Required angle (240 - 110)° = 130°.",
+      "shortcut": "Angle between hands = |30H - 5.5M| degrees",
+      "formula_used": "",
+      "trap_type": "Using 360/12 = 30 degrees per hour but forgetting minute hand movement",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    }
+  ]
+}

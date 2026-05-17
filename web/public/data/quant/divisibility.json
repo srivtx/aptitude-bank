@@ -1,0 +1,285 @@
+{
+  "metadata": {
+    "topic": "Quantitative Aptitude",
+    "subtopic": "divisibility",
+    "total_questions": 10,
+    "sources": [
+      "IndiaBIX"
+    ],
+    "last_updated": "2026-05-17"
+  },
+  "questions": [
+    {
+      "id": "quant_divisi_001",
+      "topic": "quant",
+      "subtopic": "divisibility",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A man has Rs.480 in the denominations of one-rupee notes, five-rupee notes and ten-rupee notes. The number of notes of each denomination is equal. What is the total number of notes that he has ?",
+      "options": [
+        "45",
+        "60",
+        "75",
+        "90"
+      ],
+      "answer": "D",
+      "explanation": "Let number of notes of each denomination be x.\n\nThen x + 5x + 10x = 480\n\n 16x = 480\n\n x = 30.\n\nHence, total number of notes = 3x = 90.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_divisi_002",
+      "topic": "quant",
+      "subtopic": "divisibility",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "There are two examinations rooms A and B. If 10 students are sent from A to B, then the number of students in each room is the same. If 20 candidates are sent from B to A, then the number of students in A is double the number of students in B. The number of students in room A is:",
+      "options": [
+        "20",
+        "80",
+        "100",
+        "200"
+      ],
+      "answer": "C",
+      "explanation": "Let the number of students in rooms A and B be x and y respectively.\n\nThen, x - 10 = y + 10 x - y = 20 .... (i)\n\n and x + 20 = 2(y - 20) x - 2y = -60 .... (ii)\n\nSolving (i) and (ii) we get: x = 100 , y = 80.\n\n The required answer A = 100.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_divisi_003",
+      "topic": "quant",
+      "subtopic": "divisibility",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The price of 10 chairs is equal to that of 4 tables. The price of 15 chairs and 2 tables together is Rs. 4000. The total price of 12 chairs and 3 tables is:",
+      "options": [
+        "Rs. 3500",
+        "Rs. 3750",
+        "Rs. 3840",
+        "Rs. 3900"
+      ],
+      "answer": "D",
+      "explanation": "Let the cost of a chair and that of a table be Rs. x and Rs. y respectively.\n\n[TABLE]\n\n 15x + 2y = 4000\n\n[TABLE]\n\n 20x = 4000\n\n x = 200.\n\n[TABLE]\n\nHence, the cost of 12 chairs and 3 tables = 12x + 3y\n\n = Rs. (2400 + 1500)\n\n = Rs. 3900.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_divisi_004",
+      "topic": "quant",
+      "subtopic": "divisibility",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If a - b = 3 and a^2 + b^2 = 29, find the value of ab.",
+      "options": [
+        "10",
+        "12",
+        "15",
+        "18"
+      ],
+      "answer": "A",
+      "explanation": "2ab = (a^2 + b^2) - (a - b)^2\n\n = 29 - 9 = 20\n\n ab = 10.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_divisi_005",
+      "topic": "quant",
+      "subtopic": "divisibility",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The price of 2 sarees and 4 shirts is Rs. 1600. With the same money one can buy 1 saree and 6 shirts. If one wants to buy 12 shirts, how much shall he have to pay ?",
+      "options": [
+        "Rs. 1200",
+        "Rs. 2400",
+        "Rs. 4800",
+        "Cannot be determined",
+        "None of these"
+      ],
+      "answer": "B",
+      "explanation": "Let the price of a saree and a shirt be Rs. x and Rs. y respectively.\n\nThen, 2x + 4y = 1600 .... (i)\n\n and x + 6y = 1600 .... (ii)\n\nDivide equation (i) by 2, we get the below equation. \n\n=> x + 2y = 800. --- (iii)\n\nNow subtract (iii) from (ii)\n\n x + 6y = 1600 (-)\n x + 2y = 800 \n----------------\n 4y = 800\n----------------\n\nTherefore, y = 200.\n\nNow apply value of y in (iii)\n\n=> x + 2 x 200 = 800\n\n=> x + 400 = 800\n\nTherefore x = 400\n\nSolving (i) and (ii) we get x = 400, y = 200.\n\n Cost of 12 shirts = Rs. (12 x 200) = Rs. 2400.",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_divisi_006",
+      "topic": "quant",
+      "subtopic": "divisibility",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A sum of Rs. 1360 has been divided among A, B and C such that A gets of what B gets and B gets of what C gets. B's share is:",
+      "options": [
+        "Rs. 120",
+        "Rs. 160",
+        "Rs. 240",
+        "Rs. 300"
+      ],
+      "answer": "C",
+      "explanation": "Let C's share = Rs. x\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_divisi_007",
+      "topic": "quant",
+      "subtopic": "divisibility",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "One-third of Rahul's savings in National Savings Certificate is equal to one-half of his savings in Public Provident Fund. If he has Rs. 1,50,000 as total savings, how much has he saved in Public Provident Fund ?",
+      "options": [
+        "Rs. 30,000",
+        "Rs. 50,000",
+        "Rs. 60,000",
+        "Rs. 90,000"
+      ],
+      "answer": "C",
+      "explanation": "Let savings in N.S.C and P.P.F. be Rs. x and Rs. (150000 - x) respectively. Then,\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n Savings in Public Provident Fund = Rs. (150000 - 90000) = Rs. 60000",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_divisi_008",
+      "topic": "quant",
+      "subtopic": "divisibility",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A fires 5 shots to B's 3 but A kills only once in 3 shots while B kills once in 2 shots. When B has missed 27 times, A has killed:",
+      "options": [
+        "30 birds",
+        "60 birds",
+        "72 birds",
+        "90 birds"
+      ],
+      "answer": "A",
+      "explanation": "Let the total number of shots be x. Then,\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_divisi_009",
+      "topic": "quant",
+      "subtopic": "divisibility",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Eight people are planning to share equally the cost of a rental car. If one person withdraws from the arrangement and the others share equally the entire cost of the car, then the share of each of the remaining persons increased by:",
+      "options": [
+        "[TABLE]",
+        "[TABLE]",
+        "[TABLE]",
+        "[TABLE]"
+      ],
+      "answer": "A",
+      "explanation": "[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_divisi_010",
+      "topic": "quant",
+      "subtopic": "divisibility",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "To fill a tank, 25 buckets of water is required. How many buckets of water will be required to fill the same tank if the capacity of the bucket is reduced to two-fifth of its present ?",
+      "options": [
+        "10",
+        "35",
+        "62.5",
+        "Cannot be determined",
+        "None of these"
+      ],
+      "answer": "C",
+      "explanation": "Let the capacity of 1 bucket = x.\n\nThen, the capacity of tank = 25x.\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n= 62.5",
+      "shortcut": "",
+      "formula_used": "",
+      "trap_type": "Common calculation or reading errors",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    }
+  ]
+}
