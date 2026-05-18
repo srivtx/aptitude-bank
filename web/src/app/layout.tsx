@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Placement Aptitude Research Bank",
-  description: "Research-first question collection for Indian placement exams",
+  title: "Aptitude Bank",
+  description: "Research-first placement preparation",
 };
 
 export default function RootLayout({
@@ -25,40 +25,33 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased min-h-screen`}
-      >
-        <header className="sticky top-0 z-50 border-b border-[var(--border)] bg-[var(--surface)]">
-          <div className="max-w-6xl mx-auto px-4 py-4">
-            <div className="flex items-center justify-between">
-              <Link href="/" scroll={false} className="text-xl font-bold text-[var(--foreground)] hover:text-[var(--accent)] transition-colors">
-                Aptitude Bank
+      <body className={`${geistSans.variable} ${geistMono.variable} antialiased min-h-screen`}>
+        <header className="sticky top-0 z-50 border-b border-[var(--border)] bg-[var(--background)]">
+          <div className="max-w-5xl mx-auto px-6 h-14 flex items-center justify-between">
+            <Link href="/" scroll={false} className="text-sm font-medium tracking-tight hover:opacity-70 transition-opacity">
+              Aptitude Bank
+            </Link>
+            <nav className="flex gap-6 text-sm">
+              <Link href="/" scroll={false} className="text-[var(--text-secondary)] hover:text-[var(--foreground)] transition-colors">
+                Topics
               </Link>
-              <nav className="flex gap-6 text-sm">
-                <Link href="/" scroll={false} className="text-[var(--text-secondary)] hover:text-[var(--accent)] transition-colors">
-                  Topics
-                </Link>
-                <Link href="/roadmap" scroll={false} className="text-[var(--text-secondary)] hover:text-[var(--accent)] transition-colors">
-                  Roadmap
-                </Link>
-                <Link href="/mock" scroll={false} className="text-[var(--text-secondary)] hover:text-[var(--accent)] transition-colors">
-                  Mock Tests
-                </Link>
-                <Link href="/bank" scroll={false} className="text-[var(--text-secondary)] hover:text-[var(--accent)] transition-colors">
-                  Bank
-                </Link>
-                <Link href="/patterns" scroll={false} className="text-[var(--text-secondary)] hover:text-[var(--accent)] transition-colors">
-                  Patterns
-                </Link>
-              </nav>
-            </div>
+              <Link href="/roadmap" scroll={false} className="text-[var(--text-secondary)] hover:text-[var(--foreground)] transition-colors">
+                Roadmap
+              </Link>
+              <Link href="/mock" scroll={false} className="text-[var(--text-secondary)] hover:text-[var(--foreground)] transition-colors">
+                Mock Tests
+              </Link>
+              <Link href="/bank" scroll={false} className="text-[var(--text-secondary)] hover:text-[var(--foreground)] transition-colors">
+                Bank
+              </Link>
+            </nav>
           </div>
         </header>
-        <main className="max-w-6xl mx-auto px-4 py-6">
+        <main className="max-w-5xl mx-auto px-6 py-10">
           {children}
         </main>
-        <footer className="border-t border-[var(--border)] mt-12 py-6 text-center text-sm text-[var(--text-muted)]">
-          <p>Research-first placement preparation. Data from IndiaBIX, PrepInsta, GeeksforGeeks.</p>
+        <footer className="border-t border-[var(--border)] mt-20 py-8 text-center text-xs text-[var(--text-muted)]">
+          <p>Research-first placement preparation</p>
         </footer>
       </body>
     </html>

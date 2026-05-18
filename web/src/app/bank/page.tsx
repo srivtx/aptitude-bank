@@ -36,25 +36,25 @@ export default function BankPage() {
 
   return (
     <div>
-      <div className="mb-6">
-        <h1 className="text-2xl font-bold mb-2">Question Bank</h1>
-        <p className="text-[var(--text-secondary)]">
+      <div className="mb-8">
+        <h1 className="text-2xl font-semibold tracking-tight mb-2">Question Bank</h1>
+        <p className="text-[var(--text-secondary)] text-sm">
           {filtered.length} of {allQuestions.length} questions
         </p>
       </div>
 
-      <div className="flex flex-wrap gap-3 mb-6 p-4 rounded-lg bg-[var(--surface)] border border-[var(--border)]">
+      <div className="flex flex-wrap gap-3 mb-8 p-4 border border-[var(--border)] bg-[var(--surface)]">
         <input
           type="text"
           value={search}
           onChange={(e) => setSearch(e.target.value)}
           placeholder="Search questions..."
-          className="flex-1 min-w-[200px] px-4 py-2 rounded-lg bg-[var(--background)] border border-[var(--border)] text-sm focus:outline-none focus:border-[var(--accent)]"
+          className="flex-1 min-w-[200px] px-4 py-2 bg-[var(--background)] border border-[var(--border)] text-sm focus:outline-none focus:border-[var(--foreground)]"
         />
         <select
           value={categoryFilter}
           onChange={(e) => setCategoryFilter(e.target.value)}
-          className="px-3 py-2 rounded-lg bg-[var(--background)] border border-[var(--border)] text-sm focus:outline-none focus:border-[var(--accent)]"
+          className="px-3 py-2 bg-[var(--background)] border border-[var(--border)] text-sm focus:outline-none focus:border-[var(--foreground)]"
         >
           <option value="all">All Categories</option>
           <option value="quant">Quant</option>
@@ -64,7 +64,7 @@ export default function BankPage() {
         <select
           value={difficultyFilter}
           onChange={(e) => setDifficultyFilter(e.target.value)}
-          className="px-3 py-2 rounded-lg bg-[var(--background)] border border-[var(--border)] text-sm focus:outline-none focus:border-[var(--accent)]"
+          className="px-3 py-2 bg-[var(--background)] border border-[var(--border)] text-sm focus:outline-none focus:border-[var(--foreground)]"
         >
           <option value="all">All Difficulties</option>
           <option value="easy">Easy</option>
@@ -73,47 +73,26 @@ export default function BankPage() {
         </select>
       </div>
 
-      <div className="space-y-3">
-        {filtered.slice(0, 100).map((q) => (
-          <div
-            key={q.id}
-            className="p-4 rounded-lg bg-[var(--surface)] border border-[var(--border)] hover:border-[var(--accent)] transition-colors cursor-pointer"
-          >
-            <div className="flex items-start justify-between mb-2">
-              <p className="text-sm font-medium flex-1 mr-4">
-                {q.question.substring(0, 120)}{q.question.length > 120 ? '...' : ''}
-              </p>
-              <span className={`flex-shrink-0 text-xs px-2 py-0.5 rounded-full ${
-                q.difficulty === 'easy' ? 'bg-green-500/20 text-green-400' :
-                q.difficulty === 'medium' ? 'bg-yellow-500/20 text-yellow-400' :
-                'bg-red-500/20 text-red-400'
-              }`}>
-                {q.difficulty}
-              </span>
+      {loading ? (
+        <div className="text-center py-20 text-[var(--text-secondary)]">Loading questions...</div>
+      ) : (
+        <div className="space-y-[1px] bg-[var(--border)]">
+          {filtered.map((q) => (
+            <div key={q.id} className="p-5 bg-[var(--background)] hover:bg-[var(--surface)] transition-colors">
+              <div className="flex items-start justify-between mb-2">
+                <span className="text-xs font-mono text-[var(--text-muted)]">{q.id}</span>
+                <div className="flex gap-2 text-xs text-[var(--text-muted)]">
+                  <span className="uppercase tracking-wider">{q.topic}</span>
+                  <span>{q.difficulty}</span>
+                </div>
+              </div>
+              <p className="text-[var(--text-secondary)] text-sm leading-relaxed mb-2">{q.question.substring(0, 200)}{q.question.length > 200 ? '...' : ''}</p>
+              <div className="text-xs text-[var(--text-muted)]">
+                Answer: {q.answer} | {q.company_tags.slice(0, 3).join(', ')}
+              </div>
             </div>
-            <div className="flex items-center gap-3 text-xs text-[var(--text-muted)]">
-              <span>{q.subtopic.replace(/_/g, ' ')}</span>
-              <span>|</span>
-              <span>{q.topic}</span>
-              <span>|</span>
-              <span className="font-mono">{q.id}</span>
-            </div>
-          </div>
-        ))}
-      </div>
-
-      {filtered.length > 100 && (
-        <p className="text-center text-sm text-[var(--text-muted)] mt-4">
-          Showing first 100 of {filtered.length} results. Refine your search.
-        </p>
-      )}
-
-      {filtered.length === 0 && !loading && (
-        <p className="text-center text-[var(--text-secondary)] py-12">No questions match your filters.</p>
-      )}
-
-      {loading && (
-        <p className="text-center text-[var(--text-secondary)] py-12">Loading questions...</p>
+          ))}
+        </div>
       )}
     </div>
   );

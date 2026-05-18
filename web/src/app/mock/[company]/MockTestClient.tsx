@@ -46,7 +46,6 @@ export default function MockTestClient({ config }: { config: MockConfig }) {
   const timerRef = useRef<NodeJS.Timeout | null>(null);
   const qStartTimeRef = useRef<number>(0);
 
-  // Load questions
   const loadQuestions = useCallback(async () => {
     setPhase("loading");
     setError("");
@@ -59,13 +58,11 @@ export default function MockTestClient({ config }: { config: MockConfig }) {
         const section = config.sections[sIdx];
         const sectionQuestions: RawQuestion[] = [];
 
-        // Load all topic pools for this section
         for (const pool of section.topicPool) {
           const res = await fetch(`/data/${pool.category}/${pool.subtopic}.json`);
           if (!res.ok) continue;
           const data = await res.json();
           if (data.questions && Array.isArray(data.questions)) {
-            // Add weight copies
             for (let w = 0; w < pool.weight; w++) {
               sectionQuestions.push(...data.questions.map((q: any) => ({
                 ...q,
@@ -75,7 +72,6 @@ export default function MockTestClient({ config }: { config: MockConfig }) {
           }
         }
 
-        // Shuffle and pick
         const shuffled = shuffleArray([...sectionQuestions]);
         const picked = shuffled.slice(0, section.questionCount);
 
@@ -106,10 +102,8 @@ export default function MockTestClient({ config }: { config: MockConfig }) {
     }
   }, [config]);
 
-  // Timer
   useEffect(() => {
     if (!isRunning || phase !== "test") return;
-
     timerRef.current = setInterval(() => {
       setTimeLeft((prev) => {
         if (prev <= 1) {
@@ -121,13 +115,11 @@ export default function MockTestClient({ config }: { config: MockConfig }) {
         return prev - 1;
       });
     }, 1000);
-
     return () => {
       if (timerRef.current) clearInterval(timerRef.current);
     };
   }, [isRunning, phase]);
 
-  // Track time per question
   useEffect(() => {
     if (phase === "test" && isRunning) {
       qStartTimeRef.current = Date.now();
@@ -181,8 +173,6 @@ export default function MockTestClient({ config }: { config: MockConfig }) {
 
   const goToQuestion = (idx: number) => {
     if (idx < 0 || idx >= questions.length) return;
-
-    // Update time spent on current question
     setAnswers((prev) => {
       const next = [...prev];
       const now = Date.now();
@@ -192,11 +182,8 @@ export default function MockTestClient({ config }: { config: MockConfig }) {
       };
       return next;
     });
-
     const newSection = getSectionForIndex(idx);
-    if (!config.allowsSwitching && newSection < activeSection) {
-      return; // Cant go back to previous section
-    }
+    if (!config.allowsSwitching && newSection < activeSection) return;
     setActiveSection(newSection);
     setCurrentQIndex(idx);
   };
@@ -210,7 +197,6 @@ export default function MockTestClient({ config }: { config: MockConfig }) {
     setPhase("results");
   };
 
-  // Results calculation
   const getResults = () => {
     let totalCorrect = 0;
     let totalAnswered = 0;
@@ -242,79 +228,59 @@ export default function MockTestClient({ config }: { config: MockConfig }) {
     const accuracy = totalAnswered > 0 ? Math.round((totalCorrect / totalAnswered) * 100) : 0;
     const score = totalCorrect;
 
-    return {
-      totalCorrect,
-      totalAnswered,
-      totalMarked,
-      accuracy,
-      score,
-      totalTime,
-      sectionResults,
-    };
+    return { totalCorrect, totalAnswered, totalMarked, accuracy, score, totalTime, sectionResults };
   };
 
   const currentQ = questions[currentQIndex];
   const currentAns = answers[currentQIndex];
 
-  // Intro screen
   if (phase === "intro") {
     return (
       <div className="max-w-2xl mx-auto text-center">
-        <h1 className="text-3xl font-bold mb-2">{config.name}</h1>
-        <p className="text-[var(--text-secondary)] mb-8">{config.description}</p>
+        <h1 className="text-3xl font-semibold tracking-tight mb-2">{config.name}</h1>
+        <p className="text-[var(--text-secondary)] mb-10">{config.description}</p>
 
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-3 mb-8">
-          <div className="p-4 rounded-xl bg-[var(--surface)] border border-[var(--border)]">
-            <div className="text-2xl font-bold">{config.totalQuestions}</div>
-            <div className="text-xs text-[var(--text-muted)]">Questions</div>
-          </div>
-          <div className="p-4 rounded-xl bg-[var(--surface)] border border-[var(--border)]">
-            <div className="text-2xl font-bold">{config.totalMinutes}</div>
-            <div className="text-xs text-[var(--text-muted)]">Minutes</div>
-          </div>
-          <div className="p-4 rounded-xl bg-[var(--surface)] border border-[var(--border)]">
-            <div className="text-2xl font-bold">{config.sections.length}</div>
-            <div className="text-xs text-[var(--text-muted)]">Sections</div>
-          </div>
-          <div className="p-4 rounded-xl bg-[var(--surface)] border border-[var(--border)]">
-            <div className="text-2xl font-bold">{config.negativeMarking ? "Yes" : "No"}</div>
-            <div className="text-xs text-[var(--text-muted)]">Negative Marking</div>
-          </div>
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-[1px] bg-[var(--border)] mb-10">
+          {[
+            { label: "Questions", value: config.totalQuestions },
+            { label: "Minutes", value: config.totalMinutes },
+            { label: "Sections", value: config.sections.length },
+            { label: "Negative", value: config.negativeMarking ? "Yes" : "No" },
+          ].map((item) => (
+            <div key={item.label} className="p-5 bg-[var(--surface)]">
+              <div className="text-2xl font-semibold">{item.value}</div>
+              <div className="text-xs text-[var(--text-muted)] uppercase tracking-wider mt-1">{item.label}</div>
+            </div>
+          ))}
         </div>
 
         {error && (
-          <div className="mb-4 p-3 rounded-lg bg-[var(--error)]/10 text-[var(--error)] text-sm">
+          <div className="mb-6 p-4 border border-[var(--error)] text-[var(--error)] text-sm">
             {error}
           </div>
         )}
 
-        <div className="mb-8 text-left p-5 rounded-xl bg-[var(--surface)] border border-[var(--border)]">
-          <h3 className="font-semibold mb-3">Instructions</h3>
-          <ul className="text-sm text-[var(--text-secondary)] space-y-2 list-disc list-inside">
+        <div className="mb-10 text-left p-6 border border-[var(--border)] bg-[var(--surface)]">
+          <h3 className="text-sm font-medium uppercase tracking-wider text-[var(--text-muted)] mb-4">Instructions</h3>
+          <ul className="text-sm text-[var(--text-secondary)] space-y-2">
             <li>Timer starts when you begin the test</li>
             <li>Each question has exactly one correct answer</li>
             {!config.allowsSwitching && (
-              <li className="text-[var(--warning)]">
-                Section switching is NOT allowed. Once you move to next section, you cannot return.
-              </li>
+              <li className="text-[var(--warning)]">Section switching is NOT allowed</li>
             )}
             <li>Test auto-submits when timer ends</li>
-            <li>Use Mark for Review to flag questions for later review</li>
-            <li>Questions are randomly selected from our bank each attempt</li>
+            <li>Use Mark for Review to flag questions</li>
           </ul>
         </div>
 
         <div className="flex gap-3 justify-center">
           <button
             onClick={loadQuestions}
-            className="px-8 py-3 rounded-lg bg-[var(--accent)] text-white font-medium hover:bg-[var(--accent-hover)] transition-colors"
+            className="px-8 py-2.5 border border-[var(--foreground)] text-[var(--foreground)] text-sm font-medium hover:bg-[var(--foreground)] hover:text-[var(--background)] transition-colors"
           >
             Start Mock Test
           </button>
-          <Link
-            href="/mock"
-            className="px-8 py-3 rounded-lg border border-[var(--border)] hover:bg-[var(--surface-hover)] transition-colors"
-          >
+          <Link href="/mock" className="px-8 py-2.5 border border-[var(--border)] text-sm hover:border-[var(--foreground)] transition-colors">
             Back
           </Link>
         </div>
@@ -322,17 +288,15 @@ export default function MockTestClient({ config }: { config: MockConfig }) {
     );
   }
 
-  // Loading screen
   if (phase === "loading") {
     return (
       <div className="text-center py-20">
-        <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-[var(--accent)] mx-auto mb-4"></div>
-        <p className="text-[var(--text-secondary)]">Preparing your mock test...</p>
+        <div className="animate-spin h-8 w-8 border-b-2 border-[var(--foreground)] mx-auto mb-4"></div>
+        <p className="text-[var(--text-secondary)] text-sm">Preparing your mock test...</p>
       </div>
     );
   }
 
-  // Results screen
   if (phase === "results") {
     const results = getResults();
     const minutes = Math.floor(results.totalTime / 60);
@@ -340,72 +304,55 @@ export default function MockTestClient({ config }: { config: MockConfig }) {
 
     return (
       <div className="max-w-3xl mx-auto">
-        <div className="text-center mb-8">
-          <h1 className="text-3xl font-bold mb-2">Mock Test Results</h1>
+        <div className="text-center mb-10">
+          <h1 className="text-3xl font-semibold tracking-tight mb-2">Mock Test Results</h1>
           <p className="text-[var(--text-secondary)]">{config.name}</p>
         </div>
 
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-3 mb-6">
-          <div className="p-5 rounded-xl bg-[var(--surface)] border border-[var(--border)] text-center">
-            <div className="text-3xl font-bold text-[var(--accent)]">{results.score}</div>
-            <div className="text-xs text-[var(--text-muted)] mt-1">Score</div>
-            <div className="text-xs text-[var(--text-muted)]">/{config.totalQuestions}</div>
-          </div>
-          <div className="p-5 rounded-xl bg-[var(--surface)] border border-[var(--border)] text-center">
-            <div className="text-3xl font-bold text-[var(--success)]">{results.accuracy}%</div>
-            <div className="text-xs text-[var(--text-muted)] mt-1">Accuracy</div>
-          </div>
-          <div className="p-5 rounded-xl bg-[var(--surface)] border border-[var(--border)] text-center">
-            <div className="text-3xl font-bold">{results.totalAnswered}</div>
-            <div className="text-xs text-[var(--text-muted)] mt-1">Attempted</div>
-          </div>
-          <div className="p-5 rounded-xl bg-[var(--surface)] border border-[var(--border)] text-center">
-            <div className="text-3xl font-bold">{minutes}:{seconds.toString().padStart(2, "0")}</div>
-            <div className="text-xs text-[var(--text-muted)] mt-1">Time Taken</div>
-          </div>
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-[1px] bg-[var(--border)] mb-10">
+          {[
+            { label: "Score", value: `${results.score}/${config.totalQuestions}` },
+            { label: "Accuracy", value: `${results.accuracy}%` },
+            { label: "Attempted", value: results.totalAnswered },
+            { label: "Time", value: `${minutes}:${seconds.toString().padStart(2, "0")}` },
+          ].map((item) => (
+            <div key={item.label} className="p-6 bg-[var(--surface)] text-center">
+              <div className="text-2xl font-semibold">{item.value}</div>
+              <div className="text-xs text-[var(--text-muted)] uppercase tracking-wider mt-1">{item.label}</div>
+            </div>
+          ))}
         </div>
 
-        {/* Section breakdown */}
-        <div className="mb-6">
-          <h3 className="font-semibold mb-3">Section Performance</h3>
+        <div className="mb-10">
+          <h3 className="text-sm font-medium uppercase tracking-wider text-[var(--text-muted)] mb-4">Section Performance</h3>
           <div className="space-y-2">
             {results.sectionResults.map((sec, idx) => {
               const pct = sec.total > 0 ? Math.round((sec.correct / sec.total) * 100) : 0;
               return (
-                <div key={idx} className="p-4 rounded-xl bg-[var(--surface)] border border-[var(--border)]">
-                  <div className="flex justify-between items-center mb-2">
+                <div key={idx} className="p-4 border border-[var(--border)] bg-[var(--surface)]">
+                  <div className="flex justify-between items-center mb-3">
                     <span className="font-medium">{sec.name}</span>
-                    <span className="text-sm text-[var(--text-secondary)]">
-                      {sec.correct}/{sec.total} correct ({pct}%)
-                    </span>
+                    <span className="text-sm text-[var(--text-secondary)]">{sec.correct}/{sec.total} ({pct}%)</span>
                   </div>
-                  <div className="h-2 rounded-full bg-[var(--background)] overflow-hidden">
-                    <div
-                      className="h-full rounded-full transition-all bg-[var(--accent)]"
-                      style={{ width: `${pct}%` }}
-                    />
+                  <div className="h-1 bg-[var(--background)]">
+                    <div className="h-full bg-[var(--foreground)] transition-all" style={{ width: `${pct}%` }} />
                   </div>
-                  <div className="text-xs text-[var(--text-muted)] mt-1">
-                    {sec.answered} of {sec.total} attempted
-                  </div>
+                  <div className="text-xs text-[var(--text-muted)] mt-2">{sec.answered} of {sec.total} attempted</div>
                 </div>
               );
             })}
           </div>
         </div>
 
-        {/* Weak areas */}
         {results.accuracy < 70 && (
-          <div className="p-5 rounded-xl bg-[var(--error)]/5 border border-[var(--error)]/20 mb-6">
-            <h3 className="font-semibold mb-2 text-[var(--error)]">Focus Areas</h3>
-            <p className="text-sm text-[var(--text-secondary)]">
-              Based on this mock, consider practicing these topics:
-            </p>
-            <div className="mt-2 flex flex-wrap gap-2">
+          <div className="p-5 border border-[var(--error)] mb-10">
+            <h3 className="text-sm font-medium uppercase tracking-wider text-[var(--error)] mb-2">Focus Areas</h3>
+            <p className="text-sm text-[var(--text-secondary)] mb-3">Based on this mock, consider practicing:</p>
+            <div className="flex flex-wrap gap-2">
               {results.sectionResults
                 .filter((s) => s.total > 0 && (s.correct / s.total) < 0.6)
                 .map((s) => (
-                  <span key={s.id} className="text-xs px-2 py-1 rounded-full bg-[var(--error)]/10 text-[var(--error)]">
+                  <span key={s.id} className="text-xs px-2 py-1 border border-[var(--error)] text-[var(--error)]">
                     {s.name}
                   </span>
                 ))}
@@ -415,33 +362,19 @@ export default function MockTestClient({ config }: { config: MockConfig }) {
 
         <div className="flex gap-3 justify-center">
           <button
-            onClick={() => {
-              setPhase("intro");
-              setQuestions([]);
-              setAnswers([]);
-            }}
-            className="px-8 py-3 rounded-lg bg-[var(--accent)] text-white font-medium hover:bg-[var(--accent-hover)] transition-colors"
+            onClick={() => { setPhase("intro"); setQuestions([]); setAnswers([]); }}
+            className="px-8 py-2.5 border border-[var(--foreground)] text-[var(--foreground)] text-sm font-medium hover:bg-[var(--foreground)] hover:text-[var(--background)] transition-colors"
           >
             Retake Mock
           </button>
-          <Link
-            href="/mock"
-            className="px-8 py-3 rounded-lg border border-[var(--border)] hover:bg-[var(--surface-hover)] transition-colors"
-          >
+          <Link href="/mock" className="px-8 py-2.5 border border-[var(--border)] text-sm hover:border-[var(--foreground)] transition-colors">
             All Mocks
-          </Link>
-          <Link
-            href="/"
-            className="px-8 py-3 rounded-lg border border-[var(--border)] hover:bg-[var(--surface-hover)] transition-colors"
-          >
-            Home
           </Link>
         </div>
       </div>
     );
   }
 
-  // Test screen
   if (!currentQ) return null;
 
   const currentSectionIdx = getSectionForIndex(currentQIndex);
@@ -453,35 +386,26 @@ export default function MockTestClient({ config }: { config: MockConfig }) {
 
   return (
     <div className="flex flex-col h-[calc(100vh-120px)]">
-      {/* Top bar */}
-      <div className="flex items-center justify-between p-3 rounded-xl bg-[var(--surface)] border border-[var(--border)] mb-3">
+      <div className="flex items-center justify-between p-4 border border-[var(--border)] bg-[var(--surface)] mb-4">
         <div className="flex items-center gap-4">
-          <span className="text-lg font-bold">{config.name}</span>
-          <span className="text-sm text-[var(--text-muted)]">
-            Q{currentQIndex + 1} / {questions.length}
-          </span>
+          <span className="text-sm font-medium">{config.name}</span>
+          <span className="text-sm text-[var(--text-muted)]">Q{currentQIndex + 1} / {questions.length}</span>
         </div>
         <div className="flex items-center gap-4">
-          <div className={`text-2xl font-mono font-bold ${timeLeft < 300 ? "text-[var(--error)] animate-pulse" : ""}`}>
+          <div className={`text-xl font-mono font-medium ${timeLeft < 300 ? "text-[var(--error)]" : ""}`}>
             {formatTime(timeLeft)}
           </div>
-          <button
-            onClick={submitTest}
-            className="px-4 py-2 rounded-lg bg-[var(--error)]/10 text-[var(--error)] text-sm font-medium hover:bg-[var(--error)]/20 transition-colors"
-          >
+          <button onClick={submitTest} className="px-4 py-1.5 border border-[var(--error)] text-[var(--error)] text-xs hover:bg-[var(--error)] hover:text-[var(--background)] transition-colors">
             Submit
           </button>
         </div>
       </div>
 
-      {/* Section tabs */}
       {config.sections.length > 1 && (
-        <div className="flex gap-1 mb-3 overflow-x-auto">
+        <div className="flex gap-[1px] mb-4 overflow-x-auto bg-[var(--border)]">
           {config.sections.map((sec, idx) => {
             const startIdx = getSectionStartIndex(idx);
-            const secAnswered = answers
-              .slice(startIdx, startIdx + sec.questionCount)
-              .filter((a) => a.selected).length;
+            const secAnswered = answers.slice(startIdx, startIdx + sec.questionCount).filter((a) => a.selected).length;
             const isActive = idx === currentSectionIdx;
             const isLocked = !config.allowsSwitching && idx < activeSection;
             const isClickable = config.allowsSwitching || idx >= activeSection;
@@ -489,55 +413,33 @@ export default function MockTestClient({ config }: { config: MockConfig }) {
             return (
               <button
                 key={sec.id}
-                onClick={() => {
-                  if (isClickable) {
-                    goToQuestion(startIdx);
-                  }
-                }}
-                className={`flex-1 min-w-[140px] px-3 py-2 rounded-lg text-sm text-left transition-colors ${
+                onClick={() => { if (isClickable) goToQuestion(startIdx); }}
+                className={`flex-1 min-w-[140px] px-3 py-2 text-sm text-left transition-colors ${
                   isActive
-                    ? "bg-[var(--accent)] text-white"
+                    ? "bg-[var(--foreground)] text-[var(--background)]"
                     : isLocked
-                    ? "bg-[var(--background)] text-[var(--text-muted)] opacity-50 cursor-not-allowed"
-                    : "bg-[var(--surface)] border border-[var(--border)] hover:bg-[var(--surface-hover)]"
+                    ? "bg-[var(--background)] text-[var(--text-muted)] opacity-40 cursor-not-allowed"
+                    : "bg-[var(--surface)] text-[var(--text-secondary)] hover:text-[var(--foreground)]"
                 }`}
               >
                 <div className="font-medium truncate">{sec.name}</div>
-                <div className="text-xs opacity-75">
-                  {secAnswered}/{sec.questionCount}
-                </div>
+                <div className="text-xs opacity-60">{secAnswered}/{sec.questionCount}</div>
               </button>
             );
           })}
         </div>
       )}
 
-      {/* Main content */}
-      <div className="flex-1 flex gap-3 min-h-0">
-        {/* Question area */}
+      <div className="flex-1 flex gap-4 min-h-0">
         <div className="flex-1 flex flex-col min-h-0 overflow-y-auto">
-          <div className="p-5 rounded-xl bg-[var(--surface)] border border-[var(--border)] mb-3">
-            <div className="flex items-center gap-2 mb-4">
-              <span className="text-xs px-2 py-1 rounded-full bg-[var(--accent)]/10 text-[var(--accent)] font-medium">
-                {currentQ.sectionName}
-              </span>
-              {currentQ.raw.difficulty && (
-                <span className={`text-xs px-2 py-1 rounded-full ${
-                  currentQ.raw.difficulty === 'easy' ? 'bg-green-500/10 text-green-400' :
-                  currentQ.raw.difficulty === 'medium' ? 'bg-yellow-500/10 text-yellow-400' :
-                  'bg-red-500/10 text-red-400'
-                }`}>
-                  {currentQ.raw.difficulty}
-                </span>
-              )}
-              <span className="text-xs text-[var(--text-muted)] ml-auto">
-                {currentQ.raw.subtopic.replace(/_/g, ' ')}
-              </span>
+          <div className="p-6 border border-[var(--border)] bg-[var(--surface)] mb-4">
+            <div className="flex items-center gap-3 mb-4 text-xs text-[var(--text-muted)] uppercase tracking-wider">
+              <span>{currentQ.sectionName}</span>
+              {currentQ.raw.difficulty && <span>{currentQ.raw.difficulty}</span>}
+              <span className="ml-auto">{currentQ.raw.subtopic.replace(/_/g, ' ')}</span>
             </div>
 
-            <div className="text-lg leading-relaxed mb-6 whitespace-pre-wrap">
-              {currentQ.raw.question}
-            </div>
+            <div className="text-lg leading-relaxed mb-6 whitespace-pre-wrap">{currentQ.raw.question}</div>
 
             {currentQ.raw.options && (
               <div className="space-y-2">
@@ -548,15 +450,13 @@ export default function MockTestClient({ config }: { config: MockConfig }) {
                     <button
                       key={idx}
                       onClick={() => selectAnswer(opt)}
-                      className={`w-full text-left p-4 rounded-xl border-2 transition-all ${
+                      className={`w-full text-left p-4 border transition-colors ${
                         isSelected
-                          ? "border-[var(--accent)] bg-[var(--accent)]/5"
-                          : "border-[var(--border)] hover:border-[var(--accent-hover)] hover:bg-[var(--surface-hover)]"
+                          ? "border-[var(--foreground)] bg-[var(--surface)]"
+                          : "border-[var(--border)] hover:border-[var(--foreground)]"
                       }`}
                     >
-                      <span className="inline-block w-8 h-8 rounded-full bg-[var(--background)] border border-[var(--border)] text-center leading-7 text-sm font-medium mr-3">
-                        {letter}
-                      </span>
+                      <span className="inline-block w-6 text-sm font-medium mr-3 text-[var(--text-muted)]">{letter}</span>
                       <span>{opt}</span>
                     </button>
                   );
@@ -566,30 +466,25 @@ export default function MockTestClient({ config }: { config: MockConfig }) {
           </div>
         </div>
 
-        {/* Question palette */}
-        <div className="w-56 hidden lg:block p-4 rounded-xl bg-[var(--surface)] border border-[var(--border)] overflow-y-auto">
-          <h4 className="text-sm font-semibold mb-3">Question Palette</h4>
-          <div className="grid grid-cols-4 gap-1.5">
+        <div className="w-52 hidden lg:block p-4 border border-[var(--border)] bg-[var(--surface)] overflow-y-auto">
+          <h4 className="text-xs font-medium uppercase tracking-wider text-[var(--text-muted)] mb-3">Palette</h4>
+          <div className="grid grid-cols-5 gap-1">
             {questions.map((_, idx) => {
               const isCurrent = idx === currentQIndex;
               const ans = answers[idx];
-              const status = ans.selected
-                ? "answered"
-                : ans.marked
-                ? "marked"
-                : "unanswered";
+              const status = ans.selected ? "answered" : ans.marked ? "marked" : "unanswered";
               return (
                 <button
                   key={idx}
                   onClick={() => goToQuestion(idx)}
-                  className={`h-8 rounded-lg text-xs font-medium transition-colors ${
+                  className={`h-7 text-xs font-medium transition-colors ${
                     isCurrent
-                      ? "bg-[var(--accent)] text-white"
+                      ? "bg-[var(--foreground)] text-[var(--background)]"
                       : status === "answered"
-                      ? "bg-[var(--success)]/20 text-[var(--success)]"
+                      ? "bg-[var(--success)] text-[var(--background)]"
                       : status === "marked"
-                      ? "bg-[var(--warning)]/20 text-[var(--warning)]"
-                      : "bg-[var(--background)] text-[var(--text-muted)] hover:bg-[var(--surface-hover)]"
+                      ? "bg-[var(--warning)] text-[var(--background)]"
+                      : "bg-[var(--background)] text-[var(--text-muted)] border border-[var(--border)]"
                   }`}
                 >
                   {idx + 1}
@@ -598,66 +493,50 @@ export default function MockTestClient({ config }: { config: MockConfig }) {
             })}
           </div>
 
-          <div className="mt-4 space-y-1.5 text-xs">
+          <div className="mt-4 space-y-2 text-xs">
             <div className="flex items-center gap-2">
-              <div className="w-3 h-3 rounded bg-[var(--success)]/20 border border-[var(--success)]/30" />
+              <div className="w-2 h-2 bg-[var(--success)]" />
               <span className="text-[var(--text-muted)]">Answered</span>
             </div>
             <div className="flex items-center gap-2">
-              <div className="w-3 h-3 rounded bg-[var(--warning)]/20 border border-[var(--warning)]/30" />
+              <div className="w-2 h-2 bg-[var(--warning)]" />
               <span className="text-[var(--text-muted)]">Marked</span>
             </div>
             <div className="flex items-center gap-2">
-              <div className="w-3 h-3 rounded bg-[var(--background)] border border-[var(--border)]" />
+              <div className="w-2 h-2 border border-[var(--border)]" />
               <span className="text-[var(--text-muted)]">Unanswered</span>
             </div>
           </div>
         </div>
       </div>
 
-      {/* Bottom bar */}
-      <div className="flex items-center justify-between mt-3 p-3 rounded-xl bg-[var(--surface)] border border-[var(--border)]">
+      <div className="flex items-center justify-between mt-4 p-4 border border-[var(--border)] bg-[var(--surface)]">
         <div className="flex gap-2">
-          <button
-            onClick={prevQuestion}
-            disabled={currentQIndex === 0}
-            className="px-4 py-2 rounded-lg border border-[var(--border)] text-sm hover:bg-[var(--surface-hover)] disabled:opacity-30 disabled:cursor-not-allowed transition-colors"
-          >
+          <button onClick={prevQuestion} disabled={currentQIndex === 0} className="px-4 py-2 border border-[var(--border)] text-sm hover:border-[var(--foreground)] disabled:opacity-30 disabled:cursor-not-allowed transition-colors">
             Previous
           </button>
-          <button
-            onClick={toggleMark}
-            className={`px-4 py-2 rounded-lg border text-sm transition-colors ${
-              currentAns.marked
-                ? "border-[var(--warning)] bg-[var(--warning)]/10 text-[var(--warning)]"
-                : "border-[var(--border)] hover:bg-[var(--surface-hover)]"
-            }`}
-          >
-            {currentAns.marked ? "Unmark" : "Mark for Review"}
+          <button onClick={toggleMark} className={`px-4 py-2 border text-sm transition-colors ${currentAns.marked ? "border-[var(--warning)] text-[var(--warning)]" : "border-[var(--border)]"}`}>
+            {currentAns.marked ? "Unmark" : "Mark"}
           </button>
         </div>
 
         <div className="flex gap-2">
           {isLastQuestion ? (
-            <button
-              onClick={submitTest}
-              className="px-6 py-2 rounded-lg bg-[var(--accent)] text-white text-sm font-medium hover:bg-[var(--accent-hover)] transition-colors"
-            >
-              Submit Test
+            <button onClick={submitTest} className="px-6 py-2 border border-[var(--foreground)] text-[var(--foreground)] text-sm font-medium hover:bg-[var(--foreground)] hover:text-[var(--background)] transition-colors">
+              Submit
             </button>
           ) : (
             <button
               onClick={() => {
                 if (isLastInSection && !config.allowsSwitching) {
-                  // Show confirmation before moving to next section
-                  if (window.confirm(`You are about to finish ${currentSection.name} and move to the next section. You cannot return. Continue?`)) {
+                  if (window.confirm(`Finish ${currentSection.name} and move to next section? You cannot return.`)) {
                     nextQuestion();
                   }
                 } else {
                   nextQuestion();
                 }
               }}
-              className="px-6 py-2 rounded-lg bg-[var(--accent)] text-white text-sm font-medium hover:bg-[var(--accent-hover)] transition-colors"
+              className="px-6 py-2 border border-[var(--foreground)] text-[var(--foreground)] text-sm font-medium hover:bg-[var(--foreground)] hover:text-[var(--background)] transition-colors"
             >
               {isLastInSection ? "Next Section" : "Next"}
             </button>

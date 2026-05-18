@@ -1,18 +1,18 @@
 @import "tailwindcss";
 
 :root {
-  --background: #0f1117;
-  --foreground: #e2e8f0;
-  --surface: #1a1d2b;
-  --surface-hover: #23283a;
-  --border: #2d3548;
-  --accent: #60a5fa;
-  --accent-hover: #3b82f6;
-  --success: #4ade80;
-  --error: #f87171;
-  --warning: #fbbf24;
-  --text-secondary: #94a3b8;
-  --text-muted: #64748b;
+  --background: #000000;
+  --foreground: #ffffff;
+  --surface: #111111;
+  --surface-hover: #1a1a1a;
+  --border: #333333;
+  --accent: #ffffff;
+  --accent-hover: #e5e5e5;
+  --success: #22c55e;
+  --error: #ef4444;
+  --warning: #f59e0b;
+  --text-secondary: #888888;
+  --text-muted: #666666;
 }
 
 @theme inline {
@@ -25,20 +25,27 @@
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: system-ui, -apple-system, sans-serif;
+  font-family: var(--font-geist-sans), system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
-/* Custom scrollbar */
+/* Minimal scrollbar */
 ::-webkit-scrollbar {
-  width: 8px;
+  width: 6px;
 }
 ::-webkit-scrollbar-track {
   background: var(--background);
 }
 ::-webkit-scrollbar-thumb {
   background: var(--border);
-  border-radius: 4px;
 }
 ::-webkit-scrollbar-thumb:hover {
   background: var(--text-muted);
+}
+
+/* Selection */
+::selection {
+  background: var(--foreground);
+  color: var(--background);
 }

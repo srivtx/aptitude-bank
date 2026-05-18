@@ -77,18 +77,18 @@ export default function TopicPractice({ data }: TopicPracticeProps) {
   if (completed) {
     const accuracy = sessionStats.total > 0 ? Math.round((sessionStats.correct / sessionStats.total) * 100) : 0;
     return (
-      <div className="text-center py-16">
-        <h2 className="text-2xl font-bold mb-4">Session Complete!</h2>
-        <div className="inline-block p-6 rounded-xl bg-[var(--surface)] border border-[var(--border)]">
-          <div className="text-4xl font-bold text-[var(--accent)] mb-2">{accuracy}%</div>
-          <p className="text-[var(--text-secondary)]">
+      <div className="text-center py-20">
+        <h2 className="text-2xl font-semibold tracking-tight mb-6">Session Complete</h2>
+        <div className="inline-block p-8 border border-[var(--border)]">
+          <div className="text-5xl font-semibold mb-2">{accuracy}%</div>
+          <p className="text-[var(--text-secondary)] text-sm">
             {sessionStats.correct} / {sessionStats.total} correct
           </p>
         </div>
-        <div className="mt-6">
+        <div className="mt-8">
           <button
             onClick={startPractice}
-            className="px-6 py-3 rounded-lg bg-[var(--accent)] text-white font-medium hover:bg-[var(--accent-hover)] transition-colors"
+            className="px-6 py-2.5 border border-[var(--foreground)] text-[var(--foreground)] text-sm font-medium hover:bg-[var(--foreground)] hover:text-[var(--background)] transition-colors"
           >
             Practice Again
           </button>
@@ -99,7 +99,7 @@ export default function TopicPractice({ data }: TopicPracticeProps) {
 
   if (!currentQuestion) {
     return (
-      <div className="text-center py-16">
+      <div className="text-center py-20">
         <p className="text-[var(--text-secondary)]">No questions available with current filter.</p>
       </div>
     );
@@ -109,30 +109,22 @@ export default function TopicPractice({ data }: TopicPracticeProps) {
 
   return (
     <div>
-      {/* Header */}
-      <div className="mb-6">
-        <h1 className="text-2xl font-bold mb-1">
+      <div className="mb-8">
+        <h1 className="text-2xl font-semibold tracking-tight mb-2">
           {data.metadata?.subtopic ? data.metadata.subtopic.replace(/_/g, ' ').replace(/\b\w/g, (l) => l.toUpperCase()) : 'Practice'}
         </h1>
         <div className="flex items-center gap-4 text-sm text-[var(--text-secondary)]">
           <span>Question {currentIndex + 1} / {questions.length}</span>
-          <span className={`px-2 py-0.5 rounded-full text-xs ${
-            currentQuestion.difficulty === 'easy' ? 'bg-green-500/20 text-green-400' :
-            currentQuestion.difficulty === 'medium' ? 'bg-yellow-500/20 text-yellow-400' :
-            'bg-red-500/20 text-red-400'
-          }`}>
-            {currentQuestion.difficulty}
-          </span>
-          <span>Score: {sessionStats.correct}/{sessionStats.total}</span>
+          <span className="text-[var(--text-muted)]">{currentQuestion.difficulty}</span>
+          <span className="text-[var(--text-muted)]">{sessionStats.correct}/{sessionStats.total}</span>
         </div>
       </div>
 
-      {/* Setup bar */}
-      <div className="flex flex-wrap gap-3 mb-6 p-4 rounded-lg bg-[var(--surface)] border border-[var(--border)]">
+      <div className="flex flex-wrap gap-3 mb-8 p-4 border border-[var(--border)] bg-[var(--surface)]">
         <select
           value={difficultyFilter}
           onChange={(e) => setDifficultyFilter(e.target.value)}
-          className="px-3 py-2 rounded-lg bg-[var(--background)] border border-[var(--border)] text-sm focus:outline-none focus:border-[var(--accent)]"
+          className="px-3 py-2 bg-[var(--background)] border border-[var(--border)] text-sm focus:outline-none focus:border-[var(--foreground)]"
         >
           <option value="all">All Difficulties</option>
           <option value="easy">Easy Only</option>
@@ -144,43 +136,41 @@ export default function TopicPractice({ data }: TopicPracticeProps) {
             type="checkbox"
             checked={shuffle}
             onChange={(e) => setShuffle(e.target.checked)}
-            className="rounded border-[var(--border)]"
+            className="border-[var(--border)]"
           />
           Shuffle
         </label>
         <button
           onClick={startPractice}
-          className="px-4 py-2 rounded-lg bg-[var(--surface-hover)] border border-[var(--border)] text-sm hover:border-[var(--accent)] transition-colors"
+          className="px-4 py-2 border border-[var(--border)] text-sm hover:border-[var(--foreground)] transition-colors"
         >
           Restart
         </button>
       </div>
 
-      {/* Question Card */}
-      <div className="p-6 rounded-xl bg-[var(--surface)] border border-[var(--border)] mb-6">
-        <div className="flex items-center gap-3 mb-4 text-xs text-[var(--text-muted)]">
-          <span className="font-mono">{currentQuestion.id}</span>
-          <span>|</span>
+      <div className="p-6 border border-[var(--border)] bg-[var(--surface)] mb-6">
+        <div className="flex items-center gap-3 mb-6 text-xs text-[var(--text-muted)] font-mono">
+          <span>{currentQuestion.id}</span>
           <span>{currentQuestion.company_tags.slice(0, 3).join(', ')}</span>
         </div>
 
         {currentQuestion.image_url && (
-          <div className="mb-6 p-4 rounded-xl bg-[var(--background)] border border-[var(--border)]">
-            <h4 className="text-xs font-semibold uppercase tracking-wider text-[var(--accent)] mb-3">
+          <div className="mb-6 p-4 border border-[var(--border)] bg-[var(--background)]">
+            <h4 className="text-xs font-medium text-[var(--text-muted)] uppercase tracking-wider mb-3">
               {currentQuestion.subtopic.includes('chart') ? 'Chart' : 'Figure'}
             </h4>
             <img
               src={currentQuestion.image_url}
               alt="Question figure"
-              className="max-w-full h-auto mx-auto rounded-lg"
+              className="max-w-full h-auto mx-auto"
               loading="eager"
             />
           </div>
         )}
 
         {currentQuestion.passage && (
-          <div className="mb-6 p-5 rounded-xl bg-[var(--background)] border border-[var(--border)] border-l-4 border-l-[var(--accent)]">
-            <h4 className="text-xs font-semibold uppercase tracking-wider text-[var(--accent)] mb-2">
+          <div className="mb-6 p-5 border border-[var(--border)] bg-[var(--background)]">
+            <h4 className="text-xs font-medium text-[var(--text-muted)] uppercase tracking-wider mb-2">
               {currentQuestion.subtopic.includes('chart') ? 'Chart Directions' : 'Passage'}
             </h4>
             <p className="text-[var(--text-secondary)] leading-relaxed whitespace-pre-wrap">{currentQuestion.passage}</p>
@@ -189,20 +179,20 @@ export default function TopicPractice({ data }: TopicPracticeProps) {
 
         <p className="text-lg mb-6 leading-relaxed">{currentQuestion.question}</p>
 
-        <div className="space-y-3">
+        <div className="space-y-2">
           {currentQuestion.options.map((opt, i) => {
             const hasOptImages = currentQuestion.option_images && currentQuestion.option_images[i];
-            let optionClass = 'p-4 rounded-lg border border-[var(--border)] bg-[var(--background)] cursor-pointer hover:border-[var(--accent)] transition-all';
+            let optionClass = 'p-4 border border-[var(--border)] bg-[var(--background)] cursor-pointer hover:border-[var(--foreground)] transition-colors';
             if (showSolution) {
               if (i === correctIndex) {
-                optionClass = 'p-4 rounded-lg border border-[var(--success)] bg-green-500/10';
+                optionClass = 'p-4 border border-[var(--success)] bg-[var(--surface)]';
               } else if (i === selectedOption) {
-                optionClass = 'p-4 rounded-lg border border-[var(--error)] bg-red-500/10';
+                optionClass = 'p-4 border border-[var(--error)] bg-[var(--surface)]';
               } else {
-                optionClass = 'p-4 rounded-lg border border-[var(--border)] bg-[var(--background)] opacity-50';
+                optionClass = 'p-4 border border-[var(--border)] bg-[var(--background)] opacity-40';
               }
             } else if (i === selectedOption) {
-              optionClass = 'p-4 rounded-lg border border-[var(--accent)] bg-blue-500/10';
+              optionClass = 'p-4 border border-[var(--foreground)] bg-[var(--surface)]';
             }
 
             return (
@@ -211,8 +201,8 @@ export default function TopicPractice({ data }: TopicPracticeProps) {
                 onClick={() => handleOptionClick(i)}
                 className={optionClass}
               >
-                <div className="flex items-center gap-3">
-                  <span className="flex-shrink-0 w-8 h-8 flex items-center justify-center rounded-full bg-[var(--surface)] text-sm font-medium">
+                <div className="flex items-center gap-4">
+                  <span className="flex-shrink-0 w-6 h-6 flex items-center justify-center text-sm font-medium text-[var(--text-muted)]">
                     {labels[i]}
                   </span>
                   {hasOptImages ? (
@@ -231,20 +221,19 @@ export default function TopicPractice({ data }: TopicPracticeProps) {
           })}
         </div>
 
-        {/* Actions */}
         <div className="flex gap-3 mt-6">
           {!showSolution ? (
             <>
               <button
                 onClick={handleCheck}
                 disabled={selectedOption === null}
-                className="px-6 py-3 rounded-lg bg-[var(--accent)] text-white font-medium hover:bg-[var(--accent-hover)] transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
+                className="px-6 py-2.5 border border-[var(--foreground)] text-[var(--foreground)] text-sm font-medium hover:bg-[var(--foreground)] hover:text-[var(--background)] transition-colors disabled:opacity-30 disabled:cursor-not-allowed"
               >
                 Check Answer
               </button>
               <button
                 onClick={handleSkip}
-                className="px-6 py-3 rounded-lg bg-[var(--surface-hover)] border border-[var(--border)] hover:border-[var(--accent)] transition-colors"
+                className="px-6 py-2.5 border border-[var(--border)] text-sm hover:border-[var(--foreground)] transition-colors"
               >
                 Skip
               </button>
@@ -252,7 +241,7 @@ export default function TopicPractice({ data }: TopicPracticeProps) {
           ) : (
             <button
               onClick={handleNext}
-              className="px-6 py-3 rounded-lg bg-[var(--accent)] text-white font-medium hover:bg-[var(--accent-hover)] transition-colors"
+              className="px-6 py-2.5 border border-[var(--foreground)] text-[var(--foreground)] text-sm font-medium hover:bg-[var(--foreground)] hover:text-[var(--background)] transition-colors"
             >
               {currentIndex + 1 >= questions.length ? 'Finish' : 'Next Question'}
             </button>
@@ -260,50 +249,49 @@ export default function TopicPractice({ data }: TopicPracticeProps) {
         </div>
       </div>
 
-      {/* Solution Panel */}
       {showSolution && (
-        <div className="p-6 rounded-xl bg-[var(--surface)] border border-[var(--border)] space-y-4">
-          <div className={`inline-block px-4 py-2 rounded-lg font-medium ${
+        <div className="p-6 border border-[var(--border)] bg-[var(--surface)] space-y-4">
+          <div className={`inline-block px-4 py-2 text-sm font-medium ${
             selectedOption === correctIndex
-              ? 'bg-green-500/20 text-[var(--success)]'
-              : 'bg-red-500/20 text-[var(--error)]'
+              ? 'text-[var(--success)]'
+              : 'text-[var(--error)]'
           }`}>
-            {selectedOption === correctIndex ? 'Correct!' : `Incorrect. Answer: ${currentQuestion.answer}`}
+            {selectedOption === correctIndex ? 'Correct' : `Incorrect. Answer: ${currentQuestion.answer}`}
           </div>
 
           {currentQuestion.answer_image_url && (
-            <div className="p-4 rounded-xl bg-[var(--background)] border border-[var(--border)]">
-              <h4 className="text-xs font-semibold uppercase tracking-wider text-[var(--accent)] mb-2">Answer Figure</h4>
+            <div className="p-4 border border-[var(--border)] bg-[var(--background)]">
+              <h4 className="text-xs font-medium text-[var(--text-muted)] uppercase tracking-wider mb-2">Answer Figure</h4>
               <img
                 src={currentQuestion.answer_image_url}
                 alt="Answer figure"
-                className="max-w-full h-auto mx-auto rounded-lg"
+                className="max-w-full h-auto mx-auto"
               />
             </div>
           )}
 
           <div>
-            <h4 className="text-sm font-medium text-[var(--text-muted)] mb-1">Explanation</h4>
-            <p className="text-[var(--text-secondary)] whitespace-pre-wrap">{currentQuestion.explanation}</p>
+            <h4 className="text-xs font-medium text-[var(--text-muted)] uppercase tracking-wider mb-1">Explanation</h4>
+            <p className="text-[var(--text-secondary)] whitespace-pre-wrap leading-relaxed">{currentQuestion.explanation}</p>
           </div>
 
           {currentQuestion.shortcut && (
-            <div className="p-4 rounded-lg bg-blue-500/10 border border-blue-500/20">
-              <h4 className="text-sm font-medium text-[var(--accent)] mb-1">Shortcut</h4>
+            <div className="p-4 border border-[var(--border)] bg-[var(--background)]">
+              <h4 className="text-xs font-medium text-[var(--text-muted)] uppercase tracking-wider mb-1">Shortcut</h4>
               <p className="text-sm">{currentQuestion.shortcut}</p>
             </div>
           )}
 
           {currentQuestion.formula_used && (
             <div>
-              <h4 className="text-sm font-medium text-[var(--text-muted)] mb-1">Formula</h4>
-              <code className="text-sm bg-[var(--background)] px-3 py-1.5 rounded-lg block">{currentQuestion.formula_used}</code>
+              <h4 className="text-xs font-medium text-[var(--text-muted)] uppercase tracking-wider mb-1">Formula</h4>
+              <code className="text-sm bg-[var(--background)] px-3 py-1.5 block border border-[var(--border)]">{currentQuestion.formula_used}</code>
             </div>
           )}
 
           {currentQuestion.trap_type && (
-            <div className="p-4 rounded-lg bg-yellow-500/10 border border-yellow-500/20">
-              <h4 className="text-sm font-medium text-[var(--warning)] mb-1">Common Trap</h4>
+            <div className="p-4 border border-[var(--border)] bg-[var(--background)]">
+              <h4 className="text-xs font-medium text-[var(--text-muted)] uppercase tracking-wider mb-1">Common Trap</h4>
               <p className="text-sm">{currentQuestion.trap_type}</p>
             </div>
           )}
