@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-18T00:09:11.340Z",
+  "generated_at": "2026-05-18T00:30:30.236Z",
   "total_topics": 49,
-  "total_questions": 908,
+  "total_questions": 915,
   "total_company_questions": 25,
   "total_patterns": 15,
   "categories": {
@@ -14,10 +14,10 @@
       "id": "reading_comprehension",
       "name": "Reading Comprehension",
       "category": "verbal",
-      "total_questions": 161,
+      "total_questions": 168,
       "difficulty_distribution": {
-        "easy": 110,
-        "medium": 51,
+        "easy": 113,
+        "medium": 55,
         "hard": 0
       },
       "sources": [

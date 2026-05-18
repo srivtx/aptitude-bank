@@ -28,26 +28,26 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased min-h-screen`}
       >
-        <header className="border-b border-[var(--border)] bg-[var(--surface)]">
+        <header className="sticky top-0 z-50 border-b border-[var(--border)] bg-[var(--surface)]">
           <div className="max-w-6xl mx-auto px-4 py-4">
             <div className="flex items-center justify-between">
-              <Link href="/" className="text-xl font-bold text-[var(--foreground)] hover:text-[var(--accent)] transition-colors">
+              <Link href="/" scroll={false} className="text-xl font-bold text-[var(--foreground)] hover:text-[var(--accent)] transition-colors">
                 Aptitude Bank
               </Link>
               <nav className="flex gap-6 text-sm">
-                <Link href="/" className="text-[var(--text-secondary)] hover:text-[var(--accent)] transition-colors">
+                <Link href="/" scroll={false} className="text-[var(--text-secondary)] hover:text-[var(--accent)] transition-colors">
                   Topics
                 </Link>
-                <Link href="/roadmap" className="text-[var(--text-secondary)] hover:text-[var(--accent)] transition-colors">
+                <Link href="/roadmap" scroll={false} className="text-[var(--text-secondary)] hover:text-[var(--accent)] transition-colors">
                   Roadmap
                 </Link>
-                <Link href="/mock" className="text-[var(--text-secondary)] hover:text-[var(--accent)] transition-colors">
+                <Link href="/mock" scroll={false} className="text-[var(--text-secondary)] hover:text-[var(--accent)] transition-colors">
                   Mock Tests
                 </Link>
-                <Link href="/bank" className="text-[var(--text-secondary)] hover:text-[var(--accent)] transition-colors">
+                <Link href="/bank" scroll={false} className="text-[var(--text-secondary)] hover:text-[var(--accent)] transition-colors">
                   Bank
                 </Link>
-                <Link href="/patterns" className="text-[var(--text-secondary)] hover:text-[var(--accent)] transition-colors">
+                <Link href="/patterns" scroll={false} className="text-[var(--text-secondary)] hover:text-[var(--accent)] transition-colors">
                   Patterns
                 </Link>
               </nav>

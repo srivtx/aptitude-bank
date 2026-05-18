@@ -4,6 +4,7 @@ export interface Question {
   subtopic: string;
   difficulty: 'easy' | 'medium' | 'hard';
   company_tags: string[];
+  passage?: string;
   question: string;
   options: string[];
   answer: string;

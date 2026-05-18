@@ -164,6 +164,13 @@ export default function TopicPractice({ data }: TopicPracticeProps) {
           <span>{currentQuestion.company_tags.slice(0, 3).join(', ')}</span>
         </div>
 
+        {currentQuestion.passage && (
+          <div className="mb-6 p-5 rounded-xl bg-[var(--background)] border border-[var(--border)] border-l-4 border-l-[var(--accent)]">
+            <h4 className="text-xs font-semibold uppercase tracking-wider text-[var(--accent)] mb-2">Passage</h4>
+            <p className="text-[var(--text-secondary)] leading-relaxed whitespace-pre-wrap">{currentQuestion.passage}</p>
+          </div>
+        )}
+
         <p className="text-lg mb-6 leading-relaxed">{currentQuestion.question}</p>
 
         <div className="space-y-3">
