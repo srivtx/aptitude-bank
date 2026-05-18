@@ -1,0 +1,1363 @@
+{
+  "metadata": {
+    "topic": "Quantitative Aptitude",
+    "subtopic": "line_charts",
+    "total_questions": 50,
+    "sources": [
+      "IndiaBIX"
+    ],
+    "last_updated": "2026-05-18"
+  },
+  "questions": [
+    {
+      "id": "quant_linech_001",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "For which of the following pairs of years the total exports from the three Companies together are equal?",
+      "options": [
+        "1995 and 1998",
+        "1996 and 1998",
+        "1997 and 1998",
+        "1995 and 1996"
+      ],
+      "answer": "D",
+      "explanation": "Total exports of the three Companies X, Y and Z together, during various years are:\n\nIn 1993 = Rs. (30 + 80 + 60) crores = Rs. 170 crores.\n\nIn 1994 = Rs. (60 + 40 + 90) crores = Rs. 190 crores.\n\nIn 1995 = Rs. (40 + 60 + 120) crores = Rs. 220 crores.\n\nIn 1996 = Rs. (70 + 60 + 90) crores = Rs. 220 crores.\n\nIn 1997 = Rs. (100 + 80 + 60) crores = Rs. 240 crores.\n\nIn 1998 = Rs. (50 + 100 + 80) crores = Rs. 230 crores.\n\nIn 1999 = Rs. (120 + 140 + 100) crores = Rs. 360 crores.\n\nClearly, the total exports of the three Companies X, Y and Z together are same during the years 1995 and 1996.",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_002",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Average annual exports during the given period for Company Y is approximately what percent of the average annual exports for Company Z?",
+      "options": [
+        "87.12%",
+        "89.64%",
+        "91.21%",
+        "93.33%"
+      ],
+      "answer": "D",
+      "explanation": "Analysis of the graph: From the graph it is clear that\n\n The amount of exports of Company X (in crore Rs.) in the years 1993, 1994, 1995, 1996, 1997, 1998 and 1999 are 30, 60, 40, 70, 100, 50 and 120 respectively.\n\n The amount of exports of Company Y (in crore Rs.) in the years 1993, 1994, 1995, 1996, 1997, 1998 and 1999 are 80, 40, 60, 60, 80, 100 and 140 respectively.\n\n The amount of exports of Company Z (in crore Rs.) in the years 1993, 1994, 1995, 1996, 1997, 1998 and 1999 are 60, 90,, 120, 90, 60, 80 and 100 respectively.\n\nAverage annual exports (in Rs. crore) of Company Y during the given period\n \n\n[TABLE]\n\nAverage annual exports (in Rs. crore) of Company Z during the given period\n\n[TABLE]\n\n[TABLE]",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_003",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In which year was the difference between the exports from Companies X and Y the minimum?",
+      "options": [
+        "1994",
+        "1995",
+        "1996",
+        "1997"
+      ],
+      "answer": "C",
+      "explanation": "The difference between the exports from the Companies X and Y during the various years are:\n\nIn 1993 = Rs. (80 - 30) crores = Rs. 50 crores.\n\nIn 1994 = Rs. (60 - 40) crores = Rs. 20 crores.\n\nIn 1995 = Rs. (60 - 40) crores = Rs. 20 crores.\n\nIn 1996 = Rs. (70 - 60) crores = Rs. 10 crores.\n\nIn 1997 = Rs. (100 - 80) crores = Rs. 20 crores.\n\nIn 1998 = Rs. (100 - 50) crores = Rs. 50 crores.\n\nIn 1999 = Rs. (140 - 120) crores = Rs. 20 crores.\n\nClearly, the difference is minimum in the year 1996.",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_004",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What was the difference between the average exports of the three Companies in 1993 and the average exports in 1998?",
+      "options": [
+        "Rs. 15.33 crores",
+        "Rs. 18.67 crores",
+        "Rs. 20 crores",
+        "Rs. 22.17 crores"
+      ],
+      "answer": "C",
+      "explanation": "Average exports of the three Companies X, Y and Z in 1993\n\n[TABLE]\n\nAverage exports of the three Companies X, Y and Z in 1998\n\n[TABLE]\n\n[TABLE]\n \n\n \n \n [TABLE]\n \n\n \n = Rs. 20 crores.",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_005",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In how many of the given years, were the exports from Company Z more than the average annual exports over the given years?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "C",
+      "explanation": "Average annual exports of Company Z during the given period\n\n[TABLE]\n\n[TABLE]\n\n = Rs. 85.71 crores.\n\nFrom the analysis of graph the exports of Company Z are more than the average annual exports of Company Z (i.e., Rs. 85.71 crores) during the years 1994, 1995, 1996 and 1999, i.e., during 4 of the given years.",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_006",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If the imports in 1998 was Rs. 250 crores and the total exports in the years 1998 and 1999 together was Rs. 500 crores, then the imports in 1999 was ?",
+      "options": [
+        "Rs. 250 crores",
+        "Rs. 300 crores",
+        "Rs. 357 crores",
+        "Rs. 420 crores"
+      ],
+      "answer": "D",
+      "explanation": "The ratio of imports to exports for the years 1998 and 1999 are 1.25 and 1.40 respectively.\n\nLet the exports in the year 1998 = Rs. x crores.\n\nThen, the exports in the year 1999 = Rs. (500 - x) crores.\n\n[TABLE]\n\nThus, the exports in the year 1999 = Rs. (500 - 200) crores = Rs. 300 crores.\n\nLet the imports in the year 1999 = Rs. y crores.\n\n[TABLE]\n\n Imports in the year 1999 = Rs. 420 crores.",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_007",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The imports were minimum proportionate to the exports of the company in the year ?",
+      "options": [
+        "1995",
+        "1996",
+        "1997",
+        "2000"
+      ],
+      "answer": "C",
+      "explanation": "The imports are minimum proportionate to the exports implies that the ratio of the value of imports to exports has the minimum value.\n\nNow, this ratio has a minimum value 0.35 in 1997, i.e., the imports are minimum proportionate to the exports in 1997.",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_008",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What was the percentage increase in imports from 1997 to 1998 ?",
+      "options": [
+        "72",
+        "56",
+        "28",
+        "Data inadequate"
+      ],
+      "answer": "D",
+      "explanation": "The graph gives only the ratio of imports to exports for different years. To find the percentage increase in imports from 1997 to 1998, we require more details such as the value of imports or exports during these years.\n\nHence, the data is inadequate to answer this question.",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_009",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If the imports of the company in 1996 was Rs. 272 crores, the exports from the company in 1996 was ?",
+      "options": [
+        "Rs. 370 crores",
+        "Rs. 320 crores",
+        "Rs. 280 crores",
+        "Rs. 275 crores"
+      ],
+      "answer": "B",
+      "explanation": "Ratio of imports to exports in the year 1996 = 0.85.\n\nLet the exports in 1996 = Rs. x crores.\n\n[TABLE]\n\n Exports in 1996 = Rs. 320 crores.",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_010",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In how many of the given years were the exports more than the imports ?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "The exports are more than the imports imply that the ratio of value of imports to exports is less than 1.\n\nNow, this ratio is less than 1 in years 1995, 1996, 1997 and 2000.\n\nThus, there are four such years.",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_011",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What is the difference between the number of vehicles manufactured by Company Y in 2000 and 2001 ?",
+      "options": [
+        "50000",
+        "42000",
+        "33000",
+        "21000"
+      ],
+      "answer": "D",
+      "explanation": "Required difference = (128000 - 107000) = 21000.",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_012",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What is the difference between the total productions of the two Companies in the given years ?",
+      "options": [
+        "19000",
+        "22000",
+        "26000",
+        "28000"
+      ],
+      "answer": "C",
+      "explanation": "From the line-graph it is clear that the productions of Company X in the years 1997, 1998, 1999, 2000, 2001 and 2002 are 119000, 99000, 141000, 78000, 120000 and 159000 and those of Company Y are 139000, 120000,100000, 128000, 107000 and 148000 respectively.\n\nTotal production of Company X from 1997 to 2002\n\n = 119000 + 99000 + 141000 + 78000 + 120000 + 159000\n\n = 716000.\n\nand total production of Company Y from 1997 to 2002\n\n = 139000 + 120000 + 100000 + 128000 + 107000 + 148000\n\n = 742000.\n\nDifference = (742000 - 716000) = 26000.",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_013",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What is the average numbers of vehicles manufactured by Company X over the given period ? (rounded off to nearest integer)",
+      "options": [
+        "119333",
+        "113666",
+        "112778",
+        "111223"
+      ],
+      "answer": "A",
+      "explanation": "Average number of vehicles manufactured by Company X\n\n[TABLE]\n\n = 119333.",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_014",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In which of the following years, the difference between the productions of Companies X and Y was the maximum among the given years ?",
+      "options": [
+        "1997",
+        "1998",
+        "1999",
+        "2000"
+      ],
+      "answer": "D",
+      "explanation": "The difference between the productions of Companies X and Y in various years are:\n\nFor 1997 (139000 - 119000) = 20000.\n\nFor 1998 (120000 - 99000) = 21000.\n\nFor 1999 (141000 - 100000) = 41000.\n\nFor 2000 (128000 - 78000) = 50000.\n\nFor 2001 (120000 - 107000) = 13000.\n\nFor 2002 (159000 - 148000) = 11000.\n\nClearly, maximum difference was in 2000.",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_015",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The production of Company Y in 2000 was approximately what percent of the production of Company X in the same year ?",
+      "options": [
+        "173",
+        "164",
+        "132",
+        "97"
+      ],
+      "answer": "B",
+      "explanation": "[TABLE]",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_016",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The incomes of two Companies X and Y in 2000 were in the ratio of 3:4 respectively. What was the respective ratio of their expenditures in 2000 ?",
+      "options": [
+        "7:22",
+        "14:19",
+        "15:22",
+        "27:35"
+      ],
+      "answer": "C",
+      "explanation": "Let the incomes in 2000 of Companies X and Y be 3x and 4x respectively.\n\nAnd let the expenditures in 2000 of Companies X and Y be E_1 and E_2 respectively.\n\nThen, for Company X we have:\n\n[TABLE]\n\nFor Company Y we have:\n\n[TABLE]\n\nFrom (i) and (ii), we get:\n\n[TABLE]\n \n =\n 3 x 150 \n =\n 15 \n (Required ratio).\n\n E_2\n \n [TABLE]\n \n 4 x 165\n 22",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_017",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If the expenditure of Company Y in 1997 was Rs. 220 crores, what was its income in 1997 ?",
+      "options": [
+        "Rs. 312 crores",
+        "Rs. 297 crores",
+        "Rs. 283 crores",
+        "Rs. 275 crores"
+      ],
+      "answer": "B",
+      "explanation": "Profit percent of Company Y in 1997 = 35.\n\nLet the income of Company Y in 1997 be Rs. x crores.\n\n[TABLE]\n\n Income of Company Y in 1997 = Rs. 297 crores.",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_018",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If the expenditures of Company X and Y in 1996 were equal and the total income of the two Companies in 1996 was Rs. 342 crores, what was the total profit of the two Companies together in 1996 ? (Profit = Income - Expenditure)",
+      "options": [
+        "Rs. 240 crores",
+        "Rs. 171 crores",
+        "Rs. 120 crores",
+        "Rs. 102 crores"
+      ],
+      "answer": "D",
+      "explanation": "Let the expenditures of each companies X and Y in 1996 be Rs. x crores.\n\nAnd let the income of Company X in 1996 be Rs. z crores.\n\nSo that the income of Company Y in 1996 = Rs. (342 - z) crores.\n\nThen, for Company X we have:\n\n[TABLE]\n\nAlso, for Company Y we have:\n\n[TABLE]\n\nFrom (i) and (ii), we get:\n\n[TABLE]\n\nSubstituting z = 168 in (i), we get : x = 120.\n\n Total expenditure of Companies X and Y in 1996 = 2x = Rs. 240 crores.\n\nTotal income of Companies X and Y in 1996 = Rs. 342 crores.\n\n Total profit = Rs. (342 - 240) crores = Rs. 102 crores.",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_019",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The expenditure of Company X in the year 1998 was Rs. 200 crores and the income of company X in 1998 was the same as its expenditure in 2001. The income of Company X in 2001 was ?",
+      "options": [
+        "Rs. 465 crores",
+        "Rs. 385 crores",
+        "Rs. 335 crores",
+        "Rs. 295 crores"
+      ],
+      "answer": "A",
+      "explanation": "Let the income of Company X in 1998 be Rs. x crores.\n\n[TABLE]\n\n[TABLE]\n\nLet the income of Company X in 2001 be Rs. z crores.\n\n[TABLE]\n\n Income of Company X in 2001 = Rs. 465 crores.",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_020",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If the incomes of two Comapanies were equal in 1999, then what was the ratio of expenditure of Company X to that of Company Y in 1999 ?",
+      "options": [
+        "6:5",
+        "5:6",
+        "11:6",
+        "16:15"
+      ],
+      "answer": "D",
+      "explanation": "Let the incomes of each of the two Companies X and Y in 1999 be Rs. x.\n\nAnd let the expenditures of Companies X and Y in 1999 be E_1 and E_2 respectively.\n\nThen, for Company X we have:\n\n[TABLE]\n\nAlso, for Company Y we have:\n\n[TABLE]\n\nFrom (i) and (ii), we get:\n\n[TABLE]",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_021",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The difference between the percentage of candidates qualified to appeared was maximum in which of the following pairs of years?",
+      "options": [
+        "1994 and 1995",
+        "1997 and 1998",
+        "1998 and 1999",
+        "1999 and 2000"
+      ],
+      "answer": "B",
+      "explanation": "The differences between the percentages of candidates qualified to appeared for the give pairs of years are:\n\nFor 1994 and 1995 = 50 - 30 = 20.\n\nFor 1998 and 1999 = 80 - 80 = 0.\n\nFor 1994 and 1997 = 50 - 30 = 20.\n\nFor 1997 and 1998 = 80 - 50 = 30.\n\nFor 1999 and 2000 = 80 - 60 = 20.\n\nThus, the maximum difference is between the years 1997 and 1998.",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_022",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In which pair of years was the number of candidates qualified, the same?",
+      "options": [
+        "1995 and 1997",
+        "1995 and 2000",
+        "1998 and 1999",
+        "Data inadequate"
+      ],
+      "answer": "D",
+      "explanation": "The graph gives the data for the percentage of candidates qualified to appeared and unless the absolute values of number of candidates qualified or candidates appeared is know we cannot compare the absolute values for any two years.\n\nHence, the data is inadequate to solve this question.",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_023",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If the number of candidates qualified in 1998 was 21200, what was the number of candidates appeared in 1998?",
+      "options": [
+        "32000",
+        "28500",
+        "26500",
+        "25000"
+      ],
+      "answer": "C",
+      "explanation": "The number of candidates appeared in 1998 be x.\n\n[TABLE]",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_024",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If the total number of candidates appeared in 1996 and 1997 together was 47400, then the total number of candidates qualified in these two years together was?",
+      "options": [
+        "34700",
+        "32100",
+        "31500",
+        "Data inadequate"
+      ],
+      "answer": "D",
+      "explanation": "The total number of candidates qualified in 1996 and 1997 together, cannot be determined until we know at least, the number of candidates appeared in any one of the two years 1996 or 1997 or the percentage of candidates qualified to appeared in 1996 and 1997 together.\n\nHence, the data is inadequate.",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_025",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The total number of candidates qualified in 1999 and 2000 together was 33500 and the number of candidates appeared in 1999 was 26500. What was the number of candidates in 2000?",
+      "options": [
+        "24500",
+        "22000",
+        "20500",
+        "19000"
+      ],
+      "answer": "C",
+      "explanation": "The number of candidates qualified in 1999 = (80% of 26500) = 21200.\n\n Number of candidates qualified in 2000 = (33500 - 21200) = 12300.\n\nLet the number of candidates appeared in 2000 be x.\n\n[TABLE]",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_026",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If the expenditures in 1996 and 1999 are equal, then the approximate ratio of the income in 1996 and 1999 respectively is?",
+      "options": [
+        "1:1",
+        "2:3",
+        "13:14",
+        "9:10"
+      ],
+      "answer": "D",
+      "explanation": "Let the expenditure in 1996 = x.\n\nAlso, let the incomes in 1996 and 1999 be I1 and I2 respectively.\n\nThen, for the year 1996, we have:\n\n[TABLE]\n\n[TABLE]\n\nFrom (i) and (ii), we get:\n\n[TABLE]\n \n =\n 155 \n \">\n 0.91 \n \"> 9 : 10.\n\n I2\n \n [TABLE]\n \n 170\n 1",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_027",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If the income in 1998 was Rs. 264 crores, what was the expenditure in 1998?",
+      "options": [
+        "Rs. 104 crores",
+        "Rs. 145 crores",
+        "Rs. 160 crores",
+        "Rs. 185 crores"
+      ],
+      "answer": "C",
+      "explanation": "Let the expenditure is 1998 be Rs. x crores.\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n Expenditure in 1998 = Rs. 160 crores.",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_028",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In which year is the expenditure minimum?",
+      "options": [
+        "2000",
+        "1997",
+        "1996",
+        "Cannot be determined"
+      ],
+      "answer": "D",
+      "explanation": "The line-graph gives the comparison of percent profit for different years bu the comparison of the expenditures is not possible without more data.\nTherefore, the year with minimum expenditure cannot be determined.",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_029",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If the profit in 1999 was Rs. 4 crores, what was the profit in 2000?",
+      "options": [
+        "Rs. 4.2 crores",
+        "Rs. 6.6 crores",
+        "Rs. 6.8 crores",
+        "Cannot be determined"
+      ],
+      "answer": "D",
+      "explanation": "From the line-graph we obtain information about the percentage profit only. To find the profit in 2000 we must have the data for the income or expenditure in 2000.\n\nTherefore, the profit for 2000 cannot be determined.",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_030",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What is the average profit earned for the given years?",
+      "options": [
+        "50(2/3)",
+        "55(5/6)",
+        "60(1/6)",
+        "335"
+      ],
+      "answer": "B",
+      "explanation": "Average percent profit earned for the given years\n\n[TABLE]",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_031",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In how many of the given years were the exports more than the imports for Company A?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "B",
+      "explanation": "The exports are more than imports in those years for which the exports to imports ratio are more than 1. For Company A, such years are 1995, 1996 and 1997.\n\nThus, during these 3 years, the exports are more than the imports for Company A.",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_032",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If the imports of Company A in 1997 were increased by 40 percent, what would be the ratio of exports to the increased imports?",
+      "options": [
+        "1.20",
+        "1.25",
+        "1.30",
+        "cannot be determined"
+      ],
+      "answer": "B",
+      "explanation": "In 1997 for Company A we have:\n\n[TABLE]\n\nwhere E amount of exports, I = amount of imports of Company A in 1997.\n\nNow, the required imports I_1 = I + 40% of I = 1.4I.\n\n[TABLE]",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_033",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If the exports of Company A in 1998 were Rs. 237 crores, what was the amount of imports in that year?",
+      "options": [
+        "Rs. 189.6 crores",
+        "Rs. 243 crores",
+        "Rs. 281 crores",
+        "Rs. 316 crores"
+      ],
+      "answer": "D",
+      "explanation": "Let the amount of imports of Company A in 1998 be Rs. x crores.\n\n[TABLE]\n\n Amount of imports of Company A in 1998 = Rs. 316 crores.",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_034",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In 1995, the export of Company A was double that of Company B. If the imports of Company A during the year was Rs. 180 crores, what was the approximate amount of imports pf Company B during that year?",
+      "options": [
+        "Rs. 190 crores",
+        "Rs. 210 crores",
+        "Rs. 225 crores",
+        "Cannot be determined"
+      ],
+      "answer": "B",
+      "explanation": "In 1995 for Company A we have:\n\n[TABLE]\n\n[where EA = amount of exports, IA = amount of imports of Company a in 1995]\n\nIn 1995 for Company B we have:\n\n[TABLE]\n\n[where EB = amount of exports, IB = amount of imports of Company B in 1995]\n\nAlso, we have EA = 2EB ... (iii)\n\nSubstituting IA = Rs. 180 crores (given) in (i), we get:\n\n EA = Rs. (180 x 1.75) crores = Rs. 315 crores.\n\nUsing EA = Rs. 315 crores in (iii), we get:\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n i.e., amount of imports of Company B in 1995 = Rs. 210 crores.",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_035",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In which year(s) was the difference between impors and exports of Company B the maximum?",
+      "options": [
+        "2000",
+        "1996",
+        "1998 and 2000",
+        "Cannot be determined"
+      ],
+      "answer": "D",
+      "explanation": "We shall try to find the difference between the imports and exports of Company B for various years one by one:\n\nFor 1995: We have\n\n[TABLE]\n\nwhere E = amount of exports, I = amount of imports in 1995.\n\n\"> E = 0.75I\n\n I - E = 0.75 x I = 0.25I.\n\nThus, the difference between the imports and exports of Company B in 1995 is dependent on the amount of imports of Company B in 1995.\n\nSimilarly, the difference for other years can be determined only if the amount of imports for these years is known.\n\nSince the imports or exports for various years are not know, the differences between and exports for various years cannot be determined.",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_036",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A sum of Rs. 4.75 lakhs was invested in Company Q in 1999 for one year. How much more interest would have been earned if the sum was invested in Company P?",
+      "options": [
+        "Rs. 19,000",
+        "Rs. 14,250",
+        "Rs. 11,750",
+        "Rs. 9500"
+      ],
+      "answer": "D",
+      "explanation": "[TABLE]",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_037",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If two different amounts in the ratio 8:9 are invested in Companies P and Q respectively in 2002, then the amounts received after one year as interests from Companies P and Q are respectively in the ratio?",
+      "options": [
+        "2:3",
+        "3:4",
+        "6:7",
+        "4:3"
+      ],
+      "answer": "D",
+      "explanation": "Let the amounts invested in 2002 in Companies P and Q be Rs. 8x and Rs. 9x respectively.\n\n[TABLE]\n \n\n and interest received after one year from Company Q \n = Rs. (4% of 9x)\n\n \n \n [TABLE]\n \n\n[TABLE]\n \n =\n 4 \n .\n\n \n [TABLE]\n \n 3",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_038",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In 2000, a part of Rs. 30 lakhs was invested in Company P and the rest was invested in Company Q for one year. The total interest received was Rs. 2.43 lakhs. What was the amount invested in Company P?",
+      "options": [
+        "Rs. 9 lakhs",
+        "Rs. 11 lakhs",
+        "Rs. 12 lakhs",
+        "Rs. 18 lakhs"
+      ],
+      "answer": "D",
+      "explanation": "Let Rs. x lakhs be invested in Company P in 2000, the amount invested in Company Q in 2000 = Rs. (30 - x) lakhs.\n\nTotal interest received from the two Companies after 1 year\n\n = Rs. [(7.5% of x) + {9% of (30 - x)}] lakhs\n\n[TABLE]\n\n[TABLE]",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_039",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "An investor invested a sum of Rs. 12 lakhs in Company P in 1998. The total amount received after one year was re-invested in the same Company for one more year. The total appreciation received by the investor on his investment was?",
+      "options": [
+        "Rs. 2,96,200",
+        "Rs. 2,42,200",
+        "Rs. 2,25,600",
+        "Rs. 2,16,000"
+      ],
+      "answer": "C",
+      "explanation": "Amount received from Company P after one year (i.e., in 199) on investing Rs. 12 lakhs in it\n\n = Rs. [12 + (8% of 12)] lakhs\n\n = Rs. 12.96 lakhs.\n\nAmount received from Company P after one year on investing Rs. 12.96 lakhs in the year 1999\n\n = Rs. [12.96 + (10% of 12.96)] lakhs\n\n = Rs. 14.256.\n\nAppreciation received on investment during the period of two years\n\n = Rs. (14.256 - 12) lakhs\n\n = Rs. 2.256 lakhs\n\n = Rs. 2,25,600.",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_040",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "An investor invested Rs. 5 lakhs in Company Q in 1996. After one year, the entire amount along with the interest was transferred as investment to Company P in 1997 for one year. What amount will be received from Company P, by the investor?",
+      "options": [
+        "Rs. 5,94,550",
+        "Rs. 5,80,425",
+        "Rs. 5,77,800",
+        "Rs. 5,77,500"
+      ],
+      "answer": "B",
+      "explanation": "Amount received from Company Q after one year on investment of Rs. 5 lakhs in the year 1996\n\n = Rs. [5 + (6.5% of 5)] lakhs\n\n = Rs. 5.325 lakhs.\n\nAmount received from Company P after one year on investment of Rs. 5.325 lakhs in the year 1997\n\n = Rs. [5.325 + (9% of 5.325)] lakhs\n\n = Rs. 5.80425 lakhs\n\n = Rs. 5,80,425.",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_041",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The number of students studying in the school during 1999 was?",
+      "options": [
+        "2950",
+        "3000",
+        "3100",
+        "3150"
+      ],
+      "answer": "D",
+      "explanation": "As calculated above, the number of students studying in the school during 1999 = 3150.",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_042",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "For which year, the percentage rise/fall in the number of students who left the school compared to the previous year is maximum?",
+      "options": [
+        "1997",
+        "1998",
+        "1999",
+        "2000"
+      ],
+      "answer": "A",
+      "explanation": "The percentage rise/fall in the number of students who left the school (compared to the previous year) during various years are:\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\nClearly, the maximum percentage rise/fall is for 1997.",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_043",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The strength of school incresed/decreased from 1997 to 1998 by approximately what percent?",
+      "options": [
+        "1.2%",
+        "1.7%",
+        "2.1%",
+        "2.4%"
+      ],
+      "answer": "B",
+      "explanation": "Important data noted from the given graph:\n\nIn 1996 : Number of students left = 250 and number of students joined = 350.\n\nIn 1997 : Number of students left = 450 and number of students joined = 300.\n\nIn 1998 : Number of students left = 400 and number of students joined = 450.\n\nIn 1999 : Number of students left = 350 and number of students joined = 500.\n\nIn 2000 : Number of students left = 450 and number of students joined = 400.\n\nIn 2001 : Number of students left = 450 and number of students joined = 550.\n\nTherefore, the numbers of students studying in the school (i.e., strength of the school) in various years:\n\nIn 1995 = 3000 (given).\n\nIn 1996 = 3000 - 250 + 350 = 3100.\n\nIn 1997 = 3100 - 450 + 300 = 2950.\n\nIn 1998 = 2950 - 400 + 450 = 3000.\n\nIn 1999 = 3000 - 350 + 500 = 3150.\n\nIn 2000 = 3150 - 450 + 400 = 3100.\n\nIn 2001 = 3100 - 450 + 550 = 3200.\n\nPercentage increase in the strength of the school from 1997 to 1998\n\n[TABLE]",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_044",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The number of students studying in the school in 1998 was what percent of the number of students studying in the school in 2001?",
+      "options": [
+        "92.13%",
+        "93.75%",
+        "96.88%",
+        "97.25%"
+      ],
+      "answer": "B",
+      "explanation": "[TABLE]",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_045",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The ratio of the least number of students who joined the school to the maximum number of students who left the school in any of the years during the given period is?",
+      "options": [
+        "7:9",
+        "4:5",
+        "3:4",
+        "2:3"
+      ],
+      "answer": "D",
+      "explanation": "[TABLE]",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_046",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In which periodical exams did the student obtain the highest percentage increase in marks over the previous periodical exams ?",
+      "options": [
+        "June, 01",
+        "August, 01",
+        "Oct, 01",
+        "Dec, 01"
+      ],
+      "answer": "C",
+      "explanation": "Percentage increase in marks in various periodical exams compared to the previous exams are:\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\nClearly, highest percentage increase in marks is in Oct 01.",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_047",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The total number of marks obtained in Feb. 02 is what percent of the total marks obtained in April 01 ?",
+      "options": [
+        "110%",
+        "112.5%",
+        "115%",
+        "116.5%"
+      ],
+      "answer": "B",
+      "explanation": "Here it is clear from the graph that the student obtained 360, 365, 370, 385, 400 and 405 marks in periodical exams held in Apr 01, Jun 01, Aug 01, Oct 01, Dec 01 and Feb 02 respectively.\n\n[TABLE]",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_048",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What is the percentage of marks obtained by the student in the periodical exams of August, 01 and Oct, 01 taken together ?",
+      "options": [
+        "73.25%",
+        "75.5%",
+        "77%",
+        "78.75%"
+      ],
+      "answer": "B",
+      "explanation": "[TABLE]",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_049",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What are the average marks obtained by the student in all the periodical exams during the last session ?",
+      "options": [
+        "373",
+        "379",
+        "381",
+        "385"
+      ],
+      "answer": "C",
+      "explanation": "Average marks obtained in all the periodical exams\n\n[TABLE]",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_linech_050",
+      "topic": "quant",
+      "subtopic": "line_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In which periodical exams there is a fall in percentage of marks as compared to the previous periodical exams ?",
+      "options": [
+        "None",
+        "June, 01",
+        "Oct, 01",
+        "Feb, 02"
+      ],
+      "answer": "A",
+      "explanation": "As is clear from the graph, the total marks obtained in periodical exams, go on increasing. Since, the maximum marks for all the periodical exams are the same; it implies that the percentage of marks also goes on increasing.\n\nThus, in none of the periodical exams, there is a fall in percentage of marks compared to the previous exam.",
+      "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
+      "formula_used": "",
+      "trap_type": "Misreading the scale or confusing two overlapping lines",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    }
+  ]
+}

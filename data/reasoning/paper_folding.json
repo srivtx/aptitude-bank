@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "topic": "Logical Reasoning",
+    "subtopic": "paper_folding",
+    "total_questions": 1,
+    "sources": [
+      "IndiaBIX"
+    ],
+    "last_updated": "2026-05-18"
+  },
+  "questions": [
+    {
+      "id": "reasoning_paperf_001",
+      "topic": "reasoning",
+      "subtopic": "paper_folding",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find out from amongst the four alternatives as to how the pattern would appear when the transparent sheet is folded at the dotted line.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Visualize the fold line as a mirror; the pattern reflects across it",
+      "formula_used": "",
+      "trap_type": "Folding in the wrong direction or not visualizing the overlap",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    }
+  ]
+}

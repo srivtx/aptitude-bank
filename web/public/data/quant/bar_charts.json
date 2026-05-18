@@ -1,0 +1,2443 @@
+{
+  "metadata": {
+    "topic": "Quantitative Aptitude",
+    "subtopic": "bar_charts",
+    "total_questions": 90,
+    "sources": [
+      "IndiaBIX"
+    ],
+    "last_updated": "2026-05-18"
+  },
+  "questions": [
+    {
+      "id": "quant_barcha_001",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What is the ratio of the total sales of branch B2 for both years to the total sales of branch B4 for both years?",
+      "options": [
+        "2:3",
+        "3:5",
+        "4:5",
+        "7:9"
+      ],
+      "answer": "D",
+      "explanation": "[TABLE]",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_002",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Total sales of branch B6 for both the years is what percent of the total sales of branches B3 for both the years?",
+      "options": [
+        "68.54%",
+        "71.11%",
+        "73.17%",
+        "75.55%"
+      ],
+      "answer": "C",
+      "explanation": "[TABLE]\n \n\n \n \n [TABLE]\n \n\n \n = 73.17%.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_003",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What percent of the average sales of branches B1, B2 and B3 in 2001 is the average sales of branches B1, B3 and B6 in 2000?",
+      "options": [
+        "75%",
+        "77.5%",
+        "82.5%",
+        "87.5%"
+      ],
+      "answer": "D",
+      "explanation": "Average sales (in thousand number) of branches B1, B3 and B6 in 2000\n\n[TABLE]\n\nAverage sales (in thousand number) of branches B1, B2 and B3 in 2001\n\n[TABLE]\n\n[TABLE]",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_004",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What is the average sales of all the branches (in thousand numbers) for the year 2000?",
+      "options": [
+        "73",
+        "80",
+        "83",
+        "88"
+      ],
+      "answer": "B",
+      "explanation": "Average sales of all the six branches (in thousand numbers) for the year 2000\n\n[TABLE]\n\n = 80.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_005",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Total sales of branches B1, B3 and B5 together for both the years (in thousand numbers) is?",
+      "options": [
+        "250",
+        "310",
+        "435",
+        "560"
+      ],
+      "answer": "D",
+      "explanation": "Total sales of branches B1, B3 and B5 for both the years (in thousand numbers)\n\n = (80 + 105) + (95 + 110) + (75 + 95)\n\n = 560.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_006",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The difference in the sales of cellular phones for the years 1997 and 1999 is ?",
+      "options": [
+        "500 units",
+        "1,000 units",
+        "5,000 units",
+        "18,000 units"
+      ],
+      "answer": "D",
+      "explanation": "The required answer is got by 48,000 - 30,000 = 18,000.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_007",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The two years between which the rate of change of cellular phones is minimum are ?",
+      "options": [
+        "1997 and 1998",
+        "1999 and 2000",
+        "Both option (A) and (B)",
+        "2001 and 2002"
+      ],
+      "answer": "C",
+      "explanation": "The lowest rate of change for \n\nFor year 1997 and 1998 = ((48000 - 40000) / 40000) x 100 = 20%\n\nFor year 1999 and 2000 = ((30000 - 25000) / 25000) x 100 = 20%\n\n is exhibited by both option (A) and (B).",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_008",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The sum of sales of cellular phones in the years 1999 and 2001 is equal to that in ?",
+      "options": [
+        "1997",
+        "1998",
+        "2000",
+        "2002"
+      ],
+      "answer": "A",
+      "explanation": "The sum of sales in the two years is 30,000 + 18,000 = 48,000, which is the sales value for 1997.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_009",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The percentage increases in sales from 2001 to 2002 was ?",
+      "options": [
+        "115 %",
+        "128 %",
+        "122 %",
+        "118 %"
+      ],
+      "answer": "C",
+      "explanation": "The percentage increase exhibited is \n\n((40 - 18)/18) x 100 = 122 % approximately.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_010",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What was the ratio of investment in 1997 over the investment in 1992 ?",
+      "options": [
+        "5.50",
+        "5.36",
+        "5.64",
+        "5.75"
+      ],
+      "answer": "A",
+      "explanation": "The 1997 figure of investment as a factor of 1992 investment = (31.36/5.70) = 5.50",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_011",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What was absolute difference in the FDI to India in between 1996 and 1997 ?",
+      "options": [
+        "7.29",
+        "7.13",
+        "8.13",
+        "None of these"
+      ],
+      "answer": "B",
+      "explanation": "The difference in investments over 1996-1997 was\n \n31.36 - 24.23 = € 7.13 millions.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_012",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If India FDI from OPEC countries was proportionately the same in 1992 and 1997 as the total FDI from all over the world and if the FDI in 1992 from the OPEC countries was Euro 2 million. What was the amount of FDI from the OPEC countries in 1997 ?",
+      "options": [
+        "11",
+        "10.72",
+        "11.28",
+        "11.5"
+      ],
+      "answer": "A",
+      "explanation": "Let x be the FDI in 1997.\n\nThen: (2/5.7) = (x/31.36)\n\nx = (2/5.7) x 31.36\n\nx = 11",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_013",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which year exhibited the highest growth in FDI in India over the period shown ?",
+      "options": [
+        "1993",
+        "1994",
+        "1995",
+        "1996"
+      ],
+      "answer": "D",
+      "explanation": "It can be seen that the FDI in 1996 more than doubles over that of 1995. No other year is close to that rate of growth.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_014",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What was India's total FDI for the period shown in the figure ?",
+      "options": [
+        "93.82",
+        "93.22",
+        "93.19",
+        "None of these"
+      ],
+      "answer": "A",
+      "explanation": "Total FDI investment in the figure shown is = 5.7 + 10.15 + 12.16 + 10.22 + 24.23 + 31.36 = 93.82 billion.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_015",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which of the countries listed below accounts for the maximum GDP during the half decade 2006 to 2010 ?",
+      "options": [
+        "UAE",
+        "US",
+        "India",
+        "China"
+      ],
+      "answer": "B",
+      "explanation": "It's clear that US is the highest amongst the given options.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_016",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The GDP of UAE is what fraction of GDP of the UK for the decade (approximately) ?",
+      "options": [
+        "(1/4)th",
+        "(1/5)th",
+        "(1/6)th",
+        "Data inadequate"
+      ],
+      "answer": "B",
+      "explanation": "(10/50) = 20% = (1/5)th",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_017",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which of the countries listed below accounts for the highest GDP during the half decade 2001 to 2005 ?",
+      "options": [
+        "Russia",
+        "China",
+        "India",
+        "UAE"
+      ],
+      "answer": "A",
+      "explanation": "It's clear that Russia is the answer.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_018",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Out of every Rs. 10,000 spent during the decade 2001 - 2010 approximately how much was the GDP of Russia during the half decade 2001 - 2005 ?",
+      "options": [
+        "Rs. 700",
+        "Rs. 1,400",
+        "Rs. 2,800",
+        "None of these"
+      ],
+      "answer": "D",
+      "explanation": "Russia will account for 10 out of 125, i.e, 8% of the total, i.e, 800 out of 10,000 (approximately values based on visual interpretation).",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_019",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which year showed the best result in MBA entrance exams (in terms of percentage of students who cleared) ?",
+      "options": [
+        "2000",
+        "2001",
+        "2002",
+        "Cannot be determined"
+      ],
+      "answer": "B",
+      "explanation": "Compare the respective pass percentage for three years : 2000, 2001 and 2002\n\n = (140 x 100)/170 < (150 x 100)/180 and (150 x 100)/180 > (160 x 100)/200\n\n= 82.35% < 83.33% and 83.33% > 80%",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_020",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What was the percentage of students who succeeded in at least one of three exams in 2000 ?",
+      "options": [
+        "82.4 %",
+        "82.8 %",
+        "82.35 %",
+        "83.3 %"
+      ],
+      "answer": "C",
+      "explanation": "Total percentage of students who succeeded in at least one of three exams in 2000 = (140 x 100)/170 = 82.35 %",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_021",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What is the percentage increase in the number of students in 2002 over 2000 ?",
+      "options": [
+        "30 %",
+        "17.64 %",
+        "117.6 %",
+        "85 %"
+      ],
+      "answer": "B",
+      "explanation": "Total percentage increase in the number of students in 2002 over 2000 is = (30 x 100)/170 = 17.64 %",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_022",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What is the percentage of students who cleared CAT in 2000 ?",
+      "options": [
+        "19.56 %",
+        "12.65 %",
+        "14.28 %",
+        "11.76 %"
+      ],
+      "answer": "D",
+      "explanation": "Total percentage of students who cleared CAT in 2000 = (20 x 100)/170 = 11.76 %",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_023",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What is the percentage change in the overall sales turnover of the five companies together between 2001 - 2002 and 2002 - 2003 ?",
+      "options": [
+        "17.21 %",
+        "14.68 %",
+        "12.67 %",
+        "21.24 %"
+      ],
+      "answer": "B",
+      "explanation": "The required answer is\n\n100 - percentage value of the fraction (Absolute change/first year's value).",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_024",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What is the absolute change in overall sales turnover of the five companies together between 2001 - 2002 and 2002 - 2003 ?",
+      "options": [
+        "712.43",
+        "142.48",
+        "683.53",
+        "None of these"
+      ],
+      "answer": "A",
+      "explanation": "Absolute value of the difference between the sum of the turnover of the five companies for 2001 - 2002 and 2002 - 2003.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_025",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which of the companies shows the maximum percentage difference in sales turnover between the two years ?",
+      "options": [
+        "Honda",
+        "GM",
+        "Hyundai",
+        "Maruti"
+      ],
+      "answer": "C",
+      "explanation": "Hyundai with 25.25 % is marginally higher than Honda with 24.5 %.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_026",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What should have been the sales turnover of GM in 2002 - 2003 to have shown an excess of the same quantum over 2001 - 2002 as shown by the sales turnover of Maruti ?",
+      "options": [
+        "953.76",
+        "963.76",
+        "952.76",
+        "962.76"
+      ],
+      "answer": "D",
+      "explanation": "GM should have increased its sales turnover by Rs.49.13 crore. Hence, the answer is 913.63 + 49.13 = 962.76.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_027",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What is the approximate difference between the average sales turnover of all the companies put together between the years 2001 - 2002 and 2002 - 2003 ?",
+      "options": [
+        "133.45",
+        "142.48",
+        "117.6",
+        "None of these"
+      ],
+      "answer": "B",
+      "explanation": "Difference between the sum of the two years divided by 5.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_028",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "How many companies have shown production below their average production in 2002 - 2003, but have showed above the average production in 2003 - 2004 ?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "answer": "C",
+      "explanation": "Average sales of company:\n\nHonda = (6 + 14 + 21)/3 = 13.66\n\nGM = (12 + 18 + 18)/3 = 16\n\nMaruti = (5 + 9 + 15)/3 = 9.66\n\nHindustan Motors= (16 + 9 + 12)/3 = 12.33\n\nHyundai = (8 + 14 + 7)/3 = 9.66",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_029",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The ratio of Hindustan Motors production in 2003 - 2004 to Honda's production in 2002 - 2003 is ?",
+      "options": [
+        "0.66",
+        "1.5",
+        "2",
+        "None of these"
+      ],
+      "answer": "B",
+      "explanation": "The required ratio is (9/6) = 1.5.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_030",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "For how many companies has there been no decrease in production in any year from the previous year ?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "answer": "C",
+      "explanation": "By visual inspection we can say that Honda, GM and Maruti have not shown a decrease.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_031",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The ratio between the difference between the highest and the lowest of the surplus countries to the difference between Bangladesh and Oman is ?",
+      "options": [
+        "3.44",
+        "2.96",
+        "4.5",
+        "3.83"
+      ],
+      "answer": "D",
+      "explanation": "The required answer will be equal to 360/94 = 3.829.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_032",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The average of the total deficit of the middle five deficit is closest to the deficit of which country ?",
+      "options": [
+        "Korea",
+        "South Africa",
+        "UAE",
+        "None of these"
+      ],
+      "answer": "A",
+      "explanation": "The middle five deficit countries are India, New Zealand, South Africa, Korea and Namibia.\n \nTheir average deficit is (1946.6/5) = 389.32. Korea's deficit is close to this value.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_033",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The state whose surplus is nearly equal to the average of the four surplus countries is",
+      "options": [
+        "Sri Lanka",
+        "UAE",
+        "USA",
+        "UK"
+      ],
+      "answer": "C",
+      "explanation": "The average trade surplus of the four countries is 1860.4/4 = 465.1. Of the four options, USA has the closest value.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_034",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The ratio of the deficit of the first five deficit countries to the overall deficit of all the deficit countries is nearly equal to ?",
+      "options": [
+        "0.72",
+        "0.75",
+        "0.80",
+        "0.85"
+      ],
+      "answer": "B",
+      "explanation": "The required answer is (4885.2/6517) = 0.7496",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_035",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The net total deficit/surplus is equal to ?",
+      "options": [
+        "4656.6 surplus",
+        "4656.6 deficit",
+        "3836.5 deficit",
+        "None of these"
+      ],
+      "answer": "B",
+      "explanation": "Adding all surpluses and subtracting all deficits will give an overall value of deficit of 4656.6.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_036",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The ratio of the maximum exports to the minimum imports was closest to ?",
+      "options": [
+        "64",
+        "69",
+        "74",
+        "79"
+      ],
+      "answer": "B",
+      "explanation": "The value of maximum exports = 6045.\n\nThe value of minimum imports = 87.\n\nTherefore, the required ratio (6045/87) = 69.48 = 69 (approximately).",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_037",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "How many countries exhibited a trade surplus ?",
+      "options": [
+        "5",
+        "4",
+        "3",
+        "6"
+      ],
+      "answer": "B",
+      "explanation": "Out of a total of 12 countries, 8 showed a deficit while 4 showed a surplus.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_038",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The total trade deficit/surplus for all the countries put together was ?",
+      "options": [
+        "11286 surplus",
+        "11286 deficit",
+        "10286 deficit",
+        "None of these"
+      ],
+      "answer": "B",
+      "explanation": "Sum of exports - Sum of imports = deficit(11286).",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_039",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The highest trade deficit was shown by which country ?",
+      "options": [
+        "C",
+        "G",
+        "H",
+        "L"
+      ],
+      "answer": "D",
+      "explanation": "Visually its clear that L has the highest trade deficit.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_040",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The ratio of Exports to Imports was highest for which country ?",
+      "options": [
+        "A",
+        "I",
+        "J",
+        "K"
+      ],
+      "answer": "B",
+      "explanation": "I has a ratio of 4002/2744 = 1.45, which is the highest.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_041",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If the total GDP of Pakistan is Rs. 10,000 crore, then a GDP accounted for by Manufacturing is ?",
+      "options": [
+        "Rs.200 crore",
+        "Rs.600 crore",
+        "Rs.2,000 crore",
+        "Rs.6,000 crore"
+      ],
+      "answer": "C",
+      "explanation": "20% of 10000 = 2000",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_042",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What fraction of India's GDP is accounted for by Services ?",
+      "options": [
+        "(6/33)th",
+        "(1/5)th",
+        "(2/3)rd",
+        "None of these"
+      ],
+      "answer": "B",
+      "explanation": "Service accounts for 20%, i.e., (1/5)th of the GDP of India.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_043",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If the total GDP of India is Rs.30,000 crores, then the GDP accounted for by Agriculture, Services and Miscellaneous is ?",
+      "options": [
+        "Rs.18,500 crore",
+        "Rs.18,000 crore",
+        "Rs.21,000 crore",
+        "Rs.15,000 crore"
+      ],
+      "answer": "C",
+      "explanation": "(40 + 20 + 10)% of 30,000 = Rs.21,000 crore.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_044",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which country accounts for higher earning out of Services and Miscellaneous together ?",
+      "options": [
+        "India",
+        "Pakistan",
+        "Both spend equal amounts",
+        "Cannot be determined"
+      ],
+      "answer": "D",
+      "explanation": "Although the percentage on Services and Miscellaneous put together is equal for both the countries, we cannot comment on this since we have no data about the respective GDP's.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_045",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If the total GDP is the same for both the countries, then what percentage is Pakistan's income through agriculture over India's income through Services ?",
+      "options": [
+        "100 %",
+        "200 %",
+        "133.33 %",
+        "None of these"
+      ],
+      "answer": "A",
+      "explanation": "Since the GDP is same, the answer will be got by (40 - 20)/20 = 100%.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_046",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The ratio of the number of years, in which the foreign exchange reserves are above the average reserves, to those in which the reserves are below the average reserves is?",
+      "options": [
+        "2:6",
+        "3:4",
+        "3:5",
+        "4:4"
+      ],
+      "answer": "C",
+      "explanation": "Average foreign exchange reserves over the given period = 3480 million US $.\n\nThe country had reserves above 3480 million US $ during the years 1992-93, 1996-97 and 1997-98, i.e., for 3 years and below 3480 million US $ during the years 1991-92, 1993-94, 1994-95, 1995-56 and 1998-99 i.e., for 5 years.\n\nHence, required ratio = 3 : 5.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_047",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The foreign exchange reserves in 1997-98 was how many times that in 1994-95?",
+      "options": [
+        "0.7",
+        "1.2",
+        "1.4",
+        "1.5"
+      ],
+      "answer": "D",
+      "explanation": "[TABLE]",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_048",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "For which year, the percent increase of foreign exchange reserves over the previous year, is the highest?",
+      "options": [
+        "1992-93",
+        "1993-94",
+        "1994-95",
+        "1996-97"
+      ],
+      "answer": "A",
+      "explanation": "There is an increase in foreign exchange reserves during the years 1992 - 1993, 1994 - 1995, 1996 - 1997, 1997 - 1998 as compared to previous year (as shown by bar-graph).\n\nThe percentage increase in reserves during these years compared to previous year are:\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\nClearly, the percentage increase over previous year is highest for 1992 - 1993.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_049",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The foreign exchange reserves in 1996-97 were approximately what percent of the average foreign exchange reserves over the period under review?",
+      "options": [
+        "95%",
+        "110%",
+        "115%",
+        "125%"
+      ],
+      "answer": "D",
+      "explanation": "Average foreign exchange reserves over the given period\n\n[TABLE]\n\n= 3480 million US $.\n\nForeign exchange reserves in 1996 - 1997 = 4320 million US $.\n\n[TABLE]",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_050",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What was the percentage increase in the foreign exchange reserves in 1997-98 over 1993-94?",
+      "options": [
+        "100",
+        "150",
+        "200",
+        "620"
+      ],
+      "answer": "A",
+      "explanation": "Foreign exchange reserves in 1997 - 1998 = 5040 million US $.\n\nForeign exchange reserves in 1993 - 1994 = 2520 million US $.\n\n Increase = (5040 - 2520) = 2520 US $.\n\n[TABLE]",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_051",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "For which of the following years, the percentage rise/fall in production from the previous year is the maximum for Company Y?",
+      "options": [
+        "1997",
+        "1998",
+        "1999",
+        "2000"
+      ],
+      "answer": "A",
+      "explanation": "Percentage change (rise/fall) in the production of Company Y in comparison to the previous year, for different years are:\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\nHence, the maximum percentage rise/fall in the production of Company Y is for 1997.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_052",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What is the ratio of the average production of Company X in the period 1998-2000 to the average production of Company Y in the same period?",
+      "options": [
+        "1:1",
+        "15:17",
+        "23:25",
+        "27:29"
+      ],
+      "answer": "C",
+      "explanation": "Average production of Company X in the period 1998-2000\n\n[TABLE]\n\nAverage production of Company Y in the period 1998-2000\n\n[TABLE]\n\n[TABLE] \n \n =\n 115 \n =\n 23 \n .\n \n \n \n [TABLE]\n \n 125\n 25",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_053",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The average production for five years was maximum for which company?",
+      "options": [
+        "X",
+        "Y",
+        "Z",
+        "X and Z both"
+      ],
+      "answer": "D",
+      "explanation": "Average production (in lakh tons) in five years for the three companies are:\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n Average production of five years is maximum for both the Companies X and Z.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_054",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In which year was the percentage of production of Company Z to the production of Company Y the maximum?",
+      "options": [
+        "1996",
+        "1997",
+        "1998",
+        "1999"
+      ],
+      "answer": "A",
+      "explanation": "The percentages of production of Company Z to the production of Company Z for various years are:\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\nClearly, this percentage is highest for 1996.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_055",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What is the percentage increase in the production of Company Y from 1996 to 1999?",
+      "options": [
+        "30%",
+        "45%",
+        "50%",
+        "60%"
+      ],
+      "answer": "D",
+      "explanation": "Percentage increase in the production of Company Y from 1996 to 1999\n\n[TABLE]\n\n[TABLE]\n\n = 60%.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_056",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The maximum difference between the amount invested in Raw materials and value of sales of finished goods was during the year?",
+      "options": [
+        "1995",
+        "1996",
+        "1997",
+        "1998"
+      ],
+      "answer": "C",
+      "explanation": "The differences between the amount invested in raw material and the value of sales of finished goods for various years are:\n\nFor 1995 = Rs. (200 - 120) lakhs = Rs. 80 lakhs.\n\nFor 1996 = Rs. (300 - 225) lakhs = Rs. 75 lakhs.\n\nFor 1997 = Rs. (500 - 375) lakhs = Rs. 125 lakhs.\n\nFor 1998 = Rs. (400 - 330) lakhs = Rs. 70 lakhs.\n\nFor 1999 = Rs. (600 - 525) lakhs = Rs. 75 lakhs.\n\nFor 2000 = Rs. (460 - 420) lakhs = Rs. 40 lakhs.\n\nClearly, maximum difference was during 1997.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_057",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The value of sales of finished goods in 1999 was approximately what percent of the sum of amount invested in Raw materials in the years 1997, 1998 and 1999?",
+      "options": [
+        "33%",
+        "37%",
+        "45%",
+        "49%"
+      ],
+      "answer": "D",
+      "explanation": "[TABLE]\n \n\n \n = 48.78%\n\n \n 49%.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_058",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What was the difference between the average amount invested in Raw materials during the given period and the average value of sales of finished goods during this period?",
+      "options": [
+        "Rs. 62.5 lakhs",
+        "Rs. 68.5 lakhs",
+        "Rs. 71.5 lakhs",
+        "Rs. 77.5 lakhs"
+      ],
+      "answer": "D",
+      "explanation": "Required difference\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n= Rs. (410 - 332.5) lakhs\n\n= Rs. 77.5 lakhs.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_059",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In which year, the percentage change (compared to the previous year) in the investment on Raw materials is same as that in the value of sales of finished goods?",
+      "options": [
+        "1996",
+        "1997",
+        "1998",
+        "1999"
+      ],
+      "answer": "B",
+      "explanation": "The percentage change in the amount invested in raw-materials and in the value of sales of finished goods for different years are:\n\nPercentage change in Amount invested in raw-material:\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\nPercentage change in value of sales of finished goods:\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\nThus, the percentage difference is same during the year 1997.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_060",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In which year, there has been a maximum percentage increase in the amount invested in Raw materials as compared to the previous year?",
+      "options": [
+        "1996",
+        "1997",
+        "1998",
+        "1999"
+      ],
+      "answer": "A",
+      "explanation": "The percentage increase in the amount invested in raw-materials as compared to the previous year, for different years are:\n\n[TABLE]\n\n[TABLE]\n\nFor 1998 there is a decrease.\n\n[TABLE]\n\nFor 2000 there is a decrease.\n\n There is maximum percentage increase in 1996.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_061",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What was the percentage decline in the production of fertilizers from 1997 to 1998?",
+      "options": [
+        "33(1/3)%",
+        "20%",
+        "25%",
+        "21%"
+      ],
+      "answer": "C",
+      "explanation": "[TABLE]\n \n\n There is a decline of 25% in production from 1997 to 1998.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_062",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The average production of 1996 and 1997 was exactly equal to the average production of which of the following pairs of years?",
+      "options": [
+        "2000 and 2001",
+        "1999 and 2000",
+        "1998 and 2000",
+        "1995 and 2001"
+      ],
+      "answer": "D",
+      "explanation": "[TABLE]\n\nWe shall find the average production (in 10000 tonnes) for each of the given alternative pairs:\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n The average production of 1996 and 1997 is equal to the average production of 1995 and 2001.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_063",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What was the percentage increase in production of fertilizers in 2002 compared to that in 1995?",
+      "options": [
+        "320%",
+        "300%",
+        "220%",
+        "200%"
+      ],
+      "answer": "C",
+      "explanation": "[TABLE]",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_064",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In which year was the percentage increase in production as compared to the previous year the maximum?",
+      "options": [
+        "2002",
+        "2001",
+        "1997",
+        "1996"
+      ],
+      "answer": "D",
+      "explanation": "The percentage increase in production compared to previous year for different years are:\n\n[TABLE]\n\n[TABLE]\n\nIn 1998 there is a decrease in production.\n\n \n\n[TABLE]\n\nIn 2000 there is a decrease in production.\n\n \n\n[TABLE]\n\n[TABLE]\n\nClearlyl, there is maximum percentage increase in production in 1996.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_065",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In how many of the given years was the production of fertilizers more than the average production of the given years?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "Average production (in 10000 tonnes) over the given years\n\n[TABLE]\n\n The productions during the years 1997, 1999, 2001 and 2002 are more than the average production.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_066",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The total amount of expenditures of the company is how many times of expenditure on research and development?",
+      "options": [
+        "27",
+        "20",
+        "18",
+        "8"
+      ],
+      "answer": "B",
+      "explanation": "Let the total expenditures be Rs. x.\n\nThen, the expenditure on Research and Development (R & D)\n\n = Rs. (5% of x)\n\n[TABLE]\n\n[TABLE]\n\n Ratio of the total expenditure to the expenditure on R & D\n\n[TABLE]\n\n[TABLE]\n\nThen, the total expenditure is 20 times the expenditure of Research and Development.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_067",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If the expenditure on advertisement is 2.10 crores then the difference between the expenditure on transport and taxes is?",
+      "options": [
+        "Rs. 1.25 crores",
+        "Rs. 95 lakhs",
+        "Rs. 65 lakhs",
+        "Rs. 35 lakhs"
+      ],
+      "answer": "D",
+      "explanation": "Let the total expenditure be Rs. x crores.\n\n[TABLE]\n\n Total expenditure = Rs. 14 crores\n\nand so, the difference between the expenditures on transport and taxes\n\n = Rs. [(12.5 - 10)% of 14] crores\n\n = Rs. [2.5% of 14] crores\n\n = Rs. 0.35 crores\n\n = Rs. 35 lakhs",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_068",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What is the ratio of the total expenditure on infrastructure and transport to the total expenditure on taxes and interest on loans?",
+      "options": [
+        "5:4",
+        "8:7",
+        "9:7",
+        "13:11"
+      ],
+      "answer": "D",
+      "explanation": "Let the total amount of expenditures be Rs. x.\n\nThen, the total expenditure on infrastruture and transport\n\n = Rs. [(20 + 12.5)% of x]\n\n = Rs. [32.5% of x]\n\n[TABLE]\n\nand total expenditure on taxes and interest on loans\n\n = Rs. [(10 + 17.5)% of x]\n\n = Rs. [27.5% of x]\n\n[TABLE]\n\n[TABLE]",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_069",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If the interest on loans amounted to Rs. 2.45 crores then the total amount of expenditure on advertisement, taxes and research and development is?",
+      "options": [
+        "Rs. 7 crores",
+        "Rs. 5.4 crores",
+        "Rs. 4.2 crores",
+        "Rs. 3 crores"
+      ],
+      "answer": "C",
+      "explanation": "Let the total expenditure be Rs. x crores.\n\nThen, 17.5% of x = 2.45 \"> x = 14.\n\n Total expenditure = Rs. 14 crores.\n\nand so, the total expenditure on advertisement, taxes and Research and Development\n\n = Rs. [(15 + 10 + 5)% of 14] crores\n\n = Rs. [30% of 14] crores\n\n = Rs. 4.2 crores.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_070",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The expenditure on the interest on loans is by what percent more than the expenditure on transport?",
+      "options": [
+        "5%",
+        "10%",
+        "20%",
+        "40%"
+      ],
+      "answer": "D",
+      "explanation": "Let the total amount of expenditures be Rs. x.\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n \n\n \n \n [TABLE]\n \n\n[TABLE]",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_071",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The sales of lipsticks in 2000 was by what percent more than the sales of nail enamels in 2000? (rounded off to nearest integer)",
+      "options": [
+        "33%",
+        "31%",
+        "28%",
+        "22%"
+      ],
+      "answer": "C",
+      "explanation": "[TABLE]\n \n\n \n = 27.57%\n\n \n 28%.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_072",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "During the period 1995-2000, the minimum rate of increase in sales is in the case of?",
+      "options": [
+        "Shampoos",
+        "Nail enamels",
+        "Talcum powders",
+        "Lipsticks"
+      ],
+      "answer": "A",
+      "explanation": "The percentage increase from 1995 to 2000 for various products are:\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n \n The minimum rate of increase in sales from 1995 to 2000 is in the case of Shampoos.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_073",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What is the approximate ratio of the sales of nail enamels in 2000 to the sales of Talcum powders in 1995?",
+      "options": [
+        "7:2",
+        "5:2",
+        "4:3",
+        "2:1"
+      ],
+      "answer": "B",
+      "explanation": "[TABLE]",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_074",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The sales have increase by nearly 55% from 1995 to 2000 in the case of?",
+      "options": [
+        "Lipsticks",
+        "Nail enamels",
+        "Talcum powders",
+        "Shampoos"
+      ],
+      "answer": "D",
+      "explanation": "The percentage increase from 1995 to 2000 for various products are:\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_075",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The sales of conditioners in 1995 was by what percent less than the sales of shampoos in 1995? (rounded off to nearest integer)",
+      "options": [
+        "57%",
+        "36%",
+        "29%",
+        "25%"
+      ],
+      "answer": "B",
+      "explanation": "[TABLE]\n \n\n \n = 36.42%\n\n \n 36%.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_076",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The total production of flovour Z in 1997 and 1998 is what percentage of the total production of flavour X in 1995 and 1996?",
+      "options": [
+        "96.67%",
+        "102.25%",
+        "115.57%",
+        "133.33%"
+      ],
+      "answer": "D",
+      "explanation": "[TABLE]\n \n\n \n \n [TABLE]\n \n\n \n = 133.33%.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_077",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "For which flavour was the average annual production maximum in the given period?",
+      "options": [
+        "X only",
+        "Y only",
+        "Z only",
+        "X and Y"
+      ],
+      "answer": "B",
+      "explanation": "Average annual productions over the given period for various flavours are:\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n Maximum average production is for Flavour Y.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_078",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What is the difference between the average production of flavour X in 1995, 1996 and 1997 and the average production of flavour Y in 1998, 1999 and 2000?",
+      "options": [
+        "50,000 bottles",
+        "80,000 bottles",
+        "2,40,000 bottles",
+        "5,00,000 bottles"
+      ],
+      "answer": "D",
+      "explanation": "Average production of flavour X in 1995, 1996 and 1997\n\n[TABLE]\n\n[TABLE]\n\nAverage production of flavour Y in 1998, 1999 and 2000\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n \n\n \n \n [TABLE]\n \n\n \n = 5 lakh bottles\n\n \n = 5,00,000 bottles.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_079",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What was the approximate decline in the production of flavour Z in 2000 as compared to the production in 1998?",
+      "options": [
+        "50%",
+        "42%",
+        "33%",
+        "25%"
+      ],
+      "answer": "C",
+      "explanation": "Percentage decline in the production of flavour Z in 2000 as compared to the production in 1998\n\n[TABLE]\n\n[TABLE]\n\n = 33.33%\n\n 33%.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_080",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "For which of the following years the percentage of rise/fall in production from the previous year is the maximum for the flavour Y?",
+      "options": [
+        "1996",
+        "1997",
+        "1998",
+        "1999"
+      ],
+      "answer": "B",
+      "explanation": "The percentage rise/fall in production from the previous year for flavour Y during various years are:\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n Maximum change is decrease of 16.67% during 1997.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_081",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What was the difference in the number of Q type cars produced in 2000 and that produced in 2001?",
+      "options": [
+        "35,500",
+        "27,000",
+        "22,500",
+        "17,500"
+      ],
+      "answer": "A",
+      "explanation": "Total number of Q type cars produced in 2001\n\n =(60 - 40)% of 4,40,000 = 88,000.\n\nTotal number of Q type cars produced in 2000\n\n =(45 - 30)% of 3,50,000 = 52,500.\n\n Required difference = (88000 - 52500) = 35,500.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_082",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Total number of cars of models P, Q and T manufactured in 2000 is?",
+      "options": [
+        "2,45,000",
+        "2,27,500",
+        "2,10,000",
+        "1,92,500"
+      ],
+      "answer": "C",
+      "explanation": "Analysis of the graph:\n\nWe shall first determine the number of cars of each model produced by the Company during the two years:\n\nIn 2000 : Total number of cars produced = 3,50,000.\n\nP = (30 - 0)% of 3,50,000 = 30% of 3,50,000 = 1,05,000.\n\nQ = (45 - 30)% of 3,50,000 = 15% of 3,50,000 = 52,500.\n\nR = (65 - 45)% of 3,50,000 = 20% of 3,50,000 = 70,000.\n\nS = (75 - 65)% of 3,50,000 = 10% of 3,50,000 = 35,000.\n\nT = (90 - 75)% of 3,50,000 = 15% of 3,50,000 = 52,500.\n\nU = (100 - 90)% of 3,50,000 = 10% of 3,50,000 = 35,000.\n\nIn 2001 : Total number of cars produced = 4,40,000.\n\nP = (40 - 0)% of 4,40,000 = 40% of 4,40,000 = 1,76,000.\n\nQ = (60 - 40)% of 4,40,000 = 20% of 4,40,000 = 88,000.\n\nR = (75 - 60)% of 4,40,000 = 15% of 4,40,000 = 66,000.\n\nS = (85 - 75)% of 4,40,000 = 10% of 4,40,000 = 44,000.\n\nT = (95 - 85)% of 4,40,000 = 10% of 4,40,000 = 44,000.\n\nU = (100 - 95)% of 4,40,000 = 5% of 4,40,000 = 22,000.\n\nTotal number of cars of models P, Q and T manufacture in 2000\n\n = (105000 + 52500 + 52500)\n\n = 2,10,000.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_083",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If the percentage production of P type cars in 2001 was the same as that in 2000, then the number of P type cars produced in 2001 would have been?",
+      "options": [
+        "1,40,000",
+        "1,32,000",
+        "1,17,000",
+        "1,05,000"
+      ],
+      "answer": "B",
+      "explanation": "If the percentage production of P type cars in 2001\n\n = Percentage production of P type cars in 2000\n\n = 30%.\n\nthen, number of P type cars produced in 2001\n\n = 30% of 4,40,000\n\n = 1,32,000.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_084",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If 85% of the S type cars produced in each year were sold by the company, how many S type cars remain unsold?",
+      "options": [
+        "7650",
+        "9350",
+        "11,850",
+        "12,250"
+      ],
+      "answer": "C",
+      "explanation": "Number of S type cars which remained unsold in 2000 = 15% of 35,000\n\nand number of S type cars which remained unsold in 2001 = 15% of 44,000.\n\n Total number of S type cars which remained unsold\n\n = 15% of (35,000 + 44,000)\n\n = 15% of 79,000\n\n = 11,850.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_085",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "For which model the percentage rise/fall in production from 2000 to 2001 was minimum?",
+      "options": [
+        "Q",
+        "R",
+        "S",
+        "T"
+      ],
+      "answer": "B",
+      "explanation": "The percentage change (rise/fall) in production from 2000 to 2001 for various models is:\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n Minimum percentage rise/fall is production is the case of model R.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_086",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The companies M and N together had a percentage of profit/loss of?",
+      "options": [
+        "12% loss",
+        "10% loss",
+        "10% profit",
+        "There was no loss or profit"
+      ],
+      "answer": "D",
+      "explanation": "Total income of Companies M and N together\n\n = (35 + 50) million US $\n\n = 85 million US $\n\nTotal expenditure of Companies M and N together\n\n = (45 + 40) million US $\n\n = 85 million US $.\n\n Percent Profit/Loss of companies M and N together\n\n[TABLE]\n\nThus, there was neither loss nor profit for companies M and N together.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_087",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In 2001, what was the approximate percentage of profit/loss of all the five Companies taken together?",
+      "options": [
+        "5% profit",
+        "6.5% profit",
+        "4% loss",
+        "7% loss"
+      ],
+      "answer": "A",
+      "explanation": "Total income of all five companies\n\n = (35 + 50 + 40 + 40 + 50) million US $\n\n = 215 million US $.\n\nTotal expenditure of all five companies\n\n = (45 + 40 + 45 + 30 + 45) million US $\n\n = 205 million US $.\n\n[TABLE]",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_088",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which company earned the maximum percentage profit in the year 2001?",
+      "options": [
+        "M",
+        "N",
+        "P",
+        "Q"
+      ],
+      "answer": "D",
+      "explanation": "The percentage profit/loss in the year 2001 for various comapanies are:\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\nClearly, the Company Q earned the maximum profit in 2001.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_089",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "For Company R, if the expenditure had increased by 20% in year 2001 from year 2000 and the company had earned profit of 10% in 2000, what was the Company's income in 2000 (in million US $)?",
+      "options": [
+        "35.75",
+        "37.25",
+        "38.5",
+        "41.25"
+      ],
+      "answer": "D",
+      "explanation": "Let the expenditure of Company R in 2000 be x million US $.\n\n[TABLE]\n\n[TABLE]\n\ni.e., expenditure of Company R in 2000 = 37.5 million US $.\n\nLet the income of Company R in 2000 be I million US $.\n\n[TABLE]\n\n \"> I - 37.5 = 3.75\n\n \"> I = 41.25\n\ni.e., Income of Company R in 2000 = 41.25 million US $.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_barcha_090",
+      "topic": "quant",
+      "subtopic": "bar_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If the income of Company Q in 2001 was 10% more than its income in 2000 and the Company had earned a profit of 20% in 2000, then its expenditure in 2000 (in million US $) was?",
+      "options": [
+        "28.28",
+        "30.30",
+        "32.32",
+        "34.34"
+      ],
+      "answer": "B",
+      "explanation": "Let the income of Company Q in 2001 = x million US $.\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\nLet the expenditure of Company Q in 2000 be E million US $.\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n Expenditure of Company Q in 2000 = 30.30 million US $.",
+      "shortcut": "For bar chart DI: read the question carefully, then locate the relevant bar only",
+      "formula_used": "",
+      "trap_type": "Reading wrong bar or wrong year from the chart",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    }
+  ]
+}

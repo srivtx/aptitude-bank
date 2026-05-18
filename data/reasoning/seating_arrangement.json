@@ -2,11 +2,11 @@
   "metadata": {
     "topic": "Logical Reasoning",
     "subtopic": "seating_arrangement",
-    "total_questions": 3,
+    "total_questions": 44,
     "sources": [
       "IndiaBIX"
     ],
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18"
   },
   "questions": [
     {
@@ -29,9 +29,9 @@
       ],
       "answer": "B",
       "explanation": "The seating arrangement is as follows:\n\nTherefore, right of P is X.",
-      "shortcut": "Fix one position, then place others relative to it step by step",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
       "formula_used": "",
-      "trap_type": "Assuming all faces same direction without checking constraints",
+      "trap_type": "Assuming all face the same direction without checking constraints",
       "source": "IndiaBIX",
       "source_url": "",
       "pattern_detected": ""
@@ -56,9 +56,9 @@
       ],
       "answer": "C",
       "explanation": "No answer description is available. Let's discuss.",
-      "shortcut": "Fix one position, then place others relative to it step by step",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
       "formula_used": "",
-      "trap_type": "Assuming all faces same direction without checking constraints",
+      "trap_type": "Assuming all face the same direction without checking constraints",
       "source": "IndiaBIX",
       "source_url": "",
       "pattern_detected": ""
@@ -83,9 +83,1116 @@
       ],
       "answer": "B",
       "explanation": "Therefore, A is sitting in between B and C.",
-      "shortcut": "Fix one position, then place others relative to it step by step",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
       "formula_used": "",
-      "trap_type": "Assuming all faces same direction without checking constraints",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_004",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which two of the following are not neighbours ?",
+      "options": [
+        "RV",
+        "UV",
+        "RP",
+        "QW"
+      ],
+      "answer": "A",
+      "explanation": "",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_005",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which one is immediate right to the V ?",
+      "options": [
+        "P",
+        "U",
+        "R",
+        "T"
+      ],
+      "answer": "D",
+      "explanation": "T is immediate right to the V.",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_006",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What is the position of S ?",
+      "options": [
+        "Between U and V",
+        "Second to the right of P",
+        "To the immediate right of W",
+        "Data inadequate."
+      ],
+      "answer": "C",
+      "explanation": "",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_007",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Who is sitting immediate right to Reeta ?",
+      "options": [
+        "Bindu",
+        "Rani",
+        "Mary",
+        "Seema"
+      ],
+      "answer": "C",
+      "explanation": "Mary is sitting immediate right to Reeta.",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_008",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Who is in the middle of the photograph ?",
+      "options": [
+        "Bindu",
+        "Rani",
+        "Reeta",
+        "Seema"
+      ],
+      "answer": "B",
+      "explanation": "Rani is in the middle of the photograph.",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_009",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Who is second from the right ?",
+      "options": [
+        "Mary",
+        "Rani",
+        "Reeta",
+        "Bindu"
+      ],
+      "answer": "C",
+      "explanation": "Reeta is sitting second from the right.",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_010",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Who is second from the left in photograph ?",
+      "options": [
+        "Reeta",
+        "Mary",
+        "Bindu",
+        "Seema"
+      ],
+      "answer": "D",
+      "explanation": "Seema is sitting second from the left in photograph.",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_011",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Who is sitting right to Prakash ?",
+      "options": [
+        "Mukesh",
+        "Deepa",
+        "Pankaj",
+        "Lalit"
+      ],
+      "answer": "D",
+      "explanation": "Hence, Lalit is sitting right to Prakash.",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_012",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Who is just right to Pankaj ?",
+      "options": [
+        "Deepa",
+        "Lalit",
+        "Prakash",
+        "Priti"
+      ],
+      "answer": "A",
+      "explanation": "Hence, Deepa is sitting just right to Pankaj.",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_013",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Who are the neighbours of Mukesh ?",
+      "options": [
+        "Prakash and Deepa",
+        "Deepa and Priti",
+        "Priti and Pankaj",
+        "Lalit and Priti"
+      ],
+      "answer": "C",
+      "explanation": "Hence, Priti and Pankaj are the neighbours of Mukesh.",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_014",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Who is sitting opposite to Priti ?",
+      "options": [
+        "Prakash",
+        "Deepa",
+        "Pankaj",
+        "Lalit"
+      ],
+      "answer": "B",
+      "explanation": "Hence, Deepa is sitting opposite to Priti.",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_015",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which of the cars are on both the sides of cadillac car ?",
+      "options": [
+        "Ambassador and Maruti",
+        "Maruti and Fiat",
+        "Fargo and Mercedes",
+        "Ambassador and Fargo"
+      ],
+      "answer": "C",
+      "explanation": "Fargo and Mercedes are on both the sides of cadillac car.",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_016",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which of the following statement is correct ?",
+      "options": [
+        "Maruti is next left of Ambassador.",
+        "Bedford is next left of Fiat.",
+        "Bedford is at one end.",
+        "Fiat is next second to the right of Maruti."
+      ],
+      "answer": "A",
+      "explanation": "Therefore, Maruti is next left of Ambassador.",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_017",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which one of the following statements is correct ?",
+      "options": [
+        "Fargo car is in between Ambassador and Fiat.",
+        "Cadillac is next left to Mercedes car.",
+        "Fargo is next right of Cadillac.",
+        "Maruti is fourth right of Mercedes."
+      ],
+      "answer": "B",
+      "explanation": "Therefore, Cadillac is next left to Mercedes car.",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_018",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which of the following groups of cars is to the right of Ambassador ?",
+      "options": [
+        "Cadillac, Fargo and Maruti",
+        "Mercedes, Cadillac and Fargo",
+        "Maruti, Bedford and Fiat",
+        "Bedford, Cadillac and Fargo"
+      ],
+      "answer": "B",
+      "explanation": "Mercedes, Cadillac and Fargo cars are to the right of Ambassador.",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_019",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which one of the following is the correct position of Mercedes ?",
+      "options": [
+        "Next to the left of Cadillac",
+        "Next to the left of Bedford",
+        "Between Bedford and Fargo",
+        "Fourth to the right of Maruti."
+      ],
+      "answer": "D",
+      "explanation": "The correct position of Mercedes is fourth to the right of Maruti.",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_020",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which one is sitting opposite to P ?",
+      "options": [
+        "R",
+        "Q",
+        "T",
+        "S"
+      ],
+      "answer": "D",
+      "explanation": "S is sitting opposite to P.",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_021",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Who is the fourth person to the left of Q ?",
+      "options": [
+        "P",
+        "U",
+        "R",
+        "Data inadequate"
+      ],
+      "answer": "A",
+      "explanation": "P is the fourth person to the left of Q.",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_022",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which of the following are the neighbours of P ?",
+      "options": [
+        "U and P",
+        "T and R",
+        "U and R",
+        "Data inadequate"
+      ],
+      "answer": "B",
+      "explanation": "T and R are the neighbours of P.",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_023",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which one is sitting opposite to T ?",
+      "options": [
+        "R",
+        "Q",
+        "Cannot be determined",
+        "S"
+      ],
+      "answer": "B",
+      "explanation": "Q is sitting opposite to T.",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_024",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Who is sitting third to the right of O ?",
+      "options": [
+        "Q",
+        "N",
+        "M",
+        "Data inadequate"
+      ],
+      "answer": "B",
+      "explanation": "",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_025",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If B shifts to the place of E, E shifts to the place of Q, and Q shifts to the place of B, then who will be the second to the left of the person opposite to O ?",
+      "options": [
+        "Q",
+        "P",
+        "E",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "Initial arragement:\n\nNew arrangement after shifting :\n\nB is opposite to O and second person left to B is Q.",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_026",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which of the following pair is diagonally opposite to each other ?",
+      "options": [
+        "EQ",
+        "BO",
+        "AN",
+        "AM"
+      ],
+      "answer": "D",
+      "explanation": "",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_027",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If O and P, A and E and B and Q interchange their positions, then who will be the second person to the right of the person who is opposite to the person second of the right of P ?",
+      "options": [
+        "D",
+        "A",
+        "E",
+        "O"
+      ],
+      "answer": "B",
+      "explanation": "Old arrangement : \n\nNew arrangement :",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_028",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In the original arrangement who is sitting just opposite to N ?",
+      "options": [
+        "B",
+        "A",
+        "C",
+        "D"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_029",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Who are to the left of C ?",
+      "options": [
+        "Only B",
+        "G, B and D",
+        "G and B",
+        "D, E, F and A"
+      ],
+      "answer": "C",
+      "explanation": "G an B are to the left of C.",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_030",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which of the following statement is not true ?",
+      "options": [
+        "E is to the immediate left of D",
+        "A is at one of the ends",
+        "G is to the immediate left of B",
+        "F is second to the right of D"
+      ],
+      "answer": "A",
+      "explanation": "",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_031",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Who are the neighbours of B ?",
+      "options": [
+        "C and D",
+        "C and G",
+        "G and F",
+        "C and E"
+      ],
+      "answer": "B",
+      "explanation": "C and G are the neighbours of B.",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_032",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What is the position of A ?",
+      "options": [
+        "Between E and D",
+        "Extreme left",
+        "Centre",
+        "Extreme right"
+      ],
+      "answer": "D",
+      "explanation": "A is in extreme right.",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_033",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Who among the following is to the immediate left of F ?",
+      "options": [
+        "G",
+        "I",
+        "J",
+        "H"
+      ],
+      "answer": "C",
+      "explanation": "J is to the immediate left of F.",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_034",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What is true about J and K ?",
+      "options": [
+        "J is male, K is female",
+        "J is female, K is male",
+        "Both are female",
+        "Both are male"
+      ],
+      "answer": "D",
+      "explanation": "Both are male.",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_035",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "How many persons are seated between K and F ?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "C",
+      "explanation": "Three persons are seated between K and F(H, L and J) or E, I and G.",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_036",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Who among the following are three lady members ?",
+      "options": [
+        "E, H and J",
+        "E, F and G",
+        "E, H and G",
+        "C, H and J"
+      ],
+      "answer": "C",
+      "explanation": "The three lady members are E, H and G.",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_037",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Who among the following is seated between E and H ?",
+      "options": [
+        "F",
+        "I",
+        "K",
+        "Cannot be determined"
+      ],
+      "answer": "C",
+      "explanation": "K is seated between E and H.",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_038",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "How many girls are there out of these 7 students ?",
+      "options": [
+        "3",
+        "3 or 4",
+        "4",
+        "Data inadequate"
+      ],
+      "answer": "B",
+      "explanation": "The number of girls is either 3 or 4.",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_039",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which of the following is the group of girls ?",
+      "options": [
+        "BAC",
+        "BFC",
+        "BCD",
+        "CDF"
+      ],
+      "answer": "C",
+      "explanation": "BCD are the group of girls.",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_040",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Who sits with C ?",
+      "options": [
+        "B",
+        "D",
+        "G",
+        "E"
+      ],
+      "answer": "C",
+      "explanation": "G sits with C.",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_041",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "On which bench there are three students ?",
+      "options": [
+        "Bench I",
+        "Bench II",
+        "Bench III",
+        "Bench I or II"
+      ],
+      "answer": "A",
+      "explanation": "There are three students in Bench I.",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_043",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If P and R interchange their positions then which of the following pair will sit together ?",
+      "options": [
+        "RT",
+        "PV",
+        "VT",
+        "QV"
+      ],
+      "answer": "C",
+      "explanation": "After changing the position of P and R\n\nV and T are together.",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_044",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What is the position of T ?",
+      "options": [
+        "Just next to the right of Q",
+        "Second to the left of P",
+        "Between Q and R",
+        "To the immediate right of V"
+      ],
+      "answer": "D",
+      "explanation": "",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_seatin_045",
+      "topic": "reasoning",
+      "subtopic": "seating_arrangement",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which one is sitting just right to the V?",
+      "options": [
+        "P",
+        "T",
+        "R",
+        "S/Q"
+      ],
+      "answer": "B",
+      "explanation": "T is sitting just right to the V.",
+      "shortcut": "Draw a diagram; note facing direction and relative positions first",
+      "formula_used": "",
+      "trap_type": "Assuming all face the same direction without checking constraints",
       "source": "IndiaBIX",
       "source_url": "",
       "pattern_detected": ""

@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "topic": "Logical Reasoning",
+    "subtopic": "mirror_images",
+    "total_questions": 2,
+    "sources": [
+      "IndiaBIX"
+    ],
+    "last_updated": "2026-05-18"
+  },
+  "questions": [
+    {
+      "id": "reasoning_mirror_001",
+      "topic": "reasoning",
+      "subtopic": "mirror_images",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the alternative which is closely resembles the mirror image of the given combination.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Mirror image reverses left-right; water image reverses top-bottom",
+      "formula_used": "",
+      "trap_type": "Confusing mirror image with water image",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "reasoning_mirror_016",
+      "topic": "reasoning",
+      "subtopic": "mirror_images",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the correct mirror image of the given figure (X) from amongst the four alternatives.\n\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Mirror image reverses left-right; water image reverses top-bottom",
+      "formula_used": "",
+      "trap_type": "Confusing mirror image with water image",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    }
+  ]
+}

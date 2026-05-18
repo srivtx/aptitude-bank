@@ -1,0 +1,1525 @@
+{
+  "metadata": {
+    "topic": "Quantitative Aptitude",
+    "subtopic": "pie_charts",
+    "total_questions": 56,
+    "sources": [
+      "IndiaBIX"
+    ],
+    "last_updated": "2026-05-18"
+  },
+  "questions": [
+    {
+      "id": "quant_piecha_001",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If for a certain quantity of books, the publisher has to pay Rs. 30,600 as printing cost, then what will be amount of royalty to be paid for these books?",
+      "options": [
+        "Rs. 19,450",
+        "Rs. 21,200",
+        "Rs. 22,950",
+        "Rs. 26,150"
+      ],
+      "answer": "C",
+      "explanation": "Let the amount of Royalty to be paid for these books be Rs. r.\n\n[TABLE]",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_002",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What is the central angle of the sector corresponding to the expenditure incurred on Royalty?",
+      "options": [
+        "15°",
+        "24°",
+        "54°",
+        "48°"
+      ],
+      "answer": "C",
+      "explanation": "[TABLE]\n \n\n \n = 54°.",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_003",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The price of the book is marked 20% above the C.P. If the marked price of the book is Rs. 180, then what is the cost of the paper used in a single copy of the book?",
+      "options": [
+        "Rs. 36",
+        "Rs. 37.50",
+        "Rs. 42",
+        "Rs. 44.25"
+      ],
+      "answer": "B",
+      "explanation": "Clearly, marked price of the book = 120% of C.P.\n\nAlso, cost of paper = 25% of C.P\n\nLet the cost of paper for a single book be Rs. n.\n\n[TABLE]",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_004",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If 5500 copies are published and the transportation cost on them amounts to Rs. 82500, then what should be the selling price of the book so that the publisher can earn a profit of 25%?",
+      "options": [
+        "Rs. 187.50",
+        "Rs. 191.50",
+        "Rs. 175",
+        "Rs. 180"
+      ],
+      "answer": "A",
+      "explanation": "For the publisher to earn a profit of 25%, S.P. = 125% of C.P.\n\nAlso Transportation Cost = 10% of C.P.\n\nLet the S.P. of 5500 books be Rs. x.\n\n[TABLE]\n\n[TABLE]",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_005",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Royalty on the book is less than the printing cost by:",
+      "options": [
+        "5%",
+        "[TABLE]",
+        "20%",
+        "25%"
+      ],
+      "answer": "D",
+      "explanation": "Printing Cost of book = 20% of C.P.\n\nRoyalty on book = 15% of C.P.\n\nDifference = (20% of C.P.) - (15% of C.P) = 5% of C.P.\n\n[TABLE]",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_006",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If the difference between the two expenditures are represented by 18° in the pie-chart, then these expenditures possibly are",
+      "options": [
+        "Binding Cost and Promotion Cost",
+        "Paper Cost and Royalty",
+        "Binding Cost and Printing Cost",
+        "Paper Cost and Printing Cost"
+      ],
+      "answer": "D",
+      "explanation": "[TABLE]\n\n = 5% of the total expenditure.\n\nFrom the given chart it is clear that:\n\nOut of the given combinations, only in combination (d) the difference is 5% i.e.\n\n[TABLE]",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_007",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "For an edition of 12,500 copies, the amount of Royalty paid by the publisher is Rs. 2,81,250. What should be the selling price of the book if the publisher desires a profit of 5%?",
+      "options": [
+        "Rs. 152.50",
+        "Rs. 157.50",
+        "Rs. 162.50",
+        "Rs. 167.50"
+      ],
+      "answer": "B",
+      "explanation": "Clearly, S.P. of the book = 105% of C.P.\n\nLet the selling price of this edition (of 12500 books) be Rs. x.\n\n[TABLE]\n\n[TABLE]",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_008",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If for an edition of the book, the cost of paper is Rs. 56250, then find the promotion cost for this edition.",
+      "options": [
+        "Rs. 20,000",
+        "Rs. 22,500",
+        "Rs. 25,500",
+        "Rs. 28,125"
+      ],
+      "answer": "B",
+      "explanation": "Let the Promotion Cost for this edition be Rs. p.\n\n[TABLE]",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_009",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which two expenditures together have central angle of 108°?",
+      "options": [
+        "Binding Cost and Transportation Cost",
+        "Printing Cost and Paper Cost",
+        "Royalty and Promotion Cost",
+        "Binding Cost and Paper Cost"
+      ],
+      "answer": "A",
+      "explanation": "[TABLE] \n\n = 30% of the total expenditure.\n\nFrom the pie chart it is clear that:\n\n[TABLE]\n\n Binding Cost and Transportation Cost together have a central angle of 108°.",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_010",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What percentage of Indian tourist went to either USA or UK ?",
+      "options": [
+        "40 %",
+        "50 %",
+        "60 %",
+        "70 %"
+      ],
+      "answer": "B",
+      "explanation": "(40+10) = 50% (from first chart)",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_011",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The ratio of the number of Indian tourists that went to USA to the number of Indian tourists who were below 30 years of age is ?",
+      "options": [
+        "2:1",
+        "8:3",
+        "3:8",
+        "Cannot be determined"
+      ],
+      "answer": "B",
+      "explanation": "40:15 = 8:3",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_012",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If amongst other countries, Switzerland accounted for 25% of the Indian tourist traffic, and it is known from official Swiss records that a total of 25 lakh Indian tourists had gone to Switzerland during the year, then find the number of 30-39 year old Indian tourists who went abroad in that year ?",
+      "options": [
+        "18.75 lakh",
+        "25 lakh",
+        "50 lakh",
+        "75 lakh"
+      ],
+      "answer": "D",
+      "explanation": "Tourist traffic from other countries to Swiz is 20%.\n\nAmongst this 20%, 25% of traffic from India.\n\nSo, 25% of 20% = 5% corresponds to the Indian traffic in Switzerland.\n\n5 % corresponds to Switzerland's 25 lakh. Hence 15% will be 75 lakh.",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_013",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What percentage of proteins of the human body is equivalent to the weight of its skin ?",
+      "options": [
+        "41.66 %",
+        "43.33 %",
+        "44.44 %",
+        "Cannot be determined"
+      ],
+      "answer": "A",
+      "explanation": "Total percentage = (10 / 24) x 100 = 41.6666667 %",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_014",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "How much of the human body is neither made of bones or skin ?",
+      "options": [
+        "40 %",
+        "50 %",
+        "60 %",
+        "70 %"
+      ],
+      "answer": "D",
+      "explanation": "20 + 10 = 30% is made up of either bones or skin. Hence, 70% is made up of neither.",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_015",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What is the ratio of the distribution of proteins in the muscles to that of the distribution of proteins in the bones ?",
+      "options": [
+        "2:1",
+        "2:3",
+        "3:2",
+        "Cannot be determined"
+      ],
+      "answer": "D",
+      "explanation": "It cannot be determined since the respective distributions are not known.",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_016",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "For the year 2005, which company has realised the lowest average unit sales price for a PC ?",
+      "options": [
+        "Commodore",
+        "IBM",
+        "Tandy",
+        "Cannot be determined"
+      ],
+      "answer": "D",
+      "explanation": "Although it seems to be Commodore, the answer cannot be determined due to the fact that we are unaware of the break-up of the sales value and volume of companies compromising the other categories.",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_017",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Over the period 2005-2006, if sales (value-wise) of IBM PC's increased by 50% and of Apple by 15% assuming that PC sales of all other computer companies remained the same, by what percentage (approximately) would the PC sales in New York (value-wise) increase over the same period ?",
+      "options": [
+        "16.1 %",
+        "18 %",
+        "14 %",
+        "None of these"
+      ],
+      "answer": "A",
+      "explanation": "If we assume the total sales to be 100 in the first year, IBM's sales would go up by 50% (from 28 to 42) contributing an increase of 14 to the total sales value.\n\nSimilarly, Apple's increase of 15% would contribute an increase of 2.1 to the total sales value. The net change would be 14 + 2.1 on 100. (i.e., 16.1%)",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_018",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In 2005, the average unit sale price of an IBM PC was approximately (in US$)",
+      "options": [
+        "3180",
+        "2800",
+        "393",
+        "3080"
+      ],
+      "answer": "D",
+      "explanation": "IBM accounts for 28% of the share by value and 10% of the share by volume.\n\n28% of 1650000 = 28 x 1650000/100 = 462000\n\n10% of 1500 = 10 x 1500/100 = 150\n\nTherefore, average unit sale price = 462000/150 = 3080.",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_019",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Near about 20% of the funds are to be arranged through:",
+      "options": [
+        "SPVS",
+        "External Assistance",
+        "Annuity",
+        "Market Borrowing"
+      ],
+      "answer": "B",
+      "explanation": "[TABLE]\n\nRs. 11486 crores is the amount of funds to be arranged through External Assistance.",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_020",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If NHAI could receive a total of Rs. 9695 crores as External Assistance, by what percent (approximately) should it increase the Market Borrowing to arrange for the shortage of funds?",
+      "options": [
+        "4.5%",
+        "7.5%",
+        "6%",
+        "8%"
+      ],
+      "answer": "C",
+      "explanation": "[TABLE]\n\n Increase required in Market Borrowing = Rs. 1791 crores.\n\n[TABLE]",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_021",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If the toll is to be collected through an outsourced agency by allowing a maximum 10% commission, how much amount should be permitted to be collected by the outsourced agency, so that the project is supported with Rs. 4910 crores?",
+      "options": [
+        "Rs. 6213 crores",
+        "Rs. 5827 crores",
+        "Rs. 5401 crores",
+        "Rs. 5316 crores"
+      ],
+      "answer": "C",
+      "explanation": "[TABLE]",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_022",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The central angle corresponding to Market Borrowing is",
+      "options": [
+        "52°",
+        "137.8°",
+        "187.2°",
+        "192.4°"
+      ],
+      "answer": "C",
+      "explanation": "[TABLE]",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_023",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The approximate ratio of the funds to be arranged through Toll and that through Market Borrowing is",
+      "options": [
+        "2 : 9",
+        "1 : 6",
+        "3 : 11",
+        "2 : 5"
+      ],
+      "answer": "B",
+      "explanation": "[TABLE]",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_024",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What is the total number of graduate and post-graduate level students is institute R?",
+      "options": [
+        "8320",
+        "7916",
+        "9116",
+        "8099"
+      ],
+      "answer": "D",
+      "explanation": "[TABLE]",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_025",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What is the ratio between the number of students studying at post-graduate and graduate levels respectively from institute S?",
+      "options": [
+        "14 : 19",
+        "19 : 21",
+        "17 : 21",
+        "19 : 14"
+      ],
+      "answer": "D",
+      "explanation": "[TABLE]",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_026",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "How many students of institutes of M and S are studying at graduate level?",
+      "options": [
+        "7516",
+        "8463",
+        "9127",
+        "9404"
+      ],
+      "answer": "B",
+      "explanation": "Students of institute M at graduate level= 17% of 27300 = 4641.\n\nStudents of institute S at graduate level = 14% of 27300 = 3822.\n\n[TABLE]",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_027",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What is the ratio between the number of students studying at post-graduate level from institutes S and the number of students studying at graduate level from institute Q?",
+      "options": [
+        "13 : 19",
+        "21 : 13",
+        "13 : 8",
+        "19 : 13"
+      ],
+      "answer": "D",
+      "explanation": "[TABLE]",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_028",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Total number of students studying at post-graduate level from institutes N and P is",
+      "options": [
+        "5601",
+        "5944",
+        "6669",
+        "8372"
+      ],
+      "answer": "C",
+      "explanation": "[TABLE]",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_029",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If the population of village R in 1997 is 32000, then what will be the population of village Y below poverty line in that year?",
+      "options": [
+        "14100",
+        "15600",
+        "16500",
+        "17000"
+      ],
+      "answer": "B",
+      "explanation": "Population of village R = 32000 (given).\n\nLet the population of village Y be y.\n\n[TABLE]\n\n Population of village Y below poverty line = 52% of 30000 = 15600.",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_030",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The ratio of population of village T below poverty line to that of village Z below poverty line in 1997 is:",
+      "options": [
+        "11 : 23",
+        "13 : 11",
+        "23 : 11",
+        "11 : 13"
+      ],
+      "answer": "C",
+      "explanation": "Let N be the total population of all the seven villages.\n\nThen, population of village T below poverty line = 46% of (21% of N)\n\nand Population of villages Z below the poverty line = 42% of (11% of N)\n\n[TABLE]",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_031",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find the population of village S if the population of village X below poverty line in 1997 is 12160.",
+      "options": [
+        "18500",
+        "20500",
+        "22000",
+        "26000"
+      ],
+      "answer": "C",
+      "explanation": "Let the population of village X be x.\n\n[TABLE]\n\n \n Now, if s be the population of village S, then\n\n \n \n[TABLE]",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_032",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If in 1998, the population of villages Y and V increase by 10% each and the percentage of population below poverty line remains unchanged for all the villages, then find the population of village V below poverty line in 1998, given that the population of village Y in 1997 was 30000.",
+      "options": [
+        "11250",
+        "12760",
+        "13140",
+        "13780"
+      ],
+      "answer": "B",
+      "explanation": "Population of village Y in 1997 = 30000 (given).\n\nLet the population of village V in 1997 be v.\n\n[TABLE]\n\nNow, population of village V in 1998 = 20000 + (10% of 20000) = 22000.\n\n Population of village V below poverty line in 1998 = 58% of 22000 = 12760.",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_033",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In the corporate sector, approximately how many degrees should be there in the central angle ?",
+      "options": [
+        "120",
+        "121",
+        "122",
+        "123"
+      ],
+      "answer": "C",
+      "explanation": "34 x 3.6 = 122.4 (since 1% = 3.6 degrees)",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_034",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If the investment by NRI's are Rs 4,000 crore, then the investments by corporate houses and FII's together is:",
+      "options": [
+        "24,000 crore",
+        "24,363 crore",
+        "25,423 crore",
+        "25,643 crore"
+      ],
+      "answer": "B",
+      "explanation": "(67/11) x 4000 = 24 363.6364",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_035",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What percentage of the total investment is coming from FII's and NRI's ?",
+      "options": [
+        "33 %",
+        "11 %",
+        "44 %",
+        "22 %"
+      ],
+      "answer": "C",
+      "explanation": "(33 + 11) = 44",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_036",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If the total investment other than by FII and corporate houses is Rs 335,000 crore, then the investment by NRI's and Offshore funds will be (approximately) ?",
+      "options": [
+        "274,100",
+        "285,600",
+        "293,000",
+        "Cannot be determined"
+      ],
+      "answer": "A",
+      "explanation": "Investment other than NRI and corporate houses is 33% = 335000. Also, investment by offshore funds and NRI's is equal to 27%.\n\nHence, 27 x 335,000/33 = 274 090.909",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_037",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If the total investment flows from FII's were to be doubled in the next year and the investment flows from all other sources had remained constant at their existing levels for this year, then what would be the proportion of FII investment in the total investment into India Bonds next year (in US $ millions) ?",
+      "options": [
+        "40 %",
+        "50 %",
+        "60 %",
+        "70 %"
+      ],
+      "answer": "B",
+      "explanation": "FII's currently account for 33 out of 100. \n\nIf their value is doubled and all other investments are kept constant then their new value would be 66 out of 133 = approximately equal to 50%",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_038",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What percent of total spending is spent on Tennis?",
+      "options": [
+        "[TABLE]",
+        "[TABLE]",
+        "25%",
+        "45%"
+      ],
+      "answer": "A",
+      "explanation": "[TABLE]",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_039",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "How much percent more is spent on Hockey than that on Golf?",
+      "options": [
+        "27%",
+        "35%",
+        "37.5%",
+        "75%"
+      ],
+      "answer": "D",
+      "explanation": "Let the total spendings on sports be Rs. x. Then,\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_040",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If the total amount spent on sports during the year be Rs. 1,80,00,000 , the amount spent on Basketball exceeds on Tennis by:",
+      "options": [
+        "Rs. 2,50,000",
+        "Rs. 3,60,000",
+        "Rs. 3,75,000",
+        "Rs. 4,10,000"
+      ],
+      "answer": "A",
+      "explanation": "Amount spent on Basketball exceeds that on Tennis by:\n\n[TABLE]",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_041",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "How much percent less is spent on Football than that on Cricket?",
+      "options": [
+        "[TABLE]",
+        "27%",
+        "[TABLE]",
+        "[TABLE]"
+      ],
+      "answer": "C",
+      "explanation": "Let the total spendings on sports be Rs. x. Then,\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_042",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If the total amount spent on sports during the year was Rs. 2 crores, the amount spent on Cricket and Hockey together was:",
+      "options": [
+        "Rs. 8,00,000",
+        "Rs. 80,00,000",
+        "Rs. 1,20,00,000",
+        "Rs. 1,60,00,000"
+      ],
+      "answer": "B",
+      "explanation": "[TABLE]\n \n\n \n = Rs. 0.8 crores\n\n \n = Rs. 80,00,000.",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_043",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What percentage of candidates passed the Exam from institute T out of the total number of candidates enrolled from the same institute?",
+      "options": [
+        "50%",
+        "62.5%",
+        "75%",
+        "80%"
+      ],
+      "answer": "C",
+      "explanation": "[TABLE]",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_044",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which institute has the highest percentage of candidates passed to the candidates enrolled?",
+      "options": [
+        "Q",
+        "R",
+        "V",
+        "T"
+      ],
+      "answer": "B",
+      "explanation": "The percentage of candidates passed to candidates enrolled can be determined for each institute as under:\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\nHighest of these is 86.67% corresponding to institute R.",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_045",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The number of candidates passed from institutes S and P together exceeds the number of candidates enrolled from institutes T and R together by:",
+      "options": [
+        "228",
+        "279",
+        "399",
+        "407"
+      ],
+      "answer": "C",
+      "explanation": "[TABLE]",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_046",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What is the percentage of candidates passed to the candidates enrolled for institutes Q and R together?",
+      "options": [
+        "68%",
+        "80%",
+        "74%",
+        "65%"
+      ],
+      "answer": "B",
+      "explanation": "[TABLE]\n\n[TABLE]\n \n\n \n \n [TABLE]\n \n\n \n = 80%.",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_047",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What is the ratio of candidates passed to the candidates enrolled from institute P?",
+      "options": [
+        "9 : 11",
+        "14 : 17",
+        "6 : 11",
+        "9 : 17"
+      ],
+      "answer": "C",
+      "explanation": "[TABLE]",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_048",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What percent of the total weight of human body is equivalent to the weight of the proteins in skin in human body?",
+      "options": [
+        "0.016",
+        "1.6",
+        "0.16",
+        "Data inadequate"
+      ],
+      "answer": "B",
+      "explanation": "Let the body weight be x kg.\n\n[TABLE]\n \n\n \n \n [TABLE]\n \n\n[TABLE]\n \n x 100\n \n % = 1.6%.\n\n x",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_049",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What will be the quantity of water in the body of a person weighing 50 kg?",
+      "options": [
+        "20 kg",
+        "35 kg",
+        "41 kg",
+        "42.5 kg"
+      ],
+      "answer": "B",
+      "explanation": "[TABLE]",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_051",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "To show the distribution of proteins and other dry elements in the human body, the arc of the circle should subtend at the centre an angle of:",
+      "options": [
+        "54°",
+        "126°",
+        "108°",
+        "252°"
+      ],
+      "answer": "C",
+      "explanation": "[TABLE]",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_052",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In the human body, what part is made of neither bones nor skin?",
+      "options": [
+        "[TABLE]",
+        "[TABLE]",
+        "[TABLE]",
+        "None of these"
+      ],
+      "answer": "D",
+      "explanation": "[TABLE]",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_053",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What will be the percentage of total number of males in U.P., M.P. and Goa together to the total population of all the given states?",
+      "options": [
+        "25%",
+        "27.5%",
+        "28.5%",
+        "31.5%"
+      ],
+      "answer": "C",
+      "explanation": "[TABLE]\n\nwhere N = 3276000.\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n \n\n \n \n [TABLE]\n \n\n[TABLE]\n \n x 100\n \n % = 28.5%.\n\n N",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_054",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What was the total number of illiterate people in A.P. and M.P. in 1998?",
+      "options": [
+        "876040",
+        "932170",
+        "981550",
+        "1161160"
+      ],
+      "answer": "D",
+      "explanation": "[TABLE]\n\n[TABLE]\n\n Total number = (637000 + 524160) = 1161160.",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_055",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What is the ratio of the number of females in T.N. to the number of females in Delhi?",
+      "options": [
+        "7 : 5",
+        "9 : 7",
+        "13 : 11",
+        "15 : 14"
+      ],
+      "answer": "D",
+      "explanation": "[TABLE]\n \n \n \n \n [TABLE]\n \n \n \n \n \n\n \n \n \n [TABLE]\n \n \n \n \n [TABLE]\n \n \n \n \n \n\n \n \n \n [TABLE]\n \n \n\n \n \n \n [TABLE]",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_056",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What was the number of males in U.P. in the year 1998?",
+      "options": [
+        "254650",
+        "294840",
+        "321470",
+        "341200"
+      ],
+      "answer": "B",
+      "explanation": "[TABLE]\n \n\n \n \n [TABLE]\n \n\n \n = 294840.",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "quant_piecha_057",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If in the year 1998, there was an increase of 10% in the population of U.P. and 12% in the population of M.P. compared to the previous year, then what was the ratio of populations of U.P. and M.P. in 1997?",
+      "options": [
+        "42 : 55",
+        "48 : 55",
+        "7 : 11",
+        "4 : 5"
+      ],
+      "answer": "A",
+      "explanation": "Let x be the population of U.P. in 1997. Then,\n\n[TABLE]\n\nAlso, let y be the population of M.P. in 1997. Then,\n\n[TABLE]\n\n[TABLE]\n \n =\n 110x \n .\n\n \n [TABLE]\n \n 112y\n\n[TABLE]\n\n[TABLE]\n\nThus, ratio of populations of U.P. and M.P. in 1997 = x : y = 42 : 55.",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    }
+  ]
+}

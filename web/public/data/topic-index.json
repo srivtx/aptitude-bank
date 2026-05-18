@@ -1,15 +1,85 @@
 {
-  "generated_at": "2026-05-17T23:44:16.763Z",
-  "total_topics": 42,
-  "total_questions": 508,
+  "generated_at": "2026-05-18T00:09:11.340Z",
+  "total_topics": 49,
+  "total_questions": 908,
   "total_company_questions": 25,
   "total_patterns": 15,
   "categories": {
-    "quant": 22,
-    "reasoning": 11,
+    "quant": 25,
+    "reasoning": 15,
     "verbal": 9
   },
   "topics": [
+    {
+      "id": "reading_comprehension",
+      "name": "Reading Comprehension",
+      "category": "verbal",
+      "total_questions": 161,
+      "difficulty_distribution": {
+        "easy": 110,
+        "medium": 51,
+        "hard": 0
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "bar_charts",
+      "name": "Bar Charts",
+      "category": "quant",
+      "total_questions": 90,
+      "difficulty_distribution": {
+        "easy": 28,
+        "medium": 61,
+        "hard": 1
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "pie_charts",
+      "name": "Pie Charts",
+      "category": "quant",
+      "total_questions": 56,
+      "difficulty_distribution": {
+        "easy": 30,
+        "medium": 25,
+        "hard": 1
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "line_charts",
+      "name": "Line Charts",
+      "category": "quant",
+      "total_questions": 50,
+      "difficulty_distribution": {
+        "easy": 12,
+        "medium": 35,
+        "hard": 3
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "seating_arrangement",
+      "name": "Seating Arrangement",
+      "category": "reasoning",
+      "total_questions": 44,
+      "difficulty_distribution": {
+        "easy": 40,
+        "medium": 4,
+        "hard": 0
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
     {
       "id": "percentages",
       "name": "Percentages",
@@ -572,34 +642,6 @@
       ]
     },
     {
-      "id": "seating_arrangement",
-      "name": "Seating Arrangement",
-      "category": "reasoning",
-      "total_questions": 3,
-      "difficulty_distribution": {
-        "easy": 2,
-        "medium": 1,
-        "hard": 0
-      },
-      "sources": [
-        "IndiaBIX"
-      ]
-    },
-    {
-      "id": "reading_comprehension",
-      "name": "Reading Comprehension",
-      "category": "verbal",
-      "total_questions": 3,
-      "difficulty_distribution": {
-        "easy": 2,
-        "medium": 1,
-        "hard": 0
-      },
-      "sources": [
-        "IndiaBIX"
-      ]
-    },
-    {
       "id": "cubes_and_dices",
       "name": "Cubes and Dices",
       "category": "reasoning",
@@ -607,6 +649,62 @@
       "difficulty_distribution": {
         "easy": 1,
         "medium": 1,
+        "hard": 0
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "mirror_images",
+      "name": "Mirror Images",
+      "category": "reasoning",
+      "total_questions": 2,
+      "difficulty_distribution": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 1
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "embedded_images",
+      "name": "Embedded Images",
+      "category": "reasoning",
+      "total_questions": 1,
+      "difficulty_distribution": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "paper_folding",
+      "name": "Paper Folding",
+      "category": "reasoning",
+      "total_questions": 1,
+      "difficulty_distribution": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "pattern_completion",
+      "name": "Pattern Completion",
+      "category": "reasoning",
+      "total_questions": 1,
+      "difficulty_distribution": {
+        "easy": 1,
+        "medium": 0,
         "hard": 0
       },
       "sources": [

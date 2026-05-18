@@ -2,11 +2,11 @@
   "metadata": {
     "topic": "Verbal Ability",
     "subtopic": "reading_comprehension",
-    "total_questions": 3,
+    "total_questions": 161,
     "sources": [
       "IndiaBIX"
     ],
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18"
   },
   "questions": [
     {
@@ -29,9 +29,9 @@
       ],
       "answer": "C",
       "explanation": "No answer description is available. Let's discuss.",
-      "shortcut": "Read question first, then scan passage for keywords",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
       "formula_used": "",
-      "trap_type": "Choosing an option that is mentioned but not the main point",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
       "source": "IndiaBIX",
       "source_url": "",
       "pattern_detected": ""
@@ -56,9 +56,9 @@
       ],
       "answer": "C",
       "explanation": "No answer description is available. Let's discuss.",
-      "shortcut": "Read question first, then scan passage for keywords",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
       "formula_used": "",
-      "trap_type": "Choosing an option that is mentioned but not the main point",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
       "source": "IndiaBIX",
       "source_url": "",
       "pattern_detected": ""
@@ -83,9 +83,4275 @@
       ],
       "answer": "D",
       "explanation": "No answer description is available. Let's discuss.",
-      "shortcut": "Read question first, then scan passage for keywords",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
       "formula_used": "",
-      "trap_type": "Choosing an option that is mentioned but not the main point",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_004",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The phrase 'Preoccupied grandmotherly air' signifies",
+      "options": [
+        "being totally unconcerned",
+        "pretending to be very busy",
+        "a very superior attitude",
+        "calm, dignified and affectionate disposition"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_005",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "From the passage it appears that the author was",
+      "options": [
+        "an inexperienced hunter",
+        "kind and considerate",
+        "possessed with fear",
+        "a worried man"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_006",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The author did not want to shoot the elephant because he",
+      "options": [
+        "was afraid of it",
+        "did not have the experience of shooting big animals",
+        "did not wish to kill animal which was not doing anybody any harm",
+        "did not find the elephant to be ferocious"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_007",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In his dream Harold found the loathsome creatures",
+      "options": [
+        "in his village",
+        "in his own house",
+        "in a different land",
+        "in his office"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_008",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which one of the following phrases best helps to bring out the precise meaning of 'loathsome creatures'?",
+      "options": [
+        "Security bug and slimy tentacles",
+        "Fearful dream and slug-like animals",
+        "Slimy tentacles and slug-like animals",
+        "slug-like animals and security bug"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_009",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The statement that 'he later threw off the security bug' means that",
+      "options": [
+        "Harold succeeded in overcoming the need for security",
+        "Harold stopped giving much importance to dreams",
+        "Harold started tolerating social victimisation",
+        "Harold killed all the bugs troubled him"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_010",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Harold's dream was fearful because",
+      "options": [
+        "it brought him face to face with reality",
+        "it was full of vivid pictures of snakes",
+        "he saw huge elephant in it",
+        "in it he saw slimy creatures feeding on people's bodies"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_011",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If a piece of matter violates nature's law, it is not punished because",
+      "options": [
+        "it is not binding to obey it",
+        "there is no superior being to enforce the law of nature",
+        "it cannot be punished",
+        "it simply means that the facts have not been correctly stated by law"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_012",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Laws of nature differ from man-made laws because",
+      "options": [
+        "the former state facts of Nature",
+        "they must be obeyed",
+        "they are natural",
+        "unlike human laws, they are systematic"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_013",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The laws of nature based on observation are",
+      "options": [
+        "conclusion about the nature of the universe.",
+        "true and unfalsifiable.",
+        "figments of the observer imagination.",
+        "subject to change in the light of new facts."
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_014",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The author is not happy with word 'law' because",
+      "options": [
+        "it connotes rigidity and harshness",
+        "it implies an agency which has made them",
+        "it does not convey the sense of nature's uniformity",
+        "it gives rise to false beliefs"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_015",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "According to the passage male lions generally do not go for huntings because",
+      "options": [
+        "they don not like it.",
+        "they want lioness to get training",
+        "they wish to save their vigour for other things",
+        "they are very lazy"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_016",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Male lions protect their cubs",
+      "options": [
+        "from the members of their own species",
+        "from hyenas only",
+        "from hyenas as much as from other enemies",
+        "more from hyenas than from other animals"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_017",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Lioness go for hunting",
+      "options": [
+        "all alone",
+        "with their male partners only",
+        "with their cubs and male partners",
+        "with their cubs only"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_018",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "When the lionesses go in search for their prey, they are very",
+      "options": [
+        "serious",
+        "cautious",
+        "playful",
+        "sluggish"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_019",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "According to the author of 'Mentality' of a nation is mainly product of its",
+      "options": [
+        "history",
+        "international position",
+        "politics",
+        "present character"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_020",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The need for a greater understanding between nations",
+      "options": [
+        "was always there",
+        "is no longer there",
+        "is more today than ever before",
+        "will always be there"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_021",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The character of a nation is the result of its",
+      "options": [
+        "mentality",
+        "cultural heritage",
+        "gross ignorance",
+        "socio-political conditions"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_022",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "According to the author his countrymen should",
+      "options": [
+        "read the story of other nations",
+        "have a better understanding of other nations",
+        "not react to other actions",
+        "have vital contacts with other nations"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_023",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Englishmen like others to react to political situations like",
+      "options": [
+        "us",
+        "themselves",
+        "others",
+        "each others"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_024",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The employees in our country",
+      "options": [
+        "are quite punctual but not duty conscious",
+        "are not punctual, but somehow manage to complete their work",
+        "are somewhat lazy but good natured",
+        "are not very highly qualified"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_025",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "According to the writer, the administration in India",
+      "options": [
+        "is by and large effective",
+        "is very strict and firm",
+        "is affected by red tape",
+        "is more or less ineffective"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_026",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The word 'assessment' means",
+      "options": [
+        "enquiry",
+        "report",
+        "evaluation",
+        "summary"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_027",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The leadership in administration",
+      "options": [
+        "sets a fine example to the employees",
+        "is of a reasonably high standard",
+        "is composed of idealists",
+        "is of a very poor standard"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_028",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The central idea of passage could be best expressed by the following",
+      "options": [
+        "The employee outlook towards work is justified",
+        "The employee must change their outlook towards work",
+        "The employees would never change their work culture",
+        "The employer-employee relationship is far from healthy"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_029",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The best way to win a friend is to avoid",
+      "options": [
+        "irony in speech",
+        "pomposity in speech",
+        "verbosity in speech",
+        "ambiguity in speech"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_030",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "While talking to an uneducated person, we should use",
+      "options": [
+        "ordinary speech",
+        "his vocabulary",
+        "simple words",
+        "polite language"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_031",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If one used the same style of language with everyone, one would sound",
+      "options": [
+        "flat",
+        "boring",
+        "foolish",
+        "democratic"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_032",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A 'slip of the tongue' means something said",
+      "options": [
+        "wrongly by choice",
+        "unintentionally",
+        "without giving proper thought",
+        "to hurt another person"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_033",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Speech can be curse, because it can",
+      "options": [
+        "hurt others",
+        "lead to carelessness",
+        "create misunderstanding",
+        "reveal our intentions"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_034",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The meaning of 'glittering prizes that the 20th century so temptingly offers is",
+      "options": [
+        "pursuit of a commercialised material culture",
+        "replacement of rural by urban interests",
+        "complete removal of poverty",
+        "absence of violence and corruption"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_035",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The basis of 'an idyllic and rural paradise' is",
+      "options": [
+        "rapid industrialisation of villages",
+        "self sufficiency in food clothes and simplicity of the lifestyle",
+        "bringing to the villages the glittering prizes of the 20th century",
+        "supporting those holdings powerful political positions"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_036",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which one of the following best illustrates the relationship between the phrases:\n\n(i) 'eschew the glittering prizes' and \n (ii) 'idyllic and rural paradise'?",
+      "options": [
+        "unless you do (i), you cannot have (ii)",
+        "(i) and (ii) are identical in meaning",
+        "first of all you must have (ii) in order to do (i)",
+        "the meaning of (i) is directly opposite to (ii)"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_037",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Mahatma Gandhi's views opposed industrialisation of villages because",
+      "options": [
+        "it would help the poor and not the rich",
+        "it would take away the skill of the villagers",
+        "it would affect the culture of the Indians",
+        "it would undermine self-sufficiency and destroy the beauty of life of the villager"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_038",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Mahatma Gandhi's dream of 'an idyllic and rural paradise' was not shared by",
+      "options": [
+        "those who did not believe in the industrialisation of the country",
+        "those who called him the Father of Nation",
+        "those who inherited political powers after independence",
+        "those who believed that villages should be self-sufficient in food and cloth"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_039",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The theme of the passage is",
+      "options": [
+        "groupism in organizations",
+        "individual ambitions in organizations",
+        "frustration of senior managers",
+        "emergence of sectional interests in organizations"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_040",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "\"Organic system\" as related to the organization implies its",
+      "options": [
+        "growth with the help of expert knowledge",
+        "growth with input from science and technology",
+        "steady all around development",
+        "natural and unimpeded growth"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_041",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Policy decision in organization would involve",
+      "options": [
+        "cooperation at all levels in the organization",
+        "modernization of the organization",
+        "attracting highly qualified personnel",
+        "keeping in view the larger objectives of the organizations"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_042",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The author makes out a case for",
+      "options": [
+        "organic system",
+        "Research and Development in organisations",
+        "an understanding between senior and middle level executives",
+        "a refresher course for senior managers"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_043",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The author tends to the senior managers as",
+      "options": [
+        "ignorant and incompetent",
+        "a little out of step with their work environment",
+        "jealous of their younger colleagues",
+        "robbed of their rank, power and privilege"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_044",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which one of the following best describes the passage?",
+      "options": [
+        "It tell us about the usefulness of corduroy",
+        "It talks us about the virtues of corduroy",
+        "It persuades us to buy corduroy",
+        "It makes as understand the everlasting appeal of corduroy to the young"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_045",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "According to the author, the special quality of corduroy is that",
+      "options": [
+        "it needs no ironing",
+        "it combines the virtues of both cotton and velvet",
+        "it contains the correct mixture of cotton and velvet",
+        "both the rich and that not-so rich can afford to buy it"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_046",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Corduroy is a fabric for all seasons because",
+      "options": [
+        "it can be worn not only in winter but also in summer",
+        "of its peculiar texture and warmth",
+        "it is made popular by catchy advertisements",
+        "gentleman can wear it in both formal and informal occasions"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_047",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "According to the passage, corduroy is essential in a gentleman wardrobe because",
+      "options": [
+        "it goes with Wellington boots",
+        "its current revival gives a taste of the latest fashion",
+        "it has its associations with good upbringing and a conservative lifestyle",
+        "it can be an idea alternative to the woollen clothes"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_048",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "When the writer refers to corduroy's 'utilitarian tenacity' he means that",
+      "options": [
+        "though expensive, it is economic in the long run",
+        "it is useful because it is durable",
+        "it has remained fashionable over several years",
+        "it does not need frequent washing"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_049",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The distinction conferred by wealth",
+      "options": [
+        "was unfair to the poor",
+        "was unlikely to spread throughout the world",
+        "was very great when there were many rich people",
+        "was very great when there were few rich people"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_050",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The enjoyment of the physical possession of things",
+      "options": [
+        "is one of the privileges of wealth which has not been changed",
+        "is one of the privileges of wealth which should be curtailed",
+        "has little to do with the prerogatives of wealth",
+        "is a prerogative of wealth which cannot be disputed"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_051",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Ducal families in England",
+      "options": [
+        "are generally agreed to be fairly common",
+        "are generally agreed to be fairly superior",
+        "are superior because they are rich",
+        "are generally agreed not to be always better than others"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_052",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "There are more duchesses now because",
+      "options": [
+        "it is easier for dukes to divorce and remarry",
+        "dukes are more immoral than they used to be",
+        "there position has deteriorated",
+        "they are debased"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_053",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Among the ducal families",
+      "options": [
+        "there is great deal of immortality",
+        "there is a fairly even spread of virtues and vices",
+        "there is a great deal of bad taste",
+        "there is either great intelligence or great stupidity"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_054",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Nehru though that children",
+      "options": [
+        "were tailing clouds of glory",
+        "held promise for a better future",
+        "were like flowers to be loved and admired",
+        "held no hope for mankind"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_055",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Nehru enjoyed",
+      "options": [
+        "reading and writing books",
+        "fighting political and social evils",
+        "resisting tyranny",
+        "doing all the above and much more"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_056",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which of the statements reflects Nehru point of view?",
+      "options": [
+        "Humanism is more important than science",
+        "Science is supreme and humanism is subordinate to it",
+        "Science and Humanism are equally important",
+        "There is no ground between science and humanism"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_057",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In this passage, 'a benevolent power interested in men's affairs' means",
+      "options": [
+        "a supernatural power of god",
+        "beauty of nature",
+        "the spirit of science",
+        "the total man"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_058",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A 'many-side personality' means",
+      "options": [
+        "a complex personality",
+        "a secretive person",
+        "a person having varied interests",
+        "a capable person"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_059",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The reason Why Cyril made drawings of athletes was that",
+      "options": [
+        "though he admired them, he lacked a fine physique himself",
+        "he loved violent exercises",
+        "athletics was a passion with him",
+        "he had to complete an assignment"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_060",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Cyril dissected dead birds to",
+      "options": [
+        "see if he would like to become a doctor",
+        "please his grandmother",
+        "satisfy his curiosity",
+        "overcome the fear of act"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_061",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Until the end of first year, Cyril retained his interest in",
+      "options": [
+        "bird's eggs",
+        "butterflies and fossils",
+        "dissecting bird's",
+        "drawing pictures of athletes"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_062",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Cyril did not want to climb trees because he",
+      "options": [
+        "loved to play on the ground",
+        "was scared of falling down",
+        "disliked trees",
+        "thought it was childish"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_063",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Cyril's early schooling was in some ways like home life because",
+      "options": [
+        "he had all his old friends with him",
+        "the food and the climate were same as at home",
+        "he kept an doing what gave joy and recreation at home",
+        "his family visited him often"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_064",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The widespread use of insecticides has",
+      "options": [
+        "reduced the number of wild animals",
+        "caused imbalance in the relationship between living beings and their environment",
+        "eliminated diseases by killing mosquitoes and flies",
+        "caused biological hazards"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_065",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The passage emphasis that modern technology",
+      "options": [
+        "is an unmixed blessing",
+        "has caused serious hazards to life",
+        "has produced powerful chemicals",
+        "has benefited highly developed nations"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_066",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "According to the passage the increasing use of fertilisers is responsible for",
+      "options": [
+        "abundance of food",
+        "disturbance in the ecological system",
+        "water pollution",
+        "increase in diseases"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_067",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The harmful effects of modern technology are",
+      "options": [
+        "widespread but short-lived",
+        "widespread and long-lasting",
+        "limited and long-lasting",
+        "severe but short-lived"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_068",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Radioactive pollutants",
+      "options": [
+        "are limited in their effect",
+        "will infect the atmosphere for thousands of years",
+        "will be on the surface of earth for a very long time",
+        "will dissipate in short span of time"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_069",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In this passage the author is trying to",
+      "options": [
+        "explain the difference between the construction of the two bridges",
+        "describe the way different sections of people like to dress",
+        "explain the variety of ways in which strangers can be treated",
+        "describe how people of different classes behaved when unhappy"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_070",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "People belonging to lower strata in their moments of distress",
+      "options": [
+        "remembered the days of glory",
+        "dressed shabbily to earn sympathy",
+        "visited the brick made bridge",
+        "felt ashamed of their failures"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_071",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The attitude of lowly and genteel towards strangers was",
+      "options": [
+        "virtually the same",
+        "entirely different",
+        "completely indifferent",
+        "virulently hostile"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_072",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The bridge of stone was frequented by",
+      "options": [
+        "all the sections of society",
+        "those fond of fishing",
+        "the sophisticated but luckless",
+        "none of the above"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_073",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The two bridges were known",
+      "options": [
+        "for their similar design",
+        "for being equidistant from town",
+        "for being haunted places",
+        "for attracting dejected people to them"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_074",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The greatest problem in the middle of the passage refers to the question",
+      "options": [
+        "how to mitigate hardship to human beings",
+        "how to contain the dangers of aggressive nationalism.",
+        "how to share the economic burden equally",
+        "how to curb international hatred"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_075",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Negative national feeling can make a nation",
+      "options": [
+        "selfish",
+        "self-centred",
+        "indifferent",
+        "dangerous"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_076",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Suitable title for this passage can be",
+      "options": [
+        "Nationalism breeds unity",
+        "Nationalism - a road to world unity",
+        "Nationalism is not enough",
+        "Nationalism and national problems"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_077",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "'Others' in the last sentence refers to",
+      "options": [
+        "other people",
+        "other nations",
+        "other communities",
+        "other neighbours"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_078",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Aggressive nationalism",
+      "options": [
+        "breeds threat to international relations",
+        "leads to stunted growth",
+        "endangers national unity",
+        "isolates a country"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_079",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The passage mention James McCain",
+      "options": [
+        "as an author of detective stories",
+        "as brave, smart, and successful with women",
+        "as tough cunning and courageous",
+        "as being more impressive than others"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_080",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Murderers, gangsters and crooks referred to in the passage given above",
+      "options": [
+        "always manage to get away",
+        "are often glorified in detective stories",
+        "are wiser than their victims",
+        "know how to escape from law"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_081",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "According to this passage, a criminal in a detective story generally gets caught",
+      "options": [
+        "for the crimes he has committed",
+        "because of his careless mistakes",
+        "because the police is smarter than the criminals",
+        "for the crimes he has not committed"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_082",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "According to the passage, the life of a criminal",
+      "options": [
+        "is exciting",
+        "is hardly worth the risk",
+        "is seldom presented in the right perspective",
+        "ends in a triumph of justice"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_083",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "According to be passage given above, detective stories",
+      "options": [
+        "make interesting reading",
+        "are hardly worth reading",
+        "encourage readers to content crimes",
+        "tend to create wrong notion about crimes and punishment"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_084",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A person who aspires to lead could learn from the history of battles",
+      "options": [
+        "what led the previous leaders win a battle",
+        "what made them lose a battle",
+        "the qualities and deficiencies of commanders of these battles",
+        "the strategies that they have evolved in course of these battles"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_085",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In this context, \"intelligent interpretation of current event\" means",
+      "options": [
+        "rational explanation of events",
+        "appropriate understanding of events",
+        "intellectual outlook on events",
+        "skilful interpretation of events"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_086",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The expression \"more than a modicum of truth\" means",
+      "options": [
+        "some truth",
+        "much truth",
+        "more than a small amount of truth",
+        "nothing but truth"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_087",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "According to the writer, a study of famous battles of history would",
+      "options": [
+        "be beneficial to wise men",
+        "provide food to modern leaders for reflection",
+        "be more useful than a general knowledge of ancient history",
+        "help us understand the art of modern warfare"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_088",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A knowledge of history is necessary to interpret current problems because",
+      "options": [
+        "they have roots in the past",
+        "they can be contrasted with the past events",
+        "they may be repetitions of past events",
+        "only then they can be put in a proper context"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_089",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Evaluation of news would imply",
+      "options": [
+        "less dependence on modern systems of communication",
+        "more careful analysis of each news story and its value",
+        "separating beans from junk",
+        "discriminating horrors from disasters"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_090",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The writer of the above passage",
+      "options": [
+        "seems to be happy with the contemporary arrangements for circulating news",
+        "is shocked by the casual stories about horrors and disasters reported in the newspapers",
+        "wants better evaluation of news before publication",
+        "wants to put his foot down on news stories"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_091",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In the above passage, the phrase \"amounts to a row of beans\" means that the news",
+      "options": [
+        "is weak and often wanting entirely",
+        "deserves no one's attention",
+        "should travel the wires",
+        "is junk dressed up as real news"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_092",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Newspapers lack a sense of discrimination because",
+      "options": [
+        "they do not separate the real news from mere sensationalism",
+        "they have to accept whatever is received on the wires",
+        "limited manpower makes serious evolution impossible",
+        "people don't see the difference between 'junk' and 'real' news"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_093",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The passage implies that",
+      "options": [
+        "there has to be censorship on newspapers",
+        "there is no point in having censorship",
+        "newspapers always dress up junk to look meaningful",
+        "one has to be strict in selecting news items"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_094",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Children whose curiosity survives parental discipline means",
+      "options": [
+        "children retaining their curiosity in spite of being discouraged by their parents",
+        "children pursuing their mental curiosity",
+        "children's curiosity subdued due to parents intervention",
+        "children being disciplined by their parents"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_095",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "According to their passage, the children make life difficult for their parents",
+      "options": [
+        "by their ceaseless curiosity",
+        "by unceasing bombardment of questions",
+        "by asking irrelevant questions",
+        "by posing profound questions"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_096",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The common people consider some of the questions that the scholars ask unimportant",
+      "options": [
+        "as they are too lazy and idle",
+        "as they are too modest",
+        "as it's beyond their comprehension",
+        "as it is considered a waste of time"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_097",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A historian really studies the past",
+      "options": [
+        "to comprehend the present and to reconstruct the future",
+        "to explain the present and plan the future",
+        "to understand the present and make fortune",
+        "to understand the present and mould the future"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_098",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "According to their passage, parents do their best to discourage curiosity in their children",
+      "options": [
+        "because they have no time",
+        "because they have no patience to answer them",
+        "because they feel that their children ask stupid questions continuously",
+        "because they are unable to answer all the questions"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_099",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Dantes was in",
+      "options": [
+        "a hostel",
+        "a dining room",
+        "an army barracks",
+        "a prison"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_100",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Dantes heard the key grate in the lock when the",
+      "options": [
+        "cell door was shut",
+        "cell door was opened",
+        "storeroom was opened",
+        "storeroom was shut"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_101",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The guard left the fragments because he",
+      "options": [
+        "didn't notice them",
+        "wished to punish Dantes",
+        "was too lazy to bother",
+        "wanted Dantes to clear up"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_102",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Dantes probably broke the jug",
+      "options": [
+        "in the morning",
+        "during the night",
+        "after breakfast",
+        "at exactly 3pm"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_103",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Dantes was planning to",
+      "options": [
+        "carve his name",
+        "make his escape",
+        "tease the guard",
+        "call for breakfast"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_104",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In this passage, the phrase \"God in man\" implies",
+      "options": [
+        "God having assumed the shape of man",
+        "neither fully godly nor fully human",
+        "man being transformed into God",
+        "the divine qualities in man"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_105",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The author uses the expression 'ugly deformities' to show his indignation at",
+      "options": [
+        "political organisations",
+        "the liberation of human consciousness",
+        "selfishness and materialism of the people",
+        "the drunken orgies of power"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_106",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "According to the author, \"salvation\" of human beings lies in the",
+      "options": [
+        "extended trade relations",
+        "spiritual transformation of life",
+        "orgy of national pride",
+        "wholehearted participated in political organisations"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_107",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In the phrase \"the birth of Man in the consciousness of men\", AMn stands for",
+      "options": [
+        "power and arrogance",
+        "egocentricity",
+        "noble human qualities",
+        "an idealistic notion of the human self"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_108",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "People jeer at the 'birth of Man' in the human consciousness when they",
+      "options": [
+        "begin to think of themselves as God",
+        "become power hungry",
+        "restructure the social system",
+        "become mentally deranged"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_109",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Which of the following statements may be assumed to be false from the information in the passage?\n\n[TABLE]\nOf the above statements",
+      "options": [
+        "1 and 2 are false",
+        "1, 2 and 4 are false",
+        "3 and 4 are false",
+        "All 1, 2, 3, and 4 are false"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_110",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "According to the passage, Buddhist economists are not in favour of",
+      "options": [
+        "measuring everything in terms of money",
+        "using non-renewable sources",
+        "economic development",
+        "applying non-violence to every sphere of life"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_112",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Fill in the blanks with the appropriate pair of phrases:\nThe passage suggests that while a modern economist, considers it uneconomic to use ...... form of fuel, a Buddhist economist considers it uneconomic to use ...... form a fuel",
+      "options": [
+        "a cheap, a renewable",
+        "an irrational, an essential",
+        "an expensive, an non-renewable",
+        "a rational, an unessential"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_113",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The Buddhist economist's attitude implies that fuels like coal and oil must be used only if",
+      "options": [
+        "there is a plentiful supply",
+        "wood and water can be dispensed with",
+        "the relative cost of each is than of wood and water",
+        "there is no alternative fuel available"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_114",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "'Frozen ruts' means",
+      "options": [
+        "very cold roads",
+        "wheel marks in which frost had become hard",
+        "the road covered with frost",
+        "hard roads covered with snow"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_115",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The floor of the forest was soft because",
+      "options": [
+        "the forest did not harden it on account of trees",
+        "the travellers were wearing boots",
+        "the shoes had nails on their sole and heel",
+        "they enjoyed walking in the woods"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_116",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "We did not mind the hardness of road because",
+      "options": [
+        "we had nailed boots on",
+        "it was good walking on the road",
+        "the walk was refreshing",
+        "the nails bit on the frozen roads"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_117",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "We found great joy on account of",
+      "options": [
+        "wearing nailed boots",
+        "the good long walk on the road",
+        "walking occasionally through the forest",
+        "walking on frost with nailed boots on"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_118",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Sometimes we walked through the pine forest as",
+      "options": [
+        "the path was unaffected by the frost",
+        "it was good walking with nails in the boots",
+        "the walks was invigorating",
+        "it was sheer joy to walk in the forest"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_119",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The industry needs a literate work-force because",
+      "options": [
+        "its expansion needs sound learning",
+        "it relies heavily on expertise",
+        "it promotes a competitive spirit",
+        "its operations need intricate technical knowledge"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_120",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The author argues that",
+      "options": [
+        "formal education can be traced to industrial society",
+        "industrial society is responsible for expansion of education at mass level",
+        "industrial society gave rise to vocational education",
+        "industrial society changed the pattern of education"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_121",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The observation of the Sociologists are based on a study of",
+      "options": [
+        "the statistical data available in a historical context",
+        "economic system of the 19th century",
+        "the correlation between industry and education in a historical context",
+        "growth of industry 19th century"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_122",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The Sociologists referred to it in the passage say that the relationship between industry and elementary education was one",
+      "options": [
+        "based on mutual need",
+        "based entirely on the need of the industry",
+        "based entirely on economic need",
+        "based on some inexplicable historical forces"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_123",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "By 'functional relationship' is meant",
+      "options": [
+        "a short-term relationship",
+        "practical and utilitarian relationship",
+        "temporary arrangement",
+        "close and unbreakable relationship"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_124",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The intense Middle Class intensely yearns for",
+      "options": [
+        "better material resources",
+        "extensive practice of corruption",
+        "clean honest society",
+        "law of increasing returns"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_125",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Teachers are not high on the list of corruption because they do not have",
+      "options": [
+        "courage",
+        "opportunities",
+        "support",
+        "ambition"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_126",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The Indian Middle class is",
+      "options": [
+        "defiant",
+        "mysterious",
+        "homogeneous",
+        "stratified"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_127",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Who figure on top of the list of corruption?",
+      "options": [
+        "businessmen",
+        "lawyers",
+        "politicians",
+        "policemen"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_128",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "This yearning, over the years, has",
+      "options": [
+        "persisted",
+        "soared",
+        "declined",
+        "disappeared"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_129",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Piccadilly circus is",
+      "options": [
+        "the name of a circus company",
+        "a lonely and resounding old building",
+        "a centrally located area in London",
+        "a huge heap of ruins"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_131",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "According to this passage, people from outside London go to Piccadilly circus because it is",
+      "options": [
+        "a historical place",
+        "full of glamour",
+        "full of exciting people",
+        "the pulse of London"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_132",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "For those who live near Piccadilly circus, it is",
+      "options": [
+        "a very noisy place",
+        "crowded with people",
+        "an obstruction to traffic",
+        "an awkward structure"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_133",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The lingerers found in Piccadilly circus are mainly",
+      "options": [
+        "the citizens of London",
+        "sightseers from provincial areas of Britain",
+        "people who want to show off",
+        "local idlers"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_134",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In his childhood, the narrator was",
+      "options": [
+        "a weakling",
+        "very healthy",
+        "tall and slim",
+        "short and stout"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_135",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In this passage, the word 'brood' refers to",
+      "options": [
+        "polio victims",
+        "foreign children",
+        "children in the family",
+        "Indian Children"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_136",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The narrator was the seventh child in a family of",
+      "options": [
+        "8 children",
+        "16 children",
+        "23 children",
+        "4 children"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_137",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In this passage, the narrator is a patient of",
+      "options": [
+        "heart disease",
+        "polio",
+        "paralysis",
+        "nervous weakness"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_138",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In his childhood, the narrator looked \"more like a foreigner than a Dawood Bohri\" This was because he was",
+      "options": [
+        "a foreign child",
+        "a very healthy boy",
+        "tell and smart",
+        "fair and brown haired"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_139",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The expression \"others equally effective deterrents\" mean",
+      "options": [
+        "preventive weapons which have equal effect of others",
+        "mechanism which scares everyone equally well",
+        "preventive equipment which it is as effective as something that has been already mentioned in the passage",
+        "deterrents that are as powerful as those the caterpillars have"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_140",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Experienced birds do not attack the Himalayan caterpillars because they are",
+      "options": [
+        "repulsive",
+        "very aggressive",
+        "inedible",
+        "diseased"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_141",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The Himalayan caterpillar uses prominent colours to",
+      "options": [
+        "warn the predator",
+        "attack the predator",
+        "reveal itself",
+        "defend itself"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_142",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Caterpillars cannot defend themselves because",
+      "options": [
+        "are passive animals",
+        "are lazy",
+        "cannot acquire weapons",
+        "have no claws or jaws"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_143",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "In the context of this passage, a martyr is one who dies",
+      "options": [
+        "without putting up resistance",
+        "without any gain to oneself",
+        "while defending ones homeland",
+        "to save others"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_144",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A man of courage is",
+      "options": [
+        "cunning",
+        "intelligent",
+        "curious",
+        "careful"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_145",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Physical courage is an expression of",
+      "options": [
+        "emotions",
+        "deliberation",
+        "uncertainty",
+        "defiance"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_146",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A man with moral courage can",
+      "options": [
+        "defy his enemies",
+        "overcome all difficulties",
+        "face a situation boldly",
+        "be very pragmatic"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_147",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "People with physical courage of ten lack",
+      "options": [
+        "mental balance",
+        "capacity for reasoning",
+        "emotional stability",
+        "will to fight"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_148",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "All virtues become meaningful because of",
+      "options": [
+        "faith",
+        "charity",
+        "courage",
+        "hope"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_149",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "It is evident from the passage that the strength of a country's industry depends upon",
+      "options": [
+        "original research",
+        "international cooperation",
+        "dedicated workforce",
+        "electronic development"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_150",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The sad rule mentioned in this passage refers to",
+      "options": [
+        "the inability of the Japanese to be inventive like the British",
+        "the inability of the British to be industrious like the Japanese",
+        "the lack of variety in Japanese inventions",
+        "the poorer marketing ability of British"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_151",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The TSR Z hovercraft, high speed train, Sinclair scooter etc. are the symbols of",
+      "options": [
+        "Japanese success",
+        "British failure",
+        "British success",
+        "Japanese failure"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_152",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "According to the passage, prosperity in industry depends upon",
+      "options": [
+        "productivity",
+        "inventiveness",
+        "marketing ability",
+        "official patronage"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_153",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The main theme of this passage is",
+      "options": [
+        "electronic industry in Japan",
+        "industrial comparison between Japan and Britain",
+        "the role of marketing efficiency in industrial prosperity",
+        "the importance of original research in industry"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_154",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "\"The rules of the natural justice are not embodies rules\" means that these rules",
+      "options": [
+        "are left deliberately vague",
+        "cannot be satisfactorily interpreted",
+        "are flexible",
+        "cannot be visualised"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_155",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "From the passage it is clear that it is the legislature that",
+      "options": [
+        "invests the administrative authority with enormous powers",
+        "embodies rules",
+        "has the larger interests of public welfare",
+        "leaves administrative authority enough discretion to interpret rules"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_156",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "According to the passage, there is always a gap between",
+      "options": [
+        "rules of natural justice and their application",
+        "conception of a rule and its concretisation",
+        "demand for natural justice and its realisation",
+        "intention and execution"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_157",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "\"To dispense with a requirement\" means",
+      "options": [
+        "to do without the demand",
+        "to drop the charge",
+        "to cancel all formal procedure",
+        "to alter the provisions of the case"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_158",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "According to the passage, natural justice can be brought about by",
+      "options": [
+        "administrative authority remaining vigilant",
+        "administrative authority upholding rules of natural justice",
+        "administrative authority farming rules suitably",
+        "administrative authority observing the rules of fair play"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_159",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What does science liberate s from? It is liberate us from",
+      "options": [
+        "fears and destructive passions",
+        "slavery to physical nature and from passions",
+        "bondage to physical nature",
+        "idealistic hopes of glorious future"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_160",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Should human sciences be developed because they will",
+      "options": [
+        "provide more knowledge of the physical word",
+        "make us conscious of the changing world",
+        "make us conscious of the changing in ourselves",
+        "eliminate the destruction caused by a superficial knowledge of the physical world"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_161",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "If man's bestial yearning is controlled",
+      "options": [
+        "the future will be tolerable",
+        "the future will be brighter than the present",
+        "the present will be brighter than the future",
+        "the present will become tolerable"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_162",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Fears and hopes according to the author",
+      "options": [
+        "are closely linked with the life of modern man",
+        "can bear fruit",
+        "can yield good results",
+        "are irrational"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    },
+    {
+      "id": "verbal_readin_163",
+      "topic": "verbal",
+      "subtopic": "reading_comprehension",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "To carve out a bright future man should",
+      "options": [
+        "analyse dangers that lie ahead",
+        "try to avoid dangers",
+        "overcome fear and dangers",
+        "cultivate a positive outlook"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. Let's discuss.",
+      "shortcut": "Read the first and last sentence of each paragraph for main idea",
+      "formula_used": "",
+      "trap_type": "Choosing an option mentioned in passage but not answering the question",
       "source": "IndiaBIX",
       "source_url": "",
       "pattern_detected": ""

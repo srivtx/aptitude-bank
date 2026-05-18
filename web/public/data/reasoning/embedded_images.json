@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "topic": "Logical Reasoning",
+    "subtopic": "embedded_images",
+    "total_questions": 1,
+    "sources": [
+      "IndiaBIX"
+    ],
+    "last_updated": "2026-05-18"
+  },
+  "questions": [
+    {
+      "id": "reasoning_embedd_001",
+      "topic": "reasoning",
+      "subtopic": "embedded_images",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find out the alternative figure which contains figure (X) as its part.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "A",
+      "explanation": "",
+      "shortcut": "Rotate the given figure mentally and search for it in the options",
+      "formula_used": "",
+      "trap_type": "Looking for exact orientation; the figure may be rotated",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    }
+  ]
+}

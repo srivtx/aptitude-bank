@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "topic": "Logical Reasoning",
+    "subtopic": "pattern_completion",
+    "total_questions": 1,
+    "sources": [
+      "IndiaBIX"
+    ],
+    "last_updated": "2026-05-18"
+  },
+  "questions": [
+    {
+      "id": "reasoning_patter_001",
+      "topic": "reasoning",
+      "subtopic": "pattern_completion",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Identify the figure that completes the pattern.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "",
+      "shortcut": "Look for symmetry, rotation, or progression in the existing pattern",
+      "formula_used": "",
+      "trap_type": "Filling the blank without checking symmetry on both sides",
+      "source": "IndiaBIX",
+      "source_url": "",
+      "pattern_detected": ""
+    }
+  ]
+}

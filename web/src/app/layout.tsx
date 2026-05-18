@@ -41,6 +41,9 @@ export default function RootLayout({
                 <Link href="/roadmap" className="text-[var(--text-secondary)] hover:text-[var(--accent)] transition-colors">
                   Roadmap
                 </Link>
+                <Link href="/mock" className="text-[var(--text-secondary)] hover:text-[var(--accent)] transition-colors">
+                  Mock Tests
+                </Link>
                 <Link href="/bank" className="text-[var(--text-secondary)] hover:text-[var(--accent)] transition-colors">
                   Bank
                 </Link>
