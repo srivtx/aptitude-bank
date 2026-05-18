@@ -166,7 +166,9 @@ export default function TopicPractice({ data }: TopicPracticeProps) {
 
         {currentQuestion.passage && (
           <div className="mb-6 p-5 rounded-xl bg-[var(--background)] border border-[var(--border)] border-l-4 border-l-[var(--accent)]">
-            <h4 className="text-xs font-semibold uppercase tracking-wider text-[var(--accent)] mb-2">Passage</h4>
+            <h4 className="text-xs font-semibold uppercase tracking-wider text-[var(--accent)] mb-2">
+              {currentQuestion.subtopic.includes('chart') ? 'Chart Directions' : 'Passage'}
+            </h4>
             <p className="text-[var(--text-secondary)] leading-relaxed whitespace-pre-wrap">{currentQuestion.passage}</p>
           </div>
         )}

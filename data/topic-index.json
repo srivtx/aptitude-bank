@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-18T00:30:30.236Z",
+  "generated_at": "2026-05-18T00:37:36.632Z",
   "total_topics": 49,
-  "total_questions": 915,
+  "total_questions": 916,
   "total_company_questions": 25,
   "total_patterns": 15,
   "categories": {
@@ -30,9 +30,9 @@
       "category": "quant",
       "total_questions": 90,
       "difficulty_distribution": {
-        "easy": 28,
-        "medium": 61,
-        "hard": 1
+        "easy": 21,
+        "medium": 59,
+        "hard": 10
       },
       "sources": [
         "IndiaBIX"
@@ -42,11 +42,11 @@
       "id": "pie_charts",
       "name": "Pie Charts",
       "category": "quant",
-      "total_questions": 56,
+      "total_questions": 57,
       "difficulty_distribution": {
-        "easy": 30,
-        "medium": 25,
-        "hard": 1
+        "easy": 19,
+        "medium": 33,
+        "hard": 5
       },
       "sources": [
         "IndiaBIX"
@@ -58,9 +58,9 @@
       "category": "quant",
       "total_questions": 50,
       "difficulty_distribution": {
-        "easy": 12,
-        "medium": 35,
-        "hard": 3
+        "easy": 4,
+        "medium": 39,
+        "hard": 7
       },
       "sources": [
         "IndiaBIX"

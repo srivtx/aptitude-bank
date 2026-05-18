@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "topic": "Quantitative Aptitude",
+    "topic": "Data Interpretation",
     "subtopic": "line_charts",
     "total_questions": 50,
     "sources": [
@@ -33,8 +33,9 @@
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/",
+      "pattern_detected": "",
+      "passage": "Study the following line graph and answer the questions.\n\n Exports from Three Companies Over the Years (in Rs. crore)"
     },
     {
       "id": "quant_linech_002",
@@ -55,13 +56,14 @@
         "93.33%"
       ],
       "answer": "D",
-      "explanation": "Analysis of the graph: From the graph it is clear that\n\n The amount of exports of Company X (in crore Rs.) in the years 1993, 1994, 1995, 1996, 1997, 1998 and 1999 are 30, 60, 40, 70, 100, 50 and 120 respectively.\n\n The amount of exports of Company Y (in crore Rs.) in the years 1993, 1994, 1995, 1996, 1997, 1998 and 1999 are 80, 40, 60, 60, 80, 100 and 140 respectively.\n\n The amount of exports of Company Z (in crore Rs.) in the years 1993, 1994, 1995, 1996, 1997, 1998 and 1999 are 60, 90,, 120, 90, 60, 80 and 100 respectively.\n\nAverage annual exports (in Rs. crore) of Company Y during the given period\n \n\n[TABLE]\n\nAverage annual exports (in Rs. crore) of Company Z during the given period\n\n[TABLE]\n\n[TABLE]",
+      "explanation": "<u>Analysis of the graph: From the graph it is clear that</u>\n\n<ol style=\"font-family:inherit; font-size:inherit;\">\n <li>The amount of exports of Company X (in crore Rs.) in the years 1993, 1994, 1995, 1996, 1997, 1998 and 1999 are 30, 60, 40, 70, 100, 50 and 120 respectively.\n</li>\n <li>The amount of exports of Company Y (in crore Rs.) in the years 1993, 1994, 1995, 1996, 1997, 1998 and 1999 are 80, 40, 60, 60, 80, 100 and 140 respectively.\n</li>\n <li>The amount of exports of Company Z (in crore Rs.) in the years 1993, 1994, 1995, 1996, 1997, 1998 and 1999 are 60, 90,, 120, 90, 60, 80 and 100 respectively.\n</li>\n</ol>\n\nAverage annual exports (in Rs. crore) of Company Y during the given period\n \n\n[TABLE DATA]\n= | 1 | x (80 + 40 + 60 + 60 + 80 + 100 + 140) = | 560 | = 80.\n7 | 7\n[/TABLE DATA]\n\nAverage annual exports (in Rs. crore) of Company Z during the given period\n\n[TABLE DATA]\n= | 1 | x (60 + 90 + 120 + 90 + 60 + 80 + 100) = | | 600 | | .\n7 | 7\n[/TABLE DATA]\n\n[TABLE DATA]\nRequired percentage = | | 80 | x 100 | | % 93.33%.\n600 7 | | 600 | | 7\n | 600 | \n7\n[/TABLE DATA]",
       "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/",
+      "pattern_detected": "",
+      "passage": "Study the following line graph and answer the questions.\n\n Exports from Three Companies Over the Years (in Rs. crore)"
     },
     {
       "id": "quant_linech_003",
@@ -87,8 +89,9 @@
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/",
+      "pattern_detected": "",
+      "passage": "Study the following line graph and answer the questions.\n\n Exports from Three Companies Over the Years (in Rs. crore)"
     },
     {
       "id": "quant_linech_004",
@@ -109,13 +112,14 @@
         "Rs. 22.17 crores"
       ],
       "answer": "C",
-      "explanation": "Average exports of the three Companies X, Y and Z in 1993\n\n[TABLE]\n\nAverage exports of the three Companies X, Y and Z in 1998\n\n[TABLE]\n\n[TABLE]\n \n\n \n \n [TABLE]\n \n\n \n = Rs. 20 crores.",
+      "explanation": "Average exports of the three Companies X, Y and Z in 1993\n\n[TABLE DATA]\n= Rs. | | 1 | x (30 + 80 + 60) | | crores = Rs. | | 170 | | crores.\n3 | 3\n[/TABLE DATA]\n\nAverage exports of the three Companies X, Y and Z in 1998\n\n[TABLE DATA]\n= Rs. | | 1 | x (50 + 100 + 80) | | crores = Rs. | | 230 | | crores.\n3 | 3\n[/TABLE DATA]\n\n[TABLE DATA]\nDifference | = Rs. 230 - 170 crores 3 3 | = Rs. | | | 230 | | - | | 170 | | | crores | 3 | 3\n= Rs. | | | 230 | | - | | 170 | | | crores\n3 | 3\n | = Rs. 60 crores 3 | = Rs. | | 60 | | crores | 3\n= Rs. | | 60 | | crores\n3\n | = Rs. 20 crores.\n[/TABLE DATA]",
       "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/",
+      "pattern_detected": "",
+      "passage": "Study the following line graph and answer the questions.\n\n Exports from Three Companies Over the Years (in Rs. crore)"
     },
     {
       "id": "quant_linech_005",
@@ -136,13 +140,14 @@
         "5"
       ],
       "answer": "C",
-      "explanation": "Average annual exports of Company Z during the given period\n\n[TABLE]\n\n[TABLE]\n\n = Rs. 85.71 crores.\n\nFrom the analysis of graph the exports of Company Z are more than the average annual exports of Company Z (i.e., Rs. 85.71 crores) during the years 1994, 1995, 1996 and 1999, i.e., during 4 of the given years.",
+      "explanation": "Average annual exports of Company Z during the given period\n\n[TABLE DATA]\n= | 1 | x (60 + 90 + 120 + 90 + 60 + 80 + 100)\n7\n[/TABLE DATA]\n\n[TABLE DATA]\n= Rs. | | 600 | | crores\n7\n[/TABLE DATA]\n\n = Rs. 85.71 crores.\n\nFrom the analysis of graph the exports of Company Z are more than the average annual exports of Company Z (i.e., Rs. 85.71 crores) during the years 1994, 1995, 1996 and 1999, i.e., during 4 of the given years.",
       "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/",
+      "pattern_detected": "",
+      "passage": "Study the following line graph and answer the questions.\n\n Exports from Three Companies Over the Years (in Rs. crore)"
     },
     {
       "id": "quant_linech_006",
@@ -163,13 +168,14 @@
         "Rs. 420 crores"
       ],
       "answer": "D",
-      "explanation": "The ratio of imports to exports for the years 1998 and 1999 are 1.25 and 1.40 respectively.\n\nLet the exports in the year 1998 = Rs. x crores.\n\nThen, the exports in the year 1999 = Rs. (500 - x) crores.\n\n[TABLE]\n\nThus, the exports in the year 1999 = Rs. (500 - 200) crores = Rs. 300 crores.\n\nLet the imports in the year 1999 = Rs. y crores.\n\n[TABLE]\n\n Imports in the year 1999 = Rs. 420 crores.",
+      "explanation": "The ratio of imports to exports for the years 1998 and 1999 are 1.25 and 1.40 respectively.\n\nLet the exports in the year 1998 = Rs. x crores.\n\nThen, the exports in the year 1999 = Rs. (500 - x) crores.\n\n[TABLE DATA]\n1.25 = | 250 | x = | 250 | = 200 [Using ratio for 1998]\nx | 1.25\n[/TABLE DATA]\n\nThus, the exports in the year 1999 = Rs. (500 - 200) crores = Rs. 300 crores.\n\nLet the imports in the year 1999 = Rs. y crores.\n\n[TABLE DATA]\nThen, 1.40 = | y | y = (300 x 1.40) = 420.\n300\n[/TABLE DATA]\n\n[IMAGE] Imports in the year 1999 = Rs. 420 crores.",
       "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/023001",
+      "pattern_detected": "",
+      "passage": "The following line graph gives the ratio of the amounts of imports by a company to the amount of exports from that company over the period from 1995 to 2001.\n\n Ratio of Value of Imports to Exports by a Company Over the Years."
     },
     {
       "id": "quant_linech_007",
@@ -195,8 +201,9 @@
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/023001",
+      "pattern_detected": "",
+      "passage": "The following line graph gives the ratio of the amounts of imports by a company to the amount of exports from that company over the period from 1995 to 2001.\n\n Ratio of Value of Imports to Exports by a Company Over the Years."
     },
     {
       "id": "quant_linech_008",
@@ -222,8 +229,9 @@
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/023001",
+      "pattern_detected": "",
+      "passage": "The following line graph gives the ratio of the amounts of imports by a company to the amount of exports from that company over the period from 1995 to 2001.\n\n Ratio of Value of Imports to Exports by a Company Over the Years."
     },
     {
       "id": "quant_linech_009",
@@ -244,13 +252,14 @@
         "Rs. 275 crores"
       ],
       "answer": "B",
-      "explanation": "Ratio of imports to exports in the year 1996 = 0.85.\n\nLet the exports in 1996 = Rs. x crores.\n\n[TABLE]\n\n Exports in 1996 = Rs. 320 crores.",
+      "explanation": "Ratio of imports to exports in the year 1996 = 0.85.\n\nLet the exports in 1996 = Rs. x crores.\n\n[TABLE DATA]\nThen, | 272 | = 0.85 x = | 272 | = 320.\nx | 0.85\n[/TABLE DATA]\n\n[IMAGE] Exports in 1996 = Rs. 320 crores.",
       "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/023001",
+      "pattern_detected": "",
+      "passage": "The following line graph gives the ratio of the amounts of imports by a company to the amount of exports from that company over the period from 1995 to 2001.\n\n Ratio of Value of Imports to Exports by a Company Over the Years."
     },
     {
       "id": "quant_linech_010",
@@ -276,8 +285,9 @@
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/023001",
+      "pattern_detected": "",
+      "passage": "The following line graph gives the ratio of the amounts of imports by a company to the amount of exports from that company over the period from 1995 to 2001.\n\n Ratio of Value of Imports to Exports by a Company Over the Years."
     },
     {
       "id": "quant_linech_011",
@@ -303,8 +313,9 @@
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/024001",
+      "pattern_detected": "",
+      "passage": "Study the following line graph and answer the questions based on it.\n\n Number of Vehicles Manufactured by Two companies ove the Years (Number in Thousands)"
     },
     {
       "id": "quant_linech_012",
@@ -330,8 +341,9 @@
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/024001",
+      "pattern_detected": "",
+      "passage": "Study the following line graph and answer the questions based on it.\n\n Number of Vehicles Manufactured by Two companies ove the Years (Number in Thousands)"
     },
     {
       "id": "quant_linech_013",
@@ -352,13 +364,14 @@
         "111223"
       ],
       "answer": "A",
-      "explanation": "Average number of vehicles manufactured by Company X\n\n[TABLE]\n\n = 119333.",
+      "explanation": "Average number of vehicles manufactured by Company X\n\n[TABLE DATA]\n= | 1 | x (119000 + 99000 + 141000 + 78000 + 120000 + 159000)\n6\n[/TABLE DATA]\n\n = 119333.",
       "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/024001",
+      "pattern_detected": "",
+      "passage": "Study the following line graph and answer the questions based on it.\n\n Number of Vehicles Manufactured by Two companies ove the Years (Number in Thousands)"
     },
     {
       "id": "quant_linech_014",
@@ -384,14 +397,15 @@
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/024001",
+      "pattern_detected": "",
+      "passage": "Study the following line graph and answer the questions based on it.\n\n Number of Vehicles Manufactured by Two companies ove the Years (Number in Thousands)"
     },
     {
       "id": "quant_linech_015",
       "topic": "quant",
       "subtopic": "line_charts",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "company_tags": [
         "TCS",
         "Infosys",
@@ -406,19 +420,20 @@
         "97"
       ],
       "answer": "B",
-      "explanation": "[TABLE]",
+      "explanation": "[TABLE DATA]\nRequired percentage = | | 128000 | x 100 | | % 164%.\n78000\n[/TABLE DATA]",
       "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/024001",
+      "pattern_detected": "",
+      "passage": "Study the following line graph and answer the questions based on it.\n\n Number of Vehicles Manufactured by Two companies ove the Years (Number in Thousands)"
     },
     {
       "id": "quant_linech_016",
       "topic": "quant",
       "subtopic": "line_charts",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "company_tags": [
         "TCS",
         "Infosys",
@@ -433,19 +448,20 @@
         "27:35"
       ],
       "answer": "C",
-      "explanation": "Let the incomes in 2000 of Companies X and Y be 3x and 4x respectively.\n\nAnd let the expenditures in 2000 of Companies X and Y be E_1 and E_2 respectively.\n\nThen, for Company X we have:\n\n[TABLE]\n\nFor Company Y we have:\n\n[TABLE]\n\nFrom (i) and (ii), we get:\n\n[TABLE]\n \n =\n 3 x 150 \n =\n 15 \n (Required ratio).\n\n E_2\n \n [TABLE]\n \n 4 x 165\n 22",
+      "explanation": "Let the incomes in 2000 of Companies X and Y be 3x and 4x respectively.\n\nAnd let the expenditures in 2000 of Companies X and Y be E_1 and E_2 respectively.\n\nThen, for Company X we have:\n\n[TABLE DATA]\n65 = | 3x - E1 | x 100 | 65 | = | 3x | - 1 E1 = 3x x | | 100 | | .... (i)\nE1 | 100 | E1 | 165\n[/TABLE DATA]\n\nFor Company Y we have:\n\n[TABLE DATA]\n50 = | 4x - E2 | x 100 | 50 | = | 4x | - 1 E2 = 4x x | | 100 | | .... (ii)\nE2 | 100 | E2 | 150\n[/TABLE DATA]\n\nFrom (i) and (ii), we get:\n\n[TABLE DATA]\nE1 | = | 3x x 100 165 | 3x x | | 100 | | 165 | = | 3 x 150 | = | 15 | (Required ratio).\n3x x | | 100 | \n165\nE2 | 4x x 100 150 | 4x x | | 100 | | 150 | 4 x 165 | 22\n4x x | | 100 | \n150\n[/TABLE DATA]",
       "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/025001",
+      "pattern_detected": "",
+      "passage": "The following line graph gives the percent profit earned by two Companies X and Y during the period 1996 - 2001.\n\n Percentage profit earned by Two Companies X and Y over the Given Years\n\n \n \n\n[TABLE DATA]\n%Profit = | Income - Expenditure | x 100\nExpenditure\n[/TABLE DATA]"
     },
     {
       "id": "quant_linech_017",
       "topic": "quant",
       "subtopic": "line_charts",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "company_tags": [
         "TCS",
         "Infosys",
@@ -460,19 +476,20 @@
         "Rs. 275 crores"
       ],
       "answer": "B",
-      "explanation": "Profit percent of Company Y in 1997 = 35.\n\nLet the income of Company Y in 1997 be Rs. x crores.\n\n[TABLE]\n\n Income of Company Y in 1997 = Rs. 297 crores.",
+      "explanation": "Profit percent of Company Y in 1997 = 35.\n\nLet the income of Company Y in 1997 be Rs. x crores.\n\n[TABLE DATA]\nThen, 35 = | x - 220 | x 100 x = 297.\n220\n[/TABLE DATA]\n\n[IMAGE] Income of Company Y in 1997 = Rs. 297 crores.",
       "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/025001",
+      "pattern_detected": "",
+      "passage": "The following line graph gives the percent profit earned by two Companies X and Y during the period 1996 - 2001.\n\n Percentage profit earned by Two Companies X and Y over the Given Years\n\n \n \n\n[TABLE DATA]\n%Profit = | Income - Expenditure | x 100\nExpenditure\n[/TABLE DATA]"
     },
     {
       "id": "quant_linech_018",
       "topic": "quant",
       "subtopic": "line_charts",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "company_tags": [
         "TCS",
         "Infosys",
@@ -487,19 +504,20 @@
         "Rs. 102 crores"
       ],
       "answer": "D",
-      "explanation": "Let the expenditures of each companies X and Y in 1996 be Rs. x crores.\n\nAnd let the income of Company X in 1996 be Rs. z crores.\n\nSo that the income of Company Y in 1996 = Rs. (342 - z) crores.\n\nThen, for Company X we have:\n\n[TABLE]\n\nAlso, for Company Y we have:\n\n[TABLE]\n\nFrom (i) and (ii), we get:\n\n[TABLE]\n\nSubstituting z = 168 in (i), we get : x = 120.\n\n Total expenditure of Companies X and Y in 1996 = 2x = Rs. 240 crores.\n\nTotal income of Companies X and Y in 1996 = Rs. 342 crores.\n\n Total profit = Rs. (342 - 240) crores = Rs. 102 crores.",
+      "explanation": "Let the expenditures of each companies X and Y in 1996 be Rs. x crores.\n\nAnd let the income of Company X in 1996 be Rs. z crores.\n\nSo that the income of Company Y in 1996 = Rs. (342 - z) crores.\n\nThen, for Company X we have:\n\n[TABLE DATA]\n40 = | z - x | x 100 | 40 | = | z | - 1 x = | 100z | .... (i)\nx | 100 | x | 140\n[/TABLE DATA]\n\nAlso, for Company Y we have:\n\n[TABLE DATA]\n45 = | (342 - z) | x 100 | 45 | = | (342 - z) | - 1 x = | (342 - z) x 100 | .... (ii)\nx | 100 | x | 145\n[/TABLE DATA]\n\nFrom (i) and (ii), we get:\n\n[TABLE DATA]\n100z | = | (342 - z) x 100 | z = 168.\n140 | 145\n[/TABLE DATA]\n\nSubstituting z = 168 in (i), we get : x = 120.\n\n[IMAGE] Total expenditure of Companies X and Y in 1996 = 2x = Rs. 240 crores.\n\nTotal income of Companies X and Y in 1996 = Rs. 342 crores.\n\n[IMAGE] Total profit = Rs. (342 - 240) crores = Rs. 102 crores.",
       "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/025001",
+      "pattern_detected": "",
+      "passage": "The following line graph gives the percent profit earned by two Companies X and Y during the period 1996 - 2001.\n\n Percentage profit earned by Two Companies X and Y over the Given Years\n\n \n \n\n[TABLE DATA]\n%Profit = | Income - Expenditure | x 100\nExpenditure\n[/TABLE DATA]"
     },
     {
       "id": "quant_linech_019",
       "topic": "quant",
       "subtopic": "line_charts",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "company_tags": [
         "TCS",
         "Infosys",
@@ -514,13 +532,14 @@
         "Rs. 295 crores"
       ],
       "answer": "A",
-      "explanation": "Let the income of Company X in 1998 be Rs. x crores.\n\n[TABLE]\n\n[TABLE]\n\nLet the income of Company X in 2001 be Rs. z crores.\n\n[TABLE]\n\n Income of Company X in 2001 = Rs. 465 crores.",
+      "explanation": "Let the income of Company X in 1998 be Rs. x crores.\n\n[TABLE DATA]\nThen, 55 = | x - 200 | x 100 x = 310.\n200\n[/TABLE DATA]\n\n[TABLE DATA]\nExpenditure of Company X in 2001 | = Income of Company X in 1998\n | = Rs. 310 crores.\n[/TABLE DATA]\n\nLet the income of Company X in 2001 be Rs. z crores.\n\n[TABLE DATA]\nThen, 50 = | z - 310 | x 100 z = 465.\n310\n[/TABLE DATA]\n\n[IMAGE] Income of Company X in 2001 = Rs. 465 crores.",
       "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/025001",
+      "pattern_detected": "",
+      "passage": "The following line graph gives the percent profit earned by two Companies X and Y during the period 1996 - 2001.\n\n Percentage profit earned by Two Companies X and Y over the Given Years\n\n \n \n\n[TABLE DATA]\n%Profit = | Income - Expenditure | x 100\nExpenditure\n[/TABLE DATA]"
     },
     {
       "id": "quant_linech_020",
@@ -541,13 +560,14 @@
         "16:15"
       ],
       "answer": "D",
-      "explanation": "Let the incomes of each of the two Companies X and Y in 1999 be Rs. x.\n\nAnd let the expenditures of Companies X and Y in 1999 be E_1 and E_2 respectively.\n\nThen, for Company X we have:\n\n[TABLE]\n\nAlso, for Company Y we have:\n\n[TABLE]\n\nFrom (i) and (ii), we get:\n\n[TABLE]",
+      "explanation": "Let the incomes of each of the two Companies X and Y in 1999 be Rs. x.\n\nAnd let the expenditures of Companies X and Y in 1999 be E_1 and E_2 respectively.\n\nThen, for Company X we have:\n\n[TABLE DATA]\n50 = | x - E1 | x 100 | 50 | = | x | - 1 x = | 150 | E1 .... (i)\nE1 | 100 | E1 | 100\n[/TABLE DATA]\n\nAlso, for Company Y we have:\n\n[TABLE DATA]\n60 = | x - E2 | x 100 | 60 | = | x | - 1 x = | 160 | E2 .... (ii)\nE2 | 100 | E2 | 100\n[/TABLE DATA]\n\nFrom (i) and (ii), we get:\n\n[TABLE DATA]\n150 | E1 = | 160 | E2 | E1 | = | 160 | = | 16 | (Required ratio).\n100 | 100 | E2 | 150 | 15\n[/TABLE DATA]",
       "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/025001",
+      "pattern_detected": "",
+      "passage": "The following line graph gives the percent profit earned by two Companies X and Y during the period 1996 - 2001.\n\n Percentage profit earned by Two Companies X and Y over the Given Years\n\n \n \n\n[TABLE DATA]\n%Profit = | Income - Expenditure | x 100\nExpenditure\n[/TABLE DATA]"
     },
     {
       "id": "quant_linech_021",
@@ -573,8 +593,9 @@
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/026001",
+      "pattern_detected": "",
+      "passage": "The following line graph gives the percentage of the number of candidates who qualified an examination out of the total number of candidates who appeared for the examination over a period of seven years from 1994 to 2000.\n\n Percentage of Candidates Qualified to Appeared in an Examination Over the Years"
     },
     {
       "id": "quant_linech_022",
@@ -600,8 +621,9 @@
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/026001",
+      "pattern_detected": "",
+      "passage": "The following line graph gives the percentage of the number of candidates who qualified an examination out of the total number of candidates who appeared for the examination over a period of seven years from 1994 to 2000.\n\n Percentage of Candidates Qualified to Appeared in an Examination Over the Years"
     },
     {
       "id": "quant_linech_023",
@@ -622,13 +644,14 @@
         "25000"
       ],
       "answer": "C",
-      "explanation": "The number of candidates appeared in 1998 be x.\n\n[TABLE]",
+      "explanation": "The number of candidates appeared in 1998 be x.\n\n[TABLE DATA]\nThen, 80% of x = 21200 x = | 21200 x 100 | = 26500 (required number).\n80\n[/TABLE DATA]",
       "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/026001",
+      "pattern_detected": "",
+      "passage": "The following line graph gives the percentage of the number of candidates who qualified an examination out of the total number of candidates who appeared for the examination over a period of seven years from 1994 to 2000.\n\n Percentage of Candidates Qualified to Appeared in an Examination Over the Years"
     },
     {
       "id": "quant_linech_024",
@@ -654,14 +677,15 @@
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/026001",
+      "pattern_detected": "",
+      "passage": "The following line graph gives the percentage of the number of candidates who qualified an examination out of the total number of candidates who appeared for the examination over a period of seven years from 1994 to 2000.\n\n Percentage of Candidates Qualified to Appeared in an Examination Over the Years"
     },
     {
       "id": "quant_linech_025",
       "topic": "quant",
       "subtopic": "line_charts",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "company_tags": [
         "TCS",
         "Infosys",
@@ -676,13 +700,14 @@
         "19000"
       ],
       "answer": "C",
-      "explanation": "The number of candidates qualified in 1999 = (80% of 26500) = 21200.\n\n Number of candidates qualified in 2000 = (33500 - 21200) = 12300.\n\nLet the number of candidates appeared in 2000 be x.\n\n[TABLE]",
+      "explanation": "The number of candidates qualified in 1999 = (80% of 26500) = 21200.\n\n[IMAGE] Number of candidates qualified in 2000 = (33500 - 21200) = 12300.\n\nLet the number of candidates appeared in 2000 be x.\n\n[TABLE DATA]\nThen, 60% of x = 12300 x = | | 12300 x 100 | | = 20500.\n60\n[/TABLE DATA]",
       "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/026001",
+      "pattern_detected": "",
+      "passage": "The following line graph gives the percentage of the number of candidates who qualified an examination out of the total number of candidates who appeared for the examination over a period of seven years from 1994 to 2000.\n\n Percentage of Candidates Qualified to Appeared in an Examination Over the Years"
     },
     {
       "id": "quant_linech_026",
@@ -703,19 +728,20 @@
         "9:10"
       ],
       "answer": "D",
-      "explanation": "Let the expenditure in 1996 = x.\n\nAlso, let the incomes in 1996 and 1999 be I1 and I2 respectively.\n\nThen, for the year 1996, we have:\n\n[TABLE]\n\n[TABLE]\n\nFrom (i) and (ii), we get:\n\n[TABLE]\n \n =\n 155 \n \">\n 0.91 \n \"> 9 : 10.\n\n I2\n \n [TABLE]\n \n 170\n 1",
+      "explanation": "Let the expenditure in 1996 = x.\n\nAlso, let the incomes in 1996 and 1999 be I1 and I2 respectively.\n\nThen, for the year 1996, we have:\n\n[TABLE DATA]\n55 = | I1 - x | x 100 | | 55 | = | I1 | - 1 | I1 = | 155x | ... (i)\nx | 100 | x | 100\n[/TABLE DATA]\n\n[TABLE DATA]\n70 = | I2 - x | x 100 | | 70 | = | I2 | - 1 | I2 = | 170x | ... (ii)\nx | 100 | x | 100\n[/TABLE DATA]\n\nFrom (i) and (ii), we get:\n\n[TABLE DATA]\n | I1 | = | 155x 100 | | 155x | | 100 | = | 155 | | 0.91 | 9 : 10.\n | 155x | \n100\nI2 | 170x 100 | | 170x | | 100 | 170 | 1\n | 170x | \n100\n[/TABLE DATA]",
       "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/027001",
+      "pattern_detected": "",
+      "passage": "The following line graph gives the annual percent profit earned by a Company during the period 1995 - 2000.\n\n Percent Profit Earned by a Company Over the Years.\n\n \n \n\n[TABLE DATA]\n%Profit = | Income - Expenditure | x 100\nExpenditure\n[/TABLE DATA]"
     },
     {
       "id": "quant_linech_027",
       "topic": "quant",
       "subtopic": "line_charts",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "company_tags": [
         "TCS",
         "Infosys",
@@ -730,13 +756,14 @@
         "Rs. 185 crores"
       ],
       "answer": "C",
-      "explanation": "Let the expenditure is 1998 be Rs. x crores.\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n Expenditure in 1998 = Rs. 160 crores.",
+      "explanation": "Let the expenditure is 1998 be Rs. x crores.\n\n[TABLE DATA]\nThen, 65 = | 264 - x | x 100\nx\n[/TABLE DATA]\n\n[TABLE DATA]\n | 65 | = | 264 | - 1\n100 | x\n[/TABLE DATA]\n\n[TABLE DATA]\nx = | 264 x 100 | = 160.\n165\n[/TABLE DATA]\n\n[IMAGE] Expenditure in 1998 = Rs. 160 crores.",
       "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/027001",
+      "pattern_detected": "",
+      "passage": "The following line graph gives the annual percent profit earned by a Company during the period 1995 - 2000.\n\n Percent Profit Earned by a Company Over the Years.\n\n \n \n\n[TABLE DATA]\n%Profit = | Income - Expenditure | x 100\nExpenditure\n[/TABLE DATA]"
     },
     {
       "id": "quant_linech_028",
@@ -762,8 +789,9 @@
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/027001",
+      "pattern_detected": "",
+      "passage": "The following line graph gives the annual percent profit earned by a Company during the period 1995 - 2000.\n\n Percent Profit Earned by a Company Over the Years.\n\n \n \n\n[TABLE DATA]\n%Profit = | Income - Expenditure | x 100\nExpenditure\n[/TABLE DATA]"
     },
     {
       "id": "quant_linech_029",
@@ -789,8 +817,9 @@
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/027001",
+      "pattern_detected": "",
+      "passage": "The following line graph gives the annual percent profit earned by a Company during the period 1995 - 2000.\n\n Percent Profit Earned by a Company Over the Years.\n\n \n \n\n[TABLE DATA]\n%Profit = | Income - Expenditure | x 100\nExpenditure\n[/TABLE DATA]"
     },
     {
       "id": "quant_linech_030",
@@ -811,13 +840,14 @@
         "335"
       ],
       "answer": "B",
-      "explanation": "Average percent profit earned for the given years\n\n[TABLE]",
+      "explanation": "Average percent profit earned for the given years\n\n[TABLE DATA]\n= | 1 | x [40 + 55 + 45 + 65 + 70 + 60] = | 335 | = 55 | 5 | .\n6 | 6 | 6\n[/TABLE DATA]",
       "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/027001",
+      "pattern_detected": "",
+      "passage": "The following line graph gives the annual percent profit earned by a Company during the period 1995 - 2000.\n\n Percent Profit Earned by a Company Over the Years.\n\n \n \n\n[TABLE DATA]\n%Profit = | Income - Expenditure | x 100\nExpenditure\n[/TABLE DATA]"
     },
     {
       "id": "quant_linech_031",
@@ -843,8 +873,9 @@
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/028001",
+      "pattern_detected": "",
+      "passage": "Answer the questions based on the given line graph.\n\n Ratio of Exports to Imports (in terms of money in Rs. crores) of Two Companies Over the Years"
     },
     {
       "id": "quant_linech_032",
@@ -865,19 +896,20 @@
         "cannot be determined"
       ],
       "answer": "B",
-      "explanation": "In 1997 for Company A we have:\n\n[TABLE]\n\nwhere E amount of exports, I = amount of imports of Company A in 1997.\n\nNow, the required imports I_1 = I + 40% of I = 1.4I.\n\n[TABLE]",
+      "explanation": "In 1997 for Company A we have:\n\n[TABLE DATA]\nE | = 1.75 i.e., E = 1.75I\nI\n[/TABLE DATA]\n\nwhere E amount of exports, I = amount of imports of Company A in 1997.\n\nNow, the required imports I_1 = I + 40% of I = 1.4I.\n\n[TABLE DATA]\nRequired ratio = | E | = | 1.75I | = 1.25.\nI1 | 1.4I\n[/TABLE DATA]",
       "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/028001",
+      "pattern_detected": "",
+      "passage": "Answer the questions based on the given line graph.\n\n Ratio of Exports to Imports (in terms of money in Rs. crores) of Two Companies Over the Years"
     },
     {
       "id": "quant_linech_033",
       "topic": "quant",
       "subtopic": "line_charts",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "company_tags": [
         "TCS",
         "Infosys",
@@ -892,19 +924,20 @@
         "Rs. 316 crores"
       ],
       "answer": "D",
-      "explanation": "Let the amount of imports of Company A in 1998 be Rs. x crores.\n\n[TABLE]\n\n Amount of imports of Company A in 1998 = Rs. 316 crores.",
+      "explanation": "Let the amount of imports of Company A in 1998 be Rs. x crores.\n\n[TABLE DATA]\nThen, | 237 | = 0.75 x = | 237 | = 316.\nx | 0.75\n[/TABLE DATA]\n\n[IMAGE] Amount of imports of Company A in 1998 = Rs. 316 crores.",
       "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/028001",
+      "pattern_detected": "",
+      "passage": "Answer the questions based on the given line graph.\n\n Ratio of Exports to Imports (in terms of money in Rs. crores) of Two Companies Over the Years"
     },
     {
       "id": "quant_linech_034",
       "topic": "quant",
       "subtopic": "line_charts",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "company_tags": [
         "TCS",
         "Infosys",
@@ -919,13 +952,14 @@
         "Cannot be determined"
       ],
       "answer": "B",
-      "explanation": "In 1995 for Company A we have:\n\n[TABLE]\n\n[where EA = amount of exports, IA = amount of imports of Company a in 1995]\n\nIn 1995 for Company B we have:\n\n[TABLE]\n\n[where EB = amount of exports, IB = amount of imports of Company B in 1995]\n\nAlso, we have EA = 2EB ... (iii)\n\nSubstituting IA = Rs. 180 crores (given) in (i), we get:\n\n EA = Rs. (180 x 1.75) crores = Rs. 315 crores.\n\nUsing EA = Rs. 315 crores in (iii), we get:\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n i.e., amount of imports of Company B in 1995 = Rs. 210 crores.",
+      "explanation": "In 1995 for Company A we have:\n\n[TABLE DATA]\nEA | = 1.75 ... (i)\nIA\n[/TABLE DATA]\n\n[where E<sub>A</sub> = amount of exports, I<sub>A</sub> = amount of imports of Company a in 1995]\n\nIn 1995 for Company B we have:\n\n[TABLE DATA]\nEB | = 0.75 ... (ii)\nIB\n[/TABLE DATA]\n\n[where E<sub>B</sub> = amount of exports, I<sub>B</sub> = amount of imports of Company B in 1995]\n\nAlso, we have E<sub>A</sub> = 2E<sub>B</sub> ... (iii)\n\nSubstituting I<sub>A</sub> = Rs. 180 crores (given) in (i), we get:\n\n E<sub>A</sub> = Rs. (180 x 1.75) crores = Rs. 315 crores.\n\nUsing E<sub>A</sub> = Rs. 315 crores in (iii), we get:\n\n[TABLE DATA]\nEB = | EA | = Rs. | | 315 | | crores.\n2 | 2\n[/TABLE DATA]\n\n[TABLE DATA]\nSubstituting EB = Rs. | | 315 | | crores in (ii), we get:\n2\n[/TABLE DATA]\n\n[TABLE DATA]\nIB = | EB | = Rs. | | 315 | | crores = Rs. 210 crores.\n0.75 | 2 x 0.75\n[/TABLE DATA]\n\n i.e., amount of imports of Company B in 1995 = Rs. 210 crores.",
       "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/028001",
+      "pattern_detected": "",
+      "passage": "Answer the questions based on the given line graph.\n\n Ratio of Exports to Imports (in terms of money in Rs. crores) of Two Companies Over the Years"
     },
     {
       "id": "quant_linech_035",
@@ -946,13 +980,14 @@
         "Cannot be determined"
       ],
       "answer": "D",
-      "explanation": "We shall try to find the difference between the imports and exports of Company B for various years one by one:\n\nFor 1995: We have\n\n[TABLE]\n\nwhere E = amount of exports, I = amount of imports in 1995.\n\n\"> E = 0.75I\n\n I - E = 0.75 x I = 0.25I.\n\nThus, the difference between the imports and exports of Company B in 1995 is dependent on the amount of imports of Company B in 1995.\n\nSimilarly, the difference for other years can be determined only if the amount of imports for these years is known.\n\nSince the imports or exports for various years are not know, the differences between and exports for various years cannot be determined.",
+      "explanation": "We shall try to find the difference between the imports and exports of Company B for various years one by one:\n\nFor 1995: We have\n\n[TABLE DATA]\nE | = 0.75\nI\n[/TABLE DATA]\n\nwhere E = amount of exports, I = amount of imports in 1995.\n\n[IMAGE]\"> E = 0.75I\n\n[IMAGE] I - E = 0.75 x I = 0.25I.\n\nThus, the difference between the imports and exports of Company B in 1995 is dependent on the amount of imports of Company B in 1995.\n\nSimilarly, the difference for other years can be determined only if the amount of imports for these years is known.\n\nSince the imports or exports for various years are not know, the differences between and exports for various years cannot be determined.",
       "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/028001",
+      "pattern_detected": "",
+      "passage": "Answer the questions based on the given line graph.\n\n Ratio of Exports to Imports (in terms of money in Rs. crores) of Two Companies Over the Years"
     },
     {
       "id": "quant_linech_036",
@@ -973,13 +1008,14 @@
         "Rs. 9500"
       ],
       "answer": "D",
-      "explanation": "[TABLE]",
+      "explanation": "[TABLE DATA]\nDifference | = Rs. [(10% of 4.75) - (8% of 4.75)] lakhs\n | = Rs. (2% of 4.75) lakhs\n | = Rs. 0.095 lakhs\n | = Rs. 9500.\n[/TABLE DATA]",
       "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/029001",
+      "pattern_detected": "",
+      "passage": "Two different finance companies declare fixed annual rate of interest on the amounts invested with them by investors. The rate of interest offered by these companies may differ from year to year depending on the variation in the economy of the country and the banks rate of interest. The annual rate of interest offered by the two Companies P and Q over the years are shown by the line graph provided below.\n\n Annual Rate of Interest Offered by Two Finance Companies Over the Years."
     },
     {
       "id": "quant_linech_037",
@@ -1000,13 +1036,14 @@
         "4:3"
       ],
       "answer": "D",
-      "explanation": "Let the amounts invested in 2002 in Companies P and Q be Rs. 8x and Rs. 9x respectively.\n\n[TABLE]\n \n\n and interest received after one year from Company Q \n = Rs. (4% of 9x)\n\n \n \n [TABLE]\n \n\n[TABLE]\n \n =\n 4 \n .\n\n \n [TABLE]\n \n 3",
+      "explanation": "Let the amounts invested in 2002 in Companies P and Q be Rs. 8x and Rs. 9x respectively.\n\n[TABLE DATA]\nThen, interest received after one year from Company P | = Rs. (6% of 8x)\n | = Rs. 48 x. 100 | = Rs. | 48 | x. | 100\n= Rs. | 48 | x.\n100\nand interest received after one year from Company Q | = Rs. (4% of 9x)\n | = Rs. 36 x. 100 | = Rs. | 36 | x. | 100\n= Rs. | 36 | x.\n100\n[/TABLE DATA]\n\n[TABLE DATA]\nRequired ratio = | 48 x 100 | | 48 | x | | 100 | = | 4 | .\n | 48 | x | \n100\n36 x 100 | | 36 | x | | 100 | 3\n | 36 | x | \n100\n[/TABLE DATA]",
       "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/029001",
+      "pattern_detected": "",
+      "passage": "Two different finance companies declare fixed annual rate of interest on the amounts invested with them by investors. The rate of interest offered by these companies may differ from year to year depending on the variation in the economy of the country and the banks rate of interest. The annual rate of interest offered by the two Companies P and Q over the years are shown by the line graph provided below.\n\n Annual Rate of Interest Offered by Two Finance Companies Over the Years."
     },
     {
       "id": "quant_linech_038",
@@ -1027,13 +1064,14 @@
         "Rs. 18 lakhs"
       ],
       "answer": "D",
-      "explanation": "Let Rs. x lakhs be invested in Company P in 2000, the amount invested in Company Q in 2000 = Rs. (30 - x) lakhs.\n\nTotal interest received from the two Companies after 1 year\n\n = Rs. [(7.5% of x) + {9% of (30 - x)}] lakhs\n\n[TABLE]\n\n[TABLE]",
+      "explanation": "Let Rs. x lakhs be invested in Company P in 2000, the amount invested in Company Q in 2000 = Rs. (30 - x) lakhs.\n\nTotal interest received from the two Companies after 1 year\n\n = Rs. [(7.5% of x) + {9% of (30 - x)}] lakhs\n\n[TABLE DATA]\n= Rs. | | 2.7 - | | 1.5x | | | lakhs.\n100\n[/TABLE DATA]\n\n[TABLE DATA]\n | | 2.7 - | | 1.5x | | | = 2.43 x = 18.\n100\n[/TABLE DATA]",
       "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/029001",
+      "pattern_detected": "",
+      "passage": "Two different finance companies declare fixed annual rate of interest on the amounts invested with them by investors. The rate of interest offered by these companies may differ from year to year depending on the variation in the economy of the country and the banks rate of interest. The annual rate of interest offered by the two Companies P and Q over the years are shown by the line graph provided below.\n\n Annual Rate of Interest Offered by Two Finance Companies Over the Years."
     },
     {
       "id": "quant_linech_039",
@@ -1059,8 +1097,9 @@
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/029001",
+      "pattern_detected": "",
+      "passage": "Two different finance companies declare fixed annual rate of interest on the amounts invested with them by investors. The rate of interest offered by these companies may differ from year to year depending on the variation in the economy of the country and the banks rate of interest. The annual rate of interest offered by the two Companies P and Q over the years are shown by the line graph provided below.\n\n Annual Rate of Interest Offered by Two Finance Companies Over the Years."
     },
     {
       "id": "quant_linech_040",
@@ -1086,8 +1125,9 @@
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/029001",
+      "pattern_detected": "",
+      "passage": "Two different finance companies declare fixed annual rate of interest on the amounts invested with them by investors. The rate of interest offered by these companies may differ from year to year depending on the variation in the economy of the country and the banks rate of interest. The annual rate of interest offered by the two Companies P and Q over the years are shown by the line graph provided below.\n\n Annual Rate of Interest Offered by Two Finance Companies Over the Years."
     },
     {
       "id": "quant_linech_041",
@@ -1113,14 +1153,15 @@
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/030001",
+      "pattern_detected": "",
+      "passage": "Study the following line graph which gives the number of students who joined and left the school in the beginning of year for six years, from 1996 to 2001.\n\n Initial Strength of school in 1995 = 3000."
     },
     {
       "id": "quant_linech_042",
       "topic": "quant",
       "subtopic": "line_charts",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "company_tags": [
         "TCS",
         "Infosys",
@@ -1135,13 +1176,14 @@
         "2000"
       ],
       "answer": "A",
-      "explanation": "The percentage rise/fall in the number of students who left the school (compared to the previous year) during various years are:\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\nClearly, the maximum percentage rise/fall is for 1997.",
+      "explanation": "The percentage rise/fall in the number of students who left the school (compared to the previous year) during various years are:\n\n[TABLE DATA]\nFor 1997 = | | (450 - 250) | x 100 | | % = 80% (rise).\n250\n[/TABLE DATA]\n\n[TABLE DATA]\nFor 1998 = | | (450 - 400) | x 100 | | % = 11.11% (fall).\n450\n[/TABLE DATA]\n\n[TABLE DATA]\nFor 1999 = | | (400 - 350) | x 100 | | % = 12.5% (fall).\n400\n[/TABLE DATA]\n\n[TABLE DATA]\nFor 2000 = | | (450 - 350) | x 100 | | % = 28.57% (rise).\n350\n[/TABLE DATA]\n\n[TABLE DATA]\nFor 2001 = | | (450 - 450) | x 100 | | % = 0%.\n450\n[/TABLE DATA]\n\nClearly, the maximum percentage rise/fall is for 1997.",
       "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/030001",
+      "pattern_detected": "",
+      "passage": "Study the following line graph which gives the number of students who joined and left the school in the beginning of year for six years, from 1996 to 2001.\n\n Initial Strength of school in 1995 = 3000."
     },
     {
       "id": "quant_linech_043",
@@ -1162,19 +1204,20 @@
         "2.4%"
       ],
       "answer": "B",
-      "explanation": "Important data noted from the given graph:\n\nIn 1996 : Number of students left = 250 and number of students joined = 350.\n\nIn 1997 : Number of students left = 450 and number of students joined = 300.\n\nIn 1998 : Number of students left = 400 and number of students joined = 450.\n\nIn 1999 : Number of students left = 350 and number of students joined = 500.\n\nIn 2000 : Number of students left = 450 and number of students joined = 400.\n\nIn 2001 : Number of students left = 450 and number of students joined = 550.\n\nTherefore, the numbers of students studying in the school (i.e., strength of the school) in various years:\n\nIn 1995 = 3000 (given).\n\nIn 1996 = 3000 - 250 + 350 = 3100.\n\nIn 1997 = 3100 - 450 + 300 = 2950.\n\nIn 1998 = 2950 - 400 + 450 = 3000.\n\nIn 1999 = 3000 - 350 + 500 = 3150.\n\nIn 2000 = 3150 - 450 + 400 = 3100.\n\nIn 2001 = 3100 - 450 + 550 = 3200.\n\nPercentage increase in the strength of the school from 1997 to 1998\n\n[TABLE]",
+      "explanation": "<u>Important data noted from the given graph:</u>\n\nIn 1996 : Number of students left = 250 and number of students joined = 350.\n\nIn 1997 : Number of students left = 450 and number of students joined = 300.\n\nIn 1998 : Number of students left = 400 and number of students joined = 450.\n\nIn 1999 : Number of students left = 350 and number of students joined = 500.\n\nIn 2000 : Number of students left = 450 and number of students joined = 400.\n\nIn 2001 : Number of students left = 450 and number of students joined = 550.\n\nTherefore, the numbers of students studying in the school (i.e., strength of the school) in various years:\n\nIn 1995 = 3000 (given).\n\nIn 1996 = 3000 - 250 + 350 = 3100.\n\nIn 1997 = 3100 - 450 + 300 = 2950.\n\nIn 1998 = 2950 - 400 + 450 = 3000.\n\nIn 1999 = 3000 - 350 + 500 = 3150.\n\nIn 2000 = 3150 - 450 + 400 = 3100.\n\nIn 2001 = 3100 - 450 + 550 = 3200.\n\nPercentage increase in the strength of the school from 1997 to 1998\n\n[TABLE DATA]\n= | | (3000 - 2950) | x 100 | | % = 1.69% 1.7%.\n2950\n[/TABLE DATA]",
       "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/030001",
+      "pattern_detected": "",
+      "passage": "Study the following line graph which gives the number of students who joined and left the school in the beginning of year for six years, from 1996 to 2001.\n\n Initial Strength of school in 1995 = 3000."
     },
     {
       "id": "quant_linech_044",
       "topic": "quant",
       "subtopic": "line_charts",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "company_tags": [
         "TCS",
         "Infosys",
@@ -1189,13 +1232,14 @@
         "97.25%"
       ],
       "answer": "B",
-      "explanation": "[TABLE]",
+      "explanation": "[TABLE DATA]\nRequired percentage = | | 3000 | x 100 | | % = 93.75%\n3200\n[/TABLE DATA]",
       "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/030001",
+      "pattern_detected": "",
+      "passage": "Study the following line graph which gives the number of students who joined and left the school in the beginning of year for six years, from 1996 to 2001.\n\n Initial Strength of school in 1995 = 3000."
     },
     {
       "id": "quant_linech_045",
@@ -1216,13 +1260,14 @@
         "2:3"
       ],
       "answer": "D",
-      "explanation": "[TABLE]",
+      "explanation": "[TABLE DATA]\nRequired ratio = | 300 | = | 2 | .\n450 | 3\n[/TABLE DATA]",
       "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/030001",
+      "pattern_detected": "",
+      "passage": "Study the following line graph which gives the number of students who joined and left the school in the beginning of year for six years, from 1996 to 2001.\n\n Initial Strength of school in 1995 = 3000."
     },
     {
       "id": "quant_linech_046",
@@ -1243,19 +1288,20 @@
         "Dec, 01"
       ],
       "answer": "C",
-      "explanation": "Percentage increase in marks in various periodical exams compared to the previous exams are:\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\nClearly, highest percentage increase in marks is in Oct 01.",
+      "explanation": "Percentage increase in marks in various periodical exams compared to the previous exams are:\n\n[TABLE DATA]\nFor Jun 01 = | | (365 - 360) | x 100 | | % = 1.39%.\n360\n[/TABLE DATA]\n\n[TABLE DATA]\nFor Aug 01 = | | (370 - 365) | x 100 | | % = 1.37%.\n365\n[/TABLE DATA]\n\n[TABLE DATA]\nFor Oct 01 = | | (385 - 370) | x 100 | | % = 4.05%.\n370\n[/TABLE DATA]\n\n[TABLE DATA]\nFor Dec 01 = | | (400 - 385) | x 100 | | % = 3.90%.\n385\n[/TABLE DATA]\n\n[TABLE DATA]\nFor Feb 02 = | | (404 - 400) | x 100 | | % = 1.25%.\n400\n[/TABLE DATA]\n\nClearly, highest percentage increase in marks is in Oct 01.",
       "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/031001",
+      "pattern_detected": "",
+      "passage": "In a school the periodical examination are held every second month. In a session during April 2001 - March 2002, a student of Class IX appeared for each of the periodical exams. The aggregate marks obtained by him in each perodical exam are represented in the line-graph given below.\n\n Marks Obtained by student in Six Periodical Held in Every Two Months During the Year in the Session 2001 - 2002.\n\n \nMaximum Total Marks in each Periodical Exam = 500"
     },
     {
       "id": "quant_linech_047",
       "topic": "quant",
       "subtopic": "line_charts",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "company_tags": [
         "TCS",
         "Infosys",
@@ -1270,13 +1316,14 @@
         "116.5%"
       ],
       "answer": "B",
-      "explanation": "Here it is clear from the graph that the student obtained 360, 365, 370, 385, 400 and 405 marks in periodical exams held in Apr 01, Jun 01, Aug 01, Oct 01, Dec 01 and Feb 02 respectively.\n\n[TABLE]",
+      "explanation": "Here it is clear from the graph that the student obtained 360, 365, 370, 385, 400 and 405 marks in periodical exams held in Apr 01, Jun 01, Aug 01, Oct 01, Dec 01 and Feb 02 respectively.\n\n[TABLE DATA]\nRequired percentage = | | 405 | x 100 | | % = 112.5%.\n360\n[/TABLE DATA]",
       "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/031001",
+      "pattern_detected": "",
+      "passage": "In a school the periodical examination are held every second month. In a session during April 2001 - March 2002, a student of Class IX appeared for each of the periodical exams. The aggregate marks obtained by him in each perodical exam are represented in the line-graph given below.\n\n Marks Obtained by student in Six Periodical Held in Every Two Months During the Year in the Session 2001 - 2002.\n\n \nMaximum Total Marks in each Periodical Exam = 500"
     },
     {
       "id": "quant_linech_048",
@@ -1297,13 +1344,14 @@
         "78.75%"
       ],
       "answer": "B",
-      "explanation": "[TABLE]",
+      "explanation": "[TABLE DATA]\nRequired percentage = | | (370 + 385) | x 100 | | % = | | 755 | x 100 | | % = 75.5%.\n(500 + 500) | 1000\n[/TABLE DATA]",
       "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/031001",
+      "pattern_detected": "",
+      "passage": "In a school the periodical examination are held every second month. In a session during April 2001 - March 2002, a student of Class IX appeared for each of the periodical exams. The aggregate marks obtained by him in each perodical exam are represented in the line-graph given below.\n\n Marks Obtained by student in Six Periodical Held in Every Two Months During the Year in the Session 2001 - 2002.\n\n \nMaximum Total Marks in each Periodical Exam = 500"
     },
     {
       "id": "quant_linech_049",
@@ -1324,13 +1372,14 @@
         "385"
       ],
       "answer": "C",
-      "explanation": "Average marks obtained in all the periodical exams\n\n[TABLE]",
+      "explanation": "Average marks obtained in all the periodical exams\n\n[TABLE DATA]\n= | 1 | x [360 + 365 + 370 + 385 + 400 + 405] = 380.83 381.\n6\n[/TABLE DATA]",
       "shortcut": "For line graphs: track trends (increasing/decreasing) before reading exact values",
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/031001",
+      "pattern_detected": "",
+      "passage": "In a school the periodical examination are held every second month. In a session during April 2001 - March 2002, a student of Class IX appeared for each of the periodical exams. The aggregate marks obtained by him in each perodical exam are represented in the line-graph given below.\n\n Marks Obtained by student in Six Periodical Held in Every Two Months During the Year in the Session 2001 - 2002.\n\n \nMaximum Total Marks in each Periodical Exam = 500"
     },
     {
       "id": "quant_linech_050",
@@ -1356,8 +1405,9 @@
       "formula_used": "",
       "trap_type": "Misreading the scale or confusing two overlapping lines",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/line-charts/031001",
+      "pattern_detected": "",
+      "passage": "In a school the periodical examination are held every second month. In a session during April 2001 - March 2002, a student of Class IX appeared for each of the periodical exams. The aggregate marks obtained by him in each perodical exam are represented in the line-graph given below.\n\n Marks Obtained by student in Six Periodical Held in Every Two Months During the Year in the Session 2001 - 2002.\n\n \nMaximum Total Marks in each Periodical Exam = 500"
     }
   ]
 }

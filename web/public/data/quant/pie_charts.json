@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "topic": "Quantitative Aptitude",
+    "topic": "Data Interpretation",
     "subtopic": "pie_charts",
-    "total_questions": 56,
+    "total_questions": 57,
     "sources": [
       "IndiaBIX"
     ],
@@ -28,13 +28,14 @@
         "Rs. 26,150"
       ],
       "answer": "C",
-      "explanation": "Let the amount of Royalty to be paid for these books be Rs. r.\n\n[TABLE]",
+      "explanation": "Let the amount of Royalty to be paid for these books be Rs. r.\n\n[TABLE DATA]\nThen, 20 : 15 = 30600 : r r = Rs. | | 30600 x 15 | | = Rs. 22,950.\n20\n[/TABLE DATA]",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/",
+      "pattern_detected": "",
+      "passage": "The following pie-chart shows the percentage distribution of the expenditure incurred in publishing a book. Study the pie-chart and the answer the questions based on it.\n\n Various Expenditures (in percentage) Incurred in Publishing a Book"
     },
     {
       "id": "quant_piecha_002",
@@ -55,13 +56,14 @@
         "48°"
       ],
       "answer": "C",
-      "explanation": "[TABLE]\n \n\n \n = 54°.",
+      "explanation": "[TABLE DATA]\nCentral angle corresponding to Royalty | = (15% of 360)°\n | = 15 x 360 ° 100 | = | | 15 | x 360 | | ° | 100\n= | | 15 | x 360 | | °\n100\n | = 54°.\n[/TABLE DATA]",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/",
+      "pattern_detected": "",
+      "passage": "The following pie-chart shows the percentage distribution of the expenditure incurred in publishing a book. Study the pie-chart and the answer the questions based on it.\n\n Various Expenditures (in percentage) Incurred in Publishing a Book"
     },
     {
       "id": "quant_piecha_003",
@@ -82,19 +84,20 @@
         "Rs. 44.25"
       ],
       "answer": "B",
-      "explanation": "Clearly, marked price of the book = 120% of C.P.\n\nAlso, cost of paper = 25% of C.P\n\nLet the cost of paper for a single book be Rs. n.\n\n[TABLE]",
+      "explanation": "Clearly, marked price of the book = 120% of C.P.\n\nAlso, cost of paper = 25% of C.P\n\nLet the cost of paper for a single book be Rs. n.\n\n[TABLE DATA]\nThen, 120 : 25 = 180 : n n = Rs. | | 25 x 180 | | = Rs. 37.50 .\n120\n[/TABLE DATA]",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/",
+      "pattern_detected": "",
+      "passage": "The following pie-chart shows the percentage distribution of the expenditure incurred in publishing a book. Study the pie-chart and the answer the questions based on it.\n\n Various Expenditures (in percentage) Incurred in Publishing a Book"
     },
     {
       "id": "quant_piecha_004",
       "topic": "quant",
       "subtopic": "pie_charts",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "company_tags": [
         "TCS",
         "Infosys",
@@ -109,19 +112,20 @@
         "Rs. 180"
       ],
       "answer": "A",
-      "explanation": "For the publisher to earn a profit of 25%, S.P. = 125% of C.P.\n\nAlso Transportation Cost = 10% of C.P.\n\nLet the S.P. of 5500 books be Rs. x.\n\n[TABLE]\n\n[TABLE]",
+      "explanation": "For the publisher to earn a profit of 25%, S.P. = 125% of C.P.\n\nAlso Transportation Cost = 10% of C.P.\n\nLet the S.P. of 5500 books be Rs. x.\n\n[TABLE DATA]\nThen, 10 : 125 = 82500 : x x = Rs. | | 125 x 82500 | | = Rs. 1031250.\n10\n[/TABLE DATA]\n\n[TABLE DATA]\nS.P. of one book = Rs. | | 1031250 | | = Rs. 187.50 .\n5500\n[/TABLE DATA]",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/",
+      "pattern_detected": "",
+      "passage": "The following pie-chart shows the percentage distribution of the expenditure incurred in publishing a book. Study the pie-chart and the answer the questions based on it.\n\n Various Expenditures (in percentage) Incurred in Publishing a Book"
     },
     {
       "id": "quant_piecha_005",
       "topic": "quant",
       "subtopic": "pie_charts",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "company_tags": [
         "TCS",
         "Infosys",
@@ -131,18 +135,19 @@
       "question": "Royalty on the book is less than the printing cost by:",
       "options": [
         "5%",
-        "[TABLE]",
+        "<table class=\"di-tbl-answer\" cellpadding=\"0\" cellspacing=\"0\">\n <tbody><tr align=\"center\">\n <td class=\"di-td-line-rpad\" rowspan=\"2\">33</td>\n <td class=\"di-td-divident\">1</td>\n <td class=\"di-td-line\" rowspan=\"2\">%</td>\n </tr>\n <tr align=\"center\">\n <td class=\"di-td-divisor\">5</td>\n </tr>\n </tbody></table>",
         "20%",
         "25%"
       ],
       "answer": "D",
-      "explanation": "Printing Cost of book = 20% of C.P.\n\nRoyalty on book = 15% of C.P.\n\nDifference = (20% of C.P.) - (15% of C.P) = 5% of C.P.\n\n[TABLE]",
+      "explanation": "Printing Cost of book = 20% of C.P.\n\nRoyalty on book = 15% of C.P.\n\nDifference = (20% of C.P.) - (15% of C.P) = 5% of C.P.\n\n[TABLE DATA]\nPercentage difference | = | | Difference | x 100 | | %\nPrinting Cost\n\n | = | | 5% of C.P. | x 100 | | % = 25%.\nPrinting Cost\n[/TABLE DATA]",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/",
+      "pattern_detected": "",
+      "passage": "The following pie-chart shows the percentage distribution of the expenditure incurred in publishing a book. Study the pie-chart and the answer the questions based on it.\n\n Various Expenditures (in percentage) Incurred in Publishing a Book"
     },
     {
       "id": "quant_piecha_006",
@@ -163,19 +168,20 @@
         "Paper Cost and Printing Cost"
       ],
       "answer": "D",
-      "explanation": "[TABLE]\n\n = 5% of the total expenditure.\n\nFrom the given chart it is clear that:\n\nOut of the given combinations, only in combination (d) the difference is 5% i.e.\n\n[TABLE]",
+      "explanation": "[TABLE DATA]\nCentral angle of 18° = | | 18 | x 100 | | % of the total expenditure\n360\n[/TABLE DATA]\n\n = 5% of the total expenditure.\n\nFrom the given chart it is clear that:\n\nOut of the given combinations, only in combination (d) the difference is 5% i.e.\n\n[TABLE DATA]\nPaper Cost - Printing Cost | = (25% - 20%) of the total expenditure\n | = 5% of the total expenditure.\n[/TABLE DATA]",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/010002",
+      "pattern_detected": "",
+      "passage": "The following pie-chart shows the percentage distribution of the expenditure incurred in publishing a book. Study the pie-chart and the answer the questions based on it.\n\n Various Expenditures (in percentage) Incurred in Publishing a Book"
     },
     {
       "id": "quant_piecha_007",
       "topic": "quant",
       "subtopic": "pie_charts",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "company_tags": [
         "TCS",
         "Infosys",
@@ -190,13 +196,14 @@
         "Rs. 167.50"
       ],
       "answer": "B",
-      "explanation": "Clearly, S.P. of the book = 105% of C.P.\n\nLet the selling price of this edition (of 12500 books) be Rs. x.\n\n[TABLE]\n\n[TABLE]",
+      "explanation": "Clearly, S.P. of the book = 105% of C.P.\n\nLet the selling price of this edition (of 12500 books) be Rs. x.\n\n[TABLE DATA]\nThen, 15 : 105 = 281250 : x x = Rs. | | 105 x 281250 | | = Rs. 1968750.\n15\n[/TABLE DATA]\n\n[TABLE DATA]\nS.P. of one book = Rs. | | 1968750 | | = Rs. 157.50 .\n12500\n[/TABLE DATA]",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/010002",
+      "pattern_detected": "",
+      "passage": "The following pie-chart shows the percentage distribution of the expenditure incurred in publishing a book. Study the pie-chart and the answer the questions based on it.\n\n Various Expenditures (in percentage) Incurred in Publishing a Book"
     },
     {
       "id": "quant_piecha_008",
@@ -217,19 +224,20 @@
         "Rs. 28,125"
       ],
       "answer": "B",
-      "explanation": "Let the Promotion Cost for this edition be Rs. p.\n\n[TABLE]",
+      "explanation": "Let the Promotion Cost for this edition be Rs. p.\n\n[TABLE DATA]\nThen, 25 : 10 = 56250 : p p = Rs. | | 56250 x 10 | | = Rs. 22,500.\n25\n[/TABLE DATA]",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/010002",
+      "pattern_detected": "",
+      "passage": "The following pie-chart shows the percentage distribution of the expenditure incurred in publishing a book. Study the pie-chart and the answer the questions based on it.\n\n Various Expenditures (in percentage) Incurred in Publishing a Book"
     },
     {
       "id": "quant_piecha_009",
       "topic": "quant",
       "subtopic": "pie_charts",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "company_tags": [
         "TCS",
         "Infosys",
@@ -244,13 +252,14 @@
         "Binding Cost and Paper Cost"
       ],
       "answer": "A",
-      "explanation": "[TABLE] \n\n = 30% of the total expenditure.\n\nFrom the pie chart it is clear that:\n\n[TABLE]\n\n Binding Cost and Transportation Cost together have a central angle of 108°.",
+      "explanation": "[TABLE DATA]\nCentral angle of 108° = | | 108 | x 100 | | % of the total expenditure\n360\n[/TABLE DATA]\n \n\n = 30% of the total expenditure.\n\nFrom the pie chart it is clear that:\n\n[TABLE DATA]\nBinding Cost + Transportation Cost | = (20% + 10%) of the total expenditure\n | = 30% of the total expenditure.\n[/TABLE DATA]\n\n[IMAGE] Binding Cost and Transportation Cost together have a central angle of 108°.",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/010002",
+      "pattern_detected": "",
+      "passage": "The following pie-chart shows the percentage distribution of the expenditure incurred in publishing a book. Study the pie-chart and the answer the questions based on it.\n\n Various Expenditures (in percentage) Incurred in Publishing a Book"
     },
     {
       "id": "quant_piecha_010",
@@ -276,8 +285,9 @@
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/011001",
+      "pattern_detected": "",
+      "passage": "The following pie charts exhibit the distribution of the overseas tourist traffic from India. The two charts shows the tourist distribution by country and the age profiles of the tourists respectively.\n\nDistribution of Overseas Tourist Traffic from India."
     },
     {
       "id": "quant_piecha_011",
@@ -303,8 +313,9 @@
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/011001",
+      "pattern_detected": "",
+      "passage": "The following pie charts exhibit the distribution of the overseas tourist traffic from India. The two charts shows the tourist distribution by country and the age profiles of the tourists respectively.\n\nDistribution of Overseas Tourist Traffic from India."
     },
     {
       "id": "quant_piecha_012",
@@ -330,8 +341,9 @@
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/011001",
+      "pattern_detected": "",
+      "passage": "The following pie charts exhibit the distribution of the overseas tourist traffic from India. The two charts shows the tourist distribution by country and the age profiles of the tourists respectively.\n\nDistribution of Overseas Tourist Traffic from India."
     },
     {
       "id": "quant_piecha_013",
@@ -357,8 +369,9 @@
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/012001",
+      "pattern_detected": "",
+      "passage": "The following pie chart give the information about the distribution of weight in the human body according to different kinds of components. Study the pie charts and answer the question.\n\nDistribution of Weight in Human Body"
     },
     {
       "id": "quant_piecha_014",
@@ -384,8 +397,9 @@
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/012001",
+      "pattern_detected": "",
+      "passage": "The following pie chart give the information about the distribution of weight in the human body according to different kinds of components. Study the pie charts and answer the question.\n\nDistribution of Weight in Human Body"
     },
     {
       "id": "quant_piecha_015",
@@ -411,8 +425,9 @@
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/012001",
+      "pattern_detected": "",
+      "passage": "The following pie chart give the information about the distribution of weight in the human body according to different kinds of components. Study the pie charts and answer the question.\n\nDistribution of Weight in Human Body"
     },
     {
       "id": "quant_piecha_016",
@@ -438,8 +453,9 @@
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/013001",
+      "pattern_detected": "",
+      "passage": "The pie chart shows the distribution of New York market share by value of different computer companies in 2005.\n\nThe pie chart shows the distribution of New York market share by volume of different computer companies in 2005.\n\nNumber of units sold in 2005 in New York = 1,500\n\nValue of units sold in 2005 in New York = US $1,650,000."
     },
     {
       "id": "quant_piecha_017",
@@ -465,8 +481,9 @@
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/013001",
+      "pattern_detected": "",
+      "passage": "The pie chart shows the distribution of New York market share by value of different computer companies in 2005.\n\nThe pie chart shows the distribution of New York market share by volume of different computer companies in 2005.\n\nNumber of units sold in 2005 in New York = 1,500\n\nValue of units sold in 2005 in New York = US $1,650,000."
     },
     {
       "id": "quant_piecha_018",
@@ -492,8 +509,9 @@
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/013001",
+      "pattern_detected": "",
+      "passage": "The pie chart shows the distribution of New York market share by value of different computer companies in 2005.\n\nThe pie chart shows the distribution of New York market share by volume of different computer companies in 2005.\n\nNumber of units sold in 2005 in New York = 1,500\n\nValue of units sold in 2005 in New York = US $1,650,000."
     },
     {
       "id": "quant_piecha_019",
@@ -514,13 +532,14 @@
         "Market Borrowing"
       ],
       "answer": "B",
-      "explanation": "[TABLE]\n\nRs. 11486 crores is the amount of funds to be arranged through External Assistance.",
+      "explanation": "[TABLE DATA]\n20% of the total funds to be arranged | = Rs. (20% of 57600) crores\n | = Rs. 11520 crores\n | Rs. 11486 crores.\n[/TABLE DATA]\n\nRs. 11486 crores is the amount of funds to be arranged through External Assistance.",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/014001",
+      "pattern_detected": "",
+      "passage": "The following pie-chart shows the sources of funds to be collected by the National Highways Authority of India (NHAI) for its Phase II projects. Study the pie-chart and answers the question that follow.\n\n Sources of funds to be arranged by NHAI for Phase II projects (in crores Rs.)"
     },
     {
       "id": "quant_piecha_020",
@@ -541,13 +560,14 @@
         "8%"
       ],
       "answer": "C",
-      "explanation": "[TABLE]\n\n Increase required in Market Borrowing = Rs. 1791 crores.\n\n[TABLE]",
+      "explanation": "[TABLE DATA]\nShortage of funds arranged through External Assistance | | = Rs. (11486 - 9695) crores\n | | = Rs. 1791 crores.\n[/TABLE DATA]\n\n[IMAGE] Increase required in Market Borrowing = Rs. 1791 crores.\n\n[TABLE DATA]\nPercentage increase required = | | 1791 | x 100 | | % = 5.98% 6%.\n29952\n[/TABLE DATA]",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/014001",
+      "pattern_detected": "",
+      "passage": "The following pie-chart shows the sources of funds to be collected by the National Highways Authority of India (NHAI) for its Phase II projects. Study the pie-chart and answers the question that follow.\n\n Sources of funds to be arranged by NHAI for Phase II projects (in crores Rs.)"
     },
     {
       "id": "quant_piecha_021",
@@ -568,13 +588,14 @@
         "Rs. 5316 crores"
       ],
       "answer": "C",
-      "explanation": "[TABLE]",
+      "explanation": "[TABLE DATA]\nAmount permitted | = (Funds required from Toll for projects of Phase II) + (10% of these funds)\n | = Rs. 4910 crores + Rs. (10% of 4910) crores\n | = Rs. (4910 + 491) crores\n | = Rs. 5401 crores.\n[/TABLE DATA]",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/014001",
+      "pattern_detected": "",
+      "passage": "The following pie-chart shows the sources of funds to be collected by the National Highways Authority of India (NHAI) for its Phase II projects. Study the pie-chart and answers the question that follow.\n\n Sources of funds to be arranged by NHAI for Phase II projects (in crores Rs.)"
     },
     {
       "id": "quant_piecha_022",
@@ -595,13 +616,14 @@
         "192.4°"
       ],
       "answer": "C",
-      "explanation": "[TABLE]",
+      "explanation": "[TABLE DATA]\nCentral angle corresponding to Market Borrowing = | | 29952 | x 360° | | = 187.2°\n57600\n[/TABLE DATA]",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/014001",
+      "pattern_detected": "",
+      "passage": "The following pie-chart shows the sources of funds to be collected by the National Highways Authority of India (NHAI) for its Phase II projects. Study the pie-chart and answers the question that follow.\n\n Sources of funds to be arranged by NHAI for Phase II projects (in crores Rs.)"
     },
     {
       "id": "quant_piecha_023",
@@ -622,13 +644,14 @@
         "2 : 5"
       ],
       "answer": "B",
-      "explanation": "[TABLE]",
+      "explanation": "[TABLE DATA]\nRequired ratio = | 4910 | = | 1 | | 1 | .\n29952 | 6.1 | 6\n[/TABLE DATA]",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/014001",
+      "pattern_detected": "",
+      "passage": "The following pie-chart shows the sources of funds to be collected by the National Highways Authority of India (NHAI) for its Phase II projects. Study the pie-chart and answers the question that follow.\n\n Sources of funds to be arranged by NHAI for Phase II projects (in crores Rs.)"
     },
     {
       "id": "quant_piecha_024",
@@ -649,13 +672,14 @@
         "8099"
       ],
       "answer": "D",
-      "explanation": "[TABLE]",
+      "explanation": "[TABLE DATA]\nRequired number | = (17% of 27300) + (14% of 24700)\n | = 4641 + 3458\n | = 8099.\n[/TABLE DATA]",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/015001",
+      "pattern_detected": "",
+      "passage": "The following pie-charts show the distribution of students of graduate and post-graduate levels in seven different institutes in a town.\n\n Distribution of students at graduate and post-graduate levels in seven institutes:"
     },
     {
       "id": "quant_piecha_025",
@@ -676,13 +700,14 @@
         "19 : 14"
       ],
       "answer": "D",
-      "explanation": "[TABLE]",
+      "explanation": "[TABLE DATA]\nRequired ratio = | (21% of 24700) | = | (21 x 24700) | = | 19 | .\n(14% of 27300) | 14 x 27300 | 14\n[/TABLE DATA]",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/015001",
+      "pattern_detected": "",
+      "passage": "The following pie-charts show the distribution of students of graduate and post-graduate levels in seven different institutes in a town.\n\n Distribution of students at graduate and post-graduate levels in seven institutes:"
     },
     {
       "id": "quant_piecha_026",
@@ -703,13 +728,14 @@
         "9404"
       ],
       "answer": "B",
-      "explanation": "Students of institute M at graduate level= 17% of 27300 = 4641.\n\nStudents of institute S at graduate level = 14% of 27300 = 3822.\n\n[TABLE]",
+      "explanation": "Students of institute M at graduate level= 17% of 27300 = 4641.\n\nStudents of institute S at graduate level = 14% of 27300 = 3822.\n\n[TABLE DATA]\nTotal number of students at graduate in institutes M and S | = (4641 + 3822)\n | = 8463.\n[/TABLE DATA]",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/015001",
+      "pattern_detected": "",
+      "passage": "The following pie-charts show the distribution of students of graduate and post-graduate levels in seven different institutes in a town.\n\n Distribution of students at graduate and post-graduate levels in seven institutes:"
     },
     {
       "id": "quant_piecha_027",
@@ -730,13 +756,14 @@
         "19 : 13"
       ],
       "answer": "D",
-      "explanation": "[TABLE]",
+      "explanation": "[TABLE DATA]\nRequired ratio = | (21% of 24700) | = | (21 x 24700) | = | 19 | .\n(13% of 27300) | 13 x 27300 | 13\n[/TABLE DATA]",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/015001",
+      "pattern_detected": "",
+      "passage": "The following pie-charts show the distribution of students of graduate and post-graduate levels in seven different institutes in a town.\n\n Distribution of students at graduate and post-graduate levels in seven institutes:"
     },
     {
       "id": "quant_piecha_028",
@@ -757,13 +784,14 @@
         "8372"
       ],
       "answer": "C",
-      "explanation": "[TABLE]",
+      "explanation": "[TABLE DATA]\nRequired number | = (15% of 24700) + (12% of 24700)\n | = 3705 + 2964\n | = 6669.\n[/TABLE DATA]",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/015001",
+      "pattern_detected": "",
+      "passage": "The following pie-charts show the distribution of students of graduate and post-graduate levels in seven different institutes in a town.\n\n Distribution of students at graduate and post-graduate levels in seven institutes:"
     },
     {
       "id": "quant_piecha_029",
@@ -784,13 +812,14 @@
         "17000"
       ],
       "answer": "B",
-      "explanation": "Population of village R = 32000 (given).\n\nLet the population of village Y be y.\n\n[TABLE]\n\n Population of village Y below poverty line = 52% of 30000 = 15600.",
+      "explanation": "Population of village R = 32000 (given).\n\nLet the population of village Y be y.\n\n[TABLE DATA]\nThen, 16 : 15 = 32000 : y y = | | 15 x 32000 | | = 30000.\n16\n[/TABLE DATA]\n\n[IMAGE] Population of village Y below poverty line = 52% of 30000 = 15600.",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/016001",
+      "pattern_detected": "",
+      "passage": "Study the following pie-chart and the table and answer the questions based on them.\n\n Proportion of Population of Seven Villages in 1997\n\n \n\n \n\n[TABLE DATA]\nVillage | % Population Below Poverty Line\nX | 38\nY | 52\nZ | 42\nR | 51\nS | 49\nT | 46\nV | 58\n[/TABLE DATA]"
     },
     {
       "id": "quant_piecha_030",
@@ -811,13 +840,14 @@
         "11 : 13"
       ],
       "answer": "C",
-      "explanation": "Let N be the total population of all the seven villages.\n\nThen, population of village T below poverty line = 46% of (21% of N)\n\nand Population of villages Z below the poverty line = 42% of (11% of N)\n\n[TABLE]",
+      "explanation": "Let N be the total population of all the seven villages.\n\nThen, population of village T below poverty line = 46% of (21% of N)\n\nand Population of villages Z below the poverty line = 42% of (11% of N)\n\n[TABLE DATA]\nRequired ratio = | 46% of (21% of N) | = | 46 x 21 | = 23/11.\n42% of (11 % of N) | 42 x 11\n[/TABLE DATA]",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/016001",
+      "pattern_detected": "",
+      "passage": "Study the following pie-chart and the table and answer the questions based on them.\n\n Proportion of Population of Seven Villages in 1997\n\n \n\n \n\n[TABLE DATA]\nVillage | % Population Below Poverty Line\nX | 38\nY | 52\nZ | 42\nR | 51\nS | 49\nT | 46\nV | 58\n[/TABLE DATA]"
     },
     {
       "id": "quant_piecha_031",
@@ -838,13 +868,14 @@
         "26000"
       ],
       "answer": "C",
-      "explanation": "Let the population of village X be x.\n\n[TABLE]\n\n \n Now, if s be the population of village S, then\n\n \n \n[TABLE]",
+      "explanation": "Let the population of village X be x.\n\n[TABLE DATA]\nThen, 38% of x = 12160 x = | 12160 x 100 | = 32000.\n38\n[/TABLE DATA]\n\n \n Now, if s be the population of village S, then\n\n \n \n\n[TABLE DATA]\n16 : 11 = 32000 : s s = | | 11 x 3200 | | = 22000.\n16\n[/TABLE DATA]",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/016001",
+      "pattern_detected": "",
+      "passage": "Study the following pie-chart and the table and answer the questions based on them.\n\n Proportion of Population of Seven Villages in 1997\n\n \n\n \n\n[TABLE DATA]\nVillage | % Population Below Poverty Line\nX | 38\nY | 52\nZ | 42\nR | 51\nS | 49\nT | 46\nV | 58\n[/TABLE DATA]"
     },
     {
       "id": "quant_piecha_032",
@@ -865,13 +896,14 @@
         "13780"
       ],
       "answer": "B",
-      "explanation": "Population of village Y in 1997 = 30000 (given).\n\nLet the population of village V in 1997 be v.\n\n[TABLE]\n\nNow, population of village V in 1998 = 20000 + (10% of 20000) = 22000.\n\n Population of village V below poverty line in 1998 = 58% of 22000 = 12760.",
+      "explanation": "Population of village Y in 1997 = 30000 (given).\n\nLet the population of village V in 1997 be v.\n\n[TABLE DATA]\nThen, 15 : 10 = 30000 : v v = | 30000 x 10 | = 20000.\n15\n[/TABLE DATA]\n\nNow, population of village V in 1998 = 20000 + (10% of 20000) = 22000.\n\n[IMAGE] Population of village V below poverty line in 1998 = 58% of 22000 = 12760.",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/016001",
+      "pattern_detected": "",
+      "passage": "Study the following pie-chart and the table and answer the questions based on them.\n\n Proportion of Population of Seven Villages in 1997\n\n \n\n \n\n[TABLE DATA]\nVillage | % Population Below Poverty Line\nX | 38\nY | 52\nZ | 42\nR | 51\nS | 49\nT | 46\nV | 58\n[/TABLE DATA]"
     },
     {
       "id": "quant_piecha_033",
@@ -897,8 +929,9 @@
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/017001",
+      "pattern_detected": "",
+      "passage": "The following pie chart shows the amount of subscriptions generated for India Bonds from different categories of investors.\n\nSubscriptions Generated for India Bonds"
     },
     {
       "id": "quant_piecha_034",
@@ -924,8 +957,9 @@
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/017001",
+      "pattern_detected": "",
+      "passage": "The following pie chart shows the amount of subscriptions generated for India Bonds from different categories of investors.\n\nSubscriptions Generated for India Bonds"
     },
     {
       "id": "quant_piecha_035",
@@ -951,8 +985,9 @@
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/017001",
+      "pattern_detected": "",
+      "passage": "The following pie chart shows the amount of subscriptions generated for India Bonds from different categories of investors.\n\nSubscriptions Generated for India Bonds"
     },
     {
       "id": "quant_piecha_036",
@@ -978,8 +1013,9 @@
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/017001",
+      "pattern_detected": "",
+      "passage": "The following pie chart shows the amount of subscriptions generated for India Bonds from different categories of investors.\n\nSubscriptions Generated for India Bonds"
     },
     {
       "id": "quant_piecha_037",
@@ -1005,14 +1041,15 @@
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/017001",
+      "pattern_detected": "",
+      "passage": "The following pie chart shows the amount of subscriptions generated for India Bonds from different categories of investors.\n\nSubscriptions Generated for India Bonds"
     },
     {
       "id": "quant_piecha_038",
       "topic": "quant",
       "subtopic": "pie_charts",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "company_tags": [
         "TCS",
         "Infosys",
@@ -1021,25 +1058,26 @@
       ],
       "question": "What percent of total spending is spent on Tennis?",
       "options": [
-        "[TABLE]",
-        "[TABLE]",
+        "<table class=\"di-tbl-answer\" cellpadding=\"0\" cellspacing=\"0\">\n <tbody><tr align=\"center\">\n <td class=\"di-td-line\" rowspan=\"2\">12</td>\n <td class=\"di-td-divident\">1</td>\n <td class=\"di-td-line\" rowspan=\"2\">%</td>\n </tr>\n <tr align=\"center\">\n <td class=\"di-td-divisor\">2</td>\n </tr>\n </tbody></table>",
+        "<table class=\"di-tbl-answer\" cellpadding=\"0\" cellspacing=\"0\">\n <tbody><tr align=\"center\">\n <td class=\"di-td-line\" rowspan=\"2\">22</td>\n <td class=\"di-td-divident\">1</td>\n <td class=\"di-td-line\" rowspan=\"2\">%</td>\n </tr>\n <tr align=\"center\">\n <td class=\"di-td-divisor\">2</td>\n </tr>\n </tbody></table>",
         "25%",
         "45%"
       ],
       "answer": "A",
-      "explanation": "[TABLE]",
+      "explanation": "[TABLE DATA]\nPercentage of money spend on Tennis = | | 45 | x 100 | | % = 12 | 1 | %.\n360 | 2\n[/TABLE DATA]",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/018001",
+      "pattern_detected": "",
+      "passage": "The circle-graph given here shows the spendings of a country on various sports during a particular year. Study the graph carefully and answer the questions given below it."
     },
     {
       "id": "quant_piecha_039",
       "topic": "quant",
       "subtopic": "pie_charts",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "company_tags": [
         "TCS",
         "Infosys",
@@ -1054,13 +1092,14 @@
         "75%"
       ],
       "answer": "D",
-      "explanation": "Let the total spendings on sports be Rs. x. Then,\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]",
+      "explanation": "Let the total spendings on sports be Rs. x. Then,\n\n[TABLE DATA]\nAmount spent on Golf = Rs. | | 36 | x x | | = Rs. | x | .\n360 | 10\n[/TABLE DATA]\n\n[TABLE DATA]\nAmount spent on Hockey = Rs | | 63 | x x | | = Rs. | 7x | .\n360 | 40\n[/TABLE DATA]\n\n[TABLE DATA]\nDifference = Rs. | | 7x | - | x | | = Rs | 3x | .\n40 | 10 | 40\n[/TABLE DATA]\n\n[TABLE DATA]\nRequired percentage = Rs. | | | 3x/40 | | x 100 | | % = 75%.\nx/10\n[/TABLE DATA]",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/018001",
+      "pattern_detected": "",
+      "passage": "The circle-graph given here shows the spendings of a country on various sports during a particular year. Study the graph carefully and answer the questions given below it."
     },
     {
       "id": "quant_piecha_040",
@@ -1081,19 +1120,20 @@
         "Rs. 4,10,000"
       ],
       "answer": "A",
-      "explanation": "Amount spent on Basketball exceeds that on Tennis by:\n\n[TABLE]",
+      "explanation": "Amount spent on Basketball exceeds that on Tennis by:\n\n[TABLE DATA]\nRs. | | (50 - 45) | x 1,80,00,000 | | = Rs. 2,50,000.\n360\n[/TABLE DATA]",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/018001",
+      "pattern_detected": "",
+      "passage": "The circle-graph given here shows the spendings of a country on various sports during a particular year. Study the graph carefully and answer the questions given below it."
     },
     {
       "id": "quant_piecha_041",
       "topic": "quant",
       "subtopic": "pie_charts",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "company_tags": [
         "TCS",
         "Infosys",
@@ -1102,19 +1142,20 @@
       ],
       "question": "How much percent less is spent on Football than that on Cricket?",
       "options": [
-        "[TABLE]",
+        "<table class=\"di-tbl-answer\" cellpadding=\"0\" cellspacing=\"0\">\n <tbody><tr align=\"center\">\n <td class=\"di-td-line\" rowspan=\"2\">22</td>\n <td class=\"di-td-divident\">2</td>\n <td class=\"di-td-line\" rowspan=\"2\">%</td>\n </tr>\n <tr align=\"center\">\n <td class=\"di-td-divisor\">9</td>\n </tr>\n </tbody></table>",
         "27%",
-        "[TABLE]",
-        "[TABLE]"
+        "<table class=\"di-tbl-answer\" cellpadding=\"0\" cellspacing=\"0\">\n <tbody><tr align=\"center\">\n <td class=\"di-td-line\" rowspan=\"2\">33</td>\n <td class=\"di-td-divident\">1</td>\n <td class=\"di-td-line\" rowspan=\"2\">%</td>\n </tr>\n <tr align=\"center\">\n <td class=\"di-td-divisor\">3</td>\n </tr>\n </tbody></table>",
+        "<table class=\"di-tbl-answer\" cellpadding=\"0\" cellspacing=\"0\">\n <tbody><tr align=\"center\">\n <td class=\"di-td-line\" rowspan=\"2\">37</td>\n <td class=\"di-td-divident\">1</td>\n <td class=\"di-td-line\" rowspan=\"2\">%</td>\n </tr>\n <tr align=\"center\">\n <td class=\"di-td-divisor\">7</td>\n </tr>\n </tbody></table>"
       ],
       "answer": "C",
-      "explanation": "Let the total spendings on sports be Rs. x. Then,\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]",
+      "explanation": "Let the total spendings on sports be Rs. x. Then,\n\n[TABLE DATA]\nAmount spent on Cricket = Rs. | | 81 | x x | | = Rs. | 9x | .\n360 | 40\n[/TABLE DATA]\n\n[TABLE DATA]\nAmount spent on Football = Rs | | 54 | x x | | = Rs. | 3x | .\n360 | 20\n[/TABLE DATA]\n\n[TABLE DATA]\nDifference = Rs. | | 9x | - | 3x | | = Rs | 3x | .\n40 | 20 | 40\n[/TABLE DATA]\n\n[TABLE DATA]\nRequired percentage = Rs. | | | 3x/40 | | x 100 | | % = 33 | 1 | %.\n9x/40 | 3\n[/TABLE DATA]",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/018001",
+      "pattern_detected": "",
+      "passage": "The circle-graph given here shows the spendings of a country on various sports during a particular year. Study the graph carefully and answer the questions given below it."
     },
     {
       "id": "quant_piecha_042",
@@ -1135,13 +1176,14 @@
         "Rs. 1,60,00,000"
       ],
       "answer": "B",
-      "explanation": "[TABLE]\n \n\n \n = Rs. 0.8 crores\n\n \n = Rs. 80,00,000.",
+      "explanation": "[TABLE DATA]\nAmount spent on Cricket and Hockey together | = Rs. (81 + 63) x 2 crores 360 | = Rs. | | (81 + 63) | x 2 | | crores | 360\n= Rs. | | (81 + 63) | x 2 | | crores\n360\n | = Rs. 0.8 crores\n | = Rs. 80,00,000.\n[/TABLE DATA]",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/018001",
+      "pattern_detected": "",
+      "passage": "The circle-graph given here shows the spendings of a country on various sports during a particular year. Study the graph carefully and answer the questions given below it."
     },
     {
       "id": "quant_piecha_043",
@@ -1162,19 +1204,20 @@
         "80%"
       ],
       "answer": "C",
-      "explanation": "[TABLE]",
+      "explanation": "[TABLE DATA]\nRequired percentage = | | 9% of 5700 | x 100 | | % = | | 9 x 5700 | x 100 | | % = 75%.\n8% of 8550 | 8% of 8550\n[/TABLE DATA]",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/019001",
+      "pattern_detected": "",
+      "passage": "Study the following graph carefully and answer the questions given below:\n\nDistribution of candidates who were enrolled for MBA entrance exam and the candidates (out of those enrolled) who passed the exam in different institutes:"
     },
     {
       "id": "quant_piecha_044",
       "topic": "quant",
       "subtopic": "pie_charts",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "company_tags": [
         "TCS",
         "Infosys",
@@ -1189,13 +1232,14 @@
         "T"
       ],
       "answer": "B",
-      "explanation": "The percentage of candidates passed to candidates enrolled can be determined for each institute as under:\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n\nHighest of these is 86.67% corresponding to institute R.",
+      "explanation": "The percentage of candidates passed to candidates enrolled can be determined for each institute as under:\n\n[TABLE DATA]\n(i) P = | | | 18% of 5700 | | x 100 | | % = | | 18 x 5700 | x 100 | | % = 54.55%.\n22% of 8550 | 22 x 8550\n[/TABLE DATA]\n\n[TABLE DATA]\n(ii) Q = | | | 17% of 5700 | | x 100 | | % | = 75.56%.\n15% of 8550\n[/TABLE DATA]\n\n[TABLE DATA]\n(iii) R = | | | 13% of 5700 | | x 100 | | % | = 86.67%.\n10% of 8550\n[/TABLE DATA]\n\n[TABLE DATA]\n(iv) S = | | | 16% of 5700 | | x 100 | | % | = 62.75%.\n17% of 8550\n[/TABLE DATA]\n\n[TABLE DATA]\n(v) T = | | | 9% of 5700 | | x 100 | | % | = 75%.\n8% of 8550\n[/TABLE DATA]\n\n[TABLE DATA]\n(vi) V = | | | 15% of 5700 | | x 100 | | % | = 83.33%.\n12% of 8550\n[/TABLE DATA]\n\n[TABLE DATA]\n(vii) X = | | | 12% of 5700 | | x 100 | | % | = 50%.\n16% of 8550\n[/TABLE DATA]\n\nHighest of these is 86.67% corresponding to institute R.",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/019001",
+      "pattern_detected": "",
+      "passage": "Study the following graph carefully and answer the questions given below:\n\nDistribution of candidates who were enrolled for MBA entrance exam and the candidates (out of those enrolled) who passed the exam in different institutes:"
     },
     {
       "id": "quant_piecha_045",
@@ -1216,13 +1260,14 @@
         "407"
       ],
       "answer": "C",
-      "explanation": "[TABLE]",
+      "explanation": "[TABLE DATA]\nRequired difference | = [(16% + 18%) of 5700] - [(8% + 10%) of 8550]\n | = [(34% of 5700) - (18% of 8550)]\n | = (1938 - 1539)\n | = 399.\n[/TABLE DATA]",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/019001",
+      "pattern_detected": "",
+      "passage": "Study the following graph carefully and answer the questions given below:\n\nDistribution of candidates who were enrolled for MBA entrance exam and the candidates (out of those enrolled) who passed the exam in different institutes:"
     },
     {
       "id": "quant_piecha_046",
@@ -1243,13 +1288,14 @@
         "65%"
       ],
       "answer": "B",
-      "explanation": "[TABLE]\n\n[TABLE]\n \n\n \n \n [TABLE]\n \n\n \n = 80%.",
+      "explanation": "[TABLE DATA]\nCandidates passed from institutes Q and R together | = [(13% + 17%) of 5700]\n | = 30% of 5700.\nCandidates enrolled from institutes Q and R together | = [(15% + 10%) of 8550]\n | = 25% of 8550.\n[/TABLE DATA]\n\n[TABLE DATA]\nRequired Percentage | = 30% of 5700 x 100 % 25% of 8550 | = | | 30% of 5700 | x 100 | | % | 25% of 8550\n= | | 30% of 5700 | x 100 | | %\n25% of 8550\n | = 30 x 5700 x 100 % 25 x 8550 | = | | 30 x 5700 | x 100 | | % | 25 x 8550\n= | | 30 x 5700 | x 100 | | %\n25 x 8550\n | = 80%.\n[/TABLE DATA]",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/019001",
+      "pattern_detected": "",
+      "passage": "Study the following graph carefully and answer the questions given below:\n\nDistribution of candidates who were enrolled for MBA entrance exam and the candidates (out of those enrolled) who passed the exam in different institutes:"
     },
     {
       "id": "quant_piecha_047",
@@ -1270,19 +1316,20 @@
         "9 : 17"
       ],
       "answer": "C",
-      "explanation": "[TABLE]",
+      "explanation": "[TABLE DATA]\nRequired ratio = | | 18% of 5700 | | = | | 18 x 5700 | | = | 6 | .\n22% of 8550 | 22 x 8550 | 11\n[/TABLE DATA]",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/019001",
+      "pattern_detected": "",
+      "passage": "Study the following graph carefully and answer the questions given below:\n\nDistribution of candidates who were enrolled for MBA entrance exam and the candidates (out of those enrolled) who passed the exam in different institutes:"
     },
     {
       "id": "quant_piecha_048",
       "topic": "quant",
       "subtopic": "pie_charts",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "company_tags": [
         "TCS",
         "Infosys",
@@ -1297,13 +1344,14 @@
         "Data inadequate"
       ],
       "answer": "B",
-      "explanation": "Let the body weight be x kg.\n\n[TABLE]\n \n\n \n \n [TABLE]\n \n\n[TABLE]\n \n x 100\n \n % = 1.6%.\n\n x",
+      "explanation": "Let the body weight be x kg.\n\n[TABLE DATA]\nThen, weight of skin protein in the body | = 16% of 1 of x kg 10 | = | | 16% of | | 1 | of x | | | kg | 10\n= | | 16% of | | 1 | of x | | | kg\n10\n | = 16 x kg. 1000 | = | | 16 | x | | kg. | 1000\n= | | 16 | x | | kg.\n1000\n[/TABLE DATA]\n\n[TABLE DATA]\nRequired percentage = | | 16x 1000 | | 16x | | 1000 | x 100 | | % = 1.6%.\n | 16x | \n1000\nx\n[/TABLE DATA]",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/020001",
+      "pattern_detected": "",
+      "passage": "Study the following pie-diagrams carefully and answer the questions given below it:\n\n Percentage Composition of Human Body"
     },
     {
       "id": "quant_piecha_049",
@@ -1324,19 +1372,48 @@
         "42.5 kg"
       ],
       "answer": "B",
-      "explanation": "[TABLE]",
+      "explanation": "[TABLE DATA]\nQuantity of water in the body of a person weighing 50 kg | = (70% of 50) kg\n | = 35 kg.\n[/TABLE DATA]",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/020001",
+      "pattern_detected": "",
+      "passage": "Study the following pie-diagrams carefully and answer the questions given below it:\n\n Percentage Composition of Human Body"
+    },
+    {
+      "id": "quant_piecha_050",
+      "topic": "quant",
+      "subtopic": "pie_charts",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "What is the ratio of the distribution of proteins in the muscles to that of the distribution of proteins in the bones?",
+      "options": [
+        "1 : 18",
+        "1 : 2",
+        "2 : 1",
+        "18 : 1"
+      ],
+      "answer": "C",
+      "explanation": "[TABLE DATA]\nRequired ratio = | 16% of 1 3 | | 16% of | 1 | | 3 | = | 6 | = | 2 | .\n | 16% of | 1 | \n3\n16% of 1 6 | | 16% of | 1 | | 6 | 3 | 1\n | 16% of | 1 | \n6\n[/TABLE DATA]",
+      "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
+      "formula_used": "",
+      "trap_type": "Confusing percentage with actual value or central angle",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/020001",
+      "pattern_detected": "",
+      "passage": "Study the following pie-diagrams carefully and answer the questions given below it:\n\n Percentage Composition of Human Body"
     },
     {
       "id": "quant_piecha_051",
       "topic": "quant",
       "subtopic": "pie_charts",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "company_tags": [
         "TCS",
         "Infosys",
@@ -1351,13 +1428,14 @@
         "252°"
       ],
       "answer": "C",
-      "explanation": "[TABLE]",
+      "explanation": "[TABLE DATA]\nPercentage of proteins and other dry elements in the body | = (16% + 14%)\n | = 30%.\nCentral angle corresponding to proteins and other dry elements together\n | = 30% of 360°\n | = 108°.\n[/TABLE DATA]",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/020001",
+      "pattern_detected": "",
+      "passage": "Study the following pie-diagrams carefully and answer the questions given below it:\n\n Percentage Composition of Human Body"
     },
     {
       "id": "quant_piecha_052",
@@ -1372,25 +1450,26 @@
       ],
       "question": "In the human body, what part is made of neither bones nor skin?",
       "options": [
-        "[TABLE]",
-        "[TABLE]",
-        "[TABLE]",
+        "<table class=\"di-tbl-answer\" cellpadding=\"0\" cellspacing=\"0\">\n <tbody><tr align=\"center\">\n <td class=\"di-td-divident\">1</td>\n </tr>\n <tr align=\"center\">\n <td class=\"di-td-divisor\">40</td>\n </tr>\n </tbody></table>",
+        "<table class=\"di-tbl-answer\" cellpadding=\"0\" cellspacing=\"0\">\n <tbody><tr align=\"center\">\n <td class=\"di-td-divident\">3</td>\n </tr>\n <tr align=\"center\">\n <td class=\"di-td-divisor\">80</td>\n </tr>\n </tbody></table>",
+        "<table class=\"di-tbl-answer\" cellpadding=\"0\" cellspacing=\"0\">\n <tbody><tr align=\"center\">\n <td class=\"di-td-divident\">2</td>\n </tr>\n <tr align=\"center\">\n <td class=\"di-td-divisor\">5</td>\n </tr>\n </tbody></table>",
         "None of these"
       ],
       "answer": "D",
-      "explanation": "[TABLE]",
+      "explanation": "[TABLE DATA]\nPart of the body made of neither bones nor skin = 1 - | | 1 | + | 1 | | = | 11 | .\n6 | 10 | 15\n[/TABLE DATA]",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/020001",
+      "pattern_detected": "",
+      "passage": "Study the following pie-diagrams carefully and answer the questions given below it:\n\n Percentage Composition of Human Body"
     },
     {
       "id": "quant_piecha_053",
       "topic": "quant",
       "subtopic": "pie_charts",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "company_tags": [
         "TCS",
         "Infosys",
@@ -1405,19 +1484,20 @@
         "31.5%"
       ],
       "answer": "C",
-      "explanation": "[TABLE]\n\nwhere N = 3276000.\n\n[TABLE]\n\n[TABLE]\n\n[TABLE]\n \n\n \n \n [TABLE]\n \n\n[TABLE]\n \n x 100\n \n % = 28.5%.\n\n N",
+      "explanation": "[TABLE DATA]\nNumber of males in U.P = | | 3 | of (15% of N) | | = | 3 | x | 15 | x N = 9 x | N | .\n5 | 5 | 100 | 100\n[/TABLE DATA]\n\nwhere N = 3276000.\n\n[TABLE DATA]\nNumber of males in M.P = | | 3 | of (20% of N) | | = | 3 | x | 20 | x N = 15 x | N | .\n4 | 4 | 100 | 100\n[/TABLE DATA]\n\n[TABLE DATA]\nNumber of males in Goa = | | 3 | of (12% of N) | | = | 3 | x | 12 | x N = 4.5 x | N | .\n8 | 8 | 100 | 100\n[/TABLE DATA]\n\n[TABLE DATA]\nTotal number of males in these three states | = (9 + 15 + 4.5) x N 100 | = (9 + 15 + 4.5) x | N | 100\n= (9 + 15 + 4.5) x | N\n100\n | = 28.5 x N . 100 | = | | 28.5 x | N | | . | 100\n= | | 28.5 x | N | | .\n100\n[/TABLE DATA]\n\n[TABLE DATA]\nRequired Percentage = | | 28.5 x N 100 | | 28.5 x | N | | 100 | x 100 | | % = 28.5%.\n | 28.5 x | N | \n100\nN\n[/TABLE DATA]",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/021001",
+      "pattern_detected": "",
+      "passage": "Study the following graph and the table and answer the questions given below.\n\n Data of different states regarding population of states in the year 1998\n\n \n\n Total population of the given States = 3276000.\n \n \n\n[TABLE DATA]\nStates | Sex and Literacy wise Population Ratio\nSex | Literacy\nM | F | Literate | Illiterate\nA.P | 5 | 3 | 2 | 7\nM.P | 3 | 1 | 1 | 4\nDelhi | 2 | 3 | 2 | 1\nGoa | 3 | 5 | 3 | 2\nBihar | 3 | 4 | 4 | 1\nU.P. | 3 | 2 | 7 | 2\nT.N. | 3 | 4 | 9 | 4\n[/TABLE DATA]"
     },
     {
       "id": "quant_piecha_054",
       "topic": "quant",
       "subtopic": "pie_charts",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "company_tags": [
         "TCS",
         "Infosys",
@@ -1432,19 +1512,20 @@
         "1161160"
       ],
       "answer": "D",
-      "explanation": "[TABLE]\n\n[TABLE]\n\n Total number = (637000 + 524160) = 1161160.",
+      "explanation": "[TABLE DATA]\nNo. of illiterate people in A.P. = | | 7 | of (25% of 3276000) | | = 637000.\n9\n[/TABLE DATA]\n\n[TABLE DATA]\nNo. of illiterate people in M.P. = | | 4 | of (20% of 3276000) | | = 524160.\n5\n[/TABLE DATA]\n\n[IMAGE] Total number = (637000 + 524160) = 1161160.",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/021001",
+      "pattern_detected": "",
+      "passage": "Study the following graph and the table and answer the questions given below.\n\n Data of different states regarding population of states in the year 1998\n\n \n\n Total population of the given States = 3276000.\n \n \n\n[TABLE DATA]\nStates | Sex and Literacy wise Population Ratio\nSex | Literacy\nM | F | Literate | Illiterate\nA.P | 5 | 3 | 2 | 7\nM.P | 3 | 1 | 1 | 4\nDelhi | 2 | 3 | 2 | 1\nGoa | 3 | 5 | 3 | 2\nBihar | 3 | 4 | 4 | 1\nU.P. | 3 | 2 | 7 | 2\nT.N. | 3 | 4 | 9 | 4\n[/TABLE DATA]"
     },
     {
       "id": "quant_piecha_055",
       "topic": "quant",
       "subtopic": "pie_charts",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "company_tags": [
         "TCS",
         "Infosys",
@@ -1459,19 +1540,20 @@
         "15 : 14"
       ],
       "answer": "D",
-      "explanation": "[TABLE]\n \n \n \n \n [TABLE]\n \n \n \n \n \n\n \n \n \n [TABLE]\n \n \n \n \n [TABLE]\n \n \n \n \n \n\n \n \n \n [TABLE]\n \n \n\n \n \n \n [TABLE]",
+      "explanation": "[TABLE DATA]\nRequired ratio | = 4 of (9% of 3276000) 7 3 of (8% of 3276000) 5 | = | 4 of (9% of 3276000) 7 | 4 | of (9% of 3276000) | 7 | 3 of (8% of 3276000) 5 | 3 | of (8% of 3276000) | 5\n= | 4 of (9% of 3276000) 7 | 4 | of (9% of 3276000) | 7\n4 | of (9% of 3276000)\n7\n3 of (8% of 3276000) 5 | 3 | of (8% of 3276000) | 5\n3 | of (8% of 3276000)\n5\n | = 4 x 9 7 3 x 8 5 | = | 4 x 9 7 | | 4 | x 9 | | 7 | 3 x 8 5 | | 3 | x 8 | | 5\n= | 4 x 9 7 | | 4 | x 9 | | 7\n | 4 | x 9 | \n7\n3 x 8 5 | | 3 | x 8 | | 5\n | 3 | x 8 | \n5\n | = 4 x 9 x 5 x 1 7 3 8 | = | | 4 | x 9 x | 5 | x | 1 | | 7 | 3 | 8\n= | | 4 | x 9 x | 5 | x | 1 | \n7 | 3 | 8\n | = 15 . 14 | = | 15 | . | 14\n= | 15 | .\n14\n[/TABLE DATA]",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/021001",
+      "pattern_detected": "",
+      "passage": "Study the following graph and the table and answer the questions given below.\n\n Data of different states regarding population of states in the year 1998\n\n \n\n Total population of the given States = 3276000.\n \n \n\n[TABLE DATA]\nStates | Sex and Literacy wise Population Ratio\nSex | Literacy\nM | F | Literate | Illiterate\nA.P | 5 | 3 | 2 | 7\nM.P | 3 | 1 | 1 | 4\nDelhi | 2 | 3 | 2 | 1\nGoa | 3 | 5 | 3 | 2\nBihar | 3 | 4 | 4 | 1\nU.P. | 3 | 2 | 7 | 2\nT.N. | 3 | 4 | 9 | 4\n[/TABLE DATA]"
     },
     {
       "id": "quant_piecha_056",
       "topic": "quant",
       "subtopic": "pie_charts",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "company_tags": [
         "TCS",
         "Infosys",
@@ -1486,19 +1568,20 @@
         "341200"
       ],
       "answer": "B",
-      "explanation": "[TABLE]\n \n\n \n \n [TABLE]\n \n\n \n = 294840.",
+      "explanation": "[TABLE DATA]\nNumber of males in U.P. | = 3 of (15% of 3276000) 5 | = | | | 3 | of (15% of 3276000) | | 5\n= | | | 3 | of (15% of 3276000) | \n5\n | = 3 x 15 x 3726000 5 100 | = | 3 | x | 15 | x 3726000 | 5 | 100\n= | 3 | x | 15 | x 3726000\n5 | 100\n | = 294840.\n[/TABLE DATA]",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/021001",
+      "pattern_detected": "",
+      "passage": "Study the following graph and the table and answer the questions given below.\n\n Data of different states regarding population of states in the year 1998\n\n \n\n Total population of the given States = 3276000.\n \n \n\n[TABLE DATA]\nStates | Sex and Literacy wise Population Ratio\nSex | Literacy\nM | F | Literate | Illiterate\nA.P | 5 | 3 | 2 | 7\nM.P | 3 | 1 | 1 | 4\nDelhi | 2 | 3 | 2 | 1\nGoa | 3 | 5 | 3 | 2\nBihar | 3 | 4 | 4 | 1\nU.P. | 3 | 2 | 7 | 2\nT.N. | 3 | 4 | 9 | 4\n[/TABLE DATA]"
     },
     {
       "id": "quant_piecha_057",
       "topic": "quant",
       "subtopic": "pie_charts",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "company_tags": [
         "TCS",
         "Infosys",
@@ -1513,13 +1596,14 @@
         "4 : 5"
       ],
       "answer": "A",
-      "explanation": "Let x be the population of U.P. in 1997. Then,\n\n[TABLE]\n\nAlso, let y be the population of M.P. in 1997. Then,\n\n[TABLE]\n\n[TABLE]\n \n =\n 110x \n .\n\n \n [TABLE]\n \n 112y\n\n[TABLE]\n\n[TABLE]\n\nThus, ratio of populations of U.P. and M.P. in 1997 = x : y = 42 : 55.",
+      "explanation": "Let x be the population of U.P. in 1997. Then,\n\n[TABLE DATA]\nPopulation of U.P. in 1998 = 110% of x = | 110 | x x.\n100\n[/TABLE DATA]\n\nAlso, let y be the population of M.P. in 1997. Then,\n\n[TABLE DATA]\nPopulation of M.P. in 1998 = 112% of y = | 112 | x y.\n100\n[/TABLE DATA]\n\n[TABLE DATA]\nRatio of populations of U.P. and M.P. in 1998 = | 110 x x 100 | | 110 | x x | | 100 | = | 110x | .\n | 110 | x x | \n100\n112 x y 100 | | 112 | x y | | 100 | 112y\n | 112 | x y | \n100\n[/TABLE DATA]\n\n[TABLE DATA]\nFrom the pie-chart, this ratio is | 15 | .\n20\n[/TABLE DATA]\n\n[TABLE DATA]\n | 110x | = | 15 | | x | = | 15 | x | 112 | = | 42 | .\n112y | 20 | y | 20 | 110 | 55\n[/TABLE DATA]\n\nThus, ratio of populations of U.P. and M.P. in 1997 = x : y = 42 : 55.",
       "shortcut": "For pie charts: 1% = 3.6 degrees; calculate angles for comparisons",
       "formula_used": "",
       "trap_type": "Confusing percentage with actual value or central angle",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/data-interpretation/pie-charts/021001",
+      "pattern_detected": "",
+      "passage": "Study the following graph and the table and answer the questions given below.\n\n Data of different states regarding population of states in the year 1998\n\n \n\n Total population of the given States = 3276000.\n \n \n\n[TABLE DATA]\nStates | Sex and Literacy wise Population Ratio\nSex | Literacy\nM | F | Literate | Illiterate\nA.P | 5 | 3 | 2 | 7\nM.P | 3 | 1 | 1 | 4\nDelhi | 2 | 3 | 2 | 1\nGoa | 3 | 5 | 3 | 2\nBihar | 3 | 4 | 4 | 1\nU.P. | 3 | 2 | 7 | 2\nT.N. | 3 | 4 | 9 | 4\n[/TABLE DATA]"
     }
   ]
 }
