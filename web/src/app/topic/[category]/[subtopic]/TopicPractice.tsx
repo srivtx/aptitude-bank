@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useCallback, useEffect } from 'react';
+import { useState, useCallback, useEffect, useMemo } from 'react';
 import type { TopicData } from '@/lib/types';
 
 interface TopicPracticeProps {
@@ -20,10 +20,12 @@ export default function TopicPractice({ data }: TopicPracticeProps) {
   const currentQuestion = questions[currentIndex];
   const labels = ['A', 'B', 'C', 'D', 'E'];
 
-  const filteredQuestions = data.questions.filter((q) => {
-    if (difficultyFilter === 'all') return true;
-    return q.difficulty === difficultyFilter;
-  });
+  const filteredQuestions = useMemo(() => {
+    return data.questions.filter((q) => {
+      if (difficultyFilter === 'all') return true;
+      return q.difficulty === difficultyFilter;
+    });
+  }, [data.questions, difficultyFilter]);
 
   const startPractice = useCallback(() => {
     let qs = [...filteredQuestions];
