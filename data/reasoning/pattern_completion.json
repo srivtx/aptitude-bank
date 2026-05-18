@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "topic": "Logical Reasoning",
+    "topic": "Non Verbal Reasoning",
     "subtopic": "pattern_completion",
-    "total_questions": 1,
+    "total_questions": 20,
     "sources": [
       "IndiaBIX"
     ],
@@ -29,12 +29,565 @@
       ],
       "answer": "D",
       "explanation": "",
-      "shortcut": "Look for symmetry, rotation, or progression in the existing pattern",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
       "formula_used": "",
-      "trap_type": "Filling the blank without checking symmetry on both sides",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/pattern-completion/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/pattern-completion/83.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/pattern-completion/83-1.png"
+    },
+    {
+      "id": "reasoning_patter_002",
+      "topic": "reasoning",
+      "subtopic": "pattern_completion",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Identify the figure that completes the pattern.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "C",
+      "explanation": "",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/pattern-completion/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/pattern-completion/55.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/pattern-completion/55-1.png"
+    },
+    {
+      "id": "reasoning_patter_003",
+      "topic": "reasoning",
+      "subtopic": "pattern_completion",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Identify the figure that completes the pattern.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/pattern-completion/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/pattern-completion/67.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/pattern-completion/67-1.png"
+    },
+    {
+      "id": "reasoning_patter_004",
+      "topic": "reasoning",
+      "subtopic": "pattern_completion",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Identify the figure that completes the pattern.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/pattern-completion/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/pattern-completion/68.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/pattern-completion/68-1.png"
+    },
+    {
+      "id": "reasoning_patter_005",
+      "topic": "reasoning",
+      "subtopic": "pattern_completion",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Identify the figure that completes the pattern.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "B",
+      "explanation": "",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/pattern-completion/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/pattern-completion/86.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/pattern-completion/86-1.png"
+    },
+    {
+      "id": "reasoning_patter_006",
+      "topic": "reasoning",
+      "subtopic": "pattern_completion",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Identify the figure that completes the pattern.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/pattern-completion/015002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/pattern-completion/75.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/pattern-completion/75-1.png"
+    },
+    {
+      "id": "reasoning_patter_007",
+      "topic": "reasoning",
+      "subtopic": "pattern_completion",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Identify the figure that completes the pattern.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/pattern-completion/015002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/pattern-completion/91.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/pattern-completion/91-1.png"
+    },
+    {
+      "id": "reasoning_patter_008",
+      "topic": "reasoning",
+      "subtopic": "pattern_completion",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Identify the figure that completes the pattern.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/pattern-completion/015002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/pattern-completion/2.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/pattern-completion/2-1.png"
+    },
+    {
+      "id": "reasoning_patter_009",
+      "topic": "reasoning",
+      "subtopic": "pattern_completion",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Identify the figure that completes the pattern.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/pattern-completion/015002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/pattern-completion/40.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/pattern-completion/40-1.png"
+    },
+    {
+      "id": "reasoning_patter_010",
+      "topic": "reasoning",
+      "subtopic": "pattern_completion",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Identify the figure that completes the pattern.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/pattern-completion/015002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/pattern-completion/95.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/pattern-completion/95-1.png"
+    },
+    {
+      "id": "reasoning_patter_011",
+      "topic": "reasoning",
+      "subtopic": "pattern_completion",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Identify the figure that completes the pattern.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "C",
+      "explanation": "",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/pattern-completion/015010",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/pattern-completion/18.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/pattern-completion/18-1.png"
+    },
+    {
+      "id": "reasoning_patter_012",
+      "topic": "reasoning",
+      "subtopic": "pattern_completion",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Identify the figure that completes the pattern.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/pattern-completion/015010",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/pattern-completion/27.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/pattern-completion/27-1.png"
+    },
+    {
+      "id": "reasoning_patter_013",
+      "topic": "reasoning",
+      "subtopic": "pattern_completion",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Identify the figure that completes the pattern.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "A",
+      "explanation": "",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/pattern-completion/015010",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/pattern-completion/42.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/pattern-completion/42-1.png"
+    },
+    {
+      "id": "reasoning_patter_014",
+      "topic": "reasoning",
+      "subtopic": "pattern_completion",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Identify the figure that completes the pattern.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "C",
+      "explanation": "",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/pattern-completion/015010",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/pattern-completion/22.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/pattern-completion/22-1.png"
+    },
+    {
+      "id": "reasoning_patter_015",
+      "topic": "reasoning",
+      "subtopic": "pattern_completion",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Identify the figure that completes the pattern.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "C",
+      "explanation": "",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/pattern-completion/015010",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/pattern-completion/73.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/pattern-completion/73-1.png"
+    },
+    {
+      "id": "reasoning_patter_016",
+      "topic": "reasoning",
+      "subtopic": "pattern_completion",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Identify the figure that completes the pattern.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "B",
+      "explanation": "",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/pattern-completion/016001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/pattern-completion/47.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/pattern-completion/47-1.png"
+    },
+    {
+      "id": "reasoning_patter_017",
+      "topic": "reasoning",
+      "subtopic": "pattern_completion",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Identify the figure that completes the pattern.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "B",
+      "explanation": "",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/pattern-completion/016001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/pattern-completion/52.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/pattern-completion/52-1.png"
+    },
+    {
+      "id": "reasoning_patter_018",
+      "topic": "reasoning",
+      "subtopic": "pattern_completion",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Identify the figure that completes the pattern.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/pattern-completion/016001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/pattern-completion/92.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/pattern-completion/92-1.png"
+    },
+    {
+      "id": "reasoning_patter_019",
+      "topic": "reasoning",
+      "subtopic": "pattern_completion",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Identify the figure that completes the pattern.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "B",
+      "explanation": "",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/pattern-completion/016001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/pattern-completion/13.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/pattern-completion/13-1.png"
+    },
+    {
+      "id": "reasoning_patter_020",
+      "topic": "reasoning",
+      "subtopic": "pattern_completion",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Identify the figure that completes the pattern.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/pattern-completion/016001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/pattern-completion/82.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/pattern-completion/82-1.png"
     }
   ]
 }

@@ -1,0 +1,321 @@
+{
+  "metadata": {
+    "topic": "Non Verbal Reasoning",
+    "subtopic": "rule_detection",
+    "total_questions": 11,
+    "sources": [
+      "IndiaBIX"
+    ],
+    "last_updated": "2026-05-18"
+  },
+  "questions": [
+    {
+      "id": "reasoning_rulede_001",
+      "topic": "reasoning",
+      "subtopic": "rule_detection",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the set of figures which follows the given rule.\nRule: Closed figures losing their sides and open figures gaining their sides.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/rule-detection/discussion-757#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/rule-detection/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/rule-detection/3.png"
+    },
+    {
+      "id": "reasoning_rulede_002",
+      "topic": "reasoning",
+      "subtopic": "rule_detection",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the set of figures which follows the given rule.\nRule: Any figure can be traced by a single unbroken line without retracting.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/rule-detection/discussion-758#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/rule-detection/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/rule-detection/4.png"
+    },
+    {
+      "id": "reasoning_rulede_003",
+      "topic": "reasoning",
+      "subtopic": "rule_detection",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the set of figures which follows the given rule.\nRule: Closed figures gradually become open and open figures gradually become closed.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/rule-detection/discussion-766#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/rule-detection/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/rule-detection/12.png"
+    },
+    {
+      "id": "reasoning_rulede_004",
+      "topic": "reasoning",
+      "subtopic": "rule_detection",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the set of figures which follows the given rule.\nRule: Closed figures become more and more open and open figures become more and more closed.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/rule-detection/discussion-761#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/rule-detection/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/rule-detection/7.png"
+    },
+    {
+      "id": "reasoning_rulede_005",
+      "topic": "reasoning",
+      "subtopic": "rule_detection",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the set of figures which follows the given rule.\nRule: The series becomes complex as it proceeds.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/rule-detection/discussion-759#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/rule-detection/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/rule-detection/5.png"
+    },
+    {
+      "id": "reasoning_rulede_006",
+      "topic": "reasoning",
+      "subtopic": "rule_detection",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the set of figures which follows the given rule.\nRule: Closed figures become more and more open and open figures become more and more closed.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/rule-detection/discussion-764#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/rule-detection/023002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/rule-detection/10.png"
+    },
+    {
+      "id": "reasoning_rulede_007",
+      "topic": "reasoning",
+      "subtopic": "rule_detection",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the set of figures which follows the given rule.\nRule: Closed figures become more and more open and open figures become more and more closed.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/rule-detection/discussion-756#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/rule-detection/024001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/rule-detection/2.png"
+    },
+    {
+      "id": "reasoning_rulede_008",
+      "topic": "reasoning",
+      "subtopic": "rule_detection",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the set of figures which follows the given rule.\nRule: The series becomes simpler as it proceeds.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/rule-detection/discussion-765#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/rule-detection/024001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/rule-detection/11.png"
+    },
+    {
+      "id": "reasoning_rulede_009",
+      "topic": "reasoning",
+      "subtopic": "rule_detection",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the set of figures which follows the given rule.\nRule: As the circle decreases in size, its sectors increase in number.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/rule-detection/discussion-760#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/rule-detection/024001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/rule-detection/6.png"
+    },
+    {
+      "id": "reasoning_rulede_010",
+      "topic": "reasoning",
+      "subtopic": "rule_detection",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the set of figures which follows the given rule.\nRule: The series becomes complex as it proceeds.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/rule-detection/discussion-763#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/rule-detection/024001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/rule-detection/9.png"
+    },
+    {
+      "id": "reasoning_rulede_011",
+      "topic": "reasoning",
+      "subtopic": "rule_detection",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the set of figures which follows the given rule.\nRule: Closed figures become more and more open and open figures become more and more closed.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/rule-detection/discussion-762#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/rule-detection/024001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/rule-detection/8.png"
+    }
+  ]
+}

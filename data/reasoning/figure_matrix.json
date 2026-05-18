@@ -1,0 +1,573 @@
+{
+  "metadata": {
+    "topic": "Non Verbal Reasoning",
+    "subtopic": "figure_matrix",
+    "total_questions": 20,
+    "sources": [
+      "IndiaBIX"
+    ],
+    "last_updated": "2026-05-18"
+  },
+  "questions": [
+    {
+      "id": "reasoning_figure_001",
+      "topic": "reasoning",
+      "subtopic": "figure_matrix",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select a suitable figure from the four alternatives that would complete the figure matrix.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "The third figure in each row comprises of parts which are not common to the first two figures.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/figure-matrix/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/figure-matrix/27.png"
+    },
+    {
+      "id": "reasoning_figure_002",
+      "topic": "reasoning",
+      "subtopic": "figure_matrix",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select a suitable figure from the four alternatives that would complete the figure matrix.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "B",
+      "explanation": "In each row, the second figure is obtained from the first figure by adding two mutually perpendicular line segments at the centre and the third figure is obtained from the first figure by adding four circles outside the main figure.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/figure-matrix/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/figure-matrix/9.png"
+    },
+    {
+      "id": "reasoning_figure_003",
+      "topic": "reasoning",
+      "subtopic": "figure_matrix",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select a suitable figure from the four alternatives that would complete the figure matrix.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "A",
+      "explanation": "In each row, the third figure comprises of a black circle and only those line segments which are not common to the first and the second figures.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/figure-matrix/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/figure-matrix/16.png"
+    },
+    {
+      "id": "reasoning_figure_004",
+      "topic": "reasoning",
+      "subtopic": "figure_matrix",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select a suitable figure from the four alternatives that would complete the figure matrix.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "C",
+      "explanation": "In each column, the second figure (middle figure) is obtained by removing the upper part of the first figure (uppermost figure) and the third figure (lowermost figure) is obtained by vertically inverting the upper part of the first figure.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/figure-matrix/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/figure-matrix/12.png"
+    },
+    {
+      "id": "reasoning_figure_005",
+      "topic": "reasoning",
+      "subtopic": "figure_matrix",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select a suitable figure from the four alternatives that would complete the figure matrix.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "C",
+      "explanation": "The third figure in each row comprises of the parts common to the first two figures.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/figure-matrix/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/figure-matrix/23.png"
+    },
+    {
+      "id": "reasoning_figure_006",
+      "topic": "reasoning",
+      "subtopic": "figure_matrix",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select a suitable figure from the four alternatives that would complete the figure matrix.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "B",
+      "explanation": "The third figure in each row comprises of parts which are not common to the first two figures.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/figure-matrix/017002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/figure-matrix/28.png"
+    },
+    {
+      "id": "reasoning_figure_007",
+      "topic": "reasoning",
+      "subtopic": "figure_matrix",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select a suitable figure from the four alternatives that would complete the figure matrix.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "A",
+      "explanation": "The number of components in each row either increases or decreases from left to right. In the third row, it increases.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/figure-matrix/017002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/figure-matrix/18.png"
+    },
+    {
+      "id": "reasoning_figure_008",
+      "topic": "reasoning",
+      "subtopic": "figure_matrix",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select a suitable figure from the four alternatives that would complete the figure matrix.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "A",
+      "explanation": "In each row, the second figure is obtained from the first figure by increasing the number of smaller elements by one and the third figure is obtained from the second figure by increasing the number of smaller elements by one.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/figure-matrix/017002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/figure-matrix/8.png"
+    },
+    {
+      "id": "reasoning_figure_009",
+      "topic": "reasoning",
+      "subtopic": "figure_matrix",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select a suitable figure from the four alternatives that would complete the figure matrix.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "C",
+      "explanation": "The third figure in each row comprises of parts which are not common to the first two figures.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/figure-matrix/017002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/figure-matrix/26.png"
+    },
+    {
+      "id": "reasoning_figure_010",
+      "topic": "reasoning",
+      "subtopic": "figure_matrix",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select a suitable figure from the four alternatives that would complete the figure matrix.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "A",
+      "explanation": "Each row (as well as each column) contains a figure consisting of a circle and two line segments, a figure consisting of a circle and three line segments and a figure consisting of a circle and four line segments.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/figure-matrix/017002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/figure-matrix/10.png"
+    },
+    {
+      "id": "reasoning_figure_011",
+      "topic": "reasoning",
+      "subtopic": "figure_matrix",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select a suitable figure from the four alternatives that would complete the figure matrix.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "B",
+      "explanation": "The two parts of the first figure are rearranged and joined along the longer sides. The common side is then lost to form the second figure.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/figure-matrix/017004",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/figure-matrix/2.png"
+    },
+    {
+      "id": "reasoning_figure_012",
+      "topic": "reasoning",
+      "subtopic": "figure_matrix",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select a suitable figure from the four alternatives that would complete the figure matrix.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "C",
+      "explanation": "The second figure is a part of the first figure (but is not exactly the same as the first figure).",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/figure-matrix/017004",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/figure-matrix/1.png"
+    },
+    {
+      "id": "reasoning_figure_013",
+      "topic": "reasoning",
+      "subtopic": "figure_matrix",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select a suitable figure from the four alternatives that would complete the figure matrix.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "A",
+      "explanation": "In each row, the central part of the first figure rotates either 90<sup>o</sup> CW or 90<sup>o</sup> ACW to form the central part of the second figure and the central part of the first figure rotates through 180<sup>o</sup> to form the central part of the third figure. Also, in each row, there are 3 types of side elements - rectangles, circles and triangles.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/figure-matrix/017004",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/figure-matrix/24.png"
+    },
+    {
+      "id": "reasoning_figure_014",
+      "topic": "reasoning",
+      "subtopic": "figure_matrix",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select a suitable figure from the four alternatives that would complete the figure matrix.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "B",
+      "explanation": "In each column, the third figure (lowermost figure) contains one less number of hexagons as the first figure (uppermost figure) and the same number of trees as the second figure (middle figure).",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/figure-matrix/017004",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/figure-matrix/7.png"
+    },
+    {
+      "id": "reasoning_figure_015",
+      "topic": "reasoning",
+      "subtopic": "figure_matrix",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select a suitable figure from the four alternatives that would complete the figure matrix.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "B",
+      "explanation": "There are 3 types of faces, 3 types of bodies, 3 types of hands and 3 types of legs, each of which is used only once in a single row. So, the features which have not been used in the first two figures of the third row would combine to produce the missing figure.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/figure-matrix/017004",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/figure-matrix/34.png"
+    },
+    {
+      "id": "reasoning_figure_016",
+      "topic": "reasoning",
+      "subtopic": "figure_matrix",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select a suitable figure from the four alternatives that would complete the figure matrix.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "In each row, the second figure is obtained by removing the outermost element of the first figure and the third figure is obtained by removing the outermost element of the second figure.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/figure-matrix/018001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/figure-matrix/11.png"
+    },
+    {
+      "id": "reasoning_figure_017",
+      "topic": "reasoning",
+      "subtopic": "figure_matrix",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select a suitable figure from the four alternatives that would complete the figure matrix.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "C",
+      "explanation": "In each row (as well as in each column), the number of rectangles in the second figure is two times the number of rectangles in the first figure and the number of rectangles in the third figure is three times the number of rectangles in the first figure.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/figure-matrix/018001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/figure-matrix/20.png"
+    },
+    {
+      "id": "reasoning_figure_018",
+      "topic": "reasoning",
+      "subtopic": "figure_matrix",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select a suitable figure from the four alternatives that would complete the figure matrix.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "C",
+      "explanation": "There are 3 types of shadings in the triangles, 3 types of legs, 3 positions of circles, each of which is used only once in a single row. The circle is shaded in alternate figures.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/figure-matrix/018001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/figure-matrix/33.png"
+    },
+    {
+      "id": "reasoning_figure_019",
+      "topic": "reasoning",
+      "subtopic": "figure_matrix",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select a suitable figure from the four alternatives that would complete the figure matrix.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "In each row, the third figure is a combination of the first and the second figure.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/figure-matrix/018001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/figure-matrix/6.png"
+    },
+    {
+      "id": "reasoning_figure_020",
+      "topic": "reasoning",
+      "subtopic": "figure_matrix",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select a suitable figure from the four alternatives that would complete the figure matrix.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "In each row (as well as each column), the third figure is a combination of all the, elements of the first and the second figures",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/figure-matrix/018001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/figure-matrix/14.png"
+    }
+  ]
+}

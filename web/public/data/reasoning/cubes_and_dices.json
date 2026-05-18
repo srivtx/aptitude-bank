@@ -1,19 +1,19 @@
 {
   "metadata": {
-    "topic": "Logical Reasoning",
+    "topic": "Non Verbal Reasoning",
     "subtopic": "cubes_and_dices",
-    "total_questions": 2,
+    "total_questions": 18,
     "sources": [
       "IndiaBIX"
     ],
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18"
   },
   "questions": [
     {
       "id": "reasoning_cubesa_001",
       "topic": "reasoning",
       "subtopic": "cubes_and_dices",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "company_tags": [
         "TCS",
         "Infosys",
@@ -28,19 +28,49 @@
         "1 and 4 only"
       ],
       "answer": "C",
-      "explanation": "The fig. (X) is similar to the Form VI. So, when a cube is formed by folding the sheet shown in fig. (X), then is one of the faces of the cube. However, the cube in fig. (1) has two such faces and fig. (4) has a face which is completely shaded. So, these two cubes cannot be formed. Hence, only the cubes in figures (2) and (3) can be formed.",
-      "shortcut": "",
+      "explanation": "The fig. (X) is similar to the <b><u><a href=\"/non-verbal-reasoning/cubes-and-dice/introduction\">Form VI</a></u></b>. So, when a cube is formed by folding the sheet shown in fig. (X), then is one of the faces of the cube. However, the cube in fig. (1) has two such faces and fig. (4) has a face which is completely shaded. So, these two cubes cannot be formed. Hence, only the cubes in figures (2) and (3) can be formed.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
       "formula_used": "",
-      "trap_type": "Common calculation or reading errors",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/cubes-and-dice/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/cubes-and-dice/cubes/9.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/cubes-and-dice/cubes/9-1.png"
+    },
+    {
+      "id": "reasoning_cubesa_002",
+      "topic": "reasoning",
+      "subtopic": "cubes_and_dices",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the box that is similar to the box formed from the given sheet of paper (X).",
+      "options": [
+        "1 and 4 only",
+        "3 and 4 only",
+        "1 and 2 only",
+        "2 and 3 only"
+      ],
+      "answer": "A",
+      "explanation": "The fig. (X) is similar to the <b><u><a href=\"/non-verbal-reasoning/cubes-and-dice/introduction\">Form I</a></u></b>. So, when the sheet shown in fig. (X) is folded to form a cube then one of the two half-shaded faces lies opposite to one of the blank faces and the other half-shaded face lies opposite to another blank face. The two remaining blank faces lie opposite to each other. Thus, both the cubes shown in figures (1).and (4) can be formed when the sheet shown in fig. (X) is folded. Also, though the cubes shown in figures (2) and (3) have faces that can appear adjacent to each other but the cube formed by folding the sheet in fig. (X) cannot be rotated to form either of the two. Hence, the cubes in figures (2) and (3) cannot be formed.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/cubes-and-dice/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/cubes-and-dice/cubes/19.png"
     },
     {
       "id": "reasoning_cubesa_003",
       "topic": "reasoning",
       "subtopic": "cubes_and_dices",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "company_tags": [
         "TCS",
         "Infosys",
@@ -55,13 +85,436 @@
         "6"
       ],
       "answer": "D",
-      "explanation": "The given figure is similar to Form V. Therefore, when this figure is folded to form a cube then the face bearing six dots will lie opposite the face bearing three dots.",
-      "shortcut": "",
+      "explanation": "The given figure is similar to <b><u><a href=\"/non-verbal-reasoning/cubes-and-dice/introduction\">Form V</a></u></b>. Therefore, when this figure is folded to form a cube then the face bearing six dots will lie opposite the face bearing three dots.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
       "formula_used": "",
-      "trap_type": "Common calculation or reading errors",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/cubes-and-dice/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/cubes-and-dice/cubes/24.png"
+    },
+    {
+      "id": "reasoning_cubesa_004",
+      "topic": "reasoning",
+      "subtopic": "cubes_and_dices",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the box that is similar to the box formed from the given sheet of paper (X).",
+      "options": [
+        "1 and 3 only",
+        "1 and 4 only",
+        "2 and 4 only",
+        "3 and 4 only"
+      ],
+      "answer": "A",
+      "explanation": "The fig. (X) is similar to <b><u><a href=\"/non-verbal-reasoning/cubes-and-dice/introduction\">Form II</a></u></b>. So, when the sheet shown in fig. (X) is folded to form a cube then the two half-shaded faces lie opposite to each other, the face bearing a circle lies opposite to one of the two blank faces and the two remaining blank faces lie opposite to each other. Therefore, the cubes shown in fig. (4) which has the two half-shaded faces adjacent to each other, cannot be formed by folding the sheet shown in fig. (X). Also, the cube shown in fig. (2) has the face bearing a circle adjacent to two blank faces. This is not possible since there is one blank face opposite to the circle and one blank face opposite to the third blank face. Hence, only the cubes in figures (1) and (3) can be formed.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/cubes-and-dice/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/cubes-and-dice/cubes/21.png"
+    },
+    {
+      "id": "reasoning_cubesa_005",
+      "topic": "reasoning",
+      "subtopic": "cubes_and_dices",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the box that is similar to the box formed from the given sheet of paper (X).",
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "2 and 4 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": "D",
+      "explanation": "The fig. (X) is similar to Form II. So, when a cube is formed by folding the sheet shown in fig. (X), then the two half-shaded faces lie opposite to each other and one. of the three blank faces appears opposite to the face bearing a dot. Clearly, each one of the four cubes shown in figures (1), (2), (3) and (4) can be formed by folding the sheet shown in fig. (X).",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/cubes-and-dice/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/cubes-and-dice/cubes/12.png"
+    },
+    {
+      "id": "reasoning_cubesa_006",
+      "topic": "reasoning",
+      "subtopic": "cubes_and_dices",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the box that is similar to the box formed from the given sheet of paper (X).",
+      "options": [
+        "1 only",
+        "1 and 3 only",
+        "1, 3 and 4 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": "C",
+      "explanation": "When the sheet in fig. (X) is folded, then one of the faces of the cube formed will be of the form and this face will lie opposite the face bearing a square. Also, one of the blank faces lies opposite another blank face and the third blank face lies opposite the face bearing an '=' sign. Clearly, all the three blank faces cannot appear adjacent to each other. So, the cube shown in fig. (2) which has all the three blank faces adjacent to each other cannot be formed. Hence, only the cubes shown in figures A, C and D can be formed.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/cubes-and-dice/035002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/cubes-and-dice/cubes/14.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/cubes-and-dice/cubes/14-1.png"
+    },
+    {
+      "id": "reasoning_cubesa_007",
+      "topic": "reasoning",
+      "subtopic": "cubes_and_dices",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the box that is similar to the box formed from the given sheet of paper (X).",
+      "options": [
+        "1 only",
+        "2 only",
+        "1 and 3 only",
+        "1, 2, 3 and 4 only"
+      ],
+      "answer": "B",
+      "explanation": "The fig. (X) is similar to the Form III. So, when the sheet in fig. (X) is folded to form a cube, then 'F' appears opposite 'B', 'E' appears opposite 'C' and 'A' appears opposite 'D' Therefore, the cube in fig. (1) which shows 'F' adjacent to 'B' the cube in fig. (3) which shows 'E' adjacent to 'C' and the cube in fig. (4) which shows 'A' adjacent to 'D' cannot be formed. Hence, only the cube in fig.(2) can be formed.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/cubes-and-dice/035002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/cubes-and-dice/cubes/4.png"
+    },
+    {
+      "id": "reasoning_cubesa_008",
+      "topic": "reasoning",
+      "subtopic": "cubes_and_dices",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the box that is similar to the box formed from the given sheet of paper (X).",
+      "options": [
+        "1 only",
+        "2 only",
+        "3 only",
+        "4 only"
+      ],
+      "answer": "B",
+      "explanation": "The fig. (X) is similar to the Form III. So, when the sheet in fig. (X) is folded to form a cube, then the half-shaded face appears opposite to the face bearing a rhombus, the face with a black circle appears opposite to one of the two blank faces and the face with a '+' sign appears opposite to the other blank face. Clearly, the cubes shown in figures (1) and (4) cannot be formed since they have the half-shaded face adjacent to the face bearing the rhombus. Also, though the cube shown in fig. (3) has faces that can appear adjacent to each other but the cube formed by folding the sheet in fig. (X) cannot be rotated to form fig. (3). Hence, the cube in fig. (3) cannot be formed. Thus, only the cube shown in fig. (2) can be formed.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/cubes-and-dice/035002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/cubes-and-dice/cubes/15.png"
+    },
+    {
+      "id": "reasoning_cubesa_009",
+      "topic": "reasoning",
+      "subtopic": "cubes_and_dices",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the box that is similar to the box formed from the given sheet of paper (X).",
+      "options": [
+        "1 only",
+        "2 only",
+        "3 only",
+        "4 only"
+      ],
+      "answer": "A",
+      "explanation": "The fig. (X) is similar to the Form II. So, when the sheet shown in fig. (X) is folded to form a cube then the two half-shaded faces lie opposite to each other, the face bearing a square lies opposite to one of the two blank faces and the face bearing a circle lies opposite to the other blank face. Therefore, the cubes shown in figures (2) and (3) which have the two half-shaded faces adjacent to each other, cannot be formed by folding the sheet shown in fig. (X). Also, though the cube shown in fig. (4) has faces that can appear adjacent to each other but the cube formed by folding the sheet in fig. (X) cannot be rotated to form the cube in fig. (4). Hence, only the cube in fig. (1) can be formed.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/cubes-and-dice/035002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/cubes-and-dice/cubes/20.png"
+    },
+    {
+      "id": "reasoning_cubesa_010",
+      "topic": "reasoning",
+      "subtopic": "cubes_and_dices",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the box that is similar to the box formed from the given sheet of paper (X).",
+      "options": [
+        "2 and 3 only",
+        "1, 3 and 4 only",
+        "2 and 4 only",
+        "1 and 4 only"
+      ],
+      "answer": "B",
+      "explanation": "The fig. (X) is similar to the Form V. So, when the sheet in fig. (X) is folded to form a cube, then the face bearing a dot lies opposite to one of the shaded faces. Therefore, the cube shown in fig. (2) which has both the shaded faces adjacent to the face bearing the dot, cannot be formed. Hence, the cubes shown in figures (1), (2) and (4) can be formed.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/cubes-and-dice/035002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/cubes-and-dice/cubes/8.png"
+    },
+    {
+      "id": "reasoning_cubesa_011",
+      "topic": "reasoning",
+      "subtopic": "cubes_and_dices",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the box that is similar to the box formed from the given sheet of paper (X).",
+      "options": [
+        "1 only",
+        "1, 2 and 3 only",
+        "2 and 3 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": "D",
+      "explanation": "The fig. (X) is similar to the Form V. So, when the sheet in fig. (X) is folded to form a cube, then the face bearing a dot appears opposite to a blank face, the face bearing a '+' sign appears opposite to another blank face and the face bearing a circle appears opposite to the third blank face. Clearly, all the four cubes shown in figures (1), (2), (3) and (4) can be formed.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/cubes-and-dice/035005",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/cubes-and-dice/cubes/17.png"
+    },
+    {
+      "id": "reasoning_cubesa_012",
+      "topic": "reasoning",
+      "subtopic": "cubes_and_dices",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the box that is similar to the box formed from the given sheet of paper (X).",
+      "options": [
+        "1 only",
+        "1 and 3 only",
+        "1, 3 and 4 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": "A",
+      "explanation": "The fig. (X) is similar to Form IV. So, when the sheet shown in fig. (X) is folded to , form a cube, then the face bearing the dot lies opposite to the shaded face, the face bearing a circle (with '+' sign inside it) lies opposite to a blank face and the remaining two blank faces lie opposite to each other. Clearly, the cubes shown in figures (2) and (4) cannot be formed since they have the shaded face adjacent to the face bearing a dot and the cube shown in fig. (3) cannot be formed since it shows all the three blank faces adjacent to each other. Hence only the cube shown in fig. (1) can be formed.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/cubes-and-dice/035005",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/cubes-and-dice/cubes/13.png"
+    },
+    {
+      "id": "reasoning_cubesa_013",
+      "topic": "reasoning",
+      "subtopic": "cubes_and_dices",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the box that is similar to the box formed from the given sheet of paper (X).",
+      "options": [
+        "1 and 2 only",
+        "1 and 3 only",
+        "3 and 4 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": "B",
+      "explanation": "The fig. (X) is similar to the Form VIII. So, when a cube is formed by folding the sheet shown in fig. (X), then and are the two faces and these two faces lie opposite to each other. Also, the face bearing the 'x' sigh lies opposite to the face bearing the black circle and the face bearing the white circle lies opposite to the face bearing the square (having a dot inside it). Now, the cubes in figures (2) and (4) consist of faces which are not formed when the sheet in fig. (X) is folded. Hence, these two cubes are not, formed. Therefore, only the cubes in figures (1) and (3) are formed.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/cubes-and-dice/035005",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/cubes-and-dice/cubes/16.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/cubes-and-dice/cubes/16-1.png"
+    },
+    {
+      "id": "reasoning_cubesa_014",
+      "topic": "reasoning",
+      "subtopic": "cubes_and_dices",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Observe the dots on a dice (one to six dots) in the following figures. How many dots are contained on the face opposite to that containing four dots?",
+      "options": [
+        "2",
+        "3",
+        "6",
+        "Cannot be determined"
+      ],
+      "answer": "A",
+      "explanation": "We shall assume the dice in fig. (ii) to be rotated so that the 5 dots appear at the same position as in fig. (i) i.e. on RHS face (i.e. on face II as per activity 1) and 1 dot appears at the same position as in fig; (i) i.e. on Front face (i.e. on face I). Then, from the, two figures, 2 dots appear on the top face (i.e. on face V) and 4 dots appear on the Bottom face (i.e. on face VI).\n\nSince, these two faces are opposite to each other, therefore, two dots are contained on the face opposite to that containing four dots.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/cubes-and-dice/036001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/cubes-and-dice/dice/26.png"
+    },
+    {
+      "id": "reasoning_cubesa_015",
+      "topic": "reasoning",
+      "subtopic": "cubes_and_dices",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Three different positions of a dice are shown below. How many dots lie opposite 2 dots?",
+      "options": [
+        "1",
+        "3",
+        "5",
+        "6"
+      ],
+      "answer": "C",
+      "explanation": "From figures (ii) and (iii), we conclude that 1, 6, 3 and 4 dots lie adjacent to 5 dots. Therefore, 2 dots must lie opposite 5 dots. Conversely, 5 dots must lie opposite 2 dots.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/cubes-and-dice/036001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/cubes-and-dice/dice/15.png"
+    },
+    {
+      "id": "reasoning_cubesa_016",
+      "topic": "reasoning",
+      "subtopic": "cubes_and_dices",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "The six faces of a dice have been marked with alphabets A, B, C, D, E and F respectively. This dice is rolled down three times. The three positions are shown as:\n\nFind the alphabet opposite A.",
+      "options": [
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "answer": "C",
+      "explanation": "From figures (ii) and (iii), we conclude that the alphabets C, D, B and F appear adjacent to the alphabet E. Therefore, the alphabet A appears opposite E. Conversely, E appears opposite A.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/cubes-and-dice/036001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/cubes-and-dice/dice/18.png"
+    },
+    {
+      "id": "reasoning_cubesa_017",
+      "topic": "reasoning",
+      "subtopic": "cubes_and_dices",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Three positions of a dice are given. Based on them find out which number is found opposite the number 2 in the given cube.",
+      "options": [
+        "6",
+        "5",
+        "3",
+        "1"
+      ],
+      "answer": "A",
+      "explanation": "From figures (i) and (ii), we conclude that the numbers 1, 4, 3 and 5 lie adjacent to the number 6. Clearly, the number 2 lies opposite 6 and conversely 6 lies opposite 2.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/cubes-and-dice/036001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/cubes-and-dice/dice/14.png"
+    },
+    {
+      "id": "reasoning_cubesa_018",
+      "topic": "reasoning",
+      "subtopic": "cubes_and_dices",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "A dice is thrown four times and its four different positions are shown below. Find the number on the face opposite the face showing 2.",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "C",
+      "explanation": "From figures (i), (ii) and (iv) We conclude that 6, 4, 3 and 1 lie adjacent to 2. Hence, 5 must lie opposite 2.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/cubes-and-dice/036001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/cubes-and-dice/dice/6.png"
     }
   ]
 }

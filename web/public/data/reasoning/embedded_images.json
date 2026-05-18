@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "topic": "Logical Reasoning",
+    "topic": "Non Verbal Reasoning",
     "subtopic": "embedded_images",
-    "total_questions": 1,
+    "total_questions": 20,
     "sources": [
       "IndiaBIX"
     ],
@@ -29,12 +29,565 @@
       ],
       "answer": "A",
       "explanation": "",
-      "shortcut": "Rotate the given figure mentally and search for it in the options",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
       "formula_used": "",
-      "trap_type": "Looking for exact orientation; the figure may be rotated",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/embedded-images/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/embedded-images/55.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/embedded-images/55-1.png"
+    },
+    {
+      "id": "reasoning_embedd_002",
+      "topic": "reasoning",
+      "subtopic": "embedded_images",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find out the alternative figure which contains figure (X) as its part.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/embedded-images/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/embedded-images/41.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/embedded-images/41-1.png"
+    },
+    {
+      "id": "reasoning_embedd_003",
+      "topic": "reasoning",
+      "subtopic": "embedded_images",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find out the alternative figure which contains figure (X) as its part.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/embedded-images/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/embedded-images/53.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/embedded-images/53-1.png"
+    },
+    {
+      "id": "reasoning_embedd_004",
+      "topic": "reasoning",
+      "subtopic": "embedded_images",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find out the alternative figure which contains figure (X) as its part.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "C",
+      "explanation": "",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/embedded-images/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/embedded-images/21.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/embedded-images/21-1.png"
+    },
+    {
+      "id": "reasoning_embedd_005",
+      "topic": "reasoning",
+      "subtopic": "embedded_images",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find out the alternative figure which contains figure (X) as its part.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/embedded-images/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/embedded-images/16.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/embedded-images/16-1.png"
+    },
+    {
+      "id": "reasoning_embedd_006",
+      "topic": "reasoning",
+      "subtopic": "embedded_images",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find out the alternative figure which contains figure (X) as its part.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/embedded-images/013002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/embedded-images/15.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/embedded-images/15-1.png"
+    },
+    {
+      "id": "reasoning_embedd_007",
+      "topic": "reasoning",
+      "subtopic": "embedded_images",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find out the alternative figure which contains figure (X) as its part.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "B",
+      "explanation": "",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/embedded-images/013002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/embedded-images/47.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/embedded-images/47-1.png"
+    },
+    {
+      "id": "reasoning_embedd_008",
+      "topic": "reasoning",
+      "subtopic": "embedded_images",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find out the alternative figure which contains figure (X) as its part.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/embedded-images/013002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/embedded-images/17.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/embedded-images/17-1.png"
+    },
+    {
+      "id": "reasoning_embedd_009",
+      "topic": "reasoning",
+      "subtopic": "embedded_images",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find out the alternative figure which contains figure (X) as its part.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/embedded-images/013002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/embedded-images/6.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/embedded-images/6-1.png"
+    },
+    {
+      "id": "reasoning_embedd_010",
+      "topic": "reasoning",
+      "subtopic": "embedded_images",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find out the alternative figure which contains figure (X) as its part.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "B",
+      "explanation": "",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/embedded-images/013002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/embedded-images/19.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/embedded-images/19-1.png"
+    },
+    {
+      "id": "reasoning_embedd_011",
+      "topic": "reasoning",
+      "subtopic": "embedded_images",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find out the alternative figure which contains figure (X) as its part.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "C",
+      "explanation": "",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/embedded-images/013007",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/embedded-images/30.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/embedded-images/30-1.png"
+    },
+    {
+      "id": "reasoning_embedd_012",
+      "topic": "reasoning",
+      "subtopic": "embedded_images",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find out the alternative figure which contains figure (X) as its part.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "A",
+      "explanation": "",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/embedded-images/013007",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/embedded-images/34.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/embedded-images/34-1.png"
+    },
+    {
+      "id": "reasoning_embedd_013",
+      "topic": "reasoning",
+      "subtopic": "embedded_images",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find out the alternative figure which contains figure (X) as its part.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/embedded-images/013007",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/embedded-images/32.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/embedded-images/32-1.png"
+    },
+    {
+      "id": "reasoning_embedd_014",
+      "topic": "reasoning",
+      "subtopic": "embedded_images",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find out the alternative figure which contains figure (X) as its part.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "B",
+      "explanation": "",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/embedded-images/013007",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/embedded-images/5.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/embedded-images/5-1.png"
+    },
+    {
+      "id": "reasoning_embedd_015",
+      "topic": "reasoning",
+      "subtopic": "embedded_images",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find out the alternative figure which contains figure (X) as its part.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "A",
+      "explanation": "",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/embedded-images/013007",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/embedded-images/23.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/embedded-images/23-1.png"
+    },
+    {
+      "id": "reasoning_embedd_016",
+      "topic": "reasoning",
+      "subtopic": "embedded_images",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find out the alternative figure which contains figure (X) as its part.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "C",
+      "explanation": "",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/embedded-images/014001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/embedded-images/8.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/embedded-images/8-1.png"
+    },
+    {
+      "id": "reasoning_embedd_017",
+      "topic": "reasoning",
+      "subtopic": "embedded_images",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find out the alternative figure which contains figure (X) as its part.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/embedded-images/014001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/embedded-images/44.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/embedded-images/44-1.png"
+    },
+    {
+      "id": "reasoning_embedd_018",
+      "topic": "reasoning",
+      "subtopic": "embedded_images",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find out the alternative figure which contains figure (X) as its part.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/embedded-images/014001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/embedded-images/54.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/embedded-images/54-1.png"
+    },
+    {
+      "id": "reasoning_embedd_019",
+      "topic": "reasoning",
+      "subtopic": "embedded_images",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find out the alternative figure which contains figure (X) as its part.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/embedded-images/014001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/embedded-images/9.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/embedded-images/9-1.png"
+    },
+    {
+      "id": "reasoning_embedd_020",
+      "topic": "reasoning",
+      "subtopic": "embedded_images",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find out the alternative figure which contains figure (X) as its part.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "A",
+      "explanation": "",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/embedded-images/014001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/embedded-images/31.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/embedded-images/31-1.png"
     }
   ]
 }

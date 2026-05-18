@@ -1,0 +1,573 @@
+{
+  "metadata": {
+    "topic": "Non Verbal Reasoning",
+    "subtopic": "dot_situation",
+    "total_questions": 20,
+    "sources": [
+      "IndiaBIX"
+    ],
+    "last_updated": "2026-05-18"
+  },
+  "questions": [
+    {
+      "id": "reasoning_dotsit_001",
+      "topic": "reasoning",
+      "subtopic": "dot_situation",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select the figure which satisfies the same conditions of placement of the dots as in Figure-X.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "In fig. (X), one of the dots lies in the region common to the circle and the square only and the other dot lies in the region common to all the three figures -the circle, the square and the triangle. In each of the alternatives (1), (2) and (3), there is no region common to the square and the circle only. Only fig. (4) consists of both the types of regions.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/dot-situation/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/dot-situation/11.png"
+    },
+    {
+      "id": "reasoning_dotsit_002",
+      "topic": "reasoning",
+      "subtopic": "dot_situation",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select the figure which satisfies the same conditions of placement of the dots as in Figure-X.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "In fig. (X), one of the dots lies in the region common to the circle and the square only, another dot lies in the region common to the square, the triangle and the rectangle only and the third dot lies in the region common to the triangle and the rectangle only. In each of the figures (1), (2) and (3) there is no region common to the square, the triangle and the rectangle only. Only fig. (4) consists of all the three types of regions.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/dot-situation/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/dot-situation/28.png"
+    },
+    {
+      "id": "reasoning_dotsit_003",
+      "topic": "reasoning",
+      "subtopic": "dot_situation",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select the figure which satisfies the same conditions of placement of the dots as in Figure-X.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "C",
+      "explanation": "In fig. (X), the dot is contained in the region common to the triangle and the circle only. Out of the four alternatives, only fig. (3) contains a region common to the triangle and the circle only.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/dot-situation/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/dot-situation/2.png"
+    },
+    {
+      "id": "reasoning_dotsit_004",
+      "topic": "reasoning",
+      "subtopic": "dot_situation",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select the figure which satisfies the same conditions of placement of the dots as in Figure-X.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "A",
+      "explanation": "In fig. (X), one of the dots lies in the region common to the circle and the square only, another dot lies in the region common to the square, the triangle and the rectangle only and the third dot lies in the region common to the square and the rectangle only. In fig. (2) there is no region common to the square and the rectangle only, in fig. (3) there is no region common to the circle and the square only and in fig. (4) there is no region common to the square, the triangle and the rectangle only. Only fig. (1) consists of all the three types of regions.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/dot-situation/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/dot-situation/21.png"
+    },
+    {
+      "id": "reasoning_dotsit_005",
+      "topic": "reasoning",
+      "subtopic": "dot_situation",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select the figure which satisfies the same conditions of placement of the dots as in Figure-X.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "B",
+      "explanation": "In fig. (X), one of the dots lies in the region common to the circle and the triangle only, another dot lies in the region common to the circle, the square and the triangle only and the third dot lies in the region common to the circle, the square and the rectangle only. In each of the figures (1) and (3) there is no region common to the circle and the triangle only. In fig. (4) there is no region common to the circle, the square and the rectangle only. Only fig. (2) consists of all the three types of regions.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/dot-situation/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/dot-situation/25.png"
+    },
+    {
+      "id": "reasoning_dotsit_006",
+      "topic": "reasoning",
+      "subtopic": "dot_situation",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select the figure which satisfies the same conditions of placement of the dots as in Figure-X.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "A",
+      "explanation": "In fig. (X), the dot is contained in the region common to the triangle and the square only. Out of the four alternatives, only fig. (1) contains a region common to the triangle and the square only.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/dot-situation/027002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/dot-situation/1.png"
+    },
+    {
+      "id": "reasoning_dotsit_007",
+      "topic": "reasoning",
+      "subtopic": "dot_situation",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select the figure which satisfies the same conditions of placement of the dots as in Figure-X.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "In fig. (X), the dot is contained in the region common to the square and the circle only. Out of the four alternatives, only fig. (4) contains a region common to the square and the circle only.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/dot-situation/027002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/dot-situation/3.png"
+    },
+    {
+      "id": "reasoning_dotsit_008",
+      "topic": "reasoning",
+      "subtopic": "dot_situation",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select the figure which satisfies the same conditions of placement of the dots as in Figure-X.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "C",
+      "explanation": "In fig. (X), one of the dots lies in the region common to the circle and the triangle only and the other dot lies in the circle alone. In each of the two figures (1) and (2), there is no region common to the circle and the triangle only. In fig. (4) there is no region which lies in the circle alone. Only fig. (3) consists of both the types of regions.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/dot-situation/027002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/dot-situation/7.png"
+    },
+    {
+      "id": "reasoning_dotsit_009",
+      "topic": "reasoning",
+      "subtopic": "dot_situation",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select the figure which satisfies the same conditions of placement of the dots as in Figure-X.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "In fig. (X), one of the dots lies in the region common to the circle and the triangle only, another dot lies in the region common to all the three figures - the circle, the square and the triangle and the third dot lies in the region common to the circle and the square only. In each of the figures (1) and (3), there is no region common to the circle and the square only and in fig. (2), there is no region common to the circle and the triangle only. Only fig. (4) consists of all the three types of regions.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/dot-situation/027002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/dot-situation/20.png"
+    },
+    {
+      "id": "reasoning_dotsit_010",
+      "topic": "reasoning",
+      "subtopic": "dot_situation",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select the figure which satisfies the same conditions of placement of the dots as in Figure-X.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "A",
+      "explanation": "In fig. (X), one of the dots is placed in the region common to the circle and the triangle only and another dot is placed in the region common to the square and the triangle only. In each of the three alternatives (2), (3) and (4), there is no region common to the square and the triangle only. Only fig. (1) consists of both the types of regions.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/dot-situation/027002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/dot-situation/6.png"
+    },
+    {
+      "id": "reasoning_dotsit_011",
+      "topic": "reasoning",
+      "subtopic": "dot_situation",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select the figure which satisfies the same conditions of placement of the dots as in Figure-X.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "A",
+      "explanation": "In fig. (X), one of the dots lies in the region common to the square and the rectangle only, another dot lies in the region common to all the four elements - the circle, the square, the triangle and the rectangle and the third dot lies in the region common to the triangle and the rectangle only. In fig. (2) there is no region common to the triangle and the rectangle only. In fig. (3) there is no region common to the square and the rectangle only. In fig. (4) there is no region common to all the four elements - the circle, the square, the triangle and the rectangle. Only fig. (1) consists of all the three types of regions.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/dot-situation/027003",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/dot-situation/26.png"
+    },
+    {
+      "id": "reasoning_dotsit_012",
+      "topic": "reasoning",
+      "subtopic": "dot_situation",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select the figure which satisfies the same conditions of placement of the dots as in Figure-X.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "C",
+      "explanation": "In fig. (X), one of the dots lies in the region common to the circle the triangle and the rectangle only, another dot lies in the region common to the circle and the triangle only and the third dot lies in the region common to the circle, the square and the triangle only. In each of the figures (1), (2) and (4) there is no region common to the circle, the triangle and the rectangle only. Only fig. (3) consists of all the three types of regions.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/dot-situation/027003",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/dot-situation/24.png"
+    },
+    {
+      "id": "reasoning_dotsit_013",
+      "topic": "reasoning",
+      "subtopic": "dot_situation",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select the figure which satisfies the same conditions of placement of the dots as in Figure-X.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "A",
+      "explanation": "In fig. (X), one of the dots lies in the region common to the circle and the triangle only and the other dot lies in the region common to the square and the triangle only. In each of the figures (2), (3) and (4), there is no region common to the circle and the triangle only. Only fig. (1) consists of both the types of regions.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/dot-situation/027003",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/dot-situation/9.png"
+    },
+    {
+      "id": "reasoning_dotsit_014",
+      "topic": "reasoning",
+      "subtopic": "dot_situation",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select the figure which satisfies the same conditions of placement of the dots as in Figure-X.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "B",
+      "explanation": "In fig. (X), one of the dots lies in the region common to the circle and the square only, another dot lies in the region common to all the three figures - the circle, the square and the triangle and the third dot lies in the region common to the circle and the triangle only. In each of the alternatives (1), (3) and (4), there is no region common to the circle and the triangle only. Only fig. (2) consists of all the three types of regions.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/dot-situation/027003",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/dot-situation/16.png"
+    },
+    {
+      "id": "reasoning_dotsit_015",
+      "topic": "reasoning",
+      "subtopic": "dot_situation",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select the figure which satisfies the same conditions of placement of the dots as in Figure-X.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "In fig. (X), one of the dots lies in the region common to the square and the triangle only and the other dot lies in the region common to all the three figures - the circle, the square and the triangle. In each of the alternatives (1) and (2), there is no region common to the square and the triangle only. In alternative (3), there is no region common to all the three figures. Only, alternative (4) consists of both the types of regions.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/dot-situation/027003",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/dot-situation/10.png"
+    },
+    {
+      "id": "reasoning_dotsit_016",
+      "topic": "reasoning",
+      "subtopic": "dot_situation",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select the figure which satisfies the same conditions of placement of the dots as in Figure-X.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "C",
+      "explanation": "In fig. (X), one of the dots lies in the region common to the circle and the square only, another dot lies in the region common to the circle, the square and the rectangle only Dot and the third dot lies in the region common to the square, the triangle and the rectangle only. In each of the figures (1), (2) and (4), there is no region common to the square, the triangle and the rectangle only. Only fig. (3) consists of all the three types of regions.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/dot-situation/028001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/dot-situation/27.png"
+    },
+    {
+      "id": "reasoning_dotsit_017",
+      "topic": "reasoning",
+      "subtopic": "dot_situation",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select the figure which satisfies the same conditions of placement of the dots as in Figure-X.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "B",
+      "explanation": "In fig. (X), one of the dots lies in the region common to the circle, the square and the rectangle only, another dot lies in the region common to all the four elements - the circle, the square, the triangle and the rectangle and the third dot lies in the region common to the circle, the triangle and the rectangle only. In fig. (1), there is no region common to the circle, the triangle and the rectangle only. In each of the figures (3) and (4) there is no region common to all the four elements - the circle, the square, the triangle and the rectangle. Only fig. (2) consists of all the three types of regions.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/dot-situation/028001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/dot-situation/23.png"
+    },
+    {
+      "id": "reasoning_dotsit_018",
+      "topic": "reasoning",
+      "subtopic": "dot_situation",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select the figure which satisfies the same conditions of placement of the dots as in Figure-X.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "B",
+      "explanation": "In fig. (X), one of the dots lies in the region common to the circle and the triangle only, another dot lies in the region common to the circle, the square and the triangle only and the third dot lies in the rectangle alone. In figures (1) and (4) there is no region common to the circle and the triangle only. In fig. (3) there is no region which lies in the rectangle alone. Only fig. (2) contains all the three types of regions.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/dot-situation/028001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/dot-situation/29.png"
+    },
+    {
+      "id": "reasoning_dotsit_019",
+      "topic": "reasoning",
+      "subtopic": "dot_situation",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select the figure which satisfies the same conditions of placement of the dots as in Figure-X.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "B",
+      "explanation": "In fig. (X), the dot lies in the region common to all the three figures - square, triangle and circle. Out of the four alternatives, only fig. (2) contains a region common to all the three figures. Hence, fig. (2) is the answer.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/dot-situation/028001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/dot-situation/4.png"
+    },
+    {
+      "id": "reasoning_dotsit_020",
+      "topic": "reasoning",
+      "subtopic": "dot_situation",
+      "difficulty": "hard",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select the figure which satisfies the same conditions of placement of the dots as in Figure-X.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "C",
+      "explanation": "In fig. (X), one of the dots lies in the triangle alone, another dot lies in the region common to the square and the triangle only and the third dot lies in the region common to the circle and the square only. In each of the figures (1), (2) and (4), there is no region common to the square and the triangle only. Only fig. (3) consists of all the three types of regions.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/dot-situation/028001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/dot-situation/15.png"
+    }
+  ]
+}

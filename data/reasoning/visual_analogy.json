@@ -1,0 +1,478 @@
+{
+  "metadata": {
+    "topic": "Non Verbal Reasoning",
+    "subtopic": "visual_analogy",
+    "total_questions": 16,
+    "sources": [
+      "IndiaBIX"
+    ],
+    "last_updated": "2026-05-18"
+  },
+  "questions": [
+    {
+      "id": "reasoning_visual_001",
+      "topic": "reasoning",
+      "subtopic": "visual_analogy",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?).\nProblem Figures: Answer Figures: (A) (B) (C) (D) (1) (2) (3) (4) (5)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "C",
+      "explanation": "The half-shaded leaf rotates 135<sup>o</sup>ACW and the unshaded leaf rotates 135<sup>o</sup>CW.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/analogy/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/analogy/72.png"
+    },
+    {
+      "id": "reasoning_visual_002",
+      "topic": "reasoning",
+      "subtopic": "visual_analogy",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?).\nProblem Figures: Answer Figures: (A) (B) (C) (D) (1) (2) (3) (4) (5)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "A",
+      "explanation": "The upper element is converted to an element similar to the lower elements and each one of the lower elements is converted to an element similar to the upper element.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/analogy/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/analogy/46.png"
+    },
+    {
+      "id": "reasoning_visual_003",
+      "topic": "reasoning",
+      "subtopic": "visual_analogy",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?).\nProblem Figures: Answer Figures: (A) (B) (C) (D) (1) (2) (3) (4) (5)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "A",
+      "explanation": "The figure gets vertically inverted.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/analogy/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/analogy/39.png"
+    },
+    {
+      "id": "reasoning_visual_004",
+      "topic": "reasoning",
+      "subtopic": "visual_analogy",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?).\nProblem Figures: Answer Figures: (A) (B) (C) (D) (1) (2) (3) (4) (5)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "B",
+      "explanation": "Each one of the upper elements is replaced by an element similar to the lower element(s) and each one of the lower elements is replaced by an element similar to the upper element(s).",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/analogy/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/analogy/71.png"
+    },
+    {
+      "id": "reasoning_visual_005",
+      "topic": "reasoning",
+      "subtopic": "visual_analogy",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?).\nProblem Figures: Answer Figures: (A) (B) (C) (D) (1) (2) (3) (4) (5)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "C",
+      "explanation": "Except for the dots, the remaining part of the figure rotates through 180<sup>o</sup> and shifts to the opposite side of the square boundary.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/analogy/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/analogy/35.png"
+    },
+    {
+      "id": "reasoning_visual_006",
+      "topic": "reasoning",
+      "subtopic": "visual_analogy",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?).\nProblem Figures: Answer Figures: (A) (B) (C) (D) (1) (2) (3) (4) (5)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "B",
+      "explanation": "The combination of two symbols placed at the lower-right corner, rotates 90<sup>o</sup>CW and moves to the Upper-right corner. Also, the combination of two symbols placed at the upper-left corner, moves to the lower-right corner.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/analogy/003002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/analogy/29.png"
+    },
+    {
+      "id": "reasoning_visual_007",
+      "topic": "reasoning",
+      "subtopic": "visual_analogy",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?).\nProblem Figures: Answer Figures: (A) (B) (C) (D) (1) (2) (3) (4) (5)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "A",
+      "explanation": "The figure gets divided into eight equal parts.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/analogy/003002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/analogy/36.png"
+    },
+    {
+      "id": "reasoning_visual_008",
+      "topic": "reasoning",
+      "subtopic": "visual_analogy",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?).\nProblem Figures: Answer Figures: (A) (B) (C) (D) (1) (2) (3) (4) (5)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "E",
+      "explanation": "The inner element enlarges to become the outer element while the outer element reduces in size, turns black and becomes the inner element.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/analogy/003002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/analogy/5.png"
+    },
+    {
+      "id": "reasoning_visual_009",
+      "topic": "reasoning",
+      "subtopic": "visual_analogy",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?).\nProblem Figures: Answer Figures: (A) (B) (C) (D) (1) (2) (3) (4) (5)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "E",
+      "explanation": "The figure rotates through 90<sup>o</sup>ACW and the arrowhead shifts closer to the black circle.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/analogy/003002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/analogy/30.png"
+    },
+    {
+      "id": "reasoning_visual_010",
+      "topic": "reasoning",
+      "subtopic": "visual_analogy",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?).\nProblem Figures: Answer Figures: (A) (B) (C) (D) (1) (2) (3) (4) (5)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "B",
+      "explanation": "The figure gets rotated through 180<sup>o</sup>.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/analogy/003002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/analogy/28.png"
+    },
+    {
+      "id": "reasoning_visual_011",
+      "topic": "reasoning",
+      "subtopic": "visual_analogy",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?).\nProblem Figures: Answer Figures: (A) (B) (C) (D) (1) (2) (3) (4) (5)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "D",
+      "explanation": "All the arrows reverse their directions.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/analogy/003010",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/analogy/17.png"
+    },
+    {
+      "id": "reasoning_visual_012",
+      "topic": "reasoning",
+      "subtopic": "visual_analogy",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?).\nProblem Figures: Answer Figures: (A) (B) (C) (D) (1) (2) (3) (4) (5)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "A",
+      "explanation": "The figure rotates 90<sup>o</sup>CW; gets reduced in size and also gets enclosed in a figure with one less number of sides.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/analogy/004001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/analogy/22.png"
+    },
+    {
+      "id": "reasoning_visual_013",
+      "topic": "reasoning",
+      "subtopic": "visual_analogy",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?).\nProblem Figures: Answer Figures: (A) (B) (C) (D) (1) (2) (3) (4) (5)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "A",
+      "explanation": "The symbols move in the sequence . Also, the arrow rotates 135<sup>o</sup>ACW; the trapezium gets vertically inverted and the pin-shaped symbol rotates 90<sup>o</sup>CW.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/analogy/004001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/analogy/62.png",
+      "answer_image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/analogy/62-1.png"
+    },
+    {
+      "id": "reasoning_visual_014",
+      "topic": "reasoning",
+      "subtopic": "visual_analogy",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?).\nProblem Figures: Answer Figures: (A) (B) (C) (D) (1) (2) (3) (4) (5)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "B",
+      "explanation": "The upper element rotates through 180<sup>o</sup> and its head gets inverted. The lower element gets vertically inverted.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/analogy/004001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/analogy/12.png"
+    },
+    {
+      "id": "reasoning_visual_015",
+      "topic": "reasoning",
+      "subtopic": "visual_analogy",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?).\nProblem Figures: Answer Figures: (A) (B) (C) (D) (1) (2) (3) (4) (5)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "A",
+      "explanation": "The figure gets laterally inverted.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/analogy/004001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/analogy/6.png"
+    },
+    {
+      "id": "reasoning_visual_016",
+      "topic": "reasoning",
+      "subtopic": "visual_analogy",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?).\nProblem Figures: Answer Figures: (A) (B) (C) (D) (1) (2) (3) (4) (5)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "C",
+      "explanation": "The figure rotates through 90<sup>o</sup>ACW.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/analogy/004001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/analogy/3.png"
+    }
+  ]
+}

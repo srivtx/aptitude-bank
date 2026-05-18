@@ -6,6 +6,7 @@ export interface Question {
   company_tags: string[];
   passage?: string;
   image_url?: string;
+  answer_image_url?: string;
   question: string;
   options: string[];
   answer: string;

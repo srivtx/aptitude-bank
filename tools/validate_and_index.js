@@ -49,6 +49,20 @@ const DISPLAY_NAMES = {
   'synonyms': 'Synonyms',
   'antonyms': 'Antonyms',
   'one_word_substitution': 'One Word Substitution',
+  'bar_charts': 'Bar Charts',
+  'pie_charts': 'Pie Charts',
+  'line_charts': 'Line Charts',
+  'mirror_images': 'Mirror Images',
+  'embedded_images': 'Embedded Images',
+  'pattern_completion': 'Pattern Completion',
+  'paper_folding': 'Paper Folding',
+  'water_images': 'Water Images',
+  'figure_matrix': 'Figure Matrix',
+  'paper_cutting': 'Paper Cutting',
+  'classification': 'Classification',
+  'visual_analogy': 'Visual Analogy',
+  'dot_situation': 'Dot Situation',
+  'rule_detection': 'Rule Detection',
 };
 
 const categories = ['quant', 'reasoning', 'verbal'];

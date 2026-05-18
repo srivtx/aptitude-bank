@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "topic": "Logical Reasoning",
+    "topic": "Non Verbal Reasoning",
     "subtopic": "paper_folding",
-    "total_questions": 1,
+    "total_questions": 20,
     "sources": [
       "IndiaBIX"
     ],
@@ -13,7 +13,7 @@
       "id": "reasoning_paperf_001",
       "topic": "reasoning",
       "subtopic": "paper_folding",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "company_tags": [
         "TCS",
         "Infosys",
@@ -28,13 +28,546 @@
         "4"
       ],
       "answer": "D",
-      "explanation": "No answer description is available. Let's discuss.",
-      "shortcut": "Visualize the fold line as a mirror; the pattern reflects across it",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/paper-folding/discussion-694#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
       "formula_used": "",
-      "trap_type": "Folding in the wrong direction or not visualizing the overlap",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/paper-folding/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/paper-folding/40.png"
+    },
+    {
+      "id": "reasoning_paperf_002",
+      "topic": "reasoning",
+      "subtopic": "paper_folding",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find out from amongst the four alternatives as to how the pattern would appear when the transparent sheet is folded at the dotted line.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/paper-folding/discussion-689#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/paper-folding/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/paper-folding/35.png"
+    },
+    {
+      "id": "reasoning_paperf_003",
+      "topic": "reasoning",
+      "subtopic": "paper_folding",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find out from amongst the four alternatives as to how the pattern would appear when the transparent sheet is folded at the dotted line.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/paper-folding/discussion-686#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/paper-folding/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/paper-folding/32.png"
+    },
+    {
+      "id": "reasoning_paperf_004",
+      "topic": "reasoning",
+      "subtopic": "paper_folding",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find out from amongst the four alternatives as to how the pattern would appear when the transparent sheet is folded at the dotted line.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/paper-folding/discussion-655#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/paper-folding/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/paper-folding/1.png"
+    },
+    {
+      "id": "reasoning_paperf_005",
+      "topic": "reasoning",
+      "subtopic": "paper_folding",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find out from amongst the four alternatives as to how the pattern would appear when the transparent sheet is folded at the dotted line.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/paper-folding/discussion-662#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/paper-folding/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/paper-folding/8.png"
+    },
+    {
+      "id": "reasoning_paperf_006",
+      "topic": "reasoning",
+      "subtopic": "paper_folding",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find out from amongst the four alternatives as to how the pattern would appear when the transparent sheet is folded at the dotted line.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/paper-folding/discussion-674#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/paper-folding/019002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/paper-folding/20.png"
+    },
+    {
+      "id": "reasoning_paperf_007",
+      "topic": "reasoning",
+      "subtopic": "paper_folding",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find out from amongst the four alternatives as to how the pattern would appear when the transparent sheet is folded at the dotted line.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/paper-folding/discussion-665#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/paper-folding/019002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/paper-folding/11.png"
+    },
+    {
+      "id": "reasoning_paperf_008",
+      "topic": "reasoning",
+      "subtopic": "paper_folding",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find out from amongst the four alternatives as to how the pattern would appear when the transparent sheet is folded at the dotted line.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/paper-folding/discussion-668#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/paper-folding/019002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/paper-folding/14.png"
+    },
+    {
+      "id": "reasoning_paperf_009",
+      "topic": "reasoning",
+      "subtopic": "paper_folding",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find out from amongst the four alternatives as to how the pattern would appear when the transparent sheet is folded at the dotted line.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/paper-folding/discussion-685#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/paper-folding/019002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/paper-folding/31.png"
+    },
+    {
+      "id": "reasoning_paperf_010",
+      "topic": "reasoning",
+      "subtopic": "paper_folding",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find out from amongst the four alternatives as to how the pattern would appear when the transparent sheet is folded at the dotted line.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/paper-folding/discussion-672#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/paper-folding/019002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/paper-folding/18.png"
+    },
+    {
+      "id": "reasoning_paperf_011",
+      "topic": "reasoning",
+      "subtopic": "paper_folding",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find out from amongst the four alternatives as to how the pattern would appear when the transparent sheet is folded at the dotted line.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/paper-folding/discussion-666#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/paper-folding/019004",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/paper-folding/12.png"
+    },
+    {
+      "id": "reasoning_paperf_012",
+      "topic": "reasoning",
+      "subtopic": "paper_folding",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find out from amongst the four alternatives as to how the pattern would appear when the transparent sheet is folded at the dotted line.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/paper-folding/discussion-663#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/paper-folding/019004",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/paper-folding/9.png"
+    },
+    {
+      "id": "reasoning_paperf_013",
+      "topic": "reasoning",
+      "subtopic": "paper_folding",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find out from amongst the four alternatives as to how the pattern would appear when the transparent sheet is folded at the dotted line.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/paper-folding/discussion-659#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/paper-folding/019004",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/paper-folding/5.png"
+    },
+    {
+      "id": "reasoning_paperf_014",
+      "topic": "reasoning",
+      "subtopic": "paper_folding",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find out from amongst the four alternatives as to how the pattern would appear when the transparent sheet is folded at the dotted line.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/paper-folding/discussion-660#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/paper-folding/019004",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/paper-folding/6.png"
+    },
+    {
+      "id": "reasoning_paperf_015",
+      "topic": "reasoning",
+      "subtopic": "paper_folding",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find out from amongst the four alternatives as to how the pattern would appear when the transparent sheet is folded at the dotted line.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/paper-folding/discussion-691#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/paper-folding/019004",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/paper-folding/37.png"
+    },
+    {
+      "id": "reasoning_paperf_016",
+      "topic": "reasoning",
+      "subtopic": "paper_folding",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find out from amongst the four alternatives as to how the pattern would appear when the transparent sheet is folded at the dotted line.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/paper-folding/discussion-657#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/paper-folding/020001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/paper-folding/3.png"
+    },
+    {
+      "id": "reasoning_paperf_017",
+      "topic": "reasoning",
+      "subtopic": "paper_folding",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find out from amongst the four alternatives as to how the pattern would appear when the transparent sheet is folded at the dotted line.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/paper-folding/discussion-677#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/paper-folding/020001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/paper-folding/23.png"
+    },
+    {
+      "id": "reasoning_paperf_018",
+      "topic": "reasoning",
+      "subtopic": "paper_folding",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find out from amongst the four alternatives as to how the pattern would appear when the transparent sheet is folded at the dotted line.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/paper-folding/discussion-679#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/paper-folding/020001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/paper-folding/25.png"
+    },
+    {
+      "id": "reasoning_paperf_019",
+      "topic": "reasoning",
+      "subtopic": "paper_folding",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find out from amongst the four alternatives as to how the pattern would appear when the transparent sheet is folded at the dotted line.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/paper-folding/discussion-669#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/paper-folding/020001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/paper-folding/15.png"
+    },
+    {
+      "id": "reasoning_paperf_020",
+      "topic": "reasoning",
+      "subtopic": "paper_folding",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Find out from amongst the four alternatives as to how the pattern would appear when the transparent sheet is folded at the dotted line.\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/paper-folding/discussion-683#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/paper-folding/020001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/paper-folding/29.png"
     }
   ]
 }

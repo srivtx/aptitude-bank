@@ -1,0 +1,564 @@
+{
+  "metadata": {
+    "topic": "Non Verbal Reasoning",
+    "subtopic": "classification",
+    "total_questions": 19,
+    "sources": [
+      "IndiaBIX"
+    ],
+    "last_updated": "2026-05-18"
+  },
+  "questions": [
+    {
+      "id": "reasoning_classi_001",
+      "topic": "reasoning",
+      "subtopic": "classification",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the figure which is different from the rest.\n (1) (2) (3) (4) (5)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "A",
+      "explanation": "The pins, equal in number to the number of sides in the main figure are attached to the midpoint of a side of the main figure in case of figures (2), (3), (4) and (5). In fig. (1), these pins are attached to a vertex of the main figure.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/classification/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/classification/77.png"
+    },
+    {
+      "id": "reasoning_classi_002",
+      "topic": "reasoning",
+      "subtopic": "classification",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the figure which is different from the rest.\n (1) (2) (3) (4) (5)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "C",
+      "explanation": "In all other figures, the two line segments are parallel to each other.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/classification/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/classification/8.png"
+    },
+    {
+      "id": "reasoning_classi_003",
+      "topic": "reasoning",
+      "subtopic": "classification",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the figure which is different from the rest.\n (1) (2) (3) (4) (5)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "D",
+      "explanation": "In all other figures, the arrow and the V sign lie towards the black end of the main figure.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/classification/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/classification/62.png"
+    },
+    {
+      "id": "reasoning_classi_004",
+      "topic": "reasoning",
+      "subtopic": "classification",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the figure which is different from the rest.\n (1) (2) (3) (4) (5)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "A",
+      "explanation": "In all other figures, there are two small line segments towards the pin and three small line segments towards the arrow.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/classification/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/classification/94.png"
+    },
+    {
+      "id": "reasoning_classi_005",
+      "topic": "reasoning",
+      "subtopic": "classification",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the figure which is different from the rest.\n (1) (2) (3) (4) (5)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "B",
+      "explanation": "The lines outside the shaded circle are not equally distributed along the circumference in fig. (2).",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/classification/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/classification/38.png"
+    },
+    {
+      "id": "reasoning_classi_006",
+      "topic": "reasoning",
+      "subtopic": "classification",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the figure which is different from the rest.\n (1) (2) (3) (4) (5)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "A",
+      "explanation": "In all other figures, the lower-right quarter portion is shaded.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/classification/005002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/classification/5.png"
+    },
+    {
+      "id": "reasoning_classi_007",
+      "topic": "reasoning",
+      "subtopic": "classification",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the figure which is different from the rest.\n (1) (2) (3) (4) (5)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "E",
+      "explanation": "Only in fig. (5), the arrowhead along the circumference of the circle indicates motion in an ACW direction.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/classification/005002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/classification/68.png"
+    },
+    {
+      "id": "reasoning_classi_008",
+      "topic": "reasoning",
+      "subtopic": "classification",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the figure which is different from the rest.\n (1) (2) (3) (4) (5)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "D",
+      "explanation": "All other figures are divided into equal parts.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/classification/005002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/classification/6.png"
+    },
+    {
+      "id": "reasoning_classi_009",
+      "topic": "reasoning",
+      "subtopic": "classification",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the figure which is different from the rest.\n (1) (2) (3) (4) (5)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "B",
+      "explanation": "Figure (1) and fig. (3) can be rotated into each other and fig. (4) and fig. (5) can be rotated into each other.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/classification/005002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/classification/79.png"
+    },
+    {
+      "id": "reasoning_classi_010",
+      "topic": "reasoning",
+      "subtopic": "classification",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the figure which is different from the rest.\n (1) (2) (3) (4) (5)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "B",
+      "explanation": "Each one of the figures except fig. (2), consists of five arrowheads.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/classification/005002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/classification/23.png"
+    },
+    {
+      "id": "reasoning_classi_011",
+      "topic": "reasoning",
+      "subtopic": "classification",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the figure which is different from the rest.\n (1) (2) (3) (4) (5)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "B",
+      "explanation": "Each one of the figures except fig. (2), is obtained by the lateral inversion of an English alphabet.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/classification/005010",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/classification/10.png"
+    },
+    {
+      "id": "reasoning_classi_012",
+      "topic": "reasoning",
+      "subtopic": "classification",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the figure which is different from the rest.\n (1) (2) (3) (4) (5)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "E",
+      "explanation": "All others are punctuation marks.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/classification/005010",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/classification/20.png"
+    },
+    {
+      "id": "reasoning_classi_013",
+      "topic": "reasoning",
+      "subtopic": "classification",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the figure which is different from the rest.\n (1) (2) (3) (4) (5)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "D",
+      "explanation": "Only in fig. (4), the dot appears in the region common to all the three circles.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/classification/005010",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/classification/46.png"
+    },
+    {
+      "id": "reasoning_classi_014",
+      "topic": "reasoning",
+      "subtopic": "classification",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the figure which is different from the rest.\n (1) (2) (3) (4) (5)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "D",
+      "explanation": "Only in fig. (4), the pin passes through a vertex of each one of the two elements.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/classification/005010",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/classification/88.png"
+    },
+    {
+      "id": "reasoning_classi_015",
+      "topic": "reasoning",
+      "subtopic": "classification",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the figure which is different from the rest.\n (1) (2) (3) (4) (5)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "D",
+      "explanation": "Only in fig. (4), the black triangle and the black circle lie at the two ends of the same diameter.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/classification/006001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/classification/24.png"
+    },
+    {
+      "id": "reasoning_classi_016",
+      "topic": "reasoning",
+      "subtopic": "classification",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the figure which is different from the rest.\n (1) (2) (3) (4) (5)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "A",
+      "explanation": "All other figures can be rotated into each other.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/classification/006001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/classification/35.png"
+    },
+    {
+      "id": "reasoning_classi_017",
+      "topic": "reasoning",
+      "subtopic": "classification",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the figure which is different from the rest.\n (1) (2) (3) (4) (5)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "C",
+      "explanation": "In each one of the figurers except fig. (3), the number of half-leaves is one more than the number of line segments.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/classification/006001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/classification/42.png"
+    },
+    {
+      "id": "reasoning_classi_018",
+      "topic": "reasoning",
+      "subtopic": "classification",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the figure which is different from the rest.\n (1) (2) (3) (4) (5)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "B",
+      "explanation": "All other figures can be rotated into each other.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/classification/006001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/classification/48.png"
+    },
+    {
+      "id": "reasoning_classi_019",
+      "topic": "reasoning",
+      "subtopic": "classification",
+      "difficulty": "easy",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the figure which is different from the rest.\n (1) (2) (3) (4) (5)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "B",
+      "explanation": "Each one of the remaining figures is composed of straight lines only.",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/classification/006001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/classification/30.png"
+    }
+  ]
+}

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-18T00:53:28.424Z",
-  "total_topics": 49,
-  "total_questions": 916,
+  "generated_at": "2026-05-18T06:45:50.128Z",
+  "total_topics": 56,
+  "total_questions": 1132,
   "total_company_questions": 25,
   "total_patterns": 15,
   "categories": {
     "quant": 25,
-    "reasoning": 15,
+    "reasoning": 22,
     "verbal": 9
   },
   "topics": [
@@ -98,6 +98,90 @@
       ]
     },
     {
+      "id": "dot_situation",
+      "name": "Dot Situation",
+      "category": "reasoning",
+      "total_questions": 20,
+      "difficulty_distribution": {
+        "easy": 0,
+        "medium": 4,
+        "hard": 16
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "embedded_images",
+      "name": "Embedded Images",
+      "category": "reasoning",
+      "total_questions": 20,
+      "difficulty_distribution": {
+        "easy": 20,
+        "medium": 0,
+        "hard": 0
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "figure_matrix",
+      "name": "Figure Matrix",
+      "category": "reasoning",
+      "total_questions": 20,
+      "difficulty_distribution": {
+        "easy": 6,
+        "medium": 13,
+        "hard": 1
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "mirror_images",
+      "name": "Mirror Images",
+      "category": "reasoning",
+      "total_questions": 20,
+      "difficulty_distribution": {
+        "easy": 0,
+        "medium": 20,
+        "hard": 0
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "paper_folding",
+      "name": "Paper Folding",
+      "category": "reasoning",
+      "total_questions": 20,
+      "difficulty_distribution": {
+        "easy": 0,
+        "medium": 20,
+        "hard": 0
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "pattern_completion",
+      "name": "Pattern Completion",
+      "category": "reasoning",
+      "total_questions": 20,
+      "difficulty_distribution": {
+        "easy": 20,
+        "medium": 0,
+        "hard": 0
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
       "id": "series",
       "name": "Number and Letter Series",
       "category": "reasoning",
@@ -111,6 +195,48 @@
         "IndiaBIX",
         "PrepInsta",
         "GeeksforGeeks"
+      ]
+    },
+    {
+      "id": "water_images",
+      "name": "Water Images",
+      "category": "reasoning",
+      "total_questions": 20,
+      "difficulty_distribution": {
+        "easy": 0,
+        "medium": 20,
+        "hard": 0
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "classification",
+      "name": "Classification",
+      "category": "reasoning",
+      "total_questions": 19,
+      "difficulty_distribution": {
+        "easy": 13,
+        "medium": 6,
+        "hard": 0
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
+      "id": "paper_cutting",
+      "name": "Paper Cutting",
+      "category": "reasoning",
+      "total_questions": 19,
+      "difficulty_distribution": {
+        "easy": 0,
+        "medium": 19,
+        "hard": 0
+      },
+      "sources": [
+        "IndiaBIX"
       ]
     },
     {
@@ -146,6 +272,20 @@
       ]
     },
     {
+      "id": "cubes_and_dices",
+      "name": "Cubes and Dices",
+      "category": "reasoning",
+      "total_questions": 18,
+      "difficulty_distribution": {
+        "easy": 0,
+        "medium": 5,
+        "hard": 13
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
       "id": "time_work",
       "name": "Time and Work",
       "category": "quant",
@@ -159,6 +299,20 @@
         "IndiaBIX",
         "PrepInsta",
         "GeeksforGeeks"
+      ]
+    },
+    {
+      "id": "visual_analogy",
+      "name": "Visual Analogy",
+      "category": "reasoning",
+      "total_questions": 16,
+      "difficulty_distribution": {
+        "easy": 8,
+        "medium": 8,
+        "hard": 0
+      },
+      "sources": [
+        "IndiaBIX"
       ]
     },
     {
@@ -404,6 +558,20 @@
       ]
     },
     {
+      "id": "rule_detection",
+      "name": "Rule Detection",
+      "category": "reasoning",
+      "total_questions": 11,
+      "difficulty_distribution": {
+        "easy": 0,
+        "medium": 9,
+        "hard": 2
+      },
+      "sources": [
+        "IndiaBIX"
+      ]
+    },
+    {
       "id": "boats_streams",
       "name": "Boats and Streams",
       "category": "quant",
@@ -636,76 +804,6 @@
         "easy": 0,
         "medium": 0,
         "hard": 5
-      },
-      "sources": [
-        "IndiaBIX"
-      ]
-    },
-    {
-      "id": "cubes_and_dices",
-      "name": "Cubes and Dices",
-      "category": "reasoning",
-      "total_questions": 2,
-      "difficulty_distribution": {
-        "easy": 1,
-        "medium": 1,
-        "hard": 0
-      },
-      "sources": [
-        "IndiaBIX"
-      ]
-    },
-    {
-      "id": "mirror_images",
-      "name": "Mirror Images",
-      "category": "reasoning",
-      "total_questions": 2,
-      "difficulty_distribution": {
-        "easy": 0,
-        "medium": 1,
-        "hard": 1
-      },
-      "sources": [
-        "IndiaBIX"
-      ]
-    },
-    {
-      "id": "embedded_images",
-      "name": "Embedded Images",
-      "category": "reasoning",
-      "total_questions": 1,
-      "difficulty_distribution": {
-        "easy": 1,
-        "medium": 0,
-        "hard": 0
-      },
-      "sources": [
-        "IndiaBIX"
-      ]
-    },
-    {
-      "id": "paper_folding",
-      "name": "Paper Folding",
-      "category": "reasoning",
-      "total_questions": 1,
-      "difficulty_distribution": {
-        "easy": 1,
-        "medium": 0,
-        "hard": 0
-      },
-      "sources": [
-        "IndiaBIX"
-      ]
-    },
-    {
-      "id": "pattern_completion",
-      "name": "Pattern Completion",
-      "category": "reasoning",
-      "total_questions": 1,
-      "difficulty_distribution": {
-        "easy": 1,
-        "medium": 0,
-        "hard": 0
       },
       "sources": [
         "IndiaBIX"

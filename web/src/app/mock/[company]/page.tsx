@@ -5,8 +5,13 @@ export function generateStaticParams() {
   return MOCK_CONFIGS.map((mock) => ({ company: mock.id }));
 }
 
-export default function MockPage({ params }: { params: { company: string } }) {
-  const config = MOCK_CONFIGS.find((m) => m.id === params.company);
+export default async function MockPage({
+  params,
+}: {
+  params: Promise<{ company: string }>;
+}) {
+  const { company } = await params;
+  const config = MOCK_CONFIGS.find((m) => m.id === company);
 
   if (!config) {
     return (

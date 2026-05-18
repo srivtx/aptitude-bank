@@ -167,11 +167,11 @@ export default function TopicPractice({ data }: TopicPracticeProps) {
         {currentQuestion.image_url && (
           <div className="mb-6 p-4 rounded-xl bg-[var(--background)] border border-[var(--border)]">
             <h4 className="text-xs font-semibold uppercase tracking-wider text-[var(--accent)] mb-3">
-              Chart
+              {currentQuestion.subtopic.includes('chart') ? 'Chart' : 'Figure'}
             </h4>
             <img
               src={currentQuestion.image_url}
-              alt="Chart"
+              alt="Question figure"
               className="max-w-full h-auto mx-auto rounded-lg"
               loading="eager"
             />
@@ -260,6 +260,17 @@ export default function TopicPractice({ data }: TopicPracticeProps) {
           }`}>
             {selectedOption === correctIndex ? 'Correct!' : `Incorrect. Answer: ${currentQuestion.answer}`}
           </div>
+
+          {currentQuestion.answer_image_url && (
+            <div className="p-4 rounded-xl bg-[var(--background)] border border-[var(--border)]">
+              <h4 className="text-xs font-semibold uppercase tracking-wider text-[var(--accent)] mb-2">Answer Figure</h4>
+              <img
+                src={currentQuestion.answer_image_url}
+                alt="Answer figure"
+                className="max-w-full h-auto mx-auto rounded-lg"
+              />
+            </div>
+          )}
 
           <div>
             <h4 className="text-sm font-medium text-[var(--text-muted)] mb-1">Explanation</h4>

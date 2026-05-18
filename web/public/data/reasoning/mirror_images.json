@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "topic": "Logical Reasoning",
+    "topic": "Non Verbal Reasoning",
     "subtopic": "mirror_images",
-    "total_questions": 2,
+    "total_questions": 20,
     "sources": [
       "IndiaBIX"
     ],
@@ -13,7 +13,7 @@
       "id": "reasoning_mirror_001",
       "topic": "reasoning",
       "subtopic": "mirror_images",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "company_tags": [
         "TCS",
         "Infosys",
@@ -28,13 +28,406 @@
         "4"
       ],
       "answer": "B",
-      "explanation": "No answer description is available. Let's discuss.",
-      "shortcut": "Mirror image reverses left-right; water image reverses top-bottom",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/mirror-images/discussion-376#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
       "formula_used": "",
-      "trap_type": "Confusing mirror image with water image",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/mirror-images/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/mirror-images/section-1/16.png"
+    },
+    {
+      "id": "reasoning_mirror_002",
+      "topic": "reasoning",
+      "subtopic": "mirror_images",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the alternative which is closely resembles the mirror image of the given combination.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/mirror-images/discussion-380#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/mirror-images/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/mirror-images/section-1/20.png"
+    },
+    {
+      "id": "reasoning_mirror_003",
+      "topic": "reasoning",
+      "subtopic": "mirror_images",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the alternative which is closely resembles the mirror image of the given combination.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/mirror-images/discussion-381#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/mirror-images/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/mirror-images/section-1/21.png"
+    },
+    {
+      "id": "reasoning_mirror_004",
+      "topic": "reasoning",
+      "subtopic": "mirror_images",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the alternative which is closely resembles the mirror image of the given combination.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/mirror-images/discussion-370#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/mirror-images/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/mirror-images/section-1/10.png"
+    },
+    {
+      "id": "reasoning_mirror_005",
+      "topic": "reasoning",
+      "subtopic": "mirror_images",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the alternative which is closely resembles the mirror image of the given combination.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/mirror-images/discussion-374#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/mirror-images/",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/mirror-images/section-1/14.png"
+    },
+    {
+      "id": "reasoning_mirror_006",
+      "topic": "reasoning",
+      "subtopic": "mirror_images",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the alternative which is closely resembles the mirror image of the given combination.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/mirror-images/discussion-379#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/mirror-images/009002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/mirror-images/section-1/19.png"
+    },
+    {
+      "id": "reasoning_mirror_007",
+      "topic": "reasoning",
+      "subtopic": "mirror_images",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the alternative which is closely resembles the mirror image of the given combination.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "B",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/mirror-images/discussion-382#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/mirror-images/009002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/mirror-images/section-1/22.png"
+    },
+    {
+      "id": "reasoning_mirror_008",
+      "topic": "reasoning",
+      "subtopic": "mirror_images",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the alternative which is closely resembles the mirror image of the given combination.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "A",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/mirror-images/discussion-365#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/mirror-images/009002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/mirror-images/section-1/5.png"
+    },
+    {
+      "id": "reasoning_mirror_009",
+      "topic": "reasoning",
+      "subtopic": "mirror_images",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the alternative which is closely resembles the mirror image of the given combination.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/mirror-images/discussion-375#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/mirror-images/009002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/mirror-images/section-1/15.png"
+    },
+    {
+      "id": "reasoning_mirror_010",
+      "topic": "reasoning",
+      "subtopic": "mirror_images",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the alternative which is closely resembles the mirror image of the given combination.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/mirror-images/discussion-377#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/mirror-images/009002",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/mirror-images/section-1/17.png"
+    },
+    {
+      "id": "reasoning_mirror_011",
+      "topic": "reasoning",
+      "subtopic": "mirror_images",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the alternative which is closely resembles the mirror image of the given combination.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/mirror-images/discussion-368#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/mirror-images/009005",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/mirror-images/section-1/8.png"
+    },
+    {
+      "id": "reasoning_mirror_012",
+      "topic": "reasoning",
+      "subtopic": "mirror_images",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the alternative which is closely resembles the mirror image of the given combination.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/mirror-images/discussion-362#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/mirror-images/009005",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/mirror-images/section-1/2.png"
+    },
+    {
+      "id": "reasoning_mirror_013",
+      "topic": "reasoning",
+      "subtopic": "mirror_images",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the alternative which is closely resembles the mirror image of the given combination.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/mirror-images/discussion-372#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/mirror-images/009005",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/mirror-images/section-1/12.png"
+    },
+    {
+      "id": "reasoning_mirror_014",
+      "topic": "reasoning",
+      "subtopic": "mirror_images",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the alternative which is closely resembles the mirror image of the given combination.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/mirror-images/discussion-369#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/mirror-images/009005",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/mirror-images/section-1/9.png"
+    },
+    {
+      "id": "reasoning_mirror_015",
+      "topic": "reasoning",
+      "subtopic": "mirror_images",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the alternative which is closely resembles the mirror image of the given combination.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/mirror-images/discussion-361#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/mirror-images/009005",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/mirror-images/section-1/1.png"
     },
     {
       "id": "reasoning_mirror_016",
@@ -55,13 +448,126 @@
         "4"
       ],
       "answer": "D",
-      "explanation": "No answer description is available. Let's discuss.",
-      "shortcut": "Mirror image reverses left-right; water image reverses top-bottom",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/mirror-images/discussion-389#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
       "formula_used": "",
-      "trap_type": "Confusing mirror image with water image",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
       "source": "IndiaBIX",
-      "source_url": "",
-      "pattern_detected": ""
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/mirror-images/010001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/mirror-images/section-2/4.png"
+    },
+    {
+      "id": "reasoning_mirror_017",
+      "topic": "reasoning",
+      "subtopic": "mirror_images",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the correct mirror image of the given figure (X) from amongst the four alternatives.\n\n \n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/mirror-images/discussion-409#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/mirror-images/010001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/mirror-images/section-2/24.png"
+    },
+    {
+      "id": "reasoning_mirror_018",
+      "topic": "reasoning",
+      "subtopic": "mirror_images",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the correct mirror image of the given figure (X) from amongst the four alternatives.\n\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/mirror-images/discussion-398#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/mirror-images/010001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/mirror-images/section-2/13.png"
+    },
+    {
+      "id": "reasoning_mirror_019",
+      "topic": "reasoning",
+      "subtopic": "mirror_images",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the correct mirror image of the given figure (X) from amongst the four alternatives.\n\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/mirror-images/discussion-387#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/mirror-images/010001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/mirror-images/section-2/2.png"
+    },
+    {
+      "id": "reasoning_mirror_020",
+      "topic": "reasoning",
+      "subtopic": "mirror_images",
+      "difficulty": "medium",
+      "company_tags": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture"
+      ],
+      "question": "Choose the correct mirror image of the given figure (X) from amongst the four alternatives.\n\n (X) (1) (2) (3) (4)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "C",
+      "explanation": "No answer description is available. <a class=\"text-link\" href=\"https://www.indiabix.com/non-verbal-reasoning/mirror-images/discussion-392#comments\"> Let's discuss.</a>",
+      "shortcut": "Visual reasoning: observe the figure carefully, identify the pattern or transformation being tested",
+      "formula_used": "",
+      "trap_type": "Not accounting for rotation, reflection, or perspective changes correctly",
+      "source": "IndiaBIX",
+      "source_url": "https://www.indiabix.com/non-verbal-reasoning/mirror-images/010001",
+      "pattern_detected": "",
+      "image_url": "https://www.indiabix.com/_files/images/non-verbal-reasoning/mirror-images/section-2/7.png"
     }
   ]
 }
