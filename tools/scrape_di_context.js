@@ -107,10 +107,20 @@ async function scrapeDIExercise(url, subtopic, category, globalIndex) {
   const $ = cheerio.load(html);
   const questions = [];
 
-  // Extract direction text
+  // Extract direction text and images
   let passage = '';
+  let imageUrl = '';
   const dirEl = $('.direction-text');
   if (dirEl.length) {
+    // Extract image URL before cleaning
+    const firstImg = dirEl.find('img').first();
+    if (firstImg.length) {
+      const src = firstImg.attr('src');
+      if (src) {
+        imageUrl = src.startsWith('http') ? src : `https://www.indiabix.com${src}`;
+      }
+    }
+    
     // Clone the element so we can manipulate it
     const dirClone = dirEl.clone();
     
@@ -190,9 +200,12 @@ async function scrapeDIExercise(url, subtopic, category, globalIndex) {
         pattern_detected: ''
       };
 
-      // Add passage if available
+      // Add passage and image URL if available
       if (passage && passage.length > 20) {
         qObj.passage = passage;
+      }
+      if (imageUrl) {
+        qObj.image_url = imageUrl;
       }
 
       questions.push(qObj);

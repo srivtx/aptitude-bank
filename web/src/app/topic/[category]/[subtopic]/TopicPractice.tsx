@@ -164,6 +164,20 @@ export default function TopicPractice({ data }: TopicPracticeProps) {
           <span>{currentQuestion.company_tags.slice(0, 3).join(', ')}</span>
         </div>
 
+        {currentQuestion.image_url && (
+          <div className="mb-6 p-4 rounded-xl bg-[var(--background)] border border-[var(--border)]">
+            <h4 className="text-xs font-semibold uppercase tracking-wider text-[var(--accent)] mb-3">
+              Chart
+            </h4>
+            <img
+              src={currentQuestion.image_url}
+              alt="Chart"
+              className="max-w-full h-auto mx-auto rounded-lg"
+              loading="eager"
+            />
+          </div>
+        )}
+
         {currentQuestion.passage && (
           <div className="mb-6 p-5 rounded-xl bg-[var(--background)] border border-[var(--border)] border-l-4 border-l-[var(--accent)]">
             <h4 className="text-xs font-semibold uppercase tracking-wider text-[var(--accent)] mb-2">

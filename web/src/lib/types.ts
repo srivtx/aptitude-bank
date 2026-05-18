@@ -5,6 +5,7 @@ export interface Question {
   difficulty: 'easy' | 'medium' | 'hard';
   company_tags: string[];
   passage?: string;
+  image_url?: string;
   question: string;
   options: string[];
   answer: string;
