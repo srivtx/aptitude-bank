@@ -191,6 +191,7 @@ export default function TopicPractice({ data }: TopicPracticeProps) {
 
         <div className="space-y-3">
           {currentQuestion.options.map((opt, i) => {
+            const hasOptImages = currentQuestion.option_images && currentQuestion.option_images[i];
             let optionClass = 'p-4 rounded-lg border border-[var(--border)] bg-[var(--background)] cursor-pointer hover:border-[var(--accent)] transition-all';
             if (showSolution) {
               if (i === correctIndex) {
@@ -214,7 +215,16 @@ export default function TopicPractice({ data }: TopicPracticeProps) {
                   <span className="flex-shrink-0 w-8 h-8 flex items-center justify-center rounded-full bg-[var(--surface)] text-sm font-medium">
                     {labels[i]}
                   </span>
-                  <span>{opt}</span>
+                  {hasOptImages ? (
+                    <img
+                      src={currentQuestion.option_images![i]}
+                      alt={`Option ${labels[i]}`}
+                      className="h-20 w-auto object-contain"
+                      loading="lazy"
+                    />
+                  ) : (
+                    <span>{opt}</span>
+                  )}
                 </div>
               </div>
             );

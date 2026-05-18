@@ -150,6 +150,14 @@ async function scrapeNonVerbalTopic(config) {
         const difficulty = classifyDifficulty(question, explanation);
         const id = `reasoning_${subtopic.replace(/_/g, '').substring(0, 6)}_${String(globalIndex + 1).padStart(3, '0')}`;
 
+        // Derive option image URLs from question image URL
+        // Pattern: if question is .../16.png, options are .../16-1.png, .../16-2.png, etc.
+        let optionImages = [];
+        if (imageUrl) {
+          const base = imageUrl.replace(/\.png$/, '');
+          optionImages = [1, 2, 3, 4].map(n => `${base}-${n}.png`);
+        }
+
         const qObj = {
           id,
           topic: 'reasoning',
@@ -170,6 +178,7 @@ async function scrapeNonVerbalTopic(config) {
 
         if (imageUrl) qObj.image_url = imageUrl;
         if (answerImageUrl) qObj.answer_image_url = answerImageUrl;
+        if (optionImages.length) qObj.option_images = optionImages;
 
         allQuestions.push(qObj);
         globalIndex++;

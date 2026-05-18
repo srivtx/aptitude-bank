@@ -7,6 +7,7 @@ export interface Question {
   passage?: string;
   image_url?: string;
   answer_image_url?: string;
+  option_images?: string[];
   question: string;
   options: string[];
   answer: string;
