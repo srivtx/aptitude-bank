@@ -51,7 +51,7 @@ export default function RoadmapPage() {
         <span>Reasoning</span>
         <span>Verbal</span>
         <span>Done</span>
-        <span>Critical</span>
+        <span className="text-[var(--foreground)]">Critical</span>
       </div>
 
       {viewMode === 'stage' ? (
@@ -139,9 +139,12 @@ function CategoryView({ completed, onToggle }: any) {
 }
 
 function TopicTile({ topic, isDone, onToggle, compact = false }: any) {
+  const isCritical = topic.importance === 'critical';
+  const criticalBorder = isCritical ? 'border-l-2 border-l-[var(--foreground)]' : '';
+
   if (compact) {
     return (
-      <div className={`flex items-center gap-2 p-3 bg-[var(--background)] hover:bg-[var(--surface)] transition-colors ${isDone ? 'opacity-60' : ''}`}>
+      <div className={`flex items-center gap-2 p-3 bg-[var(--background)] hover:bg-[var(--surface)] transition-colors ${isDone ? 'opacity-60' : ''} ${criticalBorder}`}>
         <button
           onClick={(e) => { e.stopPropagation(); onToggle(); }}
           className={`w-4 h-4 border flex-shrink-0 flex items-center justify-center text-[8px] transition-colors ${isDone ? 'bg-[var(--success)] border-[var(--success)] text-[var(--background)]' : 'border-[var(--border)]'}`}
@@ -151,13 +154,16 @@ function TopicTile({ topic, isDone, onToggle, compact = false }: any) {
         <Link href={`/topic/${topic.category}/${topic.subtopic}`} className="flex-1 text-sm hover:opacity-80 transition-opacity truncate" onClick={(e) => e.stopPropagation()}>
           {topic.name}
         </Link>
-        <span className="text-[10px] text-[var(--text-muted)] uppercase">{topic.difficulty[0]}</span>
+        <div className="flex items-center gap-2">
+          {isCritical && <span className="text-[9px] text-[var(--foreground)] uppercase tracking-wider">Critical</span>}
+          <span className="text-[10px] text-[var(--text-muted)] uppercase">{topic.difficulty[0]}</span>
+        </div>
       </div>
     );
   }
 
   return (
-    <div className={`p-3 bg-[var(--background)] hover:bg-[var(--surface)] transition-colors ${isDone ? 'opacity-60' : ''}`}>
+    <div className={`p-3 bg-[var(--background)] hover:bg-[var(--surface)] transition-colors ${isDone ? 'opacity-60' : ''} ${criticalBorder}`}>
       <div className="flex items-start justify-between mb-1">
         <Link href={`/topic/${topic.category}/${topic.subtopic}`} className="text-sm font-medium hover:opacity-80 transition-opacity leading-tight" onClick={(e) => e.stopPropagation()}>
           {topic.name}
@@ -172,6 +178,7 @@ function TopicTile({ topic, isDone, onToggle, compact = false }: any) {
       <div className="flex items-center gap-2 mt-1">
         <span className="text-[10px] text-[var(--text-muted)] uppercase">{topic.difficulty}</span>
         <span className="text-[10px] text-[var(--text-muted)]">{topic.questionCount} Qs</span>
+        {isCritical && <span className="text-[9px] text-[var(--foreground)] uppercase tracking-wider ml-auto">Critical</span>}
       </div>
     </div>
   );
